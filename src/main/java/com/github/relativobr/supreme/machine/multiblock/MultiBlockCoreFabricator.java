@@ -1,21 +1,23 @@
 package com.github.relativobr.supreme.machine.multiblock;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.Supreme;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.NotPlaceable;
-import io.github.thebusybiscuit.slimefun4.core.multiblocks.MultiBlockMachine;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemUtils;
-import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
+import io.github.thebusybiscuit.slimefun5.core.multiblocks.MultiBlockMachine;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.ItemUtils;
+import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import java.util.List;
 import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Sound;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
@@ -27,17 +29,17 @@ import org.bukkit.inventory.ItemStack;
 public class MultiBlockCoreFabricator extends MultiBlockMachine implements NotPlaceable {
 
   public static final SlimefunItemStack CORE_FABRICATOR = new SupremeItemStack("SUPREME_MULTIBLOCK_CORE",
-      Material.SHROOMLIGHT, "&eCore Fabricator", "", "&7&oYou can craft core here!", "", "&aMultiBlock Machine");
+      MaterialCompat.safe(XMaterial.SHROOMLIGHT), "&eCore Fabricator", "", "&7&oYou can craft core here!", "", "&aMultiBlock Machine");
   public static final RecipeType MACHINE_CORE_FABRICATOR = new RecipeType(
       new NamespacedKey(Supreme.inst(), "SUPREME_MULTIBLOCK_CORE_KEY"), CORE_FABRICATOR);
 
   @ParametersAreNonnullByDefault
   public MultiBlockCoreFabricator() {
     super(ItemGroups.MACHINES_CATEGORY, CORE_FABRICATOR,
-        new ItemStack[]{new ItemStack(Material.SHROOMLIGHT), new ItemStack(Material.ORANGE_STAINED_GLASS),
-            new ItemStack(Material.SHROOMLIGHT), new ItemStack(Material.IRON_BARS),
-            new ItemStack(Material.IRON_TRAPDOOR), new ItemStack(Material.IRON_BARS),
-            new ItemStack(Material.GOLD_BLOCK), new ItemStack(Material.DISPENSER), new ItemStack(Material.GOLD_BLOCK)},
+        new ItemStack[]{new ItemStack(MaterialCompat.safe(XMaterial.SHROOMLIGHT)), new ItemStack(MaterialCompat.safe(XMaterial.ORANGE_STAINED_GLASS)),
+            new ItemStack(MaterialCompat.safe(XMaterial.SHROOMLIGHT)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BARS)),
+            new ItemStack(MaterialCompat.safe(XMaterial.IRON_TRAPDOOR)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BARS)),
+            new ItemStack(MaterialCompat.safe(XMaterial.GOLD_BLOCK)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)), new ItemStack(MaterialCompat.safe(XMaterial.GOLD_BLOCK))},
         new ItemStack[0], BlockFace.SELF);
   }
 

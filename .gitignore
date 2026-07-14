@@ -1,11 +1,18 @@
-/bin/
-/.settings/
-/target/
-/.idea/
-/.vscode/
+# Gradle
+.gradle/
+build/
+out/
+bin/
+.idea/
 *.iml
+.settings/
 .project
 .classpath
-dependency-reduced-pom.xml
+.vscode/
+
+# MacOS
 .DS_Store
-eclipse-formatter.xml
+
+# Temporary files
+*.tmp
+*.log

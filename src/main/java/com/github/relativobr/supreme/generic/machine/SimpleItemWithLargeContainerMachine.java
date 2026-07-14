@@ -1,9 +1,9 @@
 package com.github.relativobr.supreme.generic.machine;
 
 import com.github.relativobr.supreme.generic.recipe.InventoryRecipe;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.Nonnull;

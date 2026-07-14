@@ -1,18 +1,20 @@
 package com.github.relativobr.supreme.generators;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.resource.SupremeComponents;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
 import com.github.relativobr.supreme.util.UtilEnergy;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineTier;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineType;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun4.implementation.items.electric.AbstractEnergyProvider;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.blocks.BlockPosition;
-import io.github.thebusybiscuit.slimefun4.utils.LoreBuilder;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.implementation.items.electric.AbstractEnergyProvider;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.blocks.BlockPosition;
+import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -42,34 +44,34 @@ public class GeneratorMob extends AbstractEnergyProvider {
   public static final int ADVANCED_GENERATOR_MOB_BUFFER = 16000;
 
   public static final SlimefunItemStack GENERATOR_MOB_BASIC = new SupremeItemStack("SUPREME_GENERATOR_MOB_BASIC",
-      Material.COMPOSTER, false,
+      MaterialCompat.safe(XMaterial.COMPOSTER), false,
       LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_ENERGY)));
-  public static final ItemStack[] RECIPE_GENERATOR_MOB_BASIC = new ItemStack[]{SlimefunItems.SMALL_CAPACITOR,
-      SlimefunItems.SILICON, SlimefunItems.SMALL_CAPACITOR, SlimefunItems.ALUMINUM_INGOT, SlimefunItems.ELECTRIC_MOTOR,
-      SlimefunItems.ALUMINUM_INGOT, SlimefunItems.SMALL_CAPACITOR, SlimefunItems.ALUMINUM_INGOT,
-      SlimefunItems.SMALL_CAPACITOR};
+  public static final ItemStack[] RECIPE_GENERATOR_MOB_BASIC = new ItemStack[]{SlimefunItems.SMALL_CAPACITOR.item(),
+      SlimefunItems.SILICON.item(), SlimefunItems.SMALL_CAPACITOR.item(), SlimefunItems.ALUMINUM_INGOT.item(), SlimefunItems.ELECTRIC_MOTOR.item(),
+      SlimefunItems.ALUMINUM_INGOT.item(), SlimefunItems.SMALL_CAPACITOR.item(), SlimefunItems.ALUMINUM_INGOT.item(),
+      SlimefunItems.SMALL_CAPACITOR.item()};
 
   public static final SlimefunItemStack GENERATOR_MOB_MEDIUM = new SupremeItemStack("SUPREME_GENERATOR_MOB_MEDIUM",
-      Material.COMPOSTER, false,
+      MaterialCompat.safe(XMaterial.COMPOSTER), false,
       LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_ENERGY)));
-  public static final ItemStack[] RECIPE_GENERATOR_MOB_MEDIUM = new ItemStack[]{GeneratorMob.GENERATOR_MOB_BASIC,
-      SlimefunItems.FERROSILICON, GeneratorMob.GENERATOR_MOB_BASIC, SlimefunItems.REINFORCED_PLATE,
-      SupremeComponents.SYNTHETIC_RUBY, SlimefunItems.REINFORCED_PLATE, GeneratorMob.GENERATOR_MOB_BASIC,
-      SlimefunItems.ALUMINUM_BRONZE_INGOT, GeneratorMob.GENERATOR_MOB_BASIC};
+  public static final ItemStack[] RECIPE_GENERATOR_MOB_MEDIUM = new ItemStack[]{GeneratorMob.GENERATOR_MOB_BASIC.item(),
+      SlimefunItems.FERROSILICON.item(), GeneratorMob.GENERATOR_MOB_BASIC.item(), SlimefunItems.REINFORCED_PLATE.item(),
+      SupremeComponents.SYNTHETIC_RUBY.item(), SlimefunItems.REINFORCED_PLATE.item(), GeneratorMob.GENERATOR_MOB_BASIC.item(),
+      SlimefunItems.ALUMINUM_BRONZE_INGOT.item(), GeneratorMob.GENERATOR_MOB_BASIC.item()};
 
   public static final SlimefunItemStack GENERATOR_MOB_ADVANCED = new SupremeItemStack("SUPREME_GENERATOR_MOB_ADVANCED",
-      Material.COMPOSTER, false,
+      MaterialCompat.safe(XMaterial.COMPOSTER), false,
       LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_ENERGY)));
-  public static final ItemStack[] RECIPE_GENERATOR_MOB_ADVANCED = new ItemStack[]{GeneratorMob.GENERATOR_MOB_MEDIUM,
-      SlimefunItems.CARBONADO, GeneratorMob.GENERATOR_MOB_MEDIUM, SlimefunItems.HEATING_COIL, SlimefunItems.PLUTONIUM,
-      SlimefunItems.HEATING_COIL, GeneratorMob.GENERATOR_MOB_MEDIUM, SupremeComponents.INDUCTIVE_MACHINE,
-      GeneratorMob.GENERATOR_MOB_MEDIUM};
+  public static final ItemStack[] RECIPE_GENERATOR_MOB_ADVANCED = new ItemStack[]{GeneratorMob.GENERATOR_MOB_MEDIUM.item(),
+      SlimefunItems.CARBONADO.item(), GeneratorMob.GENERATOR_MOB_MEDIUM.item(), SlimefunItems.HEATING_COIL.item(), SlimefunItems.PLUTONIUM.item(),
+      SlimefunItems.HEATING_COIL.item(), GeneratorMob.GENERATOR_MOB_MEDIUM.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
+      GeneratorMob.GENERATOR_MOB_MEDIUM.item()};
   protected static final Map<BlockPosition, UUID> cachedMob = new ConcurrentHashMap<>();
 
   private int energy;
@@ -98,7 +100,7 @@ public class GeneratorMob extends AbstractEnergyProvider {
   @Nonnull
   @Override
   public ItemStack getProgressBar() {
-    return new ItemStack(Material.OBSERVER);
+    return new ItemStack(MaterialCompat.safe(XMaterial.OBSERVER));
   }
 
   @Override

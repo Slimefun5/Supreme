@@ -1,24 +1,26 @@
 package com.github.relativobr.supreme.machine.multiblock;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.Supreme;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.NotPlaceable;
-import io.github.thebusybiscuit.slimefun4.core.multiblocks.MultiBlockMachine;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemUtils;
-import io.github.thebusybiscuit.slimefun4.libraries.paperlib.PaperLib;
-import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
+import io.github.thebusybiscuit.slimefun5.core.multiblocks.MultiBlockMachine;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.ItemUtils;
+import io.github.thebusybiscuit.slimefun5.libraries.paperlib.PaperLib;
+import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import java.util.List;
 import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Sound;
-import org.bukkit.block.BlastFurnace;
+import org.bukkit.block.Furnace;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.Dispenser;
@@ -30,7 +32,7 @@ import org.bukkit.inventory.ItemStack;
 public class MultiBlockGearFabricator extends MultiBlockMachine implements NotPlaceable {
 
   public static final SlimefunItemStack GEAR_FABRICATOR = new SupremeItemStack("SUPREME_MULTIBLOCK_GEAR",
-      Material.SMITHING_TABLE, "&eGear Fabricator", "", "&7&oYou can craft weapons, armor and tools here!", "",
+      MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&eGear Fabricator", "", "&7&oYou can craft weapons, armor and tools here!", "",
       "&aMultiBlock Machine");
   public static final RecipeType MACHINE_GEAR_FABRICATOR = new RecipeType(
       new NamespacedKey(Supreme.inst(), "SUPREME_MULTIBLOCK_GEAR_KEY"), GEAR_FABRICATOR);
@@ -38,11 +40,11 @@ public class MultiBlockGearFabricator extends MultiBlockMachine implements NotPl
   @ParametersAreNonnullByDefault
   public MultiBlockGearFabricator() {
     super(ItemGroups.MACHINES_CATEGORY, GEAR_FABRICATOR,
-        new ItemStack[]{new ItemStack(Material.ENCHANTING_TABLE), new ItemStack(Material.DISPENSER),
-            new ItemStack(Material.SMITHING_TABLE), new ItemStack(Material.BLUE_STAINED_GLASS_PANE),
-            new ItemStack(Material.ANVIL), new ItemStack(Material.RED_STAINED_GLASS_PANE),
-            new ItemStack(Material.BLUE_STAINED_GLASS_PANE), new ItemStack(Material.BLAST_FURNACE),
-            new ItemStack(Material.RED_STAINED_GLASS_PANE)}, new ItemStack[0], BlockFace.SELF);
+        new ItemStack[]{new ItemStack(MaterialCompat.safe(XMaterial.ENCHANTING_TABLE)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)),
+            new ItemStack(MaterialCompat.safe(XMaterial.SMITHING_TABLE)), new ItemStack(MaterialCompat.safe(XMaterial.BLUE_STAINED_GLASS_PANE)),
+            new ItemStack(MaterialCompat.safe(XMaterial.ANVIL)), new ItemStack(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE)),
+            new ItemStack(MaterialCompat.safe(XMaterial.BLUE_STAINED_GLASS_PANE)), new ItemStack(MaterialCompat.safe(XMaterial.BLAST_FURNACE)),
+            new ItemStack(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE))}, new ItemStack[0], BlockFace.SELF);
   }
 
   public static RecipeType getMachine() {
@@ -55,9 +57,12 @@ public class MultiBlockGearFabricator extends MultiBlockMachine implements NotPl
     Block dispenser = b.getRelative(BlockFace.UP);
     if (!dispenser.isEmpty()) {
 
-      BlastFurnace blastFurnace = (BlastFurnace) PaperLib.getBlockState(b.getRelative(BlockFace.DOWN), false)
+      // Cast to the plain Furnace interface (not BlastFurnace, 1.14+ only) so this class stays
+      // loadable on legacy servers; a real BlastFurnace block state also implements Furnace, and only
+      // Furnace#getInventory() is used here, so behaviour is unchanged on modern versions.
+      Furnace furnace = (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.DOWN), false)
           .getState();
-      FurnaceInventory furnaceInventory = blastFurnace.getInventory();
+      FurnaceInventory furnaceInventory = furnace.getInventory();
 
       Inventory inv = ((Dispenser) dispenser.getState()).getInventory();
       List<ItemStack[]> inputs = RecipeType.getRecipeInputList(this);

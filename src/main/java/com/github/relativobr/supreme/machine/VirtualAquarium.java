@@ -1,5 +1,8 @@
 package com.github.relativobr.supreme.machine;
 
+import com.github.relativobr.supreme.util.CompatUtils;
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.generic.machine.SimpleItemWithLargeContainerMachine;
 import com.github.relativobr.supreme.machine.recipe.VirtualAquariumMachineRecipe;
 import com.github.relativobr.supreme.resource.SupremeComponents;
@@ -7,16 +10,16 @@ import com.github.relativobr.supreme.resource.magical.SupremeAttribute;
 import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.util.SupremeItemStack;
 import com.github.relativobr.supreme.util.UtilMachine;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineTier;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineType;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.inventory.InvUtils;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun4.utils.LoreBuilder;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.inventory.InvUtils;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -30,46 +33,43 @@ import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.MachineRecip
 import me.mrCookieSlime.Slimefun.Objects.handlers.BlockTicker;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
-import io.github.thebusybiscuit.slimefun4.libraries.commons.lang.Validate;
+import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.springframework.scheduling.annotation.Async;
 
-@Async
 public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
 
   public static final SlimefunItemStack VIRTUAL_AQUARIUM_MACHINE = new SupremeItemStack("SUPREME_VIRTUAL_AQUARIUM_I",
-      Material.DARK_PRISMARINE, "&bVirtual Aquarium", "", "&fThis machine allows you to collect ",
+      MaterialCompat.safe(XMaterial.DARK_PRISMARINE), "&bVirtual Aquarium", "", "&fThis machine allows you to collect ",
       "&f items that are collected at sea.", "", LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE),
       LoreBuilder.speed(1), LoreBuilder.powerBuffer(1000), LoreBuilder.powerPerSecond(20), "", "&3Supreme Machine");
-  public static final ItemStack[] RECIPE_VIRTUAL_AQUARIUM_MACHINE = new ItemStack[]{SupremeComponents.SYNTHETIC_RUBY,
-      new ItemStack(Material.FISHING_ROD), SupremeComponents.SYNTHETIC_RUBY, SupremeComponents.INDUCTIVE_MACHINE,
-      SupremeComponents.PETRIFIER_MACHINE, SupremeComponents.INDUCTIVE_MACHINE, SupremeComponents.ADAMANTIUM_PLATE,
-      SlimefunItems.PROGRAMMABLE_ANDROID_2_FISHERMAN, SupremeComponents.ADAMANTIUM_PLATE};
+  public static final ItemStack[] RECIPE_VIRTUAL_AQUARIUM_MACHINE = new ItemStack[]{SupremeComponents.SYNTHETIC_RUBY.item(),
+      new ItemStack(MaterialCompat.safe(XMaterial.FISHING_ROD)), SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
+      SupremeComponents.PETRIFIER_MACHINE.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SupremeComponents.ADAMANTIUM_PLATE.item(),
+      SlimefunItems.PROGRAMMABLE_ANDROID_2_FISHERMAN.item(), SupremeComponents.ADAMANTIUM_PLATE.item()};
 
   public static final SlimefunItemStack VIRTUAL_AQUARIUM_MACHINE_II = new SupremeItemStack(
-      "SUPREME_VIRTUAL_AQUARIUM_II", Material.DARK_PRISMARINE, "&bVirtual Aquarium II", "",
+      "SUPREME_VIRTUAL_AQUARIUM_II", MaterialCompat.safe(XMaterial.DARK_PRISMARINE), "&bVirtual Aquarium II", "",
       "&fThis machine allows you to collect", "&f items that are collected at sea.", "",
       LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
       LoreBuilder.powerBuffer(5000), LoreBuilder.powerPerSecond(100), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_VIRTUAL_AQUARIUM_MACHINE_II = new ItemStack[]{
-      SupremeComponents.CONVEYANCE_MACHINE, SupremeCetrus.CETRUS_LUMIUM, SupremeComponents.CONVEYANCE_MACHINE,
-      SupremeComponents.INDUCTOR_MACHINE, VirtualAquarium.VIRTUAL_AQUARIUM_MACHINE, SupremeComponents.INDUCTOR_MACHINE,
-      SupremeComponents.THORNERITE, SupremeCetrus.CETRUS_IGNIS, SupremeComponents.THORNERITE};
+      SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
+      SupremeComponents.INDUCTOR_MACHINE.item(), VirtualAquarium.VIRTUAL_AQUARIUM_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
+      SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_IGNIS.item(), SupremeComponents.THORNERITE.item()};
 
   public static final SlimefunItemStack VIRTUAL_AQUARIUM_MACHINE_III = new SupremeItemStack(
-      "SUPREME_VIRTUAL_AQUARIUM_III", Material.DARK_PRISMARINE, "&bVirtual Aquarium III", "",
+      "SUPREME_VIRTUAL_AQUARIUM_III", MaterialCompat.safe(XMaterial.DARK_PRISMARINE), "&bVirtual Aquarium III", "",
       "&fThis machine allows you to collect", "&f items that are collected at sea.", "",
       LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
       LoreBuilder.powerBuffer(15000), LoreBuilder.powerPerSecond(300), "", "&3Supreme Machine");
-  public static final ItemStack[] RECIPE_VIRTUAL_AQUARIUM_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE,
-      SupremeAttribute.getMagic(), SupremeComponents.THORNERITE, SupremeComponents.SUPREME,
-      VirtualAquarium.VIRTUAL_AQUARIUM_MACHINE_II, SupremeComponents.SUPREME, SupremeComponents.CRYSTALLIZER_MACHINE,
-      SupremeCetrus.CETRUS_LUMIUM, SupremeComponents.CRYSTALLIZER_MACHINE};
+  public static final ItemStack[] RECIPE_VIRTUAL_AQUARIUM_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
+      SupremeAttribute.getMagic().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
+      VirtualAquarium.VIRTUAL_AQUARIUM_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),
+      SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item()};
 
   public static Map<Block, MachineRecipe> processing = new HashMap<>();
   public static Map<Block, Integer> progress = new HashMap<>();
@@ -83,22 +83,22 @@ public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
   @Override
   protected void registerDefaultRecipes() {
     this.recipes.clear();
-    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(Material.FISHING_ROD),
-        new ItemStack[]{new ItemStack(Material.SPONGE, 2), new ItemStack(Material.SEA_LANTERN, 2),
-            new ItemStack(Material.COD, 20), new ItemStack(Material.SALMON, 20),
-            new ItemStack(Material.TROPICAL_FISH, 20), new ItemStack(Material.INK_SAC, 20),
-            new ItemStack(Material.NAUTILUS_SHELL, 6), new ItemStack(Material.STICK, 5),
-            new ItemStack(Material.STRING, 5)}));
-    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(Material.TRIDENT),
-        new ItemStack[]{new ItemStack(Material.SPONGE, 10), new ItemStack(Material.SEA_LANTERN, 10),
-            new ItemStack(Material.COD, 5), new ItemStack(Material.SALMON, 5), new ItemStack(Material.TROPICAL_FISH, 5),
-            new ItemStack(Material.INK_SAC, 5), new ItemStack(Material.NAUTILUS_SHELL, 20),
-            new ItemStack(Material.STICK, 20), new ItemStack(Material.STRING, 20)}));
-    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(Material.GOLDEN_HOE),
-        new ItemStack[]{new ItemStack(Material.SPONGE, 1), new ItemStack(Material.SEA_LANTERN, 1),
-            new ItemStack(Material.COD, 3), new ItemStack(Material.SALMON, 3), new ItemStack(Material.TROPICAL_FISH, 2),
-            new ItemStack(Material.INK_SAC, 2), new ItemStack(Material.NAUTILUS_SHELL, 5),
-            new ItemStack(Material.STICK, 50), new ItemStack(Material.STRING, 33)}));
+    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(MaterialCompat.safe(XMaterial.FISHING_ROD)),
+        new ItemStack[]{new ItemStack(MaterialCompat.safe(XMaterial.SPONGE), 2), new ItemStack(MaterialCompat.safe(XMaterial.SEA_LANTERN), 2),
+            new ItemStack(MaterialCompat.safe(XMaterial.COD), 20), new ItemStack(MaterialCompat.safe(XMaterial.SALMON), 20),
+            new ItemStack(MaterialCompat.safe(XMaterial.TROPICAL_FISH), 20), new ItemStack(MaterialCompat.safe(XMaterial.INK_SAC), 20),
+            new ItemStack(MaterialCompat.safe(XMaterial.NAUTILUS_SHELL), 6), new ItemStack(MaterialCompat.safe(XMaterial.STICK), 5),
+            new ItemStack(MaterialCompat.safe(XMaterial.STRING), 5)}));
+    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(MaterialCompat.safe(XMaterial.TRIDENT)),
+        new ItemStack[]{new ItemStack(MaterialCompat.safe(XMaterial.SPONGE), 10), new ItemStack(MaterialCompat.safe(XMaterial.SEA_LANTERN), 10),
+            new ItemStack(MaterialCompat.safe(XMaterial.COD), 5), new ItemStack(MaterialCompat.safe(XMaterial.SALMON), 5), new ItemStack(MaterialCompat.safe(XMaterial.TROPICAL_FISH), 5),
+            new ItemStack(MaterialCompat.safe(XMaterial.INK_SAC), 5), new ItemStack(MaterialCompat.safe(XMaterial.NAUTILUS_SHELL), 20),
+            new ItemStack(MaterialCompat.safe(XMaterial.STICK), 20), new ItemStack(MaterialCompat.safe(XMaterial.STRING), 20)}));
+    this.addProduce(new VirtualAquariumMachineRecipe(new ItemStack(MaterialCompat.safe(XMaterial.GOLDEN_HOE)),
+        new ItemStack[]{new ItemStack(MaterialCompat.safe(XMaterial.SPONGE), 1), new ItemStack(MaterialCompat.safe(XMaterial.SEA_LANTERN), 1),
+            new ItemStack(MaterialCompat.safe(XMaterial.COD), 3), new ItemStack(MaterialCompat.safe(XMaterial.SALMON), 3), new ItemStack(MaterialCompat.safe(XMaterial.TROPICAL_FISH), 2),
+            new ItemStack(MaterialCompat.safe(XMaterial.INK_SAC), 2), new ItemStack(MaterialCompat.safe(XMaterial.NAUTILUS_SHELL), 5),
+            new ItemStack(MaterialCompat.safe(XMaterial.STICK), 50), new ItemStack(MaterialCompat.safe(XMaterial.STRING), 33)}));
 
   }
 
@@ -152,12 +152,11 @@ public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
           ItemMeta itemMeta = itemInSlot.getItemMeta();
 
           if(itemMeta != null && !itemMeta.isUnbreakable()){
-            Damageable durability = (Damageable) itemMeta;
-            int current = durability.getDamage();
+            int current = CompatUtils.getItemDamage(itemInSlot);
             if (current + 2 >= itemInSlot.getType().getMaxDurability()) {
               inv.consumeItem(slot);
             } else {
-              ((Damageable) itemMeta).setDamage(current + 2);
+              CompatUtils.setItemDamage(itemMeta, itemInSlot, current + 2);
               itemInSlot.setItemMeta(itemMeta);
               inv.replaceExistingItem(slot, itemInSlot);
             }
@@ -179,7 +178,7 @@ public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
 
     if (isProcessing(b)) {
 
-      var recipeOutput = processing.get(b).getOutput();
+      ItemStack[] recipeOutput = processing.get(b).getOutput();
       if (notHasSpaceOutput(inv, recipeOutput)) {
         updateStatusOutputFull(inv);
         return;
@@ -230,7 +229,7 @@ public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
 
   @Override
   public ItemStack getProgressBar() {
-    return new ItemStack(Material.FISHING_ROD);
+    return new ItemStack(MaterialCompat.safe(XMaterial.FISHING_ROD));
   }
 
 

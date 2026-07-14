@@ -1,6 +1,6 @@
 package com.github.relativobr.supreme.machine.tech;
 
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

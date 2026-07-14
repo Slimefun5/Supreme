@@ -1,22 +1,24 @@
 package com.github.relativobr.supreme.generic.machine;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import static java.util.Objects.nonNull;
 
 import com.github.relativobr.supreme.Supreme;
 import com.github.relativobr.supreme.generic.recipe.AbstractItemRecipe;
 import com.github.relativobr.supreme.generic.recipe.InventoryRecipe;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.NotHopperable;
-import io.github.thebusybiscuit.slimefun4.core.attributes.RecipeDisplayItem;
-import io.github.thebusybiscuit.slimefun4.core.handlers.BlockBreakHandler;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.implementation.handlers.SimpleBlockBreakHandler;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.protection.Interaction;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.NotHopperable;
+import io.github.thebusybiscuit.slimefun5.core.attributes.RecipeDisplayItem;
+import io.github.thebusybiscuit.slimefun5.core.handlers.BlockBreakHandler;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.implementation.handlers.SimpleBlockBreakHandler;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -154,7 +156,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
   }
 
   protected void updateStatusLoadMaterial(BlockMenu menu, ItemStack itemStack, int attempts, int progressCount, int totalProgress) {
-    var infoDetail = new CustomItemStack(itemStack,
+    ItemStack infoDetail = CustomItemStack.create(itemStack,
         "&cLoad more material to start", "",
         "&7Attempts: &e" + attempts + " &7/ &e" + Supreme.getSupremeOptions().getMachineMaxAttemptConsumed(),
         "&7Progress: &e" + progressCount + " &7/ &e" + totalProgress, "");
@@ -186,22 +188,22 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
   @Override
   protected void constructMenu(BlockMenuPreset preset) {
     for (int i : getBorderSlots()) {
-      preset.addItem(i, new CustomItemStack(Material.GRAY_STAINED_GLASS_PANE, " "),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.GRAY_STAINED_GLASS_PANE), " "),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     for (int i : getInputBorderSlots()) {
-      preset.addItem(i, new CustomItemStack(Material.CYAN_STAINED_GLASS_PANE, " "),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.CYAN_STAINED_GLASS_PANE), " "),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     for (int i : getOutputBorderSlots()) {
-      preset.addItem(i, new CustomItemStack(Material.ORANGE_STAINED_GLASS_PANE, " "),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.ORANGE_STAINED_GLASS_PANE), " "),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     preset.addItem(getStatusSlot(),
-        new CustomItemStack(Material.BLACK_STAINED_GLASS_PANE, " "),
+        CustomItemStack.create(MaterialCompat.safe(XMaterial.BLACK_STAINED_GLASS_PANE), " "),
         ChestMenuUtils.getEmptyClickHandler());
 
     for (int i : getOutputSlots()) {
@@ -218,7 +220,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
           if (cursor == null) {
             return true;
           }
-          return cursor.getType() == Material.AIR;
+          return cursor.getType() == MaterialCompat.safe(XMaterial.AIR);
         }
       });
     }
@@ -226,7 +228,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
 
   @Override
   public ItemStack getProgressBar() {
-    return new ItemStack(Material.PISTON);
+    return new ItemStack(MaterialCompat.safe(XMaterial.PISTON));
   }
 
   @Override
@@ -285,7 +287,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
   public List<ItemStack> getDisplayRecipes() {
     List<ItemStack> displayRecipes = new ArrayList();
     machineRecipes.forEach(recipe -> {
-      displayRecipes.add(new CustomItemStack(Material.GRAY_STAINED_GLASS_PANE, " "));
+      displayRecipes.add(CustomItemStack.create(MaterialCompat.safe(XMaterial.GRAY_STAINED_GLASS_PANE), " "));
       displayRecipes.add(recipe.getFirstItemOutput());
     });
     return displayRecipes;
@@ -364,7 +366,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
   }
 
   private void doProcessing(Block b, BlockMenu inv) {
-    var result = getProcessing(b).getOutput();
+    ItemStack[] result = getProcessing(b).getOutput();
 
     if (result == null || result.length == 0) {
       removeMapBlock(b);
@@ -403,8 +405,8 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
         updateStatusInvalidInput(inv);
       } else {
         attemptCount.put(b, attempts);
-        var progressCount = getConsumedItems(b).values().stream().mapToInt(Integer::intValue).sum();
-        var totalProgress = Arrays.stream(getProcessing(b).getInput()).mapToInt(ItemStack::getAmount).sum();
+        int progressCount = getConsumedItems(b).values().stream().mapToInt(Integer::intValue).sum();
+        int totalProgress = Arrays.stream(getProcessing(b).getInput()).mapToInt(ItemStack::getAmount).sum();
         updateStatusLoadMaterial(inv, getProcessing(b).getOutput()[0], attempts, progressCount, totalProgress);
       }
     }
@@ -414,7 +416,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
     for (Map.Entry<ItemStack, Integer> consumedEntry : getConsumedItems(b).entrySet()) {
       ItemStack consumedItem = consumedEntry.getKey();
       int amount = consumedEntry.getValue();
-      if (consumedItem != null && consumedItem.getType() != Material.AIR) {
+      if (consumedItem != null && consumedItem.getType() != MaterialCompat.safe(XMaterial.AIR)) {
         int maxStackSize = consumedItem.getMaxStackSize();
         while (amount > 0) {
           int stackSize = Math.min(maxStackSize, amount);
@@ -505,10 +507,10 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
   }
 
   private ItemStack getDisplayOrInfo(ItemStack itemStack, String name) {
-    return new CustomItemStack(itemStack != null ? itemStack : new ItemStack(Material.BLACK_STAINED_GLASS_PANE), name);
+    return CustomItemStack.create(itemStack != null ? itemStack : new ItemStack(MaterialCompat.safe(XMaterial.BLACK_STAINED_GLASS_PANE)), name);
   }
 
   private ItemStack getDisplayOrWarn(ItemStack itemStack, String name) {
-    return new CustomItemStack(itemStack != null ? itemStack : new ItemStack(Material.RED_STAINED_GLASS_PANE), name);
+    return CustomItemStack.create(itemStack != null ? itemStack : new ItemStack(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE)), name);
   }
 }

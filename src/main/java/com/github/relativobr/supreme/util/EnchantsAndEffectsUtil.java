@@ -1,9 +1,8 @@
 package com.github.relativobr.supreme.util;
 
 import com.github.relativobr.supreme.Supreme;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import org.bukkit.ChatColor;
-import org.bukkit.NamespacedKey;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -120,7 +119,7 @@ public class EnchantsAndEffectsUtil {
 
         Map<Enchantment, Integer> enchants = new HashMap<>();
         for (String path : section.getKeys(false)) {
-            Enchantment e = Enchantment.getByKey(NamespacedKey.minecraft(path));
+            Enchantment e = CompatUtils.resolveEnchantment(path);
             if (e != null) {
                 int level = section.getInt(path);
                 if (level > 0 && level <= 100) {

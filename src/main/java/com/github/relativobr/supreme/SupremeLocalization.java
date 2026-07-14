@@ -4,13 +4,13 @@ import java.text.MessageFormat;
 import java.util.Locale;
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
-import net.guizhanss.guizhanlib.localization.Localization;
-import net.guizhanss.guizhanlib.utils.ChatUtil;
-import net.guizhanss.guizhanlib.utils.StringUtil;
+import com.github.relativobr.supreme.libs.guizhanlib.localization.Localization;
+import com.github.relativobr.supreme.libs.guizhanlib.utils.ChatUtil;
+import com.github.relativobr.supreme.libs.guizhanlib.utils.StringUtil;
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.TextComponent;
-import io.github.thebusybiscuit.slimefun4.libraries.commons.lang.Validate;
+import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
 import org.bukkit.entity.Player;
 
 public class SupremeLocalization extends Localization {

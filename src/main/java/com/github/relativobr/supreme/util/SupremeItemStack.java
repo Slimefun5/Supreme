@@ -3,8 +3,8 @@ package com.github.relativobr.supreme.util;
 import static com.github.relativobr.supreme.util.CompatibilySupremeLegacy.getOldIdSupremeLegacy;
 
 import com.github.relativobr.supreme.Supreme;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.libraries.commons.lang.ArrayUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.ArrayUtils;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 

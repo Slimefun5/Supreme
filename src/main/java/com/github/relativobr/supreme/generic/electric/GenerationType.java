@@ -1,5 +1,7 @@
 package com.github.relativobr.supreme.generic.electric;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import javax.annotation.Nonnull;
 
 import lombok.AllArgsConstructor;
@@ -33,11 +35,11 @@ public enum GenerationType {
         @Override
         protected int generate(@Nonnull World world, @Nonnull Block block, int def) {
             Material material = block.getLocation().add(0, -1, 0).getBlock().getType();
-            if (material == Material.FIRE
-                    || material == Material.SOUL_FIRE
-                    || material == Material.LAVA
-                    || material == Material.CAMPFIRE
-                    || material == Material.SOUL_CAMPFIRE) {
+            if (material == MaterialCompat.safe(XMaterial.FIRE)
+                    || material == MaterialCompat.safe(XMaterial.SOUL_FIRE)
+                    || material == MaterialCompat.safe(XMaterial.LAVA)
+                    || material == MaterialCompat.safe(XMaterial.CAMPFIRE)
+                    || material == MaterialCompat.safe(XMaterial.SOUL_CAMPFIRE)) {
                 return def;
             }
             return 0;
@@ -47,8 +49,8 @@ public enum GenerationType {
         @Override
         protected int generate(@Nonnull World world, @Nonnull Block block, int def) {
             Material material = block.getLocation().add(0, -1, 0).getBlock().getType();
-            if (material == Material.WATER
-                    || material == Material.WATER_CAULDRON) {
+            if (material == MaterialCompat.safe(XMaterial.WATER)
+                    || material == MaterialCompat.safe(XMaterial.WATER_CAULDRON)) {
                 return def;
             }
             return 0;
@@ -60,10 +62,10 @@ public enum GenerationType {
             switch (world.getEnvironment()) {
                 case NETHER:
                 case NORMAL: {
-                    if (block.getLocation().add(1, 0, 0).getBlock().getType() == Material.AIR
-                            || block.getLocation().add(-1, 0, 0).getBlock().getType() == Material.AIR
-                            || block.getLocation().add(0, 0, 1).getBlock().getType() == Material.AIR
-                            || block.getLocation().add(0, 0, -1).getBlock().getType() == Material.AIR) {
+                    if (block.getLocation().add(1, 0, 0).getBlock().getType() == MaterialCompat.safe(XMaterial.AIR)
+                            || block.getLocation().add(-1, 0, 0).getBlock().getType() == MaterialCompat.safe(XMaterial.AIR)
+                            || block.getLocation().add(0, 0, 1).getBlock().getType() == MaterialCompat.safe(XMaterial.AIR)
+                            || block.getLocation().add(0, 0, -1).getBlock().getType() == MaterialCompat.safe(XMaterial.AIR)) {
                         return def;
                     }
                     return 0;

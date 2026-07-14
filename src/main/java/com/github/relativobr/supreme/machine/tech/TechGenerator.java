@@ -1,5 +1,7 @@
 package com.github.relativobr.supreme.machine.tech;
 
+import com.github.relativobr.supreme.util.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.Supreme;
 import com.github.relativobr.supreme.generic.machine.SimpleItemContainerMachine;
 import com.github.relativobr.supreme.generic.recipe.AbstractItemRecipe;
@@ -10,21 +12,22 @@ import com.github.relativobr.supreme.resource.mobtech.MobTech;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
 import com.github.relativobr.supreme.util.UtilEnergy;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineTier;
-import io.github.thebusybiscuit.slimefun4.core.attributes.MachineType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.Radioactive;
-import io.github.thebusybiscuit.slimefun4.core.attributes.Radioactivity;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun4.implementation.items.blocks.UnplaceableBlock;
-import io.github.thebusybiscuit.slimefun4.libraries.commons.lang.Validate;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.data.persistent.PersistentDataAPI;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun4.utils.LoreBuilder;
-import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
+import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.Radioactive;
+import io.github.thebusybiscuit.slimefun5.core.attributes.Radioactivity;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
+import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
+import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.PdcCompat;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ClickAction;
@@ -34,13 +37,11 @@ import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.springframework.scheduling.annotation.Async;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -51,23 +52,22 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-@Async
 public class TechGenerator extends SimpleItemContainerMachine implements Radioactive {
 
   public static final SlimefunItemStack TECH_GENERATOR = new SupremeItemStack(
-      "SUPREME_TECH_GENERATOR", Material.LOOM,
+      "SUPREME_TECH_GENERATOR", MaterialCompat.safe(XMaterial.LOOM),
       "&bTech Generator", "", "&fUsing power and bees/golem/zombie, ", "&fslowly generates "
       + "materials.", "",
       LoreBuilder.radioactive(Radioactivity.LOW), "",
       LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE),
       UtilEnergy.energyPowerPerTick(2000), "", "&3Supreme Machine");
 
-  public static final ItemStack[] RECIPE_TECH_GENERATOR = {SupremeComponents.INDUCTIVE_MACHINE,
-      SupremeComponents.SYNTHETIC_RUBY, SupremeComponents.INDUCTIVE_MACHINE,
-      SlimefunItems.REINFORCED_ALLOY_INGOT,
-      new ItemStack(Material.LOOM), SlimefunItems.REINFORCED_ALLOY_INGOT,
-      SupremeComponents.CARRIAGE_MACHINE,
-      SlimefunItems.HEATING_COIL, SupremeComponents.CARRIAGE_MACHINE};
+  public static final ItemStack[] RECIPE_TECH_GENERATOR = {SupremeComponents.INDUCTIVE_MACHINE.item(),
+      SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
+      SlimefunItems.REINFORCED_ALLOY_INGOT.item(),
+      new ItemStack(MaterialCompat.safe(XMaterial.LOOM)), SlimefunItems.REINFORCED_ALLOY_INGOT.item(),
+      SupremeComponents.CARRIAGE_MACHINE.item(),
+      SlimefunItems.HEATING_COIL.item(), SupremeComponents.CARRIAGE_MACHINE.item()};
 
   public static final List<AbstractItemRecipe> receitasParaProduzir = new ArrayList<>();
   private Map<Block, ItemStack> processing = new HashMap<>();
@@ -106,29 +106,29 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
             getCardTier(tierCard), new ItemStack(input2), new ItemStack(input1),
             new ItemStack(input2),
             new ItemStack(input1)}).register(plugin);
-    TechGenerator.addRecipesToProcess(item, output);
+    TechGenerator.addRecipesToProcess(item.item(), output);
   }
 
   @Nonnull
   private static ItemStack getCardTier(int tierCard) {
     if (tierCard >= 3) {
-      return SupremeComponents.CENTER_CARD_ULTIMATE;
+      return SupremeComponents.CENTER_CARD_ULTIMATE.item();
     } else if (tierCard == 2) {
-      return SupremeComponents.CENTER_CARD_ADVANCED;
+      return SupremeComponents.CENTER_CARD_ADVANCED.item();
     } else {
-      return SupremeComponents.CENTER_CARD_SIMPLE;
+      return SupremeComponents.CENTER_CARD_SIMPLE.item();
     }
   }
 
   private static void invalidStatus(BlockMenu menu, String txt) {
     for (int i : InventoryRecipe.TECH_GENERATOR_PROGRESS_BAR_SLOT) {
-      menu.replaceExistingItem(i, new CustomItemStack(Material.RED_STAINED_GLASS_PANE, txt));
+      menu.replaceExistingItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), txt));
     }
   }
 
   private static void invalidStatus(BlockMenu menu, Material material, String txt) {
     for (int i : InventoryRecipe.TECH_GENERATOR_PROGRESS_BAR_SLOT) {
-      menu.replaceExistingItem(i, new CustomItemStack(material, txt));
+      menu.replaceExistingItem(i, CustomItemStack.create(material, txt));
     }
   }
 
@@ -160,22 +160,22 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
   protected void constructMenu(BlockMenuPreset preset) {
 
     for (int i : InventoryRecipe.TECH_GENERATOR_BORDER) {
-      preset.addItem(i, new CustomItemStack(Material.GRAY_STAINED_GLASS_PANE, " ", new String[0]),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.GRAY_STAINED_GLASS_PANE), " ", new String[0]),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     for (int i : InventoryRecipe.TECH_GENERATOR_BORDER_IN) {
-      preset.addItem(i, new CustomItemStack(Material.BLUE_STAINED_GLASS_PANE, " ", new String[0]),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.BLUE_STAINED_GLASS_PANE), " ", new String[0]),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     for (int i : InventoryRecipe.TECH_GENERATOR_BORDER_OUT) {
-      preset.addItem(i, new CustomItemStack(Material.ORANGE_STAINED_GLASS_PANE, " ", new String[0]),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.ORANGE_STAINED_GLASS_PANE), " ", new String[0]),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
     for (int i : InventoryRecipe.TECH_GENERATOR_PROGRESS_BAR_SLOT) {
-      preset.addItem(i, new CustomItemStack(Material.BLACK_STAINED_GLASS_PANE, " ", new String[0]),
+      preset.addItem(i, CustomItemStack.create(MaterialCompat.safe(XMaterial.BLACK_STAINED_GLASS_PANE), " ", new String[0]),
           ChestMenuUtils.getEmptyClickHandler());
     }
 
@@ -192,7 +192,7 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
           if (cursor == null) {
             return true;
           }
-          return cursor.getType() == Material.AIR;
+          return cursor.getType() == MaterialCompat.safe(XMaterial.AIR);
         }
       });
     }
@@ -247,7 +247,7 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
 
         processing.put(b, null);
         progressTime.put(b, 0);
-        invalidStatus(inv, Material.BLACK_STAINED_GLASS_PANE, " ");
+        invalidStatus(inv, MaterialCompat.safe(XMaterial.BLACK_STAINED_GLASS_PANE), " ");
 
       } else {
         final ItemStack validRecipeItem = validRecipeItem(inv);
@@ -260,7 +260,7 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
 
           processing.put(b, null);
           progressTime.put(b, 0);
-          invalidStatus(inv, Material.BLACK_STAINED_GLASS_PANE, " ");
+          invalidStatus(inv, MaterialCompat.safe(XMaterial.BLACK_STAINED_GLASS_PANE), " ");
         }
       }
     }
@@ -391,9 +391,9 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
       NamespacedKey tier = new NamespacedKey(Supreme.inst(), "mob_tech_tier");
       NamespacedKey type = new NamespacedKey(Supreme.inst(), "mob_tech_type");
       ItemMeta itemMeta = input.getItemMeta();
-      if (PersistentDataAPI.hasInt(itemMeta, tier) && PersistentDataAPI.hasString(itemMeta, type)) {
-        MobTechType mobTechType = MobTechType.valueOf(PersistentDataAPI.getString(itemMeta, type));
-        int mobTechTier = PersistentDataAPI.getInt(itemMeta, tier);
+      if (PdcCompat.has(itemMeta, tier, "INTEGER") && PdcCompat.has(itemMeta, type, "STRING")) {
+        MobTechType mobTechType = MobTechType.valueOf(PdcCompat.getString(itemMeta, type));
+        int mobTechTier = PdcCompat.getInt(itemMeta, tier);
         float perceptual = (mobTechTier + 1) * input.getAmount() * 0.15625F;
         if (mobTechType == MobTechType.ROBOTIC_EFFICIENCY || mobTechType == MobTechType.MUTATION_INTELLIGENCE) {
           int adjustEnergy = Math.round(consumption / 100F * perceptual);
@@ -406,8 +406,8 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
       } else {
           SlimefunItem slimefunItem = SlimefunItem.getByItem(input);
           if (slimefunItem instanceof MobTech) {
-            PersistentDataAPI.setInt(itemMeta, tier, ((MobTech) slimefunItem).getMobTechTier());
-            PersistentDataAPI.setString(itemMeta, type, ((MobTech) slimefunItem).getMobTechType().name());
+            PdcCompat.setInt(itemMeta, tier, ((MobTech) slimefunItem).getMobTechTier());
+            PdcCompat.setString(itemMeta, type, ((MobTech) slimefunItem).getMobTechType().name());
             input.setItemMeta(itemMeta);
           }
       }

@@ -4,5 +4,5 @@ description: Supreme is an addon for Slimefun which adds 100+ various new resour
 main: com.github.relativobr.supreme.Supreme
 website: https://github.com/RelativoBR/Supreme2.0
 depend: [Slimefun]
-version: ${project.version}
+version: ${version}
 api-version: 1.17

@@ -10,9 +10,9 @@ import com.github.relativobr.supreme.setup.MainSetup;
 import com.github.relativobr.supreme.util.CompatibilySupremeLegacyItem;
 import com.github.relativobr.supreme.util.SupremeOptions;
 import com.github.relativobr.supreme.util.SupremePowerSection;
-import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.updater.BlobBuildUpdater;
+import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.config.Config;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.updater.BlobBuildUpdater;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -148,7 +148,7 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
       return;
     }
 
-		var autoUpdate = getSupremeOptions().isAutoUpdate() && getDescription().getVersion().startsWith("Dev");
+		boolean autoUpdate = getSupremeOptions().isAutoUpdate() && getDescription().getVersion().startsWith("Dev");
 		Supreme.inst().log(Level.INFO, "auto-update: " + autoUpdate);
     if (autoUpdate) {
       new BlobBuildUpdater(this, getFile(), "Supreme", "Dev").start();
