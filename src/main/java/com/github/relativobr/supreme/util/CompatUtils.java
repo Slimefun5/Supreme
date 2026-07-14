@@ -5,7 +5,6 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XEnchantment;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XSound;
-import io.github.thebusybiscuit.slimefun5.libraries.xseries.particles.XParticle;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.enchantments.Enchantment;
@@ -118,7 +117,10 @@ public final class CompatUtils {
         item.setDurability((short) damage);
     }
 
-    // --- Particles (1.9+; isolated so org.bukkit.Particle is never resolved on 1.8) -----------------
+    // --- Particles (1.9+) ---------------------------------------------------------------------------
+    // The actual org.bukkit.Particle reference lives in ParticleCompat, which is loaded ONLY when the
+    // guard below passes. Naming a post-1.8 Bukkit type anywhere in THIS class (even a guarded private
+    // method) would force its resolution when CompatUtils is loaded, so it must stay out entirely.
 
     /** {@code World#spawnParticle} + {@code org.bukkit.Particle} are 1.9+. */
     public static boolean particlesSupported() {
@@ -127,57 +129,27 @@ public final class CompatUtils {
 
     public static void spawnParticle(@Nonnull Location location, @Nonnull String name, int count) {
         if (particlesSupported()) {
-            doSpawnParticle(location, name, count);
-        }
-    }
-
-    /**
-     * References {@code org.bukkit.Particle} (1.9+) via {@link XParticle#getParticle(String)} and
-     * {@code World#spawnParticle}. MUST only be invoked behind {@link #particlesSupported()} so the JVM
-     * never resolves {@code org.bukkit.Particle} on 1.8.
-     */
-    private static void doSpawnParticle(Location location, String name, int count) {
-        if (location.getWorld() == null) {
-            return;
-        }
-        try {
-            org.bukkit.Particle particle = XParticle.getParticle(name);
-            if (particle != null) {
-                location.getWorld().spawnParticle(particle, location, count);
-            }
-        } catch (Throwable ignored) {
-            // Particle absent on this version - skip silently rather than crash.
+            ParticleCompat.spawn(location, name, count);
         }
     }
 
     // --- Block "lit" state (org.bukkit.block.data.BlockData/Lightable are 1.13+) --------------------
     // A block's lit visual (e.g. a lamp glowing) has no pre-1.13 equivalent API at all, so on legacy
     // servers isLightable() assumes the block is valid (rather than failing the caller's validity
-    // check) and setLit() is a silent no-op - the feature keeps working, it just never lights up.
+    // check) and setLit() is a silent no-op. The BlockData/Lightable references live in
+    // ModernBlockCompat, loaded ONLY behind the guard below.
 
     public static boolean blockDataSupported() {
         return Slimefun.getMinecraftVersion().isAtLeast(MinecraftVersion.MINECRAFT_1_13);
     }
 
     public static boolean isLightable(@Nonnull Block block) {
-        return !blockDataSupported() || doIsLightable(block);
+        return !blockDataSupported() || ModernBlockCompat.isLightable(block);
     }
 
     public static void setLit(@Nonnull Block block, boolean lit) {
         if (blockDataSupported()) {
-            doSetLit(block, lit);
-        }
-    }
-
-    private static boolean doIsLightable(Block block) {
-        return block.getBlockData() instanceof org.bukkit.block.data.Lightable;
-    }
-
-    private static void doSetLit(Block block, boolean lit) {
-        if (block.getBlockData() instanceof org.bukkit.block.data.Lightable) {
-            org.bukkit.block.data.Lightable lightable = (org.bukkit.block.data.Lightable) block.getBlockData();
-            lightable.setLit(lit);
-            block.setBlockData(lightable);
+            ModernBlockCompat.setLit(block, lit);
         }
     }
 }
