@@ -261,10 +261,12 @@ public class EnchantsAndEffectsUtil {
         if (section != null) {
             List<PotionEffect> potionEffects = new ArrayList<>();
             for (String key : section.getKeys(true)) {
-                PotionEffectType potionEffectType = PotionEffectType.getByName(key);
-                // check enable
-                if (section.getBoolean(key) && potionEffectType != null) {
-                    potionEffects.add(new PotionEffect(potionEffectType, 600, amplifier, false, false, false));
+                // check enable; PotionEffect is built version-safely (6-arg icon ctor is 1.13+)
+                if (section.getBoolean(key)) {
+                    PotionEffect potionEffect = CompatUtils.potionEffect(key, 600, amplifier, false, false, false);
+                    if (potionEffect != null) {
+                        potionEffects.add(potionEffect);
+                    }
                 }
             }
             if (potionEffects.size() > 0) {

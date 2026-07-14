@@ -4,6 +4,7 @@ import io.github.thebusybiscuit.slimefun5.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XEnchantment;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XPotion;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XSound;
 import net.md_5.bungee.api.chat.BaseComponent;
 import org.bukkit.Bukkit;
@@ -17,6 +18,8 @@ import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
+import org.bukkit.potion.PotionEffect;
+import org.bukkit.potion.PotionEffectType;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -181,6 +184,36 @@ public final class CompatUtils {
             }
         }
         return null;
+    }
+
+    // --- PotionEffect: the 6-arg (type,dur,amp,ambient,particles,icon) ctor is 1.13+ (the `icon`
+    //     boolean). Resolve the type by name via XPotion (so a modern-only effect name no-ops instead
+    //     of NPEing), then build reflectively, falling back 6-arg -> 5-arg -> 4-arg. -----------------
+
+    @Nullable
+    public static PotionEffect potionEffect(@Nonnull String typeName, int duration, int amplifier,
+        boolean ambient, boolean particles, boolean icon) {
+        Optional<XPotion> match = XPotion.matchXPotion(typeName);
+        if (!match.isPresent() || !match.get().isSupported()) {
+            return null;
+        }
+        PotionEffectType type = match.get().getPotionEffectType();
+        if (type == null) {
+            return null;
+        }
+        try {
+            return PotionEffect.class
+                .getConstructor(PotionEffectType.class, int.class, int.class, boolean.class, boolean.class, boolean.class)
+                .newInstance(type, duration, amplifier, ambient, particles, icon);
+        } catch (ReflectiveOperationException e6) {
+            try {
+                return PotionEffect.class
+                    .getConstructor(PotionEffectType.class, int.class, int.class, boolean.class, boolean.class)
+                    .newInstance(type, duration, amplifier, ambient, particles);
+            } catch (ReflectiveOperationException e5) {
+                return new PotionEffect(type, duration, amplifier, ambient);
+            }
+        }
     }
 
     // --- Material.isAir() is 1.13+ (multiple air types); name-based check works on every version ----
