@@ -1,152 +1,65 @@
 # Supreme
-Supreme is an addon for Slimefun which adds 100+ various new resources that will allow you to craft powerful new items, weapons, tools and armor. These can be made up from titanium, aurum, adamantium, thornium with some being magical, rare, epic, legendary or supreme! It also adds 12 new electric generators, 5 new capacitors and even more... 
+
+[![Build Status](https://Slimefun5.github.io/builds/Slimefun5/Supreme/stable/badge.svg)](https://Slimefun5.github.io/builds/Slimefun5/Supreme/stable)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/Supreme/total)
+[![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
+[![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/Supreme?style=social)](https://github.com/Slimefun5/Supreme)
+
+Supreme is a Slimefun addon that adds high-tier machines, magic, and generic-machine tooling.
 
 ## Requirements
+- Java 25
+- Paper 1.16.* - 26.1.*
+- [Slimefun 5](https://github.com/Slimefun5/Slimefun5)
 
-Minecraft Version: +1.17
+Supreme adds high-tier machines, powerful gear and magical components to Slimefun for a supreme endgame.
 
+## :floppy_disk: Installation
 
+| Supreme | Slimefun5 | Minecraft |
+|---|---|---|
+| UNOFFICIAL | 5.2.0+ | 1.8.x – 26.x |
 
-### [Download](https://blob.build/project/Supreme)
-[![Build Status](https://thebusybiscuit.github.io/builds/RelativoBR/Supreme/main/badge.svg)](https://blob.build/project/Supreme)
+Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
 
+## :beetle: Bug Reports
 
-## Bugs/Suggestions
+Please report bugs via the [GitHub Issues](https://github.com/Slimefun5/Supreme/issues) page.
 
-Make a new issue, pull request, or discord Slimefun-Addon-Community
+## :open_book: Contributing
 
-<p>
-  <a href="https://discord.gg/slimefun">
-    <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
-  </a>
-  <a href="https://discord.gg/SqD3gg5SAU">
-    <img src="https://discordapp.com/api/guilds/809178621424041997/widget.png?style=banner3" alt="Discord Invite"/>
+Contributions are welcome! Please read the [Slimefun5 Contributing Guidelines](https://github.com/Slimefun5/Slimefun5/blob/master/CONTRIBUTING.md) before submitting a pull request.
+
+## Developer API
+
+You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
+
+In your `build.gradle.kts`:
+
+```kotlin
+plugins {
+    id("io.github.intisy.github-gradle") version "1.8.2.1"
+}
+
+dependencies {
+    "githubCompileOnly"("Slimefun5:Supreme:v1.0.0")
+}
+```
+
+## Wiki
+
+[Read more on the Slimefun Wiki...](https://github.com/Slimefun5/Wiki/wiki/Supreme)
+
+## Discord
+
+You can find Slimefun's community on Discord! Click the badge below to join the server for suggestions/questions or other discussions about this plugin.
+
+<p align="center">
+  <a href="https://discord.gg/CbBYZBEWdR">
+    <img src="https://discordapp.com/api/guilds/738626600539160576/widget.png?style=banner2" alt="Discord"/>
   </a>
 </p>
 
+## License
 
-## Machines
-- **Core Fabricator** - MultiBlock Machine - You can craft core here
-- **Gear Fabricator** - MultiBlock Machine - You can craft weapons, armor and tools here
-- **Magical Fabricator** - MultiBlock Machine - You can craft magical here
-- **Electric Core Machine** - Craft resource of core
-- **Electric Magical Machine** - Craft resource of magical
-- **Forge Ingot** - This machine allows you to forge ingot resources
-- **Forge Magical** - This machine allows you to forge magical resources
-- **Foundry** - Foundry and Synthesizer Items
-- **Magic Altar** - Craft Rune and Magical Items
-- **Mob Collector** - This machine allows you to collect items from nearby mobs
-- **Virtual Aquarium** - This machine allows you to collect items that are collected at sea
-- **Virtual Garden** - This machine allows you to cultivate some resources
-- **MobTech Collector** - This machine allows you to collect mobs nearby, an item used to increase the performance of machines, whether reducing time, increasing production or saving energy.
-- **Tech Mutation** - Generator mutation to progress mobtech (heads) to higher levels, through mutation types, where there is a success probability depending on the machine level that varies from 20% to 25% in tier I and from 80% to 100% in tier III.
-- **Tech Robotic** - Similar to the previous mutation machine, but it doesn't deal with luck, it works with science where a specific amount of resources can be used to evolve the mobtech, being 64x for tier I, tier II with 32 and tier III with 16x
-- **Tech Generator** - Using power and a specific crafting card to generate materials slowly, but with mobtech the bees, golem and zombie, mutant or robotics can speed up this process to more satisfying levels
-- **CheckInventory** - A lamp that helps you see if a certain item and amound is present in a chest
-- **Cobblestone Quarry** - Generate Cobblestone
-- **Coal Quarry** - Generate basic resource
-- **Iron Quarry** - Generate basic resource
-- **Gold Quarry** - Generate basic resource
-- **Diamond Quarry** - Generate basic resource
-- **Thornium Quarry** - Generate advanced resource
-- **Nuggets of Supreme Quarry** - Generate advanced resource
-
-
-## Generators
-- **Aurum Capacitor** 
-- **Titanium Capacitor** 
-- **Adamantium Capacitor** 
-- **Thornium Capacitor** 
-- **Supreme Capacitor**
-- **GeneratorMob** - Generates energy from methane generated by animals
-- **Basic Ignis Generator** - Need fire under this block to work
-- **Ignis Generator** - Need fire under this block to work
-- **Basic Ventus Generator** - It needs to be with its faces in the wind to work
-- **Ventus Generator** - It needs to be with its faces in the wind to work
-- **Basic Aqua Generator** - Need water under this block to work
-- **Aqua Generator** - Need water under this block to work
-- **Basic Lux Generator** - Needs to receive sunlight for moonlight to work
-- **Lux Generator** - Needs to receive sunlight for moonlight to work
-- **Basic Lumium Generator** - Needs to be below ground to work
-- **Lumium Generator** - Needs to be below ground to work
-- **Thornium Generator** - Generates energy anywhere
-- **Supreme Generator** - Generates energy anywhere
-
-
-## Gear / Tools
-- **Aurum Tools** - Basic tier
-- **Aurum Weapons** - Basic tier
-- **Aurum Armor** - Basic tier
-- **Titanium Tools** - Basic tier
-- **Titanium Weapons** - Basic tier
-- **Titanium Armor** - Basic tier
-- **Adamantium Tools** - Basic tier
-- **Adamantium Weapons** - Basic tier
-- **Adamantium Armor** - Basic tier
-- **Thornium Tools** - Advanced tier
-- **Thornium Weapons** - Advanced tier
-- **Thornium Armor** - Advanced tier
-- **Magic Tools** - Advanced tier
-- **Magic Weapons** - Advanced tier
-- **Magic Armor** - Advanced tier
-- **Rare Tools** - Advanced tier
-- **Rare Weapons** - Advanced tier
-- **Rare Armor** - Advanced tier
-- **Epic Tools** - Endgame tier
-- **Epic Weapons** - Endgame tier
-- **Epic Armor** - Endgame tier
-- **Legendary Tools** - Endgame tier
-- **Legendary Weapons** - Endgame tier
-- **Legendary Armor** - Endgame tier
-- **Supreme Tools** - Endgame tier
-- **Supreme Weapons** - Endgame tier
-- **Supreme Armor** - Endgame tier
-
-
-## Resource Core
-- **Core of Life** - This core contains fragments of life that have been collected by the world
-- **Core of Death** - This core contains the souls of various entities that have gone beyond
-- **Core of Color** - This core contains several colors that have been collected around the world
-- **Core of Block** - This core contains several blocks that have been collected around the world
-- **Core of Nature** - This core contains several natural that have been collected around the world
-- **Core of Alloy** - This core contains several ores that have been collected around the world
-
-
-## Resource Magical
-- **Cetrus Lux** - A super Lux scepter
-- **Cetrus Ventus** - A super Ventus scepter
-- **Cetrus Lumium** - A super Lumium scepter
-- **Cetrus Aqua** - A super Aqua scepter
-- **Cetrus Ignis** - A super Ignis scepter
-- **Attribute Magic** - A super Magic attribute with special effect
-- **Attribute Bomb** - A super Bomb attribute with special effects
-- **Attribute Fortune** - A super Fortune attribute with special effects
-- **Attribute Impetus** - A super Impetus attribute with special effects
-
-
-## Customize Configuration (config.yml)
-
-- **use-legacy-supremeexpansion-item-id** - Indication use compatibily old item from addon SupremeExpanssion (default: false)
-- **enable-generators** - Indication whether to enable the power generators (default: true)
-- **limit-production-generators** - To reduce the efficiency of generators (factor 5x) (default: false)
-- **delay-time-valid-generators** - Configuration for validation waiting time if a generator must be turned off, due to the change of nearby blocks (default: 600)
-- **enable-quarry** - Indication whether to enable the quarry machine (default: true)
-- **limit-production-quarry** - To reduce quarry production (hard mode 50% failure) (default: false)
-- **custom-ticker-delay** - To change the quarry production delay (default: 2)
-- **base-time-virtual-garden** - To change the Virtual Garden base processing time (default: 15)
-- **base-time-virtual-aquarium** - To change the Virtual Aquarium base processing time (default: 15)
-- **base-time-mob-collector** - To change the Mob Collector base processing time (default: 15)
-- **base-time-tech-generator** - To change the Tech Generator base processing time (default: 1800)
-- **tech-generator-max-amount** - To change the Tech Generator base result item amount (default: 64)
-- **machine-max-attempt-consumed** - To change the Electric Machines max attempt consumed item retry (default: 30)
-- **mob-tech-enable-bee** - Indication whether to enable the Bee in Mob Tech (default: true)
-- **mob-tech-enable-iron-golem** - Indication whether to enable the Iron Golem in Mob Tech (default: true)
-- **mob-tech-enable-zombie** - Indication whether to enable the Zombie in Mob Tech (default: true)
-- **quarry-custom-output** - Can be adjusted all item productions in Quarry
-- **enable-weapons** - Indication whether to enable the weapons (default: true)
-- **enable-tools** - Indication whether to enable the tools (default: true)
-- **enable-armor** - Indication whether to enable the armor (default: true)
-- **enable-tech** - Indication whether to enable new machine and resource to clonnig item (default: true)
-- **supreme-enchant** - Indication Enchantment of the gear and tools
-- **supreme-effects** - Indication Effects of the gear
-- **power-section** - Customizable Capacity, Buffer and Energy of the capacitor and generator
+This project is open-source and licensed under the MIT License.
