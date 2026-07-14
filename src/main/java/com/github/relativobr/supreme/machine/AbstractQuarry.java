@@ -38,7 +38,6 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.Sound;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.BlockState;
@@ -199,20 +198,20 @@ public class AbstractQuarry extends SlimefunItem implements EnergyNetComponent {
         return false;
       });
     }
-    p.playSound(p.getLocation(), Sound.BLOCK_BARREL_OPEN, 1, 1);
+    CompatUtils.playSound(p.getLocation(), "BLOCK_BARREL_OPEN", 1, 1);
     menu.open(p);
   }
 
   protected boolean isInvalidInventory(@Nonnull Block block) {
+    // Compared via MaterialCompat instead of a switch on Material: BARREL is 1.14+, and a raw
+    // switch-on-enum bakes Material.BARREL.ordinal() into a synthetic switch-map class.
     Material type = block.getType();
-    switch (type) {
-      case CHEST:
-      case TRAPPED_CHEST:
-      case BARREL:
-        return false;
-      default:
-        return !SlimefunTag.SHULKER_BOXES.isTagged(type);
+    if (type == MaterialCompat.safe(XMaterial.CHEST)
+        || type == MaterialCompat.safe(XMaterial.TRAPPED_CHEST)
+        || type == MaterialCompat.safe(XMaterial.BARREL)) {
+      return false;
     }
+    return !SlimefunTag.SHULKER_BOXES.isTagged(type);
   }
 
   @Override

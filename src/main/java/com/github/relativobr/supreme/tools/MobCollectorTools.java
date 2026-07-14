@@ -27,7 +27,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
 import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import org.bukkit.Material;
-import org.bukkit.Sound;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Golem;
 import org.bukkit.entity.Player;
@@ -110,21 +109,21 @@ public class MobCollectorTools extends SlimefunItem implements Rechargeable, Not
             .dropItemNaturally(entity.getLocation(), ItemUtil.buildItemFromMobTechDTO(BeeTech.SIMPLE_BEE, 0).item());
         entity.remove();
         removeItemCharge(item, getCharge());
-        p.playSound(p.getLocation(), Sound.BLOCK_ANVIL_FALL, 1, 1);
+        CompatUtils.playSound(p.getLocation(), "BLOCK_ANVIL_FALL", 1, 1);
       }
       if (entity instanceof Golem) {
         entity.getWorld()
             .dropItemNaturally(entity.getLocation(), ItemUtil.buildItemFromMobTechDTO(IronGolemTech.SIMPLE_GOLEM, 0).item());
         entity.remove();
         removeItemCharge(item, getCharge());
-        p.playSound(p.getLocation(), Sound.BLOCK_ANVIL_FALL, 1, 1);
+        CompatUtils.playSound(p.getLocation(), "BLOCK_ANVIL_FALL", 1, 1);
       }
       if (entity instanceof Zombie) {
         entity.getWorld()
             .dropItemNaturally(entity.getLocation(), ItemUtil.buildItemFromMobTechDTO(ZombieTech.SIMPLE_ZOMBIE, 0).item());
         entity.remove();
         removeItemCharge(item, getCharge());
-        p.playSound(p.getLocation(), Sound.BLOCK_ANVIL_FALL, 1, 1);
+        CompatUtils.playSound(p.getLocation(), "BLOCK_ANVIL_FALL", 1, 1);
       }
 
     };

@@ -1,8 +1,10 @@
 package com.github.relativobr.supreme.util;
 
 import io.github.thebusybiscuit.slimefun5.api.MinecraftVersion;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XEnchantment;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XSound;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.particles.XParticle;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
@@ -42,26 +44,43 @@ public final class CompatUtils {
     }
 
     /**
-     * Resolves an {@link EntityType} by name instead of referencing the enum constant directly, so a
-     * type added after the addon's compileOnly spigot-api baseline (e.g. {@code GLOW_SQUID}, 1.17)
-     * doesn't produce a {@code NoSuchFieldError} class-verification failure on older/newer runtime jars
-     * that don't have it under that exact field. Returns {@code null} if the running server doesn't
-     * know this entity type at all.
+     * Applies an enchantment resolved by name (see {@link #resolveEnchantment(String)}). A no-op when
+     * the enchantment doesn't exist on the running server, so e.g. {@code MENDING} (1.9+) simply isn't
+     * added on 1.8.8 instead of triggering a {@code NoSuchFieldError} on the raw {@code
+     * Enchantment.MENDING} constant. {@code name} is the Bukkit enchantment field name.
      */
-    @Nullable
-    public static EntityType resolveEntityType(@Nonnull String name) {
-        try {
-            return EntityType.valueOf(name);
-        } catch (IllegalArgumentException e) {
-            return null;
+    public static void applyEnchantment(@Nonnull SlimefunItemStack item, @Nonnull String name, int level) {
+        Enchantment enchantment = resolveEnchantment(name);
+        if (enchantment != null) {
+            item.addUnsafeEnchantment(enchantment, level);
+        }
+    }
+
+    // --- Sounds (the whole org.bukkit.Sound enum was renamed in 1.9; every BLOCK_*/ENTITY_* constant is
+    //     post-1.8, so referencing one directly is a NoSuchFieldError on 1.8.8) ----------------------
+
+    /**
+     * Plays a sound resolved by name through XSeries {@link XSound}, which maps the name to whatever
+     * the running server actually supports (or no-ops if absent). Avoids referencing a raw {@code
+     * Sound.X} constant, none of whose modern {@code BLOCK_*} names exist on 1.8.8.
+     */
+    public static void playSound(@Nullable Location location, @Nonnull String name, float volume, float pitch) {
+        if (location == null) {
+            return;
+        }
+        Optional<XSound> match = XSound.matchXSound(name);
+        if (match.isPresent() && match.get().isSupported()) {
+            match.get().play(location, volume, pitch);
         }
     }
 
     /**
-     * Version-safe replacement for {@code entity instanceof Bee} (or any other entity subtype added
-     * after 1.8, e.g. {@code Golem} subclasses added later): compares the entity's own
-     * {@link EntityType#name()} instead of referencing the possibly-absent subtype class, so the class
-     * file never has to resolve a type such as {@code org.bukkit.entity.Bee} (added 1.15) at all.
+     * Version-safe replacement for a raw {@code entity.getType() == EntityType.X} comparison (and for
+     * {@code entity instanceof Bee}-style subtype checks): compares the entity's own
+     * {@link EntityType#name()} against the wanted name instead of referencing the enum constant or
+     * subtype class, so the class file never resolves a type/field absent on the running server (e.g.
+     * {@code EntityType.BEE}/{@code GLOW_SQUID}/{@code WITHER_SKELETON}, or {@code org.bukkit.entity.Bee}).
+     * Simply returns {@code false} for a name the running server doesn't know.
      */
     public static boolean isEntityType(@Nonnull Entity entity, @Nonnull String typeName) {
         return entity.getType().name().equals(typeName);

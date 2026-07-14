@@ -1,5 +1,6 @@
 package com.github.relativobr.supreme.machine.multiblock;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import com.github.relativobr.supreme.util.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.Supreme;
@@ -18,7 +19,6 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
-import org.bukkit.Sound;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.Dispenser;
@@ -91,10 +91,10 @@ public class MultiBlockCoreFabricator extends MultiBlockMachine implements NotPl
           }
 
           Bukkit.getScheduler().runTaskLater(Supreme.inst(),
-              () -> p.getWorld().playSound(dispenser.getLocation(), Sound.BLOCK_LAVA_EXTINGUISH, 1F, 1F), 55L);
+              () -> CompatUtils.playSound(dispenser.getLocation(), "BLOCK_LAVA_EXTINGUISH", 1F, 1F), 55L);
           for (int i = 1; i < 7; i++) {
             Bukkit.getScheduler().runTaskLater(Supreme.inst(),
-                () -> p.getWorld().playSound(dispenser.getLocation(), Sound.BLOCK_METAL_PLACE, 7F, 1F), i * 5L);
+                () -> CompatUtils.playSound(dispenser.getLocation(), "BLOCK_METAL_PLACE", 7F, 1F), i * 5L);
           }
 
           if (outputInv != null) {

@@ -1,5 +1,6 @@
 package com.github.relativobr.supreme.resource.magical;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import com.github.relativobr.supreme.util.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import static com.github.relativobr.supreme.Supreme.getSupremeOptions;
@@ -7,8 +8,6 @@ import static com.github.relativobr.supreme.Supreme.getSupremeOptions;
 import com.github.relativobr.supreme.util.SupremeItemStack;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import lombok.experimental.UtilityClass;
-import org.bukkit.Material;
-import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 
 @UtilityClass
@@ -50,35 +49,38 @@ public class SupremeAttribute {
       new SlimefunItemStack(SupremeCore.CORE_OF_DEATH, 1).item(), new SlimefunItemStack(SupremeCetrus.CETRUS_VENTUS, 1).item(),
       new SlimefunItemStack(SupremeAttribute.getFortune(), 1).item(), new SlimefunItemStack(SupremeCetrus.CETRUS_LUMIUM, 1).item()};
 
+  // Enchantments are resolved by name through XSeries (CompatUtils) rather than referenced as raw
+  // org.bukkit Enchantment constants: MENDING is 1.9+ (NoSuchFieldError on 1.8.8), and routing every
+  // one by name also keeps the addon safe on modern servers where the legacy constant names change.
   public static SlimefunItemStack getMagic() {
     final SlimefunItemStack attributeMagic = SupremeAttribute.ATTRIBUTE_MAGIC;
-    attributeMagic.addUnsafeEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeMagic.addUnsafeEnchantment(Enchantment.DURABILITY, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeMagic.addUnsafeEnchantment(Enchantment.MENDING, getSupremeOptions().isCustomBc() ? 2 : 10);
+    CompatUtils.applyEnchantment(attributeMagic, "PROTECTION_ENVIRONMENTAL", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeMagic, "DURABILITY", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeMagic, "MENDING", getSupremeOptions().isCustomBc() ? 2 : 10);
     return attributeMagic;
   }
 
   public static SlimefunItemStack getBomb() {
     final SlimefunItemStack attributeBomb = SupremeAttribute.ATTRIBUTE_BOMB;
-    attributeBomb.addUnsafeEnchantment(Enchantment.PROTECTION_EXPLOSIONS, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeBomb.addUnsafeEnchantment(Enchantment.PROTECTION_FIRE, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeBomb.addUnsafeEnchantment(Enchantment.PROTECTION_PROJECTILE, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeBomb.addUnsafeEnchantment(Enchantment.THORNS, getSupremeOptions().isCustomBc() ? 5 : 10);
+    CompatUtils.applyEnchantment(attributeBomb, "PROTECTION_EXPLOSIONS", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeBomb, "PROTECTION_FIRE", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeBomb, "PROTECTION_PROJECTILE", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeBomb, "THORNS", getSupremeOptions().isCustomBc() ? 5 : 10);
     return attributeBomb;
   }
 
   public static SlimefunItemStack getFortune() {
     final SlimefunItemStack attributeFortune = SupremeAttribute.ATTRIBUTE_FORTUNE;
-    attributeFortune.addUnsafeEnchantment(Enchantment.DIG_SPEED, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeFortune.addUnsafeEnchantment(Enchantment.LOOT_BONUS_BLOCKS, getSupremeOptions().isCustomBc() ? 3 : 10);
+    CompatUtils.applyEnchantment(attributeFortune, "DIG_SPEED", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeFortune, "LOOT_BONUS_BLOCKS", getSupremeOptions().isCustomBc() ? 3 : 10);
     return attributeFortune;
   }
 
   public static SlimefunItemStack getImpetus() {
     final SlimefunItemStack attributeImpetus = SupremeAttribute.ATTRIBUTE_IMPETUS;
-    attributeImpetus.addUnsafeEnchantment(Enchantment.DAMAGE_ALL, getSupremeOptions().isCustomBc() ? 10 : 20);
-    attributeImpetus.addUnsafeEnchantment(Enchantment.FIRE_ASPECT, getSupremeOptions().isCustomBc() ? 5 : 10);
-    attributeImpetus.addUnsafeEnchantment(Enchantment.LOOT_BONUS_MOBS, getSupremeOptions().isCustomBc() ? 3 : 10);
+    CompatUtils.applyEnchantment(attributeImpetus, "DAMAGE_ALL", getSupremeOptions().isCustomBc() ? 10 : 20);
+    CompatUtils.applyEnchantment(attributeImpetus, "FIRE_ASPECT", getSupremeOptions().isCustomBc() ? 5 : 10);
+    CompatUtils.applyEnchantment(attributeImpetus, "LOOT_BONUS_MOBS", getSupremeOptions().isCustomBc() ? 3 : 10);
     return attributeImpetus;
   }
 }
