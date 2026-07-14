@@ -1,0 +1,15 @@
+name: Publish to platforms
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  publish:
+    permissions:
+      contents: write
+    uses: Slimefun5/workflows/.github/workflows/publish-platforms.yml@stable
+    with:
+      project_name: ${{ github.event.repository.name }}
+    secrets: inherit
