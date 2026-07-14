@@ -5,18 +5,28 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XEnchantment;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XSound;
+import net.md_5.bungee.api.chat.BaseComponent;
+import org.bukkit.Bukkit;
 import org.bukkit.Location;
+import org.bukkit.Material;
+import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
+import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 import java.util.Optional;
+import java.util.UUID;
+import java.util.function.Predicate;
 
 /**
  * Version-safety helpers so Supreme loads + enables on legacy servers (1.8&ndash;1.13) without a
@@ -115,6 +125,116 @@ public final class CompatUtils {
             // fall through to legacy durability
         }
         item.setDurability((short) damage);
+    }
+
+    // --- Unbreakable flag (ItemMeta#setUnbreakable/#isUnbreakable(boolean) are 1.11+; before that the
+    //     same methods lived on ItemMeta.spigot()) ----------------------------------------------------
+    // Reflection avoids a direct 1.11 method reference (NoSuchMethodError on 1.8.8). The Method is
+    // resolved off the PUBLIC interface (ItemMeta / ItemMeta.Spigot), never off the concrete
+    // non-public CraftMetaItem, so invoke() can't hit IllegalAccessException.
+
+    public static void setUnbreakable(@Nonnull ItemMeta meta, boolean value) {
+        try {
+            ItemMeta.class.getMethod("setUnbreakable", boolean.class).invoke(meta, value);
+            return;
+        } catch (ReflectiveOperationException ignored) {
+            // 1.8 - 1.10: fall through to ItemMeta.spigot().setUnbreakable(boolean)
+        }
+        try {
+            Object spigot = ItemMeta.class.getMethod("spigot").invoke(meta);
+            Class.forName("org.bukkit.inventory.meta.ItemMeta$Spigot")
+                .getMethod("setUnbreakable", boolean.class).invoke(spigot, value);
+        } catch (ReflectiveOperationException ignored) {
+            // No unbreakable support resolvable - leave the item breakable.
+        }
+    }
+
+    public static boolean isUnbreakable(@Nonnull ItemMeta meta) {
+        try {
+            return Boolean.TRUE.equals(ItemMeta.class.getMethod("isUnbreakable").invoke(meta));
+        } catch (ReflectiveOperationException ignored) {
+            // 1.8 - 1.10: fall through to ItemMeta.spigot().isUnbreakable()
+        }
+        try {
+            Object spigot = ItemMeta.class.getMethod("spigot").invoke(meta);
+            return Boolean.TRUE.equals(Class.forName("org.bukkit.inventory.meta.ItemMeta$Spigot")
+                .getMethod("isUnbreakable").invoke(spigot));
+        } catch (ReflectiveOperationException ignored) {
+            return false;
+        }
+    }
+
+    // --- Bukkit#getEntity(UUID) is 1.12+; reflect it, else scan loaded worlds (all 1.8.8-safe) ------
+
+    @Nullable
+    public static Entity getEntity(@Nonnull UUID uuid) {
+        try {
+            return (Entity) Bukkit.class.getMethod("getEntity", UUID.class).invoke(null, uuid);
+        } catch (ReflectiveOperationException ignored) {
+            // 1.8 - 1.11: no direct lookup, fall back to scanning loaded worlds' entities.
+        }
+        for (World world : Bukkit.getWorlds()) {
+            for (Entity e : world.getEntities()) {
+                if (uuid.equals(e.getUniqueId())) {
+                    return e;
+                }
+            }
+        }
+        return null;
+    }
+
+    // --- Material.isAir() is 1.13+ (multiple air types); name-based check works on every version ----
+
+    public static boolean isAir(@Nullable Material material) {
+        if (material == null) {
+            return true;
+        }
+        String n = material.name();
+        return n.equals("AIR") || n.endsWith("_AIR");
+    }
+
+    // --- World#getNearbyEntities(Location, x, y, z, Predicate) is post-1.8; the 4-arg (no-predicate)
+    //     overload exists on 1.8.8, so call that and filter in Java. -----------------------------------
+
+    @Nonnull
+    public static Collection<Entity> getNearbyEntities(@Nonnull World world, @Nonnull Location loc,
+        double x, double y, double z, @Nullable Predicate<Entity> filter) {
+        Collection<Entity> nearby = world.getNearbyEntities(loc, x, y, z);
+        if (filter == null) {
+            return nearby;
+        }
+        List<Entity> matched = new ArrayList<>();
+        for (Entity e : nearby) {
+            if (filter.test(e)) {
+                matched.add(e);
+            }
+        }
+        return matched;
+    }
+
+    // --- Action bar: Player.Spigot#sendMessage(ChatMessageType, BaseComponent[]) needs the
+    //     net.md_5.bungee.api.ChatMessageType class, which does NOT exist on 1.8.8. Resolved entirely
+    //     by reflection (Class.forName) so this class never references ChatMessageType directly; falls
+    //     back to a plain spigot chat message where the action-bar overload is unavailable. -----------
+
+    public static void sendActionBar(@Nonnull Player player, @Nonnull BaseComponent[] components) {
+        try {
+            Class<?> chatMessageType = Class.forName("net.md_5.bungee.api.ChatMessageType");
+            Object actionBar = null;
+            for (Object constant : chatMessageType.getEnumConstants()) {
+                if ("ACTION_BAR".equals(constant.toString())) {
+                    actionBar = constant;
+                    break;
+                }
+            }
+            Class<?> spigotClass = Class.forName("org.bukkit.entity.Player$Spigot");
+            Method send = spigotClass.getMethod("sendMessage", chatMessageType, BaseComponent[].class);
+            send.invoke(player.spigot(), actionBar, components);
+            return;
+        } catch (ReflectiveOperationException | LinkageError ignored) {
+            // Action-bar overload/type unavailable (e.g. 1.8.8) - degrade to a normal chat message.
+        }
+        player.spigot().sendMessage(components);
     }
 
     // --- Particles (1.9+) ---------------------------------------------------------------------------

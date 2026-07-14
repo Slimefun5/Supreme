@@ -325,7 +325,7 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
               inv.consumeItem(slot, this.getSpeed());
             } else {
               ItemMeta itemMeta = itemInSlot.getItemMeta();
-              if(itemMeta != null && !itemMeta.isUnbreakable()) {
+              if(itemMeta != null && !CompatUtils.isUnbreakable(itemMeta)) {
                 int current = CompatUtils.getItemDamage(itemInSlot);
                 if (current + 2 >= itemInSlot.getType().getMaxDurability()) {
                   inv.consumeItem(slot);
@@ -347,7 +347,7 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
 
   @ParametersAreNonnullByDefault
   private boolean isAnimalNearby(Block b, Predicate<LivingEntity> predicate) {
-    return !b.getWorld().getNearbyEntities(b.getLocation(), mobRange, mobRange, mobRange, (n) -> {
+    return !CompatUtils.getNearbyEntities(b.getWorld(), b.getLocation(), mobRange, mobRange, mobRange, (n) -> {
       return this.isValidAnimal(n, predicate);
     }).isEmpty();
   }

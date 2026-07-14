@@ -1,5 +1,6 @@
 package com.github.relativobr.supreme.machine.tech;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import com.github.relativobr.supreme.util.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.Supreme;
@@ -387,7 +388,7 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
   }
 
   private int checkConsumptionSlot(ItemStack input, int consumption) {
-    if (input != null && !input.getType().isAir() && input.getItemMeta() != null) {
+    if (input != null && !CompatUtils.isAir(input.getType()) && input.getItemMeta() != null) {
       NamespacedKey tier = new NamespacedKey(Supreme.inst(), "mob_tech_tier");
       NamespacedKey type = new NamespacedKey(Supreme.inst(), "mob_tech_type");
       ItemMeta itemMeta = input.getItemMeta();

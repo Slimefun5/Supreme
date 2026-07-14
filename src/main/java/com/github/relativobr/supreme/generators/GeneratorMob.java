@@ -1,5 +1,6 @@
 package com.github.relativobr.supreme.generators;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import com.github.relativobr.supreme.util.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.resource.SupremeComponents;
@@ -16,7 +17,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.items.electric.Abstract
 import io.github.thebusybiscuit.slimefun5.libraries.dough.blocks.BlockPosition;
 import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
-import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.entity.Cow;
@@ -140,7 +140,11 @@ public class GeneratorMob extends AbstractEnergyProvider {
   }
 
   private boolean isAnimalNearby(@Nonnull Location l, @Nullable UUID uuid) {
-    return uuid != null && Bukkit.getEntity(uuid) != null && l.distanceSquared(Bukkit.getEntity(uuid).getLocation()) <= Math.pow(mobRange, 2);
+    if (uuid == null) {
+      return false;
+    }
+    Entity entity = CompatUtils.getEntity(uuid);
+    return entity != null && l.distanceSquared(entity.getLocation()) <= Math.pow(mobRange, 2);
   }
 
   @ParametersAreNonnullByDefault
@@ -149,7 +153,7 @@ public class GeneratorMob extends AbstractEnergyProvider {
   }
 
   private UUID locateNearbyMob(@Nonnull Location l) {
-    return l.getWorld().getNearbyEntities(l, mobRange, mobRange, mobRange, this::isValidAnimal).stream().findFirst().map(Entity::getUniqueId).orElse(null);
+    return CompatUtils.getNearbyEntities(l.getWorld(), l, mobRange, mobRange, mobRange, this::isValidAnimal).stream().findFirst().map(Entity::getUniqueId).orElse(null);
   }
 
   @ParametersAreNonnullByDefault

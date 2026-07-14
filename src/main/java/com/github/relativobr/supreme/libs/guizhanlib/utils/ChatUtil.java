@@ -1,7 +1,7 @@
 package com.github.relativobr.supreme.libs.guizhanlib.utils;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import com.google.common.base.Preconditions;
-import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.TextComponent;
 import org.bukkit.ChatColor;
@@ -46,6 +46,6 @@ public final class ChatUtil {
     @ParametersAreNonnullByDefault
     public static void sendActionBar(Player player, String message, Object... args) {
         BaseComponent[] components = TextComponent.fromLegacyText(color(MessageFormat.format(message, args)));
-        player.spigot().sendMessage(ChatMessageType.ACTION_BAR, components);
+        CompatUtils.sendActionBar(player, components);
     }
 }

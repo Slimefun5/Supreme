@@ -52,7 +52,7 @@ public class EnchantsAndEffectsUtil {
             ConfigurationSection itemSection = typeSection.getConfigurationSection(itemPath);
             if (itemSection != null) {
                 // unbreakable and enchants
-                meta.setUnbreakable(itemSection.getBoolean("unbreakable"));
+                CompatUtils.setUnbreakable(meta, itemSection.getBoolean("unbreakable"));
                 for (Map.Entry<Enchantment, Integer> entry : getEnchants(itemSection).entrySet()) {
                     meta.addEnchant(entry.getKey(), entry.getValue(), true);
                 }
@@ -99,7 +99,7 @@ public class EnchantsAndEffectsUtil {
             ConfigurationSection itemSection = typeSection.getConfigurationSection(itemPath);
             if (itemSection != null) {
                 // unbreakable and enchants
-                meta.setUnbreakable(itemSection.getBoolean("unbreakable"));
+                CompatUtils.setUnbreakable(meta, itemSection.getBoolean("unbreakable"));
                 for (Map.Entry<Enchantment, Integer> entry : getEnchants(itemSection).entrySet()) {
                     meta.addEnchant(entry.getKey(), entry.getValue(), true);
                 }

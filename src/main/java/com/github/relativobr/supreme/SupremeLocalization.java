@@ -1,5 +1,6 @@
 package com.github.relativobr.supreme;
 
+import com.github.relativobr.supreme.util.CompatUtils;
 import java.text.MessageFormat;
 import java.util.Locale;
 import javax.annotation.Nonnull;
@@ -7,7 +8,6 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import com.github.relativobr.supreme.libs.guizhanlib.localization.Localization;
 import com.github.relativobr.supreme.libs.guizhanlib.utils.ChatUtil;
 import com.github.relativobr.supreme.libs.guizhanlib.utils.StringUtil;
-import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.TextComponent;
 import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
@@ -69,7 +69,7 @@ public class SupremeLocalization extends Localization {
     String message = MessageFormat.format(getString("messages." + messageKey), args);
 
     BaseComponent[] components = TextComponent.fromLegacyText(ChatUtil.color(message));
-    p.spigot().sendMessage(ChatMessageType.ACTION_BAR, components);
+    CompatUtils.sendActionBar(p, components);
   }
 
 }

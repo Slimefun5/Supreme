@@ -151,7 +151,7 @@ public class VirtualAquarium extends SimpleItemWithLargeContainerMachine {
 
           ItemMeta itemMeta = itemInSlot.getItemMeta();
 
-          if(itemMeta != null && !itemMeta.isUnbreakable()){
+          if(itemMeta != null && !CompatUtils.isUnbreakable(itemMeta)){
             int current = CompatUtils.getItemDamage(itemInSlot);
             if (current + 2 >= itemInSlot.getType().getMaxDurability()) {
               inv.consumeItem(slot);

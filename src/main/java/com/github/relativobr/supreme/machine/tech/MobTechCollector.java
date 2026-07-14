@@ -169,7 +169,7 @@ public class MobTechCollector extends SimpleItemWithLargeContainerMachine {
 
   @ParametersAreNonnullByDefault
   private boolean isAnimalNearby(Block b, Predicate<LivingEntity> predicate) {
-    return !b.getWorld().getNearbyEntities(b.getLocation(), mobRange, mobRange, mobRange, (n) -> {
+    return !CompatUtils.getNearbyEntities(b.getWorld(), b.getLocation(), mobRange, mobRange, mobRange, (n) -> {
       final boolean validAnimal = this.isValidAnimal(n, predicate);
       if (validAnimal) {
         n.remove();
