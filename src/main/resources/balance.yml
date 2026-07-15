@@ -1,0 +1,408 @@
+# Per-item balance scores (0-100) for Supreme, relative to vanilla Minecraft.
+# Read by Slimefun's BalanceService (overrides the auto heuristic). Bands:
+#   0-10 Trivial | 11-25 Standard | 26-40 Advanced | 41-69 Powerful | 70-100 Overpowered
+#   (vanilla anchors: iron gear ~15, netherite ~30, beacon ~35, end crystal ~70, mace ~85)
+# Derived from real stats read in src/main/java: machine tier (BASIC/ADVANCED/END_GAME),
+# energy capacity/generation, quarry output tier, gear tier ladder and recipe depth.
+scores:
+  # --- Icons ---
+  SUPREME_ELECTRIC_ITEM:                  5  # guide/category icon (no gameplay)
+  SUPREME_MAIN_ITEM:                      5  # guide/category icon (no gameplay)
+
+  # --- Resource: material cores ---
+  SUPREME_CORE_ACACIA_LOG:                10  # quarry/production resource core
+  SUPREME_CORE_ANDESITE:                  10  # quarry/production resource core
+  SUPREME_CORE_APPLE:                     10  # quarry/production resource core
+  SUPREME_CORE_BEEF:                      10  # quarry/production resource core
+  SUPREME_CORE_BEETROOT:                  10  # quarry/production resource core
+  SUPREME_CORE_BIRCH_LOG:                 10  # quarry/production resource core
+  SUPREME_CORE_BLACK:                     10  # quarry/production resource core
+  SUPREME_CORE_BLUE:                      10  # quarry/production resource core
+  SUPREME_CORE_CARROT:                    10  # quarry/production resource core
+  SUPREME_CORE_CHICKEN:                   10  # quarry/production resource core
+  SUPREME_CORE_CLAY:                      10  # quarry/production resource core
+  SUPREME_CORE_COAL:                      10  # quarry/production resource core
+  SUPREME_CORE_COD:                       10  # quarry/production resource core
+  SUPREME_CORE_CRIMSON_STEM:              10  # quarry/production resource core
+  SUPREME_CORE_CYAN:                      10  # quarry/production resource core
+  SUPREME_CORE_DARK_OAK_LOG:              10  # quarry/production resource core
+  SUPREME_CORE_DIAMOND:                   10  # quarry/production resource core
+  SUPREME_CORE_DIORITE:                   10  # quarry/production resource core
+  SUPREME_CORE_EMERALD:                   10  # quarry/production resource core
+  SUPREME_CORE_ENDSTONE:                  10  # quarry/production resource core
+  SUPREME_CORE_GOLD:                      10  # quarry/production resource core
+  SUPREME_CORE_GRANITE:                   10  # quarry/production resource core
+  SUPREME_CORE_GRAVEL:                    10  # quarry/production resource core
+  SUPREME_CORE_GRAY:                      10  # quarry/production resource core
+  SUPREME_CORE_GREEN:                     10  # quarry/production resource core
+  SUPREME_CORE_IRON:                      10  # quarry/production resource core
+  SUPREME_CORE_JUNGLE_LOG:                10  # quarry/production resource core
+  SUPREME_CORE_LAPIS:                     10  # quarry/production resource core
+  SUPREME_CORE_MELON:                     10  # quarry/production resource core
+  SUPREME_CORE_MUTTON:                    10  # quarry/production resource core
+  SUPREME_CORE_NETHERITE:                 10  # quarry/production resource core
+  SUPREME_CORE_OAK_LOG:                   10  # quarry/production resource core
+  SUPREME_CORE_PINK:                      10  # quarry/production resource core
+  SUPREME_CORE_PORKCHOP:                  10  # quarry/production resource core
+  SUPREME_CORE_POTATO:                    10  # quarry/production resource core
+  SUPREME_CORE_PUMPKIN:                   10  # quarry/production resource core
+  SUPREME_CORE_PURPLE:                    10  # quarry/production resource core
+  SUPREME_CORE_QUARTZ:                    10  # quarry/production resource core
+  SUPREME_CORE_RED:                       10  # quarry/production resource core
+  SUPREME_CORE_REDSTONE:                  10  # quarry/production resource core
+  SUPREME_CORE_SALMON:                    10  # quarry/production resource core
+  SUPREME_CORE_SAND:                      10  # quarry/production resource core
+  SUPREME_CORE_SNOW:                      10  # quarry/production resource core
+  SUPREME_CORE_SPIDER_EYE:                10  # quarry/production resource core
+  SUPREME_CORE_SPRUCE_LOG:                10  # quarry/production resource core
+  SUPREME_CORE_STONE:                     10  # quarry/production resource core
+  SUPREME_CORE_STRING:                    10  # quarry/production resource core
+  SUPREME_CORE_SUGAR_CANE:                10  # quarry/production resource core
+  SUPREME_CORE_SWEET_BERRIES:             10  # quarry/production resource core
+  SUPREME_CORE_TEAR:                      10  # quarry/production resource core
+  SUPREME_CORE_WARPED_STEM:               10  # quarry/production resource core
+  SUPREME_CORE_WHEAT:                     10  # quarry/production resource core
+  SUPREME_CORE_WITHER_ROSE:               10  # quarry/production resource core
+  SUPREME_CORE_YELLOW:                    10  # quarry/production resource core
+
+  # --- Resource: core-of ---
+  SUPREME_CORE_OF_ALLOY:                  18  # tier resource-core (crafting hub)
+  SUPREME_CORE_OF_BLOCK:                  18  # tier resource-core (crafting hub)
+  SUPREME_CORE_OF_COLOR:                  18  # tier resource-core (crafting hub)
+  SUPREME_CORE_OF_DEATH:                  18  # tier resource-core (crafting hub)
+  SUPREME_CORE_OF_LIFE:                   18  # tier resource-core (crafting hub)
+  SUPREME_CORE_OF_NATURE:                 18  # tier resource-core (crafting hub)
+
+  # --- Components: alloys ---
+  SUPREME_ALLOY_ADAMANTIUM:               12  # basic alloy component
+  SUPREME_ALLOY_AURUM:                    12  # basic alloy component
+  SUPREME_ALLOY_IRIDIUM:                  12  # basic alloy component
+  SUPREME_ALLOY_MANGANESE:                12  # basic alloy component
+  SUPREME_ALLOY_PLATINUM:                 12  # basic alloy component
+  SUPREME_ALLOY_TITANIUM:                 12  # basic alloy component
+  SUPREME_ALLOY_ZIRCONIUM:                12  # basic alloy component
+
+  # --- Components: plates ---
+  SUPREME_ADAMANTIUM_PLATE:               15  # pressed plate component
+  SUPREME_AURUM_PLATE:                    15  # pressed plate component
+  SUPREME_IRIDIUM_PLATE:                  15  # pressed plate component
+  SUPREME_MANGANESE_PLATE:                15  # pressed plate component
+  SUPREME_PLATINUM_PLATE:                 15  # pressed plate component
+  SUPREME_TITANIUM_PLATE:                 15  # pressed plate component
+  SUPREME_ZIRCONIUM_PLATE:                15  # pressed plate component
+
+  # --- Components: dusts ---
+  SUPREME_DUST_AMETHYST:                  10  # seed-form dust component
+  SUPREME_DUST_GLOW_INK:                  10  # seed-form dust component
+  SUPREME_DUST_NETHERITE:                 10  # seed-form dust component
+
+  # --- Components: thornium/supreme ---
+  SUPREME_SUPREME:                        40  # end-game crafting component
+  SUPREME_THORNERITE:                     35  # end-game crafting component
+  SUPREME_SUPREME_NUGGET:                 30  # end-game crafting component
+  SUPREME_THORNIUM_ENERGIZED:             30  # end-game crafting component
+  SUPREME_THORNIUM_CARBONADO:             28  # end-game crafting component
+  SUPREME_SYNTHETIC_RUBY:                 24  # end-game crafting component
+  SUPREME_THORNIUM_INGOT_SYNTHETIC:       22  # end-game crafting component
+  SUPREME_SYNTHETIC_AMETHYST:             20  # end-game crafting component
+  SUPREME_THORNIUM_INGOT:                 20  # end-game crafting component
+  SUPREME_THORNIUM_DUST_SYNTHETIC:        19  # end-game crafting component
+  SUPREME_THORNIUM_BIT_SYNTHETIC:         17  # end-game crafting component
+  SUPREME_THORNIUM_DUST:                  17  # end-game crafting component
+  SUPREME_THORNIUM_BIT:                   15  # end-game crafting component
+
+  # --- Components: advanced-machine ---
+  SUPREME_BLEND_MACHINE:                  38  # advanced machine component
+  SUPREME_CRYSTALLIZER_MACHINE:           36  # advanced machine component
+  SUPREME_PETRIFIER_MACHINE:              34  # advanced machine component
+  SUPREME_CONVEYANCE_MACHINE:             32  # advanced machine component
+  SUPREME_STAINLESS_MACHINE:              30  # advanced machine component
+  SUPREME_CARRIAGE_MACHINE:               28  # advanced machine component
+  SUPREME_INDUCTOR_MACHINE:               28  # advanced machine component
+  SUPREME_RUSTLESS_MACHINE:               26  # advanced machine component
+  SUPREME_INDUCTIVE_MACHINE:              25  # advanced machine component
+
+  # --- Components: card centers ---
+  SUPREME_CENTER_CARD_ULTIMATE:           25  # card center component
+  SUPREME_CENTER_CARD_ADVANCED:           20  # card center component
+  SUPREME_CENTER_CARD_SIMPLE:             15  # card center component
+
+  # --- Components: genes ---
+  SUPREME_GENE_BERSERK:                   18  # mutation gene component
+  SUPREME_GENE_INTELLIGENCE:              18  # mutation gene component
+  SUPREME_GENE_LUCK:                      18  # mutation gene component
+
+  # --- Components: mobtech ---
+  SUPREME_EMPTY_MOBTECH:                  12  # empty mob-tech shell
+
+  # --- Magical: cetrus ---
+  SUPREME_CETRUS_AQUA:                    20  # elemental cetrus (magical)
+  SUPREME_CETRUS_IGNIS:                   20  # elemental cetrus (magical)
+  SUPREME_CETRUS_LUMIUM:                  20  # elemental cetrus (magical)
+  SUPREME_CETRUS_LUX:                     20  # elemental cetrus (magical)
+  SUPREME_CETRUS_VENTUS:                  20  # elemental cetrus (magical)
+
+  # --- Magical: attributes ---
+  SUPREME_ATTRIBUTE_BOMB:                 22  # magical attribute component
+  SUPREME_ATTRIBUTE_FORTUNE:              22  # magical attribute component
+  SUPREME_ATTRIBUTE_IMPETUS:              22  # magical attribute component
+  SUPREME_ATTRIBUTE_MAGIC:                22  # magical attribute component
+
+  # --- Cards ---
+  SUPREME_CARD_AMETHYST:                  18  # machine production card
+  SUPREME_CARD_BLAZE_ROD:                 18  # machine production card
+  SUPREME_CARD_CARBONADO:                 18  # machine production card
+  SUPREME_CARD_DAMASCUS:                  18  # machine production card
+  SUPREME_CARD_DIAMOND:                   18  # machine production card
+  SUPREME_CARD_EMERALD:                   18  # machine production card
+  SUPREME_CARD_GOLD24K:                   18  # machine production card
+  SUPREME_CARD_NETHERITE:                 18  # machine production card
+  SUPREME_CARD_NETHER_STAR:               18  # machine production card
+  SUPREME_CARD_REINFORCED_ALLOY:          18  # machine production card
+  SUPREME_CARD_SYNTHETIC_DIAMOND:         18  # machine production card
+  SUPREME_CARD_SYNTHETIC_EMERALD:         18  # machine production card
+  SUPREME_CARD_SYNTHETIC_SAPPHIRE:        18  # machine production card
+  SUPREME_CARD_ALUMINUM_BRASS:            12  # machine production card
+  SUPREME_CARD_ALUMINUM_BRONZE:           12  # machine production card
+  SUPREME_CARD_ALUMINUM_DUST:             12  # machine production card
+  SUPREME_CARD_ANDESITE:                  12  # machine production card
+  SUPREME_CARD_APPLE:                     12  # machine production card
+  SUPREME_CARD_BATTERY:                   12  # machine production card
+  SUPREME_CARD_BILLON:                    12  # machine production card
+  SUPREME_CARD_BRASS:                     12  # machine production card
+  SUPREME_CARD_BRONZE:                    12  # machine production card
+  SUPREME_CARD_CARBON:                    12  # machine production card
+  SUPREME_CARD_CARBON_PRESS:              12  # machine production card
+  SUPREME_CARD_CLAY:                      12  # machine production card
+  SUPREME_CARD_COAL:                      12  # machine production card
+  SUPREME_CARD_COBALT:                    12  # machine production card
+  SUPREME_CARD_COPPER:                    12  # machine production card
+  SUPREME_CARD_COPPER_DUST:               12  # machine production card
+  SUPREME_CARD_CORINTHIAN_BRONZE:         12  # machine production card
+  SUPREME_CARD_DIORITE:                   12  # machine production card
+  SUPREME_CARD_DURALUMIN:                 12  # machine production card
+  SUPREME_CARD_ELECTRIC_MOTOR:            12  # machine production card
+  SUPREME_CARD_ELECTRO_MAGNET:            12  # machine production card
+  SUPREME_CARD_ENDSTONE:                  12  # machine production card
+  SUPREME_CARD_FERROSILICON:              12  # machine production card
+  SUPREME_CARD_GLOW_INK_SAC:              12  # machine production card
+  SUPREME_CARD_GOLD:                      12  # machine production card
+  SUPREME_CARD_GOLD_DUST:                 12  # machine production card
+  SUPREME_CARD_GRANITE:                   12  # machine production card
+  SUPREME_CARD_GRAVEL:                    12  # machine production card
+  SUPREME_CARD_HARDENED_METAL:            12  # machine production card
+  SUPREME_CARD_HEATING_COIL:              12  # machine production card
+  SUPREME_CARD_HONEY_BOTTLE:              12  # machine production card
+  SUPREME_CARD_INK_SAC:                   12  # machine production card
+  SUPREME_CARD_IRON:                      12  # machine production card
+  SUPREME_CARD_IRON_DUST:                 12  # machine production card
+  SUPREME_CARD_LAPIS:                     12  # machine production card
+  SUPREME_CARD_LEAD_DUST:                 12  # machine production card
+  SUPREME_CARD_MAGNESIUM_DUST:            12  # machine production card
+  SUPREME_CARD_MAGNET:                    12  # machine production card
+  SUPREME_CARD_NICKEL:                    12  # machine production card
+  SUPREME_CARD_PLASTIC_SHEET:             12  # machine production card
+  SUPREME_CARD_QUARTZ:                    12  # machine production card
+  SUPREME_CARD_QUARTZ_BLOCK:              12  # machine production card
+  SUPREME_CARD_REDSTONE:                  12  # machine production card
+  SUPREME_CARD_REDSTONE_ALLOY:            12  # machine production card
+  SUPREME_CARD_SAND:                      12  # machine production card
+  SUPREME_CARD_SILICON:                   12  # machine production card
+  SUPREME_CARD_SILVER_DUST:               12  # machine production card
+  SUPREME_CARD_SLIME_BALL:                12  # machine production card
+  SUPREME_CARD_SNOW:                      12  # machine production card
+  SUPREME_CARD_SOLDER:                    12  # machine production card
+  SUPREME_CARD_STEEL:                     12  # machine production card
+  SUPREME_CARD_STONE:                     12  # machine production card
+  SUPREME_CARD_SULFATE:                   12  # machine production card
+  SUPREME_CARD_TIN_DUST:                  12  # machine production card
+  SUPREME_CARD_WITHER_ROSE:               12  # machine production card
+  SUPREME_CARD_ZINC_DUST:                 12  # machine production card
+
+  # --- Generators ---
+  SUPREME_SUPREME_GENERATOR:              60  # top-tier anywhere generator
+  SUPREME_THORNIUM_GENERATOR:             45  # powerful anywhere generator
+  SUPREME_TECH_GENERATOR:                 40  # mob-tech powered generator
+  SUPREME_AQUA_GENERATOR:                 25  # elemental generator
+  SUPREME_IGNIS_GENERATOR:                25  # elemental generator
+  SUPREME_LUMIUM_GENERATOR:               25  # elemental generator
+  SUPREME_LUX_GENERATOR:                  25  # elemental generator
+  SUPREME_VENTUS_GENERATOR:               25  # elemental generator
+  SUPREME_BASIC_AQUA_GENERATOR:           15  # basic elemental generator
+  SUPREME_BASIC_IGNIS_GENERATOR:          15  # basic elemental generator
+  SUPREME_BASIC_LUMIUM_GENERATOR:         15  # basic elemental generator
+  SUPREME_BASIC_LUX_GENERATOR:            15  # basic elemental generator
+  SUPREME_BASIC_VENTUS_GENERATOR:         15  # basic elemental generator
+
+  # --- Generators: mob ---
+  SUPREME_GENERATOR_MOB_ADVANCED:         30  # methane mob generator
+  SUPREME_GENERATOR_MOB_MEDIUM:           25  # methane mob generator
+  SUPREME_GENERATOR_MOB_BASIC:            20  # methane mob generator
+
+  # --- Capacitors ---
+  SUPREME_SUPREME_CAPACITOR:              55  # energy capacitor
+  SUPREME_THORNIUM_CAPACITOR:             45  # energy capacitor
+  SUPREME_ADAMANTIUM_CAPACITOR:           35  # energy capacitor
+  SUPREME_TITANIUM_CAPACITOR:             30  # energy capacitor
+  SUPREME_AURUM_CAPACITOR:                25  # energy capacitor
+
+  # --- Machines: quarries ---
+  SUPREME_SUPREME_NUGGETS_QUARRY:         55  # resource quarry
+  SUPREME_THORNIUM_QUARRY:                48  # resource quarry
+  SUPREME_DIAMOND_QUARRY:                 40  # resource quarry
+  SUPREME_GOLD_QUARRY:                    32  # resource quarry
+  SUPREME_IRON_QUARRY:                    26  # resource quarry
+  SUPREME_COAL_QUARRY:                    20  # resource quarry
+  SUPREME_STONE_QUARRY:                   18  # resource quarry
+
+  # --- Machines: tiered ---
+  SUPREME_TECH_MUTATION_III:              50  # tiered machine
+  SUPREME_TECH_ROBOTIC_III:               50  # mob-tech robotic machine
+  SUPREME_ELECTRIC_CRAFTER_III:           46  # tiered machine
+  SUPREME_MAGIC_ALTAR_III:                46  # tiered machine
+  SUPREME_FORGE_MAGICAL_III:              45  # tiered machine
+  SUPREME_ELECTRIC_CORE_III:              42  # tiered machine
+  SUPREME_ELECTRIC_GEAR_III:              42  # tiered machine
+  SUPREME_ELECTRIC_MAGICAL_III:           42  # tiered machine
+  SUPREME_TECH_MUTATION_II:               42  # tiered machine
+  SUPREME_TECH_ROBOTIC_II:                42  # mob-tech robotic machine
+  SUPREME_FORGE_INGOT_III:                40  # tiered machine
+  SUPREME_FOUNDRY_III:                    40  # tiered machine
+  SUPREME_VIRTUAL_AQUARIUM_III:           40  # tiered machine
+  SUPREME_VIRTUAL_GARDEN_III:             40  # tiered machine
+  SUPREME_ELECTRIC_CRAFTER_II:            38  # tiered machine
+  SUPREME_MAGIC_ALTAR_II:                 38  # tiered machine
+  SUPREME_FORGE_MAGICAL_II:               36  # tiered machine
+  SUPREME_ELECTRIC_CORE_II:               35  # tiered machine
+  SUPREME_ELECTRIC_GEAR_II:               35  # tiered machine
+  SUPREME_ELECTRIC_MAGICAL_II:            35  # tiered machine
+  SUPREME_TECH_MUTATION_I:                35  # tiered machine
+  SUPREME_TECH_ROBOTIC:                   35  # mob-tech robotic machine
+  SUPREME_FORGE_INGOT_II:                 32  # tiered machine
+  SUPREME_FOUNDRY_II:                     32  # tiered machine
+  SUPREME_VIRTUAL_AQUARIUM_II:            32  # tiered machine
+  SUPREME_VIRTUAL_GARDEN_II:              32  # tiered machine
+  SUPREME_ELECTRIC_CRAFTER_I:             30  # tiered machine
+  SUPREME_MAGIC_ALTAR_I:                  30  # tiered machine
+  SUPREME_ELECTRIC_CORE_I:                28  # tiered machine
+  SUPREME_ELECTRIC_GEAR_I:                28  # tiered machine
+  SUPREME_ELECTRIC_MAGICAL_I:             28  # tiered machine
+  SUPREME_FORGE_MAGICAL_I:                28  # tiered machine
+  SUPREME_FORGE_INGOT_I:                  25  # tiered machine
+  SUPREME_FOUNDRY_I:                      25  # tiered machine
+  SUPREME_VIRTUAL_AQUARIUM_I:             25  # tiered machine
+  SUPREME_VIRTUAL_GARDEN_I:               25  # tiered machine
+
+  # --- Machines: mob-collector ---
+  SUPREME_MOB_COLLECTOR_MACHINE_I:        28  # mob-tech collector machine
+  SUPREME_MOB_COLLECTOR_MACHINE_II:       28  # mob-tech collector machine
+  SUPREME_MOB_COLLECTOR_MACHINE_III:      28  # mob-tech collector machine
+  SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:  28  # mob-tech collector machine
+  SUPREME_MOB_TECH_COLLECTOR_MACHINE_III: 28  # mob-tech collector machine
+  SUPREME_MOB_COLLECTOR_TOOL_I:           22  # mob-tech collector tool
+  SUPREME_MOB_COLLECTOR_TOOL_II:          22  # mob-tech collector tool
+  SUPREME_MOB_COLLECTOR_TOOL_III:         22  # mob-tech collector tool
+
+  # --- Machines: multiblock ---
+  SUPREME_MULTIBLOCK_CORE:                20  # multiblock fabricator core
+  SUPREME_MULTIBLOCK_GEAR:                20  # multiblock fabricator core
+  SUPREME_MULTIBLOCK_MAGICAL:             20  # multiblock fabricator core
+
+  # --- Machines: utility ---
+  SUPREME_CHECK_INVENTORY:                15  # utility check-inventory block
+
+  # --- Gear: basic armor ---
+  SUPREME_ADAMANTIUM_BOOTS:               26  # Adamantium armor piece (netherite-class base)
+  SUPREME_ADAMANTIUM_CHESTPLATE:          26  # Adamantium armor piece (netherite-class base)
+  SUPREME_ADAMANTIUM_HELMET:              26  # Adamantium armor piece (netherite-class base)
+  SUPREME_ADAMANTIUM_LEGGINGS:            26  # Adamantium armor piece (netherite-class base)
+  SUPREME_AURUM_BOOTS:                    26  # Aurum armor piece (netherite-class base)
+  SUPREME_AURUM_CHESTPLATE:               26  # Aurum armor piece (netherite-class base)
+  SUPREME_AURUM_HELMET:                   26  # Aurum armor piece (netherite-class base)
+  SUPREME_AURUM_LEGGINGS:                 26  # Aurum armor piece (netherite-class base)
+  SUPREME_TITANIUM_BOOTS:                 26  # Titanium armor piece (netherite-class base)
+  SUPREME_TITANIUM_CHESTPLATE:            26  # Titanium armor piece (netherite-class base)
+  SUPREME_TITANIUM_HELMET:                26  # Titanium armor piece (netherite-class base)
+  SUPREME_TITANIUM_LEGGINGS:              26  # Titanium armor piece (netherite-class base)
+
+  # --- Gear: basic weapons ---
+  SUPREME_ADAMANTIUM_SWORD:               28  # Adamantium sword
+  SUPREME_AURUM_SWORD:                    28  # Aurum sword
+  SUPREME_TITANIUM_SWORD:                 28  # Titanium sword
+
+  # --- Gear: basic tools ---
+  SUPREME_ADAMANTIUM_AXE:                 24  # Adamantium tool
+  SUPREME_ADAMANTIUM_PICKAXE:             24  # Adamantium tool
+  SUPREME_ADAMANTIUM_SHOVEL:              24  # Adamantium tool
+  SUPREME_AURUM_AXE:                      24  # Aurum tool
+  SUPREME_AURUM_PICKAXE:                  24  # Aurum tool
+  SUPREME_AURUM_SHOVEL:                   24  # Aurum tool
+  SUPREME_TITANIUM_AXE:                   24  # Titanium tool
+  SUPREME_TITANIUM_PICKAXE:               24  # Titanium tool
+  SUPREME_TITANIUM_SHOVEL:                24  # Titanium tool
+
+  # --- Gear: armor (thornium ladder) ---
+  SUPREME_BOOTS_SUPREME:                  70  # Supreme boots of Thornium
+  SUPREME_CHESTPLATE_SUPREME:             70  # Supreme chestplate of Thornium
+  SUPREME_HELMET_SUPREME:                 70  # Supreme helmet of Thornium
+  SUPREME_LEGGINGS_SUPREME:               70  # Supreme leggings of Thornium
+  SUPREME_BOOTS_LEGENDARY:                62  # Legendary boots of Thornium
+  SUPREME_CHESTPLATE_LEGENDARY:           62  # Legendary chestplate of Thornium
+  SUPREME_HELMET_LEGENDARY:               62  # Legendary helmet of Thornium
+  SUPREME_LEGGINGS_LEGENDARY:             62  # Legendary leggings of Thornium
+  SUPREME_BOOTS_EPIC:                     52  # Epic boots of Thornium
+  SUPREME_CHESTPLATE_EPIC:                52  # Epic chestplate of Thornium
+  SUPREME_HELMET_EPIC:                    52  # Epic helmet of Thornium
+  SUPREME_LEGGINGS_EPIC:                  52  # Epic leggings of Thornium
+  SUPREME_BOOTS_RARE:                     44  # Rare boots of Thornium
+  SUPREME_CHESTPLATE_RARE:                44  # Rare chestplate of Thornium
+  SUPREME_HELMET_RARE:                    44  # Rare helmet of Thornium
+  SUPREME_LEGGINGS_RARE:                  44  # Rare leggings of Thornium
+  SUPREME_BOOTS_MAGIC:                    38  # Magic boots of Thornium
+  SUPREME_CHESTPLATE_MAGIC:               38  # Magic chestplate of Thornium
+  SUPREME_HELMET_MAGIC:                   38  # Magic helmet of Thornium
+  SUPREME_LEGGINGS_MAGIC:                 38  # Magic leggings of Thornium
+  SUPREME_BOOTS_THORNIUM:                 32  # Thornium boots of Thornium
+  SUPREME_CHESTPLATE_THORNIUM:            32  # Thornium chestplate of Thornium
+  SUPREME_HELMET_THORNIUM:                32  # Thornium helmet of Thornium
+  SUPREME_LEGGINGS_THORNIUM:              32  # Thornium leggings of Thornium
+
+  # --- Gear: weapons (thornium ladder) ---
+  SUPREME_BOW_SUPREME:                    73  # Supreme bow of Thornium
+  SUPREME_SWORD_SUPREME:                  73  # Supreme sword of Thornium
+  SUPREME_SHIELD_SUPREME:                 70  # Supreme shield of Thornium
+  SUPREME_BOW_LEGENDARY:                  62  # Legendary bow of Thornium
+  SUPREME_SHIELD_LEGENDARY:               62  # Legendary shield of Thornium
+  SUPREME_SWORD_LEGENDARY:                62  # Legendary sword of Thornium
+  SUPREME_BOW_EPIC:                       52  # Epic bow of Thornium
+  SUPREME_SHIELD_EPIC:                    52  # Epic shield of Thornium
+  SUPREME_SWORD_EPIC:                     52  # Epic sword of Thornium
+  SUPREME_BOW_RARE:                       44  # Rare bow of Thornium
+  SUPREME_SHIELD_RARE:                    44  # Rare shield of Thornium
+  SUPREME_SWORD_RARE:                     44  # Rare sword of Thornium
+  SUPREME_BOW_MAGIC:                      38  # Magic bow of Thornium
+  SUPREME_SHIELD_MAGIC:                   38  # Magic shield of Thornium
+  SUPREME_SWORD_MAGIC:                    38  # Magic sword of Thornium
+  SUPREME_BOW_THORNIUM:                   32  # Thornium bow of Thornium
+  SUPREME_SHIELD_THORNIUM:                32  # Thornium shield of Thornium
+  SUPREME_SWORD_THORNIUM:                 32  # Thornium sword of Thornium
+
+  # --- Gear: tools (thornium ladder) ---
+  SUPREME_AXE_SUPREME:                    70  # Supreme axe of Thornium
+  SUPREME_PICKAXE_SUPREME:                70  # Supreme pickaxe of Thornium
+  SUPREME_SHOVEL_SUPREME:                 70  # Supreme shovel of Thornium
+  SUPREME_AXE_LEGENDARY:                  62  # Legendary axe of Thornium
+  SUPREME_PICKAXE_LEGENDARY:              62  # Legendary pickaxe of Thornium
+  SUPREME_SHOVEL_LEGENDARY:               62  # Legendary shovel of Thornium
+  SUPREME_AXE_EPIC:                       52  # Epic axe of Thornium
+  SUPREME_PICKAXE_EPIC:                   52  # Epic pickaxe of Thornium
+  SUPREME_SHOVEL_EPIC:                    52  # Epic shovel of Thornium
+  SUPREME_AXE_RARE:                       44  # Rare axe of Thornium
+  SUPREME_PICKAXE_RARE:                   44  # Rare pickaxe of Thornium
+  SUPREME_SHOVEL_RARE:                    44  # Rare shovel of Thornium
+  SUPREME_AXE_MAGIC:                      38  # Magic axe of Thornium
+  SUPREME_PICKAXE_MAGIC:                  38  # Magic pickaxe of Thornium
+  SUPREME_SHOVEL_MAGIC:                   38  # Magic shovel of Thornium
+  SUPREME_AXE_THORNIUM:                   32  # Thornium axe of Thornium
+  SUPREME_PICKAXE_THORNIUM:               32  # Thornium pickaxe of Thornium
+  SUPREME_SHOVEL_THORNIUM:                32  # Thornium shovel of Thornium
