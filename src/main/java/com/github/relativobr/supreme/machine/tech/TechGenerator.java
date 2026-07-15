@@ -12,7 +12,6 @@ import com.github.relativobr.supreme.resource.SupremeComponents;
 import com.github.relativobr.supreme.resource.mobtech.MobTech;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -54,13 +53,7 @@ import java.util.stream.Collectors;
 
 public class TechGenerator extends SimpleItemContainerMachine implements Radioactive {
 
-  public static final SlimefunItemStack TECH_GENERATOR = new SupremeItemStack(
-      "SUPREME_TECH_GENERATOR", MaterialCompat.safe(XMaterial.LOOM),
-      "&bTech Generator", "", "&fUsing power and bees/golem/zombie, ", "&fslowly generates "
-      + "materials.", "",
-      "", "",
-      "",
-      UtilEnergy.energyPowerPerTick(2000), "", "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_GENERATOR = new SupremeItemStack("SUPREME_TECH_GENERATOR", MaterialCompat.safe(XMaterial.LOOM));
 
   public static final ItemStack[] RECIPE_TECH_GENERATOR = {SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),

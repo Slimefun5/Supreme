@@ -47,32 +47,20 @@ import org.bukkit.inventory.ItemStack;
 
 public class MobTechCollector extends SimpleItemWithLargeContainerMachine {
 
-  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_I = new SupremeItemStack(
-      "MOB_TECH_COLLECTOR_MACHINE", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE), "&bMobTech Collector I", "",
-      "&fThis machine allows you to collect ", "&fMobTech head nearby mobs. (3 block)", "",
-      "", "",
-      "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_I = new SupremeItemStack("MOB_TECH_COLLECTOR_MACHINE", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE));
   public static final ItemStack[] RECIPE_MOB_TECH_COLLECTOR_MACHINE_I = new ItemStack[]{
       SupremeComponents.RUSTLESS_MACHINE.item(), MobCollectorTools.MOB_COLLECTOR_I.item(), SupremeComponents.RUSTLESS_MACHINE.item(),
       SupremeComponents.INDUCTIVE_MACHINE.item(), MobCollectorTools.MOB_COLLECTOR_I.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.AURUM_PLATE.item(), SlimefunItems.PROGRAMMABLE_ANDROID_3_BUTCHER.item(), SupremeComponents.AURUM_PLATE.item()};
 
-  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_II = new SupremeItemStack(
-      "SUPREME_MOB_TECH_COLLECTOR_MACHINE_II", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE), "&bMobTech Collector II", "",
-      "&fThis machine allows you to collect ", "&fMobTech head nearby mobs. (6 block)", "",
-      "", "",
-      "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_II = new SupremeItemStack("SUPREME_MOB_TECH_COLLECTOR_MACHINE_II", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE));
   public static final ItemStack[] RECIPE_MOB_TECH_COLLECTOR_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), MobTechCollector.MOB_TECH_COLLECTOR_MACHINE_I.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_IGNIS.item(),
       SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_III = new SupremeItemStack(
-      "SUPREME_MOB_TECH_COLLECTOR_MACHINE_III", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE), "&bMobTech Collector III", "",
-      "&fThis machine allows you to collect ", "&fMobTech head nearby mobs. (9 block)", "",
-      "", "",
-      "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack MOB_TECH_COLLECTOR_MACHINE_III = new SupremeItemStack("SUPREME_MOB_TECH_COLLECTOR_MACHINE_III", MaterialCompat.safe(XMaterial.NETHER_GOLD_ORE));
   public static final ItemStack[] RECIPE_MOB_TECH_COLLECTOR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       MobTechCollector.MOB_TECH_COLLECTOR_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

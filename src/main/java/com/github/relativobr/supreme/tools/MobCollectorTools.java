@@ -34,21 +34,15 @@ import org.bukkit.inventory.ItemStack;
 
 public class MobCollectorTools extends SlimefunItem implements Rechargeable, NotPlaceable {
 
-  public static final SlimefunItemStack MOB_COLLECTOR_I = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_I",
-      MaterialCompat.safe(XMaterial.IRON_SHOVEL), false,
-      "", "");
+  public static final SlimefunItemStack MOB_COLLECTOR_I = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_I", MaterialCompat.safe(XMaterial.IRON_SHOVEL));
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_I = new ItemStack[]{null, SupremeComponents.SYNTHETIC_RUBY.item(), null,
       null, WeaponsBasic.AURUM_SWORD.item(), null, null, SlimefunItems.MEDIUM_CAPACITOR.item(), null};
 
-  public static final SlimefunItemStack MOB_COLLECTOR_II = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_II",
-      MaterialCompat.safe(XMaterial.DIAMOND_SHOVEL), false,
-      "", "");
+  public static final SlimefunItemStack MOB_COLLECTOR_II = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_II", MaterialCompat.safe(XMaterial.DIAMOND_SHOVEL));
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_II = new ItemStack[]{null, SupremeCore.CORE_OF_LIFE.item(), null, null,
       MobCollectorTools.MOB_COLLECTOR_I.item(), null, null, SupremeCetrus.CETRUS_VENTUS.item(), null};
 
-  public static final SlimefunItemStack MOB_COLLECTOR_III = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_III",
-      MaterialCompat.safe(XMaterial.NETHERITE_SHOVEL), false,
-      "", "");
+  public static final SlimefunItemStack MOB_COLLECTOR_III = new SupremeItemStack("SUPREME_MOB_COLLECTOR_TOOL_III", MaterialCompat.safe(XMaterial.NETHERITE_SHOVEL));
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_III = new ItemStack[]{null, SupremeAttribute.getBomb().item(), null,
       null, MobCollectorTools.MOB_COLLECTOR_II.item(), null, null, SupremeCetrus.CETRUS_LUMIUM.item(), null};
   int charge;

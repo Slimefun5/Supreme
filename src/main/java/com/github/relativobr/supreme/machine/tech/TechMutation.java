@@ -10,7 +10,6 @@ import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.resource.magical.SupremeCore;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import com.github.relativobr.supreme.util.UtilMachine;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
@@ -46,31 +45,19 @@ import java.util.Objects;
 
 public class TechMutation extends SimpleItemContainerMachine implements Radioactive {
 
-  public static final SlimefunItemStack TECH_MUTATION_I = new SupremeItemStack("SUPREME_TECH_MUTATION_I",
-      MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation", "", "&fUse generator mutation ", "&fto progress to higher levels", "",
-      "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_MUTATION_I = new SupremeItemStack("SUPREME_TECH_MUTATION_I", MaterialCompat.safe(XMaterial.SLIME_BLOCK));
   public static final ItemStack[] RECIPE_TECH_MUTATION_I = {SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SlimefunItems.REINFORCED_PLATE.item(),
       SlimefunItems.NUCLEAR_REACTOR.item(), SlimefunItems.REINFORCED_PLATE.item(), SupremeComponents.RUSTLESS_MACHINE.item(),
       SupremeCore.CORE_OF_DEATH.item(), SupremeComponents.RUSTLESS_MACHINE.item()};
 
-  public static final SlimefunItemStack TECH_MUTATION_II = new SupremeItemStack("SUPREME_TECH_MUTATION_II",
-      MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation II", "", "&fUse generator mutation ", "&fto progress to higher levels", "",
-      "&fChance factor multiplied by 2x", "", "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_MUTATION_II = new SupremeItemStack("SUPREME_TECH_MUTATION_II", MaterialCompat.safe(XMaterial.SLIME_BLOCK));
   public static final ItemStack[] RECIPE_TECH_MUTATION_II = new ItemStack[]{SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
       TechMutation.TECH_MUTATION_I.item(), SupremeComponents.INDUCTOR_MACHINE.item(), SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_IGNIS.item(), SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack TECH_MUTATION_III = new SupremeItemStack("SUPREME_TECH_MUTATION_III",
-      MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation III", "", "&fUse generator mutation ", "&fto progress to higher levels",
-      "", "&fChance factor multiplied by 4x", "", "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_MUTATION_III = new SupremeItemStack("SUPREME_TECH_MUTATION_III", MaterialCompat.safe(XMaterial.SLIME_BLOCK));
   public static final ItemStack[] RECIPE_TECH_MUTATION_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getImpetus().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       TechMutation.TECH_MUTATION_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),
