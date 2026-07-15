@@ -22,7 +22,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.inventory.InvUtils;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -48,8 +47,8 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
 
   public static final SlimefunItemStack MOB_COLLECTOR_MACHINE = new SupremeItemStack("SUPREME_MOB_COLLECTOR_MACHINE_I",
       MaterialCompat.safe(XMaterial.RESPAWN_ANCHOR), "&bMob Collector", "", "&fThis machine allows you to collect ",
-      "&fitems from nearby mobs. (4 block)", "", LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE),
-      LoreBuilder.speed(1), LoreBuilder.powerBuffer(1000), LoreBuilder.powerPerSecond(20), "", "&3Supreme Machine");
+      "&fitems from nearby mobs. (4 block)", "", "",
+      "", "", "", "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_MACHINE = new ItemStack[]{SupremeComponents.RUSTLESS_MACHINE.item(),
       new ItemStack(MaterialCompat.safe(XMaterial.RESPAWN_ANCHOR)), SupremeComponents.RUSTLESS_MACHINE.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SupremeComponents.ADAMANTIUM_PLATE.item(),
@@ -58,8 +57,8 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
   public static final SlimefunItemStack MOB_COLLECTOR_MACHINE_II = new SupremeItemStack(
       "SUPREME_MOB_COLLECTOR_MACHINE_II", MaterialCompat.safe(XMaterial.RESPAWN_ANCHOR), "&bMob Collector II", "",
       "&fThis machine allows you to collect", "&f items from nearby mobs. (8 block)", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
-      LoreBuilder.powerBuffer(5000), LoreBuilder.powerPerSecond(100), "", "&3Supreme Machine");
+      "", "",
+      "", "", "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), MobCollector.MOB_COLLECTOR_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
@@ -68,8 +67,8 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
   public static final SlimefunItemStack MOB_COLLECTOR_MACHINE_III = new SupremeItemStack(
       "SUPREME_MOB_COLLECTOR_MACHINE_III", MaterialCompat.safe(XMaterial.RESPAWN_ANCHOR), "&bMob Collector III", "",
       "&fThis machine allows you to collect", "&f items from nearby mobs. (16 block)", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
-      LoreBuilder.powerBuffer(15000), LoreBuilder.powerPerSecond(300), "", "&3Supreme Machine");
+      "", "",
+      "", "", "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MOB_COLLECTOR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getBomb().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       MobCollector.MOB_COLLECTOR_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

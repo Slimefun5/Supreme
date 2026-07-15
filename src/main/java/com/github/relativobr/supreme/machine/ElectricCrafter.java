@@ -14,7 +14,6 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.ArrayList;
 import java.util.List;
 import org.bukkit.Material;
@@ -24,7 +23,7 @@ public class ElectricCrafter extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_CRAFTER_I",
       MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter", "", "&fCraft Items", "",
-      LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE), LoreBuilder.speed(1),
+      "", "",
       UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE = new ItemStack[]{SupremeComponents.RUSTLESS_MACHINE.item(),
       SlimefunItems.VANILLA_AUTO_CRAFTER.item(), SupremeComponents.RUSTLESS_MACHINE.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
@@ -33,7 +32,7 @@ public class ElectricCrafter extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_II = new SupremeItemStack(
       "SUPREME_ELECTRIC_CRAFTER_II", MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter II", "", "&fAdvanced Craft Items", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
+      "", "",
       UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
@@ -42,7 +41,7 @@ public class ElectricCrafter extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_III = new SupremeItemStack(
       "SUPREME_ELECTRIC_CRAFTER_III", MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter III", "", "&fAdvanced Craft Items",
-      "", LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
+      "", "", "",
       UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

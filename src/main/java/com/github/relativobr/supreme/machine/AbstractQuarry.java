@@ -24,7 +24,6 @@ import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import io.github.thebusybiscuit.slimefun5.utils.tags.SlimefunTag;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
@@ -168,8 +167,8 @@ public class AbstractQuarry extends SlimefunItem implements EnergyNetComponent {
       menu.addItem(slot, ChestMenuUtils.getInputSlotTexture(), ChestMenuUtils.getEmptyClickHandler());
     }
 
-    final String powerPerSecond = LoreBuilder.powerPerSecond(getEnergyConsumption());
-    final String powerCharged = LoreBuilder.powerCharged(energyCharge, getCapacity());
+    final String powerPerSecond = "&8⇨ &e⚡ &7" + getEnergyConsumption() + " J/s";
+    final String powerCharged = "&8⇨ &e⚡ &7" + energyCharge + " / " + getCapacity() + " J";
     final String infoSpeed = UtilEnergy.timePerItem((getSupremeOptions().getCustomTickerDelay() * delaySpeed) / 2);
     if (energyCharge < getEnergyConsumption() || !this.enabled) {
       menu.addItem(InventoryRecipe.QUARRY_STATUS,

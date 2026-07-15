@@ -15,7 +15,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.implementation.items.electric.AbstractEnergyProvider;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.blocks.BlockPosition;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -45,7 +44,7 @@ public class GeneratorMob extends AbstractEnergyProvider {
 
   public static final SlimefunItemStack GENERATOR_MOB_BASIC = new SupremeItemStack("SUPREME_GENERATOR_MOB_BASIC",
       MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
+      "",
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_ENERGY)));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_BASIC = new ItemStack[]{SlimefunItems.SMALL_CAPACITOR.item(),
@@ -55,7 +54,7 @@ public class GeneratorMob extends AbstractEnergyProvider {
 
   public static final SlimefunItemStack GENERATOR_MOB_MEDIUM = new SupremeItemStack("SUPREME_GENERATOR_MOB_MEDIUM",
       MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
+      "",
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_ENERGY)));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_MEDIUM = new ItemStack[]{GeneratorMob.GENERATOR_MOB_BASIC.item(),
@@ -65,7 +64,7 @@ public class GeneratorMob extends AbstractEnergyProvider {
 
   public static final SlimefunItemStack GENERATOR_MOB_ADVANCED = new SupremeItemStack("SUPREME_GENERATOR_MOB_ADVANCED",
       MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      LoreBuilder.machine(MachineTier.BASIC, MachineType.GENERATOR),
+      "",
       UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_BUFFER)),
       UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_ENERGY)));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_ADVANCED = new ItemStack[]{GeneratorMob.GENERATOR_MOB_MEDIUM.item(),

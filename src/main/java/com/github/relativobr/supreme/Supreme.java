@@ -168,6 +168,10 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
 
     MainSetup.setup(this);
 
+    // Register this addon's languages/<lang>/items.yml so the core translation service renders
+    // Supreme item names/lore per-viewer (items are constructed name-less, see SupremeItemStack).
+    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService().registerTranslations(this);
+
   }
 
   @Override

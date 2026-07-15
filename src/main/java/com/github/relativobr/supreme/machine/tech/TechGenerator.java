@@ -26,7 +26,6 @@ import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.Validate;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import io.github.thebusybiscuit.slimefun5.utils.compatibility.PdcCompat;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
@@ -59,8 +58,8 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
       "SUPREME_TECH_GENERATOR", MaterialCompat.safe(XMaterial.LOOM),
       "&bTech Generator", "", "&fUsing power and bees/golem/zombie, ", "&fslowly generates "
       + "materials.", "",
-      LoreBuilder.radioactive(Radioactivity.LOW), "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE),
+      "", "",
+      "",
       UtilEnergy.energyPowerPerTick(2000), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_TECH_GENERATOR = {SupremeComponents.INDUCTIVE_MACHINE.item(),
