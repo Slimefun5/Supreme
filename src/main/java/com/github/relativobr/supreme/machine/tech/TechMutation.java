@@ -22,7 +22,6 @@ import io.github.thebusybiscuit.slimefun5.core.attributes.Radioactivity;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
@@ -49,8 +48,8 @@ public class TechMutation extends SimpleItemContainerMachine implements Radioact
 
   public static final SlimefunItemStack TECH_MUTATION_I = new SupremeItemStack("SUPREME_TECH_MUTATION_I",
       MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation", "", "&fUse generator mutation ", "&fto progress to higher levels", "",
-      LoreBuilder.radioactive(Radioactivity.VERY_HIGH), "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), UtilEnergy.energyPowerPerSecond(500), "",
+      "", "",
+      "", UtilEnergy.energyPowerPerSecond(500), "",
       "&3Supreme Machine");
   public static final ItemStack[] RECIPE_TECH_MUTATION_I = {SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SlimefunItems.REINFORCED_PLATE.item(),
@@ -59,8 +58,8 @@ public class TechMutation extends SimpleItemContainerMachine implements Radioact
 
   public static final SlimefunItemStack TECH_MUTATION_II = new SupremeItemStack("SUPREME_TECH_MUTATION_II",
       MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation II", "", "&fUse generator mutation ", "&fto progress to higher levels", "",
-      "&fChance factor multiplied by 2x", "", LoreBuilder.radioactive(Radioactivity.VERY_HIGH), "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), UtilEnergy.energyPowerPerSecond(500), "",
+      "&fChance factor multiplied by 2x", "", "", "",
+      "", UtilEnergy.energyPowerPerSecond(500), "",
       "&3Supreme Machine");
   public static final ItemStack[] RECIPE_TECH_MUTATION_II = new ItemStack[]{SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
@@ -69,8 +68,8 @@ public class TechMutation extends SimpleItemContainerMachine implements Radioact
 
   public static final SlimefunItemStack TECH_MUTATION_III = new SupremeItemStack("SUPREME_TECH_MUTATION_III",
       MaterialCompat.safe(XMaterial.SLIME_BLOCK), "&bTech Mutation III", "", "&fUse generator mutation ", "&fto progress to higher levels",
-      "", "&fChance factor multiplied by 4x", "", LoreBuilder.radioactive(Radioactivity.VERY_HIGH), "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), UtilEnergy.energyPowerPerSecond(500), "",
+      "", "&fChance factor multiplied by 4x", "", "", "",
+      "", UtilEnergy.energyPowerPerSecond(500), "",
       "&3Supreme Machine");
   public static final ItemStack[] RECIPE_TECH_MUTATION_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getImpetus().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

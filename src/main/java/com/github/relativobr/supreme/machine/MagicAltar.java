@@ -15,7 +15,6 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.ArrayList;
 import java.util.List;
 import org.bukkit.Material;
@@ -25,7 +24,7 @@ public class MagicAltar extends GenericMachine {
 
   public static final SlimefunItemStack MAGIC_ALTAR_MACHINE = new SupremeItemStack("SUPREME_MAGIC_ALTAR_I",
       MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar", "", "&fCraft Rune and Magical Items", "",
-      LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE), LoreBuilder.speed(1),
+      "", "",
       UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE = new ItemStack[]{SlimefunItems.ANCIENT_PEDESTAL.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SlimefunItems.ANCIENT_PEDESTAL.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
@@ -34,7 +33,7 @@ public class MagicAltar extends GenericMachine {
 
   public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_II = new SupremeItemStack("SUPREME_MAGIC_ALTAR_II",
       MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar II", "", "&fAdvanced Craft Rune and Magical Items", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
+      "", "",
       UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE_II = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_AQUA.item(), SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_VENTUS.item(),
@@ -43,7 +42,7 @@ public class MagicAltar extends GenericMachine {
 
   public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_III = new SupremeItemStack("SUPREME_MAGIC_ALTAR_III",
       MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar III", "", "&fAdvanced Craft Rune and Magical Items", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
+      "", "",
       UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getMagic().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

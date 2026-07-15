@@ -19,7 +19,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.handlers.SimpleBlockBre
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils;
 import java.util.Arrays;
 import java.util.Objects;
@@ -49,8 +48,8 @@ public class CheckInventory extends SlimefunItem implements InventoryBlock {
 
   public static final SlimefunItemStack CHECK_INVENTORY = new SlimefunItemStack("SUPREME_CHECK_INVENTORY",
       MaterialCompat.safe(XMaterial.REDSTONE_LAMP), "&bCheckInventory", "", "&fChecks if the nearby chest has the filter item",
-      "&fall faces are being considered (find first)", "&fif found, this block will light up", LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE),
-      LoreBuilder.speed(1), UtilEnergy.energyPowerPerSecond(0), "", "&3Supreme Machine");
+      "&fall faces are being considered (find first)", "&fif found, this block will light up", "",
+      "", UtilEnergy.energyPowerPerSecond(0), "", "&3Supreme Machine");
   private static final ItemStack[] RECIPE_CHECK_INVENTORY = new ItemStack[]{SupremeComponents.ALLOY_AURUM.item(),
       new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_LAMP)), SupremeComponents.ALLOY_AURUM.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK)),

@@ -30,7 +30,6 @@ import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -42,7 +41,7 @@ public class Foundry extends GenericMachine {
 
   public static final SlimefunItemStack FOUNDRY_MACHINE = new SupremeItemStack("SUPREME_FOUNDRY_I", MaterialCompat.safe(XMaterial.GRINDSTONE),
       "&bFoundry", "", "&fFoundry and Synthesizer Items", "",
-      LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE), LoreBuilder.speed(1),
+      "", "",
       UtilEnergy.energyPowerPerSecond(1000), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE = new ItemStack[]{SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(),
       SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(), SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(),
@@ -51,7 +50,7 @@ public class Foundry extends GenericMachine {
 
   public static final SlimefunItemStack FOUNDRY_MACHINE_II = new SupremeItemStack("SUPREME_FOUNDRY_II",
       MaterialCompat.safe(XMaterial.GRINDSTONE), "&bFoundry II", "", "&fAdvanced Foundry and Synthesizer Items", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
+      "", "",
       UtilEnergy.energyPowerPerSecond(5000), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE_II = new ItemStack[]{SupremeComponents.BLEND_MACHINE.item(),
       SupremeCetrus.CETRUS_AQUA.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeCetrus.CETRUS_VENTUS.item(), Foundry.FOUNDRY_MACHINE.item(),
@@ -59,7 +58,7 @@ public class Foundry extends GenericMachine {
 
   public static final SlimefunItemStack FOUNDRY_MACHINE_III = new SupremeItemStack("SUPREME_FOUNDRY_III",
       MaterialCompat.safe(XMaterial.GRINDSTONE), "&bFoundry III", "", "&fAdvanced Foundry and Synthesizer Items", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
+      "", "",
       UtilEnergy.energyPowerPerSecond(15000), "", "&3Supreme Machine");
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getFortune().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

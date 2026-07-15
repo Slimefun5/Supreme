@@ -21,7 +21,6 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.ParametersAreNonnullByDefault;
@@ -32,7 +31,7 @@ public class ElectricCoreFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CORE_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_CORE_I",
       MaterialCompat.safe(XMaterial.SHROOMLIGHT), "&bElectric Core Machine", "", "&fCraft resource of core", "",
-      LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE), LoreBuilder.speed(1),
+      "", "",
       UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_CORE_MACHINE = new ItemStack[]{SupremeComponents.RUSTLESS_MACHINE.item(),
@@ -42,7 +41,7 @@ public class ElectricCoreFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CORE_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_CORE_II",
       MaterialCompat.safe(XMaterial.SHROOMLIGHT), "&bElectric Core Machine II", "", "&fAdvanced craft resource of core", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
+      "", "",
       UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_CORE_MACHINE_II = new ItemStack[]{
@@ -53,7 +52,7 @@ public class ElectricCoreFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_CORE_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_CORE_III",
       MaterialCompat.safe(XMaterial.SHROOMLIGHT), "&bElectric Core Machine III", "", "&fAdvanced craft resource of core", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
+      "", "",
       UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_CORE_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),

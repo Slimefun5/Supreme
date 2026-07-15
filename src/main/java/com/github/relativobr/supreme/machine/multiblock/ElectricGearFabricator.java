@@ -18,7 +18,6 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.ParametersAreNonnullByDefault;
@@ -29,7 +28,7 @@ public class ElectricGearFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_I",
       MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine", "", "&fCraft tier of gear", "",
-      LoreBuilder.machine(MachineTier.ADVANCED, MachineType.MACHINE), LoreBuilder.speed(1),
+      "", "",
       UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE = new ItemStack[]{
@@ -39,7 +38,7 @@ public class ElectricGearFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_II",
       MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine II", "", "&fAdvanced craft tier of gear", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(5),
+      "", "",
       UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE_II = new ItemStack[]{
@@ -50,7 +49,7 @@ public class ElectricGearFabricator extends GenericMachine {
 
   public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_III",
       MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine III", "", "&fAdvanced craft tier of gear", "",
-      LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE), LoreBuilder.speed(15),
+      "", "",
       UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
