@@ -14,10 +14,7 @@ import org.bukkit.inventory.ItemStack;
 @UtilityClass
 public class SupremeCore {
 
-  public static final SlimefunItemStack CORE_OF_LIFE = new SupremeItemStack("SUPREME_CORE_OF_LIFE",
-      "faff2eb498e5c6a04484f0c9f785b448479ab213df95ec91176a308a12add70", "&aCore of Life", "",
-      "&7This core contains fragments of life", "&7that have been collected by the world.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_LIFE = new SupremeItemStack("SUPREME_CORE_OF_LIFE", "faff2eb498e5c6a04484f0c9f785b448479ab213df95ec91176a308a12add70");
   public static final ItemStack[] RECIPE_CORE_OF_LIFE = {
       new SlimefunItemStack(SupremeCoreLife.RESOURCE_CORE_POTATO, 64).item(),
       new SlimefunItemStack(SupremeCoreLife.RESOURCE_CORE_CARROT, 64).item(),
@@ -29,10 +26,7 @@ public class SupremeCore {
       new SlimefunItemStack(SupremeCoreLife.RESOURCE_CORE_PUMPKIN, 64).item(),
       new SlimefunItemStack(SupremeCoreLife.RESOURCE_CORE_APPLE, 64).item(),};
 
-  public static final SlimefunItemStack CORE_OF_DEATH = new SupremeItemStack("SUPREME_CORE_OF_DEATH",
-      "9e95293acbcd4f55faf5947bfc5135038b275a7ab81087341b9ec6e453e839", "&aCore of Death", "",
-      "&7This core contains the souls of ", "&7various entities that have gone beyond.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_DEATH = new SupremeItemStack("SUPREME_CORE_OF_DEATH", "9e95293acbcd4f55faf5947bfc5135038b275a7ab81087341b9ec6e453e839");
   public static final ItemStack[] RECIPE_CORE_OF_DEATH = {
       new SlimefunItemStack(SupremeCoreDeath.RESOURCE_CORE_PORKCHOP, 64).item(),
       new SlimefunItemStack(SupremeCoreDeath.RESOURCE_CORE_BEEF, 64).item(),
@@ -44,10 +38,7 @@ public class SupremeCore {
       new SlimefunItemStack(SupremeCoreDeath.RESOURCE_CORE_SPIDER_EYE, 64).item(),
       new SlimefunItemStack(SupremeCoreDeath.RESOURCE_CORE_TEAR, 64).item()};
 
-  public static final SlimefunItemStack CORE_OF_COLOR = new SupremeItemStack("SUPREME_CORE_OF_COLOR",
-      "163bcaf6d2679d8d7d9bf6a474a48a77a8e91747a1084c09256ebc86cb74811", "&aCore of Color", "",
-      "&7This core contains several colors", "&7that have been collected around the world.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_COLOR = new SupremeItemStack("SUPREME_CORE_OF_COLOR", "163bcaf6d2679d8d7d9bf6a474a48a77a8e91747a1084c09256ebc86cb74811");
   public static final ItemStack[] RECIPE_CORE_OF_COLOR = {new SlimefunItemStack(SupremeCoreColor.RESOURCE_CORE_RED, 64).item(),
       new SlimefunItemStack(SupremeCoreColor.RESOURCE_CORE_YELLOW, 64).item(),
       new SlimefunItemStack(SupremeCoreColor.RESOURCE_CORE_PURPLE, 64).item(),
@@ -58,10 +49,7 @@ public class SupremeCore {
       new SlimefunItemStack(SupremeCoreColor.RESOURCE_CORE_GRAY, 64).item(),
       new SlimefunItemStack(SupremeCoreColor.RESOURCE_CORE_CYAN, 64).item()};
 
-  public static final SlimefunItemStack CORE_OF_BLOCK = new SupremeItemStack("SUPREME_CORE_OF_BLOCK",
-      "14d844fee24d5f27ddb669438528d83b684d901b75a6889fe7488dfc4cf7a1c", "&aCore of Block", "",
-      "&7This core contains several blocks", "&7that have been collected around the world.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_BLOCK = new SupremeItemStack("SUPREME_CORE_OF_BLOCK", "14d844fee24d5f27ddb669438528d83b684d901b75a6889fe7488dfc4cf7a1c");
   public static final ItemStack[] RECIPE_CORE_OF_BLOCK = {
       new SlimefunItemStack(SupremeCoreBlock.RESOURCE_CORE_STONE, 64).item(),
       new SlimefunItemStack(SupremeCoreBlock.RESOURCE_CORE_GRANITE, 64).item(),
@@ -73,10 +61,7 @@ public class SupremeCore {
       new SlimefunItemStack(SupremeCoreBlock.RESOURCE_CORE_CLAY, 64).item(),
       new SlimefunItemStack(SupremeCoreBlock.RESOURCE_CORE_SNOW, 64).item()};
 
-  public static final SlimefunItemStack CORE_OF_NATURE = new SupremeItemStack("SUPREME_CORE_OF_NATURE",
-      "32fa8f38c7b22096619c3a6d6498b405530e48d5d4f91e2aacea578844d5c67", "&aCore of Nature", "",
-      "&7This core contains several natural", "&7that have been collected around the world.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_NATURE = new SupremeItemStack("SUPREME_CORE_OF_NATURE", "32fa8f38c7b22096619c3a6d6498b405530e48d5d4f91e2aacea578844d5c67");
   public static final ItemStack[] RECIPE_CORE_OF_NATURE = {
       new SlimefunItemStack(SupremeCoreNature.RESOURCE_CORE_OAK_LOG, 64).item(),
       new SlimefunItemStack(SupremeCoreNature.RESOURCE_CORE_SPRUCE_LOG, 64).item(),
@@ -88,10 +73,7 @@ public class SupremeCore {
       new SlimefunItemStack(SupremeCoreNature.RESOURCE_CORE_CRIMSON_STEM, 64).item(),
       new SlimefunItemStack(SupremeCoreNature.RESOURCE_CORE_WARPED_STEM, 64).item()};
 
-  public static final SlimefunItemStack CORE_OF_ALLOY = new SupremeItemStack("SUPREME_CORE_OF_ALLOY",
-      "cbfb41f866e7e8e593659986c9d6e88cd37677b3f7bd44253e5871e66d1d424", "&aCore of Alloy", "",
-      "&7This core contains several ores", "&7that have been collected around the world.", "",
-      "&3Supreme Magical Components");
+  public static final SlimefunItemStack CORE_OF_ALLOY = new SupremeItemStack("SUPREME_CORE_OF_ALLOY", "cbfb41f866e7e8e593659986c9d6e88cd37677b3f7bd44253e5871e66d1d424");
   public static final ItemStack[] RECIPE_CORE_OF_ALLOY = {
       new SlimefunItemStack(SupremeCoreAlloy.RESOURCE_CORE_COAL, 64).item(),
       new SlimefunItemStack(SupremeCoreAlloy.RESOURCE_CORE_IRON, 64).item(),

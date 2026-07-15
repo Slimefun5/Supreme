@@ -16,159 +16,91 @@ public class AdvancedCard {
    * MUSIC_DISC_BLOCKS 8 laranja MUSIC_DISC_CHIRP 9 vemelho MUSIC_DISC_MALL 10 roxo MUSIC_DISC_STAL 11 preto
    */
 
-  public static final SlimefunItemStack CARD_SOLDER_INGOT = new SupremeItemStack("SUPREME_CARD_SOLDER",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Solder Ingot", "", "&fChange to Production Solder Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SOLDER_INGOT = new SupremeItemStack("SUPREME_CARD_SOLDER", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
-  public static final SlimefunItemStack CARD_BILLON_INGOT = new SupremeItemStack("SUPREME_CARD_BILLON",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Billon Ingot", "", "&fChange to Production Billon Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_BILLON_INGOT = new SupremeItemStack("SUPREME_CARD_BILLON", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
-  public static final SlimefunItemStack CARD_BRONZE_INGOT = new SupremeItemStack("SUPREME_CARD_BRONZE",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Bronze Ingot", "", "&fChange to Production Bronze Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_BRONZE_INGOT = new SupremeItemStack("SUPREME_CARD_BRONZE", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
-  public static final SlimefunItemStack CARD_BRASS_INGOT = new SupremeItemStack("SUPREME_CARD_BRASS",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Brass Ingot", "", "&fChange to Production Brass Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_BRASS_INGOT = new SupremeItemStack("SUPREME_CARD_BRASS", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
-  public static final SlimefunItemStack CARD_SULFATE = new SupremeItemStack("SUPREME_CARD_SULFATE",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard de Sulfate", "", "&fChange to Production Sulfate", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SULFATE = new SupremeItemStack("SUPREME_CARD_SULFATE", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
-  public static final SlimefunItemStack CARD_CARBON = new SupremeItemStack("SUPREME_CARD_CARBON",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Carbon", "", "&fChange to Production Carbon", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_CARBON = new SupremeItemStack("SUPREME_CARD_CARBON", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_SILICON = new SupremeItemStack("SUPREME_CARD_SILICON",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Silicon", "", "&fChange to Production Silicon", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SILICON = new SupremeItemStack("SUPREME_CARD_SILICON", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_STEEL = new SupremeItemStack("SUPREME_CARD_STEEL",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Steel", "", "&fChange to Production Steel", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_STEEL = new SupremeItemStack("SUPREME_CARD_STEEL", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_NICKEL = new SupremeItemStack("SUPREME_CARD_NICKEL",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Nickel", "", "&fChange to Production Nickel", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_NICKEL = new SupremeItemStack("SUPREME_CARD_NICKEL", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_FERROSILICON = new SupremeItemStack("SUPREME_CARD_FERROSILICON",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Ferrosilicon", "", "&fChange to Production Ferrosilicon", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_FERROSILICON = new SupremeItemStack("SUPREME_CARD_FERROSILICON", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_DAMASCUS = new SupremeItemStack("SUPREME_CARD_DAMASCUS",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Damascus", "", "&fChange to Production Damascus", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_DAMASCUS = new SupremeItemStack("SUPREME_CARD_DAMASCUS", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_COBALT = new SupremeItemStack("SUPREME_CARD_COBALT",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Cobalt", "", "&fChange to Production Cobalt", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_COBALT = new SupremeItemStack("SUPREME_CARD_COBALT", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_DURALUMIN_INGOT = new SupremeItemStack("SUPREME_CARD_DURALUMIN",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS), "&bCard Machine Duralumin Ingot", "", "&fChange to Production Duralumin Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_DURALUMIN_INGOT = new SupremeItemStack("SUPREME_CARD_DURALUMIN", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
 
-  public static final SlimefunItemStack CARD_ALUMINUM_BRONZE_INGOT = new SupremeItemStack(
-      "SUPREME_CARD_ALUMINUM_BRONZE", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Aluminum Bronze Ingot", "",
-      "&fChange to Production Aluminum Bronze Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_ALUMINUM_BRONZE_INGOT = new SupremeItemStack("SUPREME_CARD_ALUMINUM_BRONZE", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_ALUMINUM_BRASS_INGOT = new SupremeItemStack("SUPREME_CARD_ALUMINUM_BRASS",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Aluminum Brass Ingot", "",
-      "&fChange to Production Aluminum Brass Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_ALUMINUM_BRASS_INGOT = new SupremeItemStack("SUPREME_CARD_ALUMINUM_BRASS", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_CORINTHIAN_BRONZE_INGOT = new SupremeItemStack(
-      "SUPREME_CARD_CORINTHIAN_BRONZE", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Corinthian Bronze Ingot", "",
-      "&fChange to Production Corinthian Bronze Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_CORINTHIAN_BRONZE_INGOT = new SupremeItemStack("SUPREME_CARD_CORINTHIAN_BRONZE", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_GOLD24K = new SupremeItemStack("SUPREME_CARD_GOLD24K",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Gold 24k", "", "&fChange to Production Gold 24k", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_GOLD24K = new SupremeItemStack("SUPREME_CARD_GOLD24K", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_CARBON_PRESS = new SupremeItemStack("SUPREME_CARD_CARBON_PRESS",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Compressed Carbon", "", "&fChange to Production Compressed Carbon", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_CARBON_PRESS = new SupremeItemStack("SUPREME_CARD_CARBON_PRESS", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_HARDENED_METAL_INGOT = new SupremeItemStack("SUPREME_CARD_HARDENED_METAL",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Hardened Metal Ingot", "",
-      "&fChange to Production Hardened Metal Ingot", "", "",
-      "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_HARDENED_METAL_INGOT = new SupremeItemStack("SUPREME_CARD_HARDENED_METAL", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_REDSTONE_ALLOY = new SupremeItemStack("SUPREME_CARD_REDSTONE_ALLOY",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Redstone Alloy", "", "&fChange to Production Redstone Alloy", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_REDSTONE_ALLOY = new SupremeItemStack("SUPREME_CARD_REDSTONE_ALLOY", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_PLASTIC_SHEET = new SupremeItemStack("SUPREME_CARD_PLASTIC_SHEET",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Plastic Sheet", "", "&fChange to Production Plastic Sheet", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_PLASTIC_SHEET = new SupremeItemStack("SUPREME_CARD_PLASTIC_SHEET", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_BATTERY = new SupremeItemStack("SUPREME_CARD_BATTERY",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Battery", "", "&fChange to Production Battery", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_BATTERY = new SupremeItemStack("SUPREME_CARD_BATTERY", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_MAGNET = new SupremeItemStack("SUPREME_CARD_MAGNET",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP), "&bCard Machine Magnet", "", "&fChange to Production Magnet", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_MAGNET = new SupremeItemStack("SUPREME_CARD_MAGNET", MaterialCompat.safe(XMaterial.MUSIC_DISC_CHIRP));
 
 
-  public static final SlimefunItemStack CARD_ELECTRO_MAGNET = new SupremeItemStack("SUPREME_CARD_ELECTRO_MAGNET",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Electro Magnet", "", "&fChange to Production Electro Magnet", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_ELECTRO_MAGNET = new SupremeItemStack("SUPREME_CARD_ELECTRO_MAGNET", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_ELECTRIC_MOTOR = new SupremeItemStack("SUPREME_CARD_ELECTRIC_MOTOR",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Electric Motor", "", "&fChange to Production Electric Motor", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_ELECTRIC_MOTOR = new SupremeItemStack("SUPREME_CARD_ELECTRIC_MOTOR", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_HEATING_COIL = new SupremeItemStack("SUPREME_CARD_HEATING_COIL",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Heating Coil", "", "&fChange to Production Heating Coil", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_HEATING_COIL = new SupremeItemStack("SUPREME_CARD_HEATING_COIL", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_SYNTHETIC_SAPPHIRE = new SupremeItemStack(
-      "SUPREME_CARD_SYNTHETIC_SAPPHIRE", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Synthetic Sapphire", "",
-      "&fChange to Production Synthetic Sapphire", "", "",
-      "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SYNTHETIC_SAPPHIRE = new SupremeItemStack("SUPREME_CARD_SYNTHETIC_SAPPHIRE", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_SYNTHETIC_EMERALD = new SupremeItemStack("SUPREME_CARD_SYNTHETIC_EMERALD",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Synthetic Emerald", "", "&fChange to Production Synthetic Emerald", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SYNTHETIC_EMERALD = new SupremeItemStack("SUPREME_CARD_SYNTHETIC_EMERALD", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_SYNTHETIC_DIAMOND = new SupremeItemStack("SUPREME_CARD_SYNTHETIC_DIAMOND",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL), "&bCard Machine Synthetic Diamond", "", "&fChange to Production Synthetic Diamond", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_SYNTHETIC_DIAMOND = new SupremeItemStack("SUPREME_CARD_SYNTHETIC_DIAMOND", MaterialCompat.safe(XMaterial.MUSIC_DISC_MALL));
 
 
-  public static final SlimefunItemStack CARD_CARBONADO = new SupremeItemStack("SUPREME_CARD_CARBONADO",
-      MaterialCompat.safe(XMaterial.MUSIC_DISC_STAL), "&bCard Machine Carbonado", "", "&fChange to Production Carbonado", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_CARBONADO = new SupremeItemStack("SUPREME_CARD_CARBONADO", MaterialCompat.safe(XMaterial.MUSIC_DISC_STAL));
 
 
-  public static final SlimefunItemStack CARD_REINFORCED_ALLOY_INGOT = new SupremeItemStack(
-      "SUPREME_CARD_REINFORCED_ALLOY", MaterialCompat.safe(XMaterial.MUSIC_DISC_STAL), "&bCard Machine Reinforced Alloy Ingot", "",
-      "&fChange to Production Reinforced Alloy Ingot", "",
-      "", "", "&3Supreme Component");
+  public static final SlimefunItemStack CARD_REINFORCED_ALLOY_INGOT = new SupremeItemStack("SUPREME_CARD_REINFORCED_ALLOY", MaterialCompat.safe(XMaterial.MUSIC_DISC_STAL));
 
 }

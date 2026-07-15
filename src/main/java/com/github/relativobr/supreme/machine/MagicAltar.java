@@ -8,7 +8,6 @@ import com.github.relativobr.supreme.resource.SupremeComponents;
 import com.github.relativobr.supreme.resource.magical.SupremeAttribute;
 import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -22,28 +21,19 @@ import org.bukkit.inventory.ItemStack;
 
 public class MagicAltar extends GenericMachine {
 
-  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE = new SupremeItemStack("SUPREME_MAGIC_ALTAR_I",
-      MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar", "", "&fCraft Rune and Magical Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
+  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE = new SupremeItemStack("SUPREME_MAGIC_ALTAR_I", MaterialCompat.safe(XMaterial.SMOKER));
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE = new ItemStack[]{SlimefunItems.ANCIENT_PEDESTAL.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SlimefunItems.ANCIENT_PEDESTAL.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SlimefunItems.ANCIENT_ALTAR.item(), SupremeComponents.CONVEYANCE_MACHINE.item(), SlimefunItems.ANCIENT_PEDESTAL.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), SlimefunItems.ANCIENT_PEDESTAL.item()};
 
-  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_II = new SupremeItemStack("SUPREME_MAGIC_ALTAR_II",
-      MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar II", "", "&fAdvanced Craft Rune and Magical Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
+  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_II = new SupremeItemStack("SUPREME_MAGIC_ALTAR_II", MaterialCompat.safe(XMaterial.SMOKER));
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE_II = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_AQUA.item(), SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_VENTUS.item(),
       MagicAltar.MAGIC_ALTAR_MACHINE.item(), SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_IGNIS.item(), SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_III = new SupremeItemStack("SUPREME_MAGIC_ALTAR_III",
-      MaterialCompat.safe(XMaterial.SMOKER), "&bMagic Altar III", "", "&fAdvanced Craft Rune and Magical Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
+  public static final SlimefunItemStack MAGIC_ALTAR_MACHINE_III = new SupremeItemStack("SUPREME_MAGIC_ALTAR_III", MaterialCompat.safe(XMaterial.SMOKER));
   public static final ItemStack[] RECIPE_MAGIC_ALTAR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getMagic().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       MagicAltar.MAGIC_ALTAR_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

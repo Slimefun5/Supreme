@@ -11,7 +11,6 @@ import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.resource.magical.SupremeCore;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -45,31 +44,19 @@ import java.util.Objects;
 
 public class TechRobotic extends SimpleItemContainerMachine implements Radioactive {
 
-  public static final SlimefunItemStack TECH_ROBOTIC = new SupremeItemStack("SUPREME_TECH_ROBOTIC",
-      MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE), "&bTech Robotic", "", "&fUse beginner level robots ",
-      "&fto progress to higher levels", "&fneed 64x to upgrade", "", "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_ROBOTIC = new SupremeItemStack("SUPREME_TECH_ROBOTIC", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE));
   public static final ItemStack[] RECIPE_TECH_ROBOTIC = {SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SlimefunItems.REINFORCED_PLATE.item(),
       SlimefunItems.ELECTRIC_MOTOR.item(), SlimefunItems.REINFORCED_PLATE.item(), SupremeComponents.RUSTLESS_MACHINE.item(),
       SupremeCore.CORE_OF_BLOCK.item(), SupremeComponents.RUSTLESS_MACHINE.item()};
 
-  public static final SlimefunItemStack TECH_ROBOTIC_II = new SupremeItemStack("SUPREME_TECH_ROBOTIC_II",
-      MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE), "&bTech Robotic II", "", "&fUse beginner level robots ",
-      "&fto progress to higher levels", "&fneed 32x to upgrade", "", "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_ROBOTIC_II = new SupremeItemStack("SUPREME_TECH_ROBOTIC_II", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE));
   public static final ItemStack[] RECIPE_TECH_ROBOTIC_II = new ItemStack[]{SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
       TechRobotic.TECH_ROBOTIC.item(), SupremeComponents.INDUCTOR_MACHINE.item(), SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_IGNIS.item(), SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack TECH_ROBOTIC_III = new SupremeItemStack("SUPREME_TECH_ROBOTIC_III",
-      MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE), "&bTech Robotic III", "", "&fUse beginner level robots ",
-      "&fto progress to higher levels", "&fneed 16x to upgrade", "", "", "",
-      "", UtilEnergy.energyPowerPerSecond(500), "",
-      "&3Supreme Machine");
+  public static final SlimefunItemStack TECH_ROBOTIC_III = new SupremeItemStack("SUPREME_TECH_ROBOTIC_III", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE));
   public static final ItemStack[] RECIPE_TECH_ROBOTIC_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getImpetus().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       TechRobotic.TECH_ROBOTIC_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

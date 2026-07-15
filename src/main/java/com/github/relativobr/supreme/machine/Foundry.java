@@ -22,7 +22,6 @@ import com.github.relativobr.supreme.resource.magical.SupremeAttribute;
 import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.resource.magical.SupremeCore;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -39,27 +38,18 @@ import org.bukkit.inventory.ItemStack;
 
 public class Foundry extends GenericMachine {
 
-  public static final SlimefunItemStack FOUNDRY_MACHINE = new SupremeItemStack("SUPREME_FOUNDRY_I", MaterialCompat.safe(XMaterial.GRINDSTONE),
-      "&bFoundry", "", "&fFoundry and Synthesizer Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(1000), "", "&3Supreme Machine");
+  public static final SlimefunItemStack FOUNDRY_MACHINE = new SupremeItemStack("SUPREME_FOUNDRY_I", MaterialCompat.safe(XMaterial.GRINDSTONE));
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE = new ItemStack[]{SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(),
       SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(), SlimefunItems.ELECTRIC_INGOT_FACTORY_3.item(),
       SupremeComponents.INDUCTIVE_MACHINE.item(), SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SlimefunItems.ELECTRIC_SMELTERY_2.item(), SlimefunItems.PROGRAMMABLE_ANDROID_3.item(), SlimefunItems.ELECTRIC_SMELTERY_2.item()};
 
-  public static final SlimefunItemStack FOUNDRY_MACHINE_II = new SupremeItemStack("SUPREME_FOUNDRY_II",
-      MaterialCompat.safe(XMaterial.GRINDSTONE), "&bFoundry II", "", "&fAdvanced Foundry and Synthesizer Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(5000), "", "&3Supreme Machine");
+  public static final SlimefunItemStack FOUNDRY_MACHINE_II = new SupremeItemStack("SUPREME_FOUNDRY_II", MaterialCompat.safe(XMaterial.GRINDSTONE));
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE_II = new ItemStack[]{SupremeComponents.BLEND_MACHINE.item(),
       SupremeCetrus.CETRUS_AQUA.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeCetrus.CETRUS_VENTUS.item(), Foundry.FOUNDRY_MACHINE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeCore.CORE_OF_ALLOY.item(), SupremeCetrus.CETRUS_IGNIS.item(), SupremeCore.CORE_OF_ALLOY.item()};
 
-  public static final SlimefunItemStack FOUNDRY_MACHINE_III = new SupremeItemStack("SUPREME_FOUNDRY_III",
-      MaterialCompat.safe(XMaterial.GRINDSTONE), "&bFoundry III", "", "&fAdvanced Foundry and Synthesizer Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(15000), "", "&3Supreme Machine");
+  public static final SlimefunItemStack FOUNDRY_MACHINE_III = new SupremeItemStack("SUPREME_FOUNDRY_III", MaterialCompat.safe(XMaterial.GRINDSTONE));
   public static final ItemStack[] RECIPE_FOUNDRY_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getFortune().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       Foundry.FOUNDRY_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

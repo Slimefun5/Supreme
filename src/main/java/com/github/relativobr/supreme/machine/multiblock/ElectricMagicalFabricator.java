@@ -10,7 +10,6 @@ import com.github.relativobr.supreme.resource.magical.SupremeAttribute;
 import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.resource.magical.SupremeCore;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -25,10 +24,7 @@ import org.bukkit.inventory.ItemStack;
 
 public class ElectricMagicalFabricator extends GenericMachine {
 
-  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_MAGICAL_I",
-      MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN), "&bElectric Magical Machine", "", "&fCraft resource of magical", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_MAGICAL_I", MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN));
 
   public static final ItemStack[] RECIPE_ELECTRIC_MAGICAL_MACHINE = new ItemStack[]{
       SupremeCoreAlloy.RESOURCE_CORE_NETHERITE.item(), new ItemStack(MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN)),
@@ -36,10 +32,7 @@ public class ElectricMagicalFabricator extends GenericMachine {
       SupremeComponents.INDUCTOR_MACHINE.item(), SlimefunItems.ELECTRIC_MOTOR.item(), SlimefunItems.CARBONADO_EDGED_CAPACITOR.item(),
       SlimefunItems.ELECTRIC_MOTOR.item()};
 
-  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE_II = new SupremeItemStack(
-      "SUPREME_ELECTRIC_MAGICAL_II", MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN), "&bElectric Magical Machine II", "",
-      "&fAdvanced craft resource of magical", "", "",
-      "", UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_MAGICAL_II", MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN));
 
   public static final ItemStack[] RECIPE_ELECTRIC_MAGICAL_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
@@ -47,10 +40,7 @@ public class ElectricMagicalFabricator extends GenericMachine {
       SupremeComponents.INDUCTOR_MACHINE.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeCetrus.CETRUS_IGNIS.item(),
       SupremeComponents.BLEND_MACHINE.item()};
 
-  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE_III = new SupremeItemStack(
-      "SUPREME_ELECTRIC_MAGICAL_III", MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN), "&bElectric Magical Machine III", "",
-      "&fAdvanced craft resource of magical", "", "",
-      "", UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_MAGICAL_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_MAGICAL_III", MaterialCompat.safe(XMaterial.CRYING_OBSIDIAN));
 
   public static final ItemStack[] RECIPE_ELECTRIC_MAGICAL_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

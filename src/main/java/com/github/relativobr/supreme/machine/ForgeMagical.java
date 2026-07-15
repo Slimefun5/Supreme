@@ -21,28 +21,19 @@ import org.bukkit.inventory.ItemStack;
 
 public class ForgeMagical extends SimpleItemWithLargeContainerMachine {
 
-  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE = new SupremeItemStack("SUPREME_FORGE_MAGICAL_I",
-      MaterialCompat.safe(XMaterial.ENCHANTING_TABLE), "&bForge Magical", "", "&fThis machine allows you to", "&fforge magical resources.",
-      "", "", "",
-      "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE = new SupremeItemStack("SUPREME_FORGE_MAGICAL_I", MaterialCompat.safe(XMaterial.ENCHANTING_TABLE));
   public static final ItemStack[] RECIPE_FORGE_MAGICAL_MACHINE = new ItemStack[]{SupremeComponents.RUSTLESS_MACHINE.item(),
       new ItemStack(MaterialCompat.safe(XMaterial.ENCHANTING_TABLE)), SupremeComponents.RUSTLESS_MACHINE.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SlimefunItems.ELECTRIC_GOLD_PAN_3.item(),
       SlimefunItems.PROGRAMMABLE_ANDROID_3.item(), SlimefunItems.ELECTRIC_ORE_GRINDER_3.item()};
 
-  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE_II = new SupremeItemStack("SUPREME_FORGE_MAGICAL_II",
-      MaterialCompat.safe(XMaterial.ENCHANTING_TABLE), "&bForge Magical II", "", "&fThis machine allows you to", "&fforge magical resources.",
-      "", "", "",
-      "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE_II = new SupremeItemStack("SUPREME_FORGE_MAGICAL_II", MaterialCompat.safe(XMaterial.ENCHANTING_TABLE));
   public static final ItemStack[] RECIPE_FORGE_MAGICAL_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), ForgeMagical.FORGE_MAGICAL_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
       SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE_III = new SupremeItemStack("SUPREME_FORGE_MAGICAL_III",
-      MaterialCompat.safe(XMaterial.ENCHANTING_TABLE), "&bForge Magical III", "", "&fThis machine allows you to",
-      "&fforge magical resources.", "", "",
-      "", "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack FORGE_MAGICAL_MACHINE_III = new SupremeItemStack("SUPREME_FORGE_MAGICAL_III", MaterialCompat.safe(XMaterial.ENCHANTING_TABLE));
   public static final ItemStack[] RECIPE_FORGE_MAGICAL_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getMagic().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       ForgeMagical.FORGE_MAGICAL_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

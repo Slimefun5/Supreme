@@ -11,7 +11,6 @@ import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.tools.ToolsThornium;
 import com.github.relativobr.supreme.util.ItemTier;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -26,20 +25,14 @@ import org.bukkit.inventory.ItemStack;
 
 public class ElectricGearFabricator extends GenericMachine {
 
-  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_I",
-      MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine", "", "&fCraft tier of gear", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_I", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE = new ItemStack[]{
       new ItemStack(MaterialCompat.safe(XMaterial.ENCHANTING_TABLE)), new ItemStack(MaterialCompat.safe(XMaterial.ANVIL)), new ItemStack(MaterialCompat.safe(XMaterial.SMITHING_TABLE)),
       SupremeComponents.PETRIFIER_MACHINE.item(), SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.PETRIFIER_MACHINE.item(),
       SlimefunItems.ELECTRIC_MOTOR.item(), SlimefunItems.CARBONADO_EDGED_CAPACITOR.item(), SlimefunItems.ELECTRIC_MOTOR.item()};
 
-  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_II",
-      MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine II", "", "&fAdvanced craft tier of gear", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_II", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
@@ -47,10 +40,7 @@ public class ElectricGearFabricator extends GenericMachine {
       SupremeComponents.INDUCTOR_MACHINE.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeCetrus.CETRUS_IGNIS.item(),
       SupremeComponents.BLEND_MACHINE.item()};
 
-  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_III",
-      MaterialCompat.safe(XMaterial.SMITHING_TABLE), "&bElectric Gear Machine III", "", "&fAdvanced craft tier of gear", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_GEAR_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_GEAR_III", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
   public static final ItemStack[] RECIPE_ELECTRIC_GEAR_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),

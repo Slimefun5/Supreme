@@ -40,29 +40,20 @@ import org.bukkit.inventory.ItemStack;
 
 public class VirtualGarden extends SimpleItemWithLargeContainerMachine {
 
-  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_I",
-      MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE), "&bVirtual Garden", "", "&fThis machine allows you to",
-      "&fcultivate some resources.", "", "",
-      "", "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_I", MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE));
   public static final ItemStack[] RECIPE_VIRTUAL_GARDEN_MACHINE = new ItemStack[]{SupremeComponents.SYNTHETIC_RUBY.item(),
       new ItemStack(MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE)), SupremeComponents.SYNTHETIC_RUBY.item(),
       SupremeComponents.RUSTLESS_MACHINE.item(), SupremeComponents.PETRIFIER_MACHINE.item(), SupremeComponents.RUSTLESS_MACHINE.item(),
       SupremeComponents.ADAMANTIUM_PLATE.item(), SlimefunItems.PROGRAMMABLE_ANDROID_2_FARMER.item(),
       SupremeComponents.ADAMANTIUM_PLATE.item()};
 
-  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE_II = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_II",
-      MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE), "&bVirtual Garden II", "", "&fThis machine allows you to",
-      "&fcultivate some resources.", "", "",
-      "", "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE_II = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_II", MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE));
   public static final ItemStack[] RECIPE_VIRTUAL_GARDEN_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeCetrus.CETRUS_LUMIUM.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), VirtualGarden.VIRTUAL_GARDEN_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
       SupremeComponents.THORNERITE.item(), SupremeCetrus.CETRUS_AQUA.item(), SupremeComponents.THORNERITE.item()};
 
-  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE_III = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_III",
-      MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE), "&bVirtual Garden III", "", "&fThis machine allows you to",
-      "&fcultivate some resources.", "", "",
-      "", "", "", "", "&3Supreme Machine");
+  public static final SlimefunItemStack VIRTUAL_GARDEN_MACHINE_III = new SupremeItemStack("SUPREME_VIRTUAL_GARDEN_III", MaterialCompat.safe(XMaterial.STRIPPED_WARPED_HYPHAE));
   public static final ItemStack[] RECIPE_VIRTUAL_GARDEN_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeAttribute.getFortune().item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       VirtualGarden.VIRTUAL_GARDEN_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

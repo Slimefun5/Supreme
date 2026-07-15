@@ -6,7 +6,6 @@ import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import com.github.relativobr.supreme.resource.SupremeComponents;
 import com.github.relativobr.supreme.util.ItemGroups;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.MachineTier;
@@ -31,7 +30,6 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static com.github.relativobr.supreme.util.ItemUtil.getValueGeneratorsWithLimit;
 
 public class GeneratorMob extends AbstractEnergyProvider {
 
@@ -42,31 +40,19 @@ public class GeneratorMob extends AbstractEnergyProvider {
   public static final int ADVANCED_GENERATOR_MOB_ENERGY = 800;
   public static final int ADVANCED_GENERATOR_MOB_BUFFER = 16000;
 
-  public static final SlimefunItemStack GENERATOR_MOB_BASIC = new SupremeItemStack("SUPREME_GENERATOR_MOB_BASIC",
-      MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      "",
-      UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_BUFFER)),
-      UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.BASIC_GENERATOR_MOB_ENERGY)));
+  public static final SlimefunItemStack GENERATOR_MOB_BASIC = new SupremeItemStack("SUPREME_GENERATOR_MOB_BASIC", MaterialCompat.safe(XMaterial.COMPOSTER));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_BASIC = new ItemStack[]{SlimefunItems.SMALL_CAPACITOR.item(),
       SlimefunItems.SILICON.item(), SlimefunItems.SMALL_CAPACITOR.item(), SlimefunItems.ALUMINUM_INGOT.item(), SlimefunItems.ELECTRIC_MOTOR.item(),
       SlimefunItems.ALUMINUM_INGOT.item(), SlimefunItems.SMALL_CAPACITOR.item(), SlimefunItems.ALUMINUM_INGOT.item(),
       SlimefunItems.SMALL_CAPACITOR.item()};
 
-  public static final SlimefunItemStack GENERATOR_MOB_MEDIUM = new SupremeItemStack("SUPREME_GENERATOR_MOB_MEDIUM",
-      MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      "",
-      UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_BUFFER)),
-      UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.MEDIUM_GENERATOR_MOB_ENERGY)));
+  public static final SlimefunItemStack GENERATOR_MOB_MEDIUM = new SupremeItemStack("SUPREME_GENERATOR_MOB_MEDIUM", MaterialCompat.safe(XMaterial.COMPOSTER));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_MEDIUM = new ItemStack[]{GeneratorMob.GENERATOR_MOB_BASIC.item(),
       SlimefunItems.FERROSILICON.item(), GeneratorMob.GENERATOR_MOB_BASIC.item(), SlimefunItems.REINFORCED_PLATE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SlimefunItems.REINFORCED_PLATE.item(), GeneratorMob.GENERATOR_MOB_BASIC.item(),
       SlimefunItems.ALUMINUM_BRONZE_INGOT.item(), GeneratorMob.GENERATOR_MOB_BASIC.item()};
 
-  public static final SlimefunItemStack GENERATOR_MOB_ADVANCED = new SupremeItemStack("SUPREME_GENERATOR_MOB_ADVANCED",
-      MaterialCompat.safe(XMaterial.COMPOSTER), false,
-      "",
-      UtilEnergy.energyBuffer(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_BUFFER)),
-      UtilEnergy.energyPowerPerSecond(getValueGeneratorsWithLimit(GeneratorMob.ADVANCED_GENERATOR_MOB_ENERGY)));
+  public static final SlimefunItemStack GENERATOR_MOB_ADVANCED = new SupremeItemStack("SUPREME_GENERATOR_MOB_ADVANCED", MaterialCompat.safe(XMaterial.COMPOSTER));
   public static final ItemStack[] RECIPE_GENERATOR_MOB_ADVANCED = new ItemStack[]{GeneratorMob.GENERATOR_MOB_MEDIUM.item(),
       SlimefunItems.CARBONADO.item(), GeneratorMob.GENERATOR_MOB_MEDIUM.item(), SlimefunItems.HEATING_COIL.item(), SlimefunItems.PLUTONIUM.item(),
       SlimefunItems.HEATING_COIL.item(), GeneratorMob.GENERATOR_MOB_MEDIUM.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),

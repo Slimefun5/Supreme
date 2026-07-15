@@ -7,7 +7,6 @@ import com.github.relativobr.supreme.generic.recipe.AbstractItemRecipe;
 import com.github.relativobr.supreme.resource.SupremeComponents;
 import com.github.relativobr.supreme.resource.magical.SupremeCetrus;
 import com.github.relativobr.supreme.util.SupremeItemStack;
-import com.github.relativobr.supreme.util.UtilEnergy;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -21,28 +20,19 @@ import org.bukkit.inventory.ItemStack;
 
 public class ElectricCrafter extends GenericMachine {
 
-  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_CRAFTER_I",
-      MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter", "", "&fCraft Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(20), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE = new SupremeItemStack("SUPREME_ELECTRIC_CRAFTER_I", MaterialCompat.safe(XMaterial.CRAFTING_TABLE));
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE = new ItemStack[]{SupremeComponents.RUSTLESS_MACHINE.item(),
       SlimefunItems.VANILLA_AUTO_CRAFTER.item(), SupremeComponents.RUSTLESS_MACHINE.item(), SupremeComponents.INDUCTIVE_MACHINE.item(),
       SupremeComponents.SYNTHETIC_RUBY.item(), SupremeComponents.INDUCTIVE_MACHINE.item(), SupremeComponents.ADAMANTIUM_PLATE.item(),
       SlimefunItems.ENHANCED_AUTO_CRAFTER.item(), SupremeComponents.ADAMANTIUM_PLATE.item()};
 
-  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_II = new SupremeItemStack(
-      "SUPREME_ELECTRIC_CRAFTER_II", MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter II", "", "&fAdvanced Craft Items", "",
-      "", "",
-      UtilEnergy.energyPowerPerSecond(100), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_II = new SupremeItemStack("SUPREME_ELECTRIC_CRAFTER_II", MaterialCompat.safe(XMaterial.CRAFTING_TABLE));
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE_II = new ItemStack[]{
       SupremeComponents.CONVEYANCE_MACHINE.item(), SupremeComponents.BLEND_MACHINE.item(), SupremeComponents.CONVEYANCE_MACHINE.item(),
       SupremeComponents.INDUCTOR_MACHINE.item(), ElectricCrafter.ELECTRIC_CRAFTER_MACHINE.item(), SupremeComponents.INDUCTOR_MACHINE.item(),
       SupremeComponents.CRYSTALLIZER_MACHINE.item(), SupremeCetrus.CETRUS_IGNIS.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item()};
 
-  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_III = new SupremeItemStack(
-      "SUPREME_ELECTRIC_CRAFTER_III", MaterialCompat.safe(XMaterial.CRAFTING_TABLE), "&bElectric Crafter III", "", "&fAdvanced Craft Items",
-      "", "", "",
-      UtilEnergy.energyPowerPerSecond(300), "", "&3Supreme Machine");
+  public static final SlimefunItemStack ELECTRIC_CRAFTER_MACHINE_III = new SupremeItemStack("SUPREME_ELECTRIC_CRAFTER_III", MaterialCompat.safe(XMaterial.CRAFTING_TABLE));
   public static final ItemStack[] RECIPE_ELECTRIC_CRAFTER_MACHINE_III = new ItemStack[]{SupremeComponents.THORNERITE.item(),
       SupremeCetrus.CETRUS_LUX.item(), SupremeComponents.THORNERITE.item(), SupremeComponents.SUPREME.item(),
       ElectricCrafter.ELECTRIC_CRAFTER_MACHINE_II.item(), SupremeComponents.SUPREME.item(), SupremeComponents.CRYSTALLIZER_MACHINE.item(),

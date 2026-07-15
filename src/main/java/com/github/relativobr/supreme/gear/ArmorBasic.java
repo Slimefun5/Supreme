@@ -69,8 +69,7 @@ public final class ArmorBasic {
       SupremeComponents.TITANIUM_PLATE.item(), SupremeComponents.TITANIUM_PLATE.item(), SupremeComponents.TITANIUM_PLATE.item(), null,
       SupremeComponents.TITANIUM_PLATE.item(), SupremeComponents.TITANIUM_PLATE.item(), null, SupremeComponents.TITANIUM_PLATE.item()};
 
-  public static final SlimefunItemStack ADAMANTIUM_BOOTS = new SupremeItemStack("SUPREME_ADAMANTIUM_BOOTS",
-      MaterialCompat.safe(XMaterial.DIAMOND_BOOTS), "&f&lAdamantium Boots", "&f&lA Boots of Adamantium", "", "&3Supreme Armor");
+  public static final SlimefunItemStack ADAMANTIUM_BOOTS = new SupremeItemStack("SUPREME_ADAMANTIUM_BOOTS", MaterialCompat.safe(XMaterial.DIAMOND_BOOTS));
   public static final ItemStack[] RECIPE_ADAMANTIUM_BOOTS = {null, null, null, SupremeComponents.ADAMANTIUM_PLATE.item(), null,
       SupremeComponents.ADAMANTIUM_PLATE.item(), SupremeComponents.ADAMANTIUM_PLATE.item(), null, SupremeComponents.ADAMANTIUM_PLATE.item()};
 
