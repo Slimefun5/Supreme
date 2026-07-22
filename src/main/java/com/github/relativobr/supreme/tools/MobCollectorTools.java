@@ -49,6 +49,8 @@ public class MobCollectorTools extends SlimefunItem implements Rechargeable, Not
   int maxCharge;
   public MobCollectorTools(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
     super(itemGroup, item, recipeType, recipe);
+    // head-textured tool misses the material-suffix heuristic; declare explicitly
+    setGuideType("tools");
     addItemHandler(getItemHandler());
   }
 

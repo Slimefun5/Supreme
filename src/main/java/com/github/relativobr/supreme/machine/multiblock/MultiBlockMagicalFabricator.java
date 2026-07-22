@@ -40,6 +40,7 @@ public class MultiBlockMagicalFabricator extends MultiBlockMachine implements No
             new ItemStack(MaterialCompat.safe(XMaterial.IRON_TRAPDOOR)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BARS)),
             new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)),
             new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK))}, new ItemStack[0], BlockFace.SELF);
+    setGuideType("machines");
   }
 
   public static RecipeType getMachine() {

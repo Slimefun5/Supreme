@@ -20,6 +20,8 @@ public class AbstractTools extends SlimefunItem implements Soulbound, NotPlaceab
   @ParametersAreNonnullByDefault
   private AbstractTools(@Nonnull SlimefunItemStack stack, ItemStack[] recipe) {
     super(ItemGroups.TOOLS_CATEGORY, stack, MultiBlockGearFabricator.getMachine(), recipe);
+    // head-textured gear misses the material-suffix heuristic; declare explicitly
+    setGuideType("tools");
   }
 
   public static void setup(Supreme sup) {

@@ -18,6 +18,8 @@ public class AbstractWeapons extends SlimefunItem implements Soulbound, NotPlace
   @ParametersAreNonnullByDefault
   public AbstractWeapons(@Nonnull SlimefunItemStack stack, ItemStack[] recipe) {
     super(ItemGroups.WEAPONS_CATEGORY, stack, MultiBlockGearFabricator.getMachine(), recipe);
+    // head-textured gear misses the material-suffix heuristic; declare explicitly
+    setGuideType("weapons");
   }
 
   public static void setup(Supreme sup) {

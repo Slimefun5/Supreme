@@ -43,6 +43,7 @@ public class MultiBlockGearFabricator extends MultiBlockMachine implements NotPl
             new ItemStack(MaterialCompat.safe(XMaterial.ANVIL)), new ItemStack(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE)),
             new ItemStack(MaterialCompat.safe(XMaterial.BLUE_STAINED_GLASS_PANE)), new ItemStack(MaterialCompat.safe(XMaterial.BLAST_FURNACE)),
             new ItemStack(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE))}, new ItemStack[0], BlockFace.SELF);
+    setGuideType("machines");
   }
 
   public static RecipeType getMachine() {
