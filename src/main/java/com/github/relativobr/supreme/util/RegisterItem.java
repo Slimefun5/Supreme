@@ -14,6 +14,10 @@ import org.bukkit.inventory.ItemStack;
 
 public class RegisterItem {
 
+  // All items funnelled through here are crafted materials/components/cores; the guide's
+  // material/type heuristic files head-textured items under "Misc", so declare "resources".
+  private static final String GUIDE_RESOURCES = "resources";
+
   @ParametersAreNonnullByDefault
   public static void registerSmeltery(SlimefunItemStack itemStack, ItemStack[] recipe) {
     registerSmeltery(ItemGroups.COMPONENTS_CATEGORY, itemStack, recipe);
@@ -21,7 +25,9 @@ public class RegisterItem {
 
   @ParametersAreNonnullByDefault
   public static void registerSmeltery(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe) {
-    new UnplaceableBlock(itemGroup, itemStack, RecipeType.SMELTERY, recipe).register(Supreme.inst());
+    SlimefunItem item = new UnplaceableBlock(itemGroup, itemStack, RecipeType.SMELTERY, recipe);
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
@@ -31,7 +37,9 @@ public class RegisterItem {
 
   @ParametersAreNonnullByDefault
   public static void registerEnhancedCraft(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe) {
-    new UnplaceableBlock(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe).register(Supreme.inst());
+    SlimefunItem item = new UnplaceableBlock(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
@@ -41,7 +49,9 @@ public class RegisterItem {
 
   @ParametersAreNonnullByDefault
   public static void registerNullRecipe(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe) {
-    new UnplaceableBlock(itemGroup, itemStack, RecipeType.NULL, recipe).register(Supreme.inst());
+    SlimefunItem item = new UnplaceableBlock(itemGroup, itemStack, RecipeType.NULL, recipe);
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
@@ -52,19 +62,34 @@ public class RegisterItem {
   @ParametersAreNonnullByDefault
   public static void registerGrindStone(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe,
       int amount) {
-    new SlimefunItem(itemGroup, itemStack, RecipeType.GRIND_STONE, recipe,
-        new SlimefunItemStack(itemStack, amount).item()).register(Supreme.inst());
+    SlimefunItem item = new SlimefunItem(itemGroup, itemStack, RecipeType.GRIND_STONE, recipe,
+        new SlimefunItemStack(itemStack, amount).item());
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
   public static void registerMagicalFabricator(SlimefunItemStack itemStack, ItemStack[] recipe) {
-    registerMagicalFabricator(ItemGroups.COMPONENTS_CATEGORY, itemStack, recipe);
+    registerMagicalFabricator(ItemGroups.COMPONENTS_CATEGORY, itemStack, recipe, GUIDE_RESOURCES);
   }
 
   @ParametersAreNonnullByDefault
   public static void registerMagicalFabricator(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe) {
-    new UnplaceableBlock(itemGroup, itemStack, MultiBlockMagicalFabricator.getMachine(), recipe).register(
-        Supreme.inst());
+    registerMagicalFabricator(itemGroup, itemStack, recipe, GUIDE_RESOURCES);
+  }
+
+  // Magical-fabricator products that are themed magic items (cetrus/attribute/core) rather than crafting stock.
+  @ParametersAreNonnullByDefault
+  public static void registerMagicalFabricatorMagic(SlimefunItemStack itemStack, ItemStack[] recipe) {
+    registerMagicalFabricator(ItemGroups.COMPONENTS_CATEGORY, itemStack, recipe, "magic");
+  }
+
+  @ParametersAreNonnullByDefault
+  private static void registerMagicalFabricator(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe,
+      String guideType) {
+    SlimefunItem item = new UnplaceableBlock(itemGroup, itemStack, MultiBlockMagicalFabricator.getMachine(), recipe);
+    item.setGuideType(guideType);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
@@ -74,13 +99,17 @@ public class RegisterItem {
 
   @ParametersAreNonnullByDefault
   public static void registerCoreFabricator(ItemGroup itemGroup, SlimefunItemStack itemStack, ItemStack[] recipe) {
-    new UnplaceableBlock(itemGroup, itemStack, MultiBlockCoreFabricator.getMachine(), recipe).register(Supreme.inst());
+    SlimefunItem item = new UnplaceableBlock(itemGroup, itemStack, MultiBlockCoreFabricator.getMachine(), recipe);
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
   @ParametersAreNonnullByDefault
   public static void registerTechMutation(SlimefunItemStack itemStack) {
-    new UnplaceableBlock(ItemGroups.COMPONENTS_CATEGORY, itemStack, RecipeType.NULL,
-        new ItemStack[]{TechMutation.TECH_MUTATION_I.item()}).register(Supreme.inst());
+    SlimefunItem item = new UnplaceableBlock(ItemGroups.COMPONENTS_CATEGORY, itemStack, RecipeType.NULL,
+        new ItemStack[]{TechMutation.TECH_MUTATION_I.item()});
+    item.setGuideType(GUIDE_RESOURCES);
+    item.register(Supreme.inst());
   }
 
 }

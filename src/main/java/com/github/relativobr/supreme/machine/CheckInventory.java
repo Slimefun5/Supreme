@@ -74,6 +74,7 @@ public class CheckInventory extends SlimefunItem implements InventoryBlock {
   @ParametersAreNonnullByDefault
   public CheckInventory(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
     super(itemGroup, item, recipeType, recipe);
+    setGuideType("machines");
     addItemHandler(onBlockBreak());
     new BlockMenuPreset(getId(), getItemName()) {
 

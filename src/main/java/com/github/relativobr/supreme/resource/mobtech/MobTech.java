@@ -38,6 +38,8 @@ public class MobTech extends SlimefunItem implements Radioactive, NotPlaceable {
   public MobTech(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType,
       ItemStack[] recipe) {
     super(itemGroup, item, recipeType, recipe);
+    // head-textured mob-tech resource; heuristic files it under Misc
+    setGuideType("resources");
   }
 
   public static void preSetup(Supreme plugin, MobTechGeneric item) {

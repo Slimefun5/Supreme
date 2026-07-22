@@ -1,6 +1,6 @@
 package com.github.relativobr.supreme.setup;
 
-import static com.github.relativobr.supreme.util.RegisterItem.registerMagicalFabricator;
+import static com.github.relativobr.supreme.util.RegisterItem.registerMagicalFabricatorMagic;
 
 import com.github.relativobr.supreme.Supreme;
 import com.github.relativobr.supreme.resource.magical.SupremeAttribute;
@@ -10,23 +10,23 @@ public class SetupMagicalComponents {
 
   public static void setup(Supreme sup) {
 
-    registerMagicalFabricator(SupremeCetrus.CETRUS_LUMIUM, SupremeCetrus.RECIPE_CETRUS_LUMIUM);
+    registerMagicalFabricatorMagic(SupremeCetrus.CETRUS_LUMIUM, SupremeCetrus.RECIPE_CETRUS_LUMIUM);
 
-    registerMagicalFabricator(SupremeCetrus.CETRUS_LUX, SupremeCetrus.RECIPE_CETRUS_LUX);
+    registerMagicalFabricatorMagic(SupremeCetrus.CETRUS_LUX, SupremeCetrus.RECIPE_CETRUS_LUX);
 
-    registerMagicalFabricator(SupremeCetrus.CETRUS_VENTUS, SupremeCetrus.RECIPE_CETRUS_VENTUS);
+    registerMagicalFabricatorMagic(SupremeCetrus.CETRUS_VENTUS, SupremeCetrus.RECIPE_CETRUS_VENTUS);
 
-    registerMagicalFabricator(SupremeCetrus.CETRUS_AQUA, SupremeCetrus.RECIPE_CETRUS_AQUA);
+    registerMagicalFabricatorMagic(SupremeCetrus.CETRUS_AQUA, SupremeCetrus.RECIPE_CETRUS_AQUA);
 
-    registerMagicalFabricator(SupremeCetrus.CETRUS_IGNIS, SupremeCetrus.RECIPE_CETRUS_IGNIS);
+    registerMagicalFabricatorMagic(SupremeCetrus.CETRUS_IGNIS, SupremeCetrus.RECIPE_CETRUS_IGNIS);
 
-    registerMagicalFabricator(SupremeAttribute.getMagic(), SupremeAttribute.RECIPE_ATTRIBUTE_MAGIC);
+    registerMagicalFabricatorMagic(SupremeAttribute.getMagic(), SupremeAttribute.RECIPE_ATTRIBUTE_MAGIC);
 
-    registerMagicalFabricator(SupremeAttribute.getBomb(), SupremeAttribute.RECIPE_ATTRIBUTE_BOMB);
+    registerMagicalFabricatorMagic(SupremeAttribute.getBomb(), SupremeAttribute.RECIPE_ATTRIBUTE_BOMB);
 
-    registerMagicalFabricator(SupremeAttribute.getFortune(), SupremeAttribute.RECIPE_ATTRIBUTE_FORTUNE);
+    registerMagicalFabricatorMagic(SupremeAttribute.getFortune(), SupremeAttribute.RECIPE_ATTRIBUTE_FORTUNE);
 
-    registerMagicalFabricator(SupremeAttribute.getImpetus(), SupremeAttribute.RECIPE_ATTRIBUTE_IMPETUS);
+    registerMagicalFabricatorMagic(SupremeAttribute.getImpetus(), SupremeAttribute.RECIPE_ATTRIBUTE_IMPETUS);
 
   }
 }
