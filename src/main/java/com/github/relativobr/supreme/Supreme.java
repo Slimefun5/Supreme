@@ -172,6 +172,11 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
     // Supreme item names/lore per-viewer (items are constructed name-less, see SupremeItemStack).
     io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService().registerTranslations(this);
 
+    // The mob-tech tier items are generated at runtime (per-tier colour + Roman numeral + dynamic lore),
+    // so they can't live in items.yml - a resolver reproduces their display for per-viewer packet rendering.
+    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService()
+        .registerResolver(new com.github.relativobr.supreme.util.SupremeMobTechResolver());
+
   }
 
   @Override
