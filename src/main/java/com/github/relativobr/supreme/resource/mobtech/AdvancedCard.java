@@ -12,10 +12,6 @@ import org.bukkit.Material;
 @UtilityClass
 public class AdvancedCard {
 
-  /**
-   * MUSIC_DISC_BLOCKS 8 laranja MUSIC_DISC_CHIRP 9 vemelho MUSIC_DISC_MALL 10 roxo MUSIC_DISC_STAL 11 preto
-   */
-
   public static final SlimefunItemStack CARD_SOLDER_INGOT = new SupremeItemStack("SUPREME_CARD_SOLDER", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));
 
   public static final SlimefunItemStack CARD_BILLON_INGOT = new SupremeItemStack("SUPREME_CARD_BILLON", MaterialCompat.safe(XMaterial.MUSIC_DISC_BLOCKS));

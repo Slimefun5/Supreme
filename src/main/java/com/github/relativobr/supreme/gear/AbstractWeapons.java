@@ -24,10 +24,8 @@ public class AbstractWeapons extends SlimefunItem implements Soulbound, NotPlace
 
   public static void setup(Supreme sup) {
 
-    // add Enchant
     EnchantsAndEffectsUtil.addGearBasicEnchants(WeaponsBasic.TITANIUM_SWORD, WeaponsBasic.AURUM_SWORD, WeaponsBasic.ADAMANTIUM_SWORD);
 
-    // add Enchant
     EnchantsAndEffectsUtil.addGearThorniumEnchants(WeaponsThornium.THORNIUM_BOW, WeaponsThornium.THORNIUM_BOW_MAGIC,
         WeaponsThornium.THORNIUM_BOW_RARE, WeaponsThornium.THORNIUM_BOW_EPIC, WeaponsThornium.THORNIUM_BOW_LEGENDARY,
         WeaponsThornium.THORNIUM_BOW_SUPREME, WeaponsThornium.THORNIUM_SWORD, WeaponsThornium.THORNIUM_SWORD_MAGIC,

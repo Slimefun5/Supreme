@@ -327,7 +327,6 @@ public class TechGenerator extends SimpleItemContainerMachine implements Radioac
 
   private int checkUpTime(int time, BlockMenu inv) {
 
-    // tempo padrão
     time = time - this.getSpeed();
 
     time = checkTimeSlot(inv.getItemInSlot(getInputSlots()[1]), time);

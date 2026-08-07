@@ -26,13 +26,11 @@ public class AbstractArmor extends SlimefunArmorPiece implements ProtectiveArmor
 
   public static void setup(Supreme sup) {
 
-    // add Enchant
     EnchantsAndEffectsUtil.addGearBasicEnchants(ArmorBasic.TITANIUM_HELMET, ArmorBasic.AURUM_HELMET, ArmorBasic.ADAMANTIUM_HELMET,
         ArmorBasic.TITANIUM_CHESTPLATE, ArmorBasic.AURUM_CHESTPLATE, ArmorBasic.ADAMANTIUM_CHESTPLATE,
         ArmorBasic.TITANIUM_LEGGINGS, ArmorBasic.AURUM_LEGGINGS, ArmorBasic.ADAMANTIUM_LEGGINGS,
         ArmorBasic.TITANIUM_BOOTS, ArmorBasic.AURUM_BOOTS, ArmorBasic.ADAMANTIUM_BOOTS);
 
-    // add Enchant
     EnchantsAndEffectsUtil.addGearThorniumEnchants(ArmorThornium.THORNIUM_HELMET, ArmorThornium.THORNIUM_HELMET_MAGIC,
         ArmorThornium.THORNIUM_HELMET_RARE, ArmorThornium.THORNIUM_HELMET_EPIC, ArmorThornium.THORNIUM_HELMET_LEGENDARY,
         ArmorThornium.THORNIUM_HELMET_SUPREME, ArmorThornium.THORNIUM_CHESTPLATE,

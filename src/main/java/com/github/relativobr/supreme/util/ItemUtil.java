@@ -46,7 +46,6 @@ public class ItemUtil {
             return null;
         }
 
-        // find path
         String itemPath = getNewIdSupremeLegacy(item.getItemId()).toLowerCase();
         ConfigurationSection itemSection = typeSection.getConfigurationSection(itemPath);
 
@@ -68,7 +67,6 @@ public class ItemUtil {
                 }
                 if (itemConfig.getBoolean("is-slimefun")) {
                     SlimefunItem slimefunItem = SlimefunItem.getById(itemId);
-                    //check Legacy Supreme
                     if (slimefunItem == null && getSupremeOptions().isUseLegacySupremeexpansionItemId()) {
                         slimefunItem = SlimefunItem.getById(getOldIdSupremeLegacy(itemId));
                     }
@@ -99,7 +97,6 @@ public class ItemUtil {
     public static void addLoreQuarry(@Nonnull AbstractQuarry quarry) {
         ItemStack item = quarry.getItem();
         ItemMeta meta = item.getItemMeta();
-        // lore
         List<String> lore = new ArrayList<>();
         lore.add(" ");
         Optional<List<String>> lastElementLore = Optional.empty();
@@ -130,7 +127,6 @@ public class ItemUtil {
 
         lastElementLore.ifPresent(lore::addAll);
         meta.setLore(lore);
-        // add meta
         item.setItemMeta(meta);
     }
 

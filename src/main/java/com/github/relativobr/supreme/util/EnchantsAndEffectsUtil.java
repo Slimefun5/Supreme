@@ -31,7 +31,6 @@ public class EnchantsAndEffectsUtil {
 
             ItemMeta meta = item.getItemMeta();
 
-            // lore
             List<String> lore;
             if (meta.hasLore()) {
                 lore = meta.getLore();
@@ -42,7 +41,6 @@ public class EnchantsAndEffectsUtil {
 
             lore.add(ChatColor.AQUA + "Soulbound");
 
-            // find path
             String itemPath = getNewIdSupremeLegacy(item.getItemId()).toLowerCase();
 
             buildLoreEffects(lore, itemPath);
@@ -51,7 +49,6 @@ public class EnchantsAndEffectsUtil {
 
             ConfigurationSection itemSection = typeSection.getConfigurationSection(itemPath);
             if (itemSection != null) {
-                // unbreakable and enchants
                 CompatUtils.setUnbreakable(meta, itemSection.getBoolean("unbreakable"));
                 for (Map.Entry<Enchantment, Integer> entry : getEnchants(itemSection).entrySet()) {
                     meta.addEnchant(entry.getKey(), entry.getValue(), true);
@@ -61,7 +58,6 @@ public class EnchantsAndEffectsUtil {
                         "Config section for " + itemPath + " missing, Check your config and report this!");
             }
 
-            // add meta
             item.setItemMeta(meta);
 
         }
@@ -80,7 +76,6 @@ public class EnchantsAndEffectsUtil {
 
             ItemMeta meta = item.getItemMeta();
 
-            // lore
             List<String> lore;
             if (meta.hasLore()) {
                 lore = meta.getLore();
@@ -91,14 +86,12 @@ public class EnchantsAndEffectsUtil {
 
             lore.add(ChatColor.AQUA + "Soulbound");
 
-            // find path
             String itemPath = getNewIdSupremeLegacy(item.getItemId()).toLowerCase();
 
             meta.setLore(lore);
 
             ConfigurationSection itemSection = typeSection.getConfigurationSection(itemPath);
             if (itemSection != null) {
-                // unbreakable and enchants
                 CompatUtils.setUnbreakable(meta, itemSection.getBoolean("unbreakable"));
                 for (Map.Entry<Enchantment, Integer> entry : getEnchants(itemSection).entrySet()) {
                     meta.addEnchant(entry.getKey(), entry.getValue(), true);
@@ -108,7 +101,6 @@ public class EnchantsAndEffectsUtil {
                         "Config section for " + itemPath + " missing, Check your config and report this!");
             }
 
-            // add meta
             item.setItemMeta(meta);
 
         }
@@ -145,7 +137,6 @@ public class EnchantsAndEffectsUtil {
             return effect;
         }
 
-        // find path
         String itemPath = getNewIdSupremeLegacy(item.getItemId()).toLowerCase();
 
         // ignore basic armor effects
@@ -244,13 +235,10 @@ public class EnchantsAndEffectsUtil {
         } else if (itemPath.endsWith("thornium")) {
             amplifier = typeSection.getInt("amplifier_thornium", 1);
         }
-        // fix start value 0
         amplifier--;
-        // fix max value 10
         if (amplifier > 10) {
             amplifier = 10;
         }
-        // fix min value 0
         if (amplifier < 0) {
             amplifier = 0;
         }
@@ -261,7 +249,7 @@ public class EnchantsAndEffectsUtil {
         if (section != null) {
             List<PotionEffect> potionEffects = new ArrayList<>();
             for (String key : section.getKeys(true)) {
-                // check enable; PotionEffect is built version-safely (6-arg icon ctor is 1.13+)
+                // PotionEffect is built version-safely (6-arg icon ctor is 1.13+)
                 if (section.getBoolean(key)) {
                     PotionEffect potionEffect = CompatUtils.potionEffect(key, 600, amplifier, false, false, false);
                     if (potionEffect != null) {
@@ -281,7 +269,6 @@ public class EnchantsAndEffectsUtil {
         if (section != null) {
             for (String key : section.getKeys(true)) {
                 PotionEffectType potionEffectType = PotionEffectType.getByName(key);
-                // check enable
                 if (section.getBoolean(key) && potionEffectType != null) {
                     String name = potionEffectType.getName();
                     name = name.replace("_", " ");
