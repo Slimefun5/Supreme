@@ -68,13 +68,11 @@ public final class CompatUtils {
         }
     }
 
-    // --- Sounds (the whole org.bukkit.Sound enum was renamed in 1.9; every BLOCK_*/ENTITY_* constant is
-    //     post-1.8, so referencing one directly is a NoSuchFieldError on 1.8.8) ----------------------
-
     /**
      * Plays a sound resolved by name through XSeries {@link XSound}, which maps the name to whatever
      * the running server actually supports (or no-ops if absent). Avoids referencing a raw {@code
-     * Sound.X} constant, none of whose modern {@code BLOCK_*} names exist on 1.8.8.
+     * Sound.X} constant: the whole {@code org.bukkit.Sound} enum was renamed in 1.9, so every modern
+     * {@code BLOCK_*}/{@code ENTITY_*} name is a {@code NoSuchFieldError} on 1.8.8.
      */
     public static void playSound(@Nullable Location location, @Nonnull String name, float volume, float pitch) {
         if (location == null) {
@@ -98,11 +96,13 @@ public final class CompatUtils {
         return entity.getType().name().equals(typeName);
     }
 
-    // --- Item durability (org.bukkit.inventory.meta.Damageable is 1.13+; routed reflectively) -------
-    // Before 1.13, an item's damage lived on ItemStack#getDurability()/#setDurability(short) directly;
-    // Damageable#getDamage()/#setDamage(int) on ItemMeta is the 1.13+ replacement. Reflection avoids
-    // referencing the Damageable interface (and hence resolving it) on servers where it doesn't exist.
-
+    /**
+     * Reads an item's damage across versions (paired with {@link #setItemDamage}).
+     *
+     * @implNote Before 1.13 an item's damage lived on {@code ItemStack#getDurability()} directly;
+     * {@code Damageable#getDamage()} on {@code ItemMeta} is the 1.13+ replacement. Reflection avoids
+     * referencing the {@code Damageable} interface (and hence resolving it) on servers without it.
+     */
     public static int getItemDamage(@Nonnull ItemStack item) {
         ItemMeta meta = item.getItemMeta();
         if (meta != null) {
@@ -130,12 +130,15 @@ public final class CompatUtils {
         item.setDurability((short) damage);
     }
 
-    // --- Unbreakable flag (ItemMeta#setUnbreakable/#isUnbreakable(boolean) are 1.11+; before that the
-    //     same methods lived on ItemMeta.spigot()) ----------------------------------------------------
-    // Reflection avoids a direct 1.11 method reference (NoSuchMethodError on 1.8.8). The Method is
-    // resolved off the PUBLIC interface (ItemMeta / ItemMeta.Spigot), never off the concrete
-    // non-public CraftMetaItem, so invoke() can't hit IllegalAccessException.
-
+    /**
+     * Sets an item's unbreakable flag across versions (paired with {@link #isUnbreakable}).
+     *
+     * @implNote {@code ItemMeta#setUnbreakable(boolean)} is 1.11+; before that the same method lived on
+     * {@code ItemMeta.spigot()}. Reflection avoids a direct 1.11 method reference
+     * ({@code NoSuchMethodError} on 1.8.8), and the {@code Method} is resolved off the PUBLIC interface
+     * ({@code ItemMeta}/{@code ItemMeta.Spigot}), never off the concrete non-public {@code CraftMetaItem},
+     * so {@code invoke()} can't hit an {@code IllegalAccessException}.
+     */
     public static void setUnbreakable(@Nonnull ItemMeta meta, boolean value) {
         try {
             ItemMeta.class.getMethod("setUnbreakable", boolean.class).invoke(meta, value);
@@ -186,10 +189,13 @@ public final class CompatUtils {
         return null;
     }
 
-    // --- PotionEffect: the 6-arg (type,dur,amp,ambient,particles,icon) ctor is 1.13+ (the `icon`
-    //     boolean). Resolve the type by name via XPotion (so a modern-only effect name no-ops instead
-    //     of NPEing), then build reflectively, falling back 6-arg -> 5-arg -> 4-arg. -----------------
-
+    /**
+     * Builds a {@link PotionEffect} across versions, resolving the type by name.
+     *
+     * @implNote The 6-arg {@code (type,dur,amp,ambient,particles,icon)} constructor is 1.13+ (the
+     * {@code icon} boolean). The type is resolved by name via {@code XPotion} so a modern-only effect
+     * name no-ops instead of NPEing, then built reflectively, falling back 6-arg &rarr; 5-arg &rarr; 4-arg.
+     */
     @Nullable
     public static PotionEffect potionEffect(@Nonnull String typeName, int duration, int amplifier,
         boolean ambient, boolean particles, boolean icon) {
@@ -226,9 +232,10 @@ public final class CompatUtils {
         return n.equals("AIR") || n.endsWith("_AIR");
     }
 
-    // --- World#getNearbyEntities(Location, x, y, z, Predicate) is post-1.8; the 4-arg (no-predicate)
-    //     overload exists on 1.8.8, so call that and filter in Java. -----------------------------------
-
+    /**
+     * @implNote {@code World#getNearbyEntities(Location, x, y, z, Predicate)} is post-1.8; the 4-arg
+     * (no-predicate) overload exists on 1.8.8, so it is called here and the predicate applied in Java.
+     */
     @Nonnull
     public static Collection<Entity> getNearbyEntities(@Nonnull World world, @Nonnull Location loc,
         double x, double y, double z, @Nullable Predicate<Entity> filter) {
@@ -245,11 +252,13 @@ public final class CompatUtils {
         return matched;
     }
 
-    // --- Action bar: Player.Spigot#sendMessage(ChatMessageType, BaseComponent[]) needs the
-    //     net.md_5.bungee.api.ChatMessageType class, which does NOT exist on 1.8.8. Resolved entirely
-    //     by reflection (Class.forName) so this class never references ChatMessageType directly; falls
-    //     back to a plain spigot chat message where the action-bar overload is unavailable. -----------
-
+    /**
+     * @implNote {@code Player.Spigot#sendMessage(ChatMessageType, BaseComponent[])} needs the
+     * {@code net.md_5.bungee.api.ChatMessageType} class, which does NOT exist on 1.8.8. It is resolved
+     * entirely by reflection ({@code Class.forName}) so this class never references
+     * {@code ChatMessageType} directly, falling back to a plain spigot chat message where the
+     * action-bar overload is unavailable.
+     */
     public static void sendActionBar(@Nonnull Player player, @Nonnull BaseComponent[] components) {
         try {
             Class<?> chatMessageType = Class.forName("net.md_5.bungee.api.ChatMessageType");
@@ -270,32 +279,36 @@ public final class CompatUtils {
         player.spigot().sendMessage(components);
     }
 
-    // --- Particles (1.9+) ---------------------------------------------------------------------------
-    // The actual org.bukkit.Particle reference lives in ParticleCompat, which is loaded ONLY when the
-    // guard below passes. Naming a post-1.8 Bukkit type anywhere in THIS class (even a guarded private
-    // method) would force its resolution when CompatUtils is loaded, so it must stay out entirely.
-
     /** {@code World#spawnParticle} + {@code org.bukkit.Particle} are 1.9+. */
     public static boolean particlesSupported() {
         return Slimefun.getMinecraftVersion().isAtLeast(MinecraftVersion.MINECRAFT_1_9);
     }
 
+    /**
+     * @implNote The actual {@code org.bukkit.Particle} reference lives in {@code ParticleCompat}, loaded
+     * ONLY when {@link #particlesSupported()} passes. Naming a post-1.8 Bukkit type anywhere in THIS
+     * class (even a guarded private method) would force its resolution when {@code CompatUtils} loads,
+     * so it must stay out entirely.
+     */
     public static void spawnParticle(@Nonnull Location location, @Nonnull String name, int count) {
         if (particlesSupported()) {
             ParticleCompat.spawn(location, name, count);
         }
     }
 
-    // --- Block "lit" state (org.bukkit.block.data.BlockData/Lightable are 1.13+) --------------------
-    // A block's lit visual (e.g. a lamp glowing) has no pre-1.13 equivalent API at all, so on legacy
-    // servers isLightable() assumes the block is valid (rather than failing the caller's validity
-    // check) and setLit() is a silent no-op. The BlockData/Lightable references live in
-    // ModernBlockCompat, loaded ONLY behind the guard below.
-
     public static boolean blockDataSupported() {
         return Slimefun.getMinecraftVersion().isAtLeast(MinecraftVersion.MINECRAFT_1_13);
     }
 
+    /**
+     * Whether a block can carry a lit visual (paired with {@link #setLit}).
+     *
+     * @implNote {@code org.bukkit.block.data.BlockData}/{@code Lightable} are 1.13+, and a block's lit
+     * visual has no pre-1.13 equivalent API at all, so on legacy servers this assumes the block is valid
+     * (rather than failing the caller's validity check) and {@link #setLit} is a silent no-op. The
+     * {@code BlockData}/{@code Lightable} references live in {@code ModernBlockCompat}, loaded ONLY
+     * behind {@link #blockDataSupported()}.
+     */
     public static boolean isLightable(@Nonnull Block block) {
         return !blockDataSupported() || ModernBlockCompat.isLightable(block);
     }
