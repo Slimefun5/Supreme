@@ -8,6 +8,8 @@ jobs:
   merge:
     permissions:
       contents: write
-    uses: Slimefun5/workflows/.github/workflows/auto-merge.yaml@main
+    uses: intisy/workflows/.github/workflows/merge.yml@main
     with:
-      repository: ${{ github.repository }}
+      source: experimental
+      target: stable
+      mode: overwrite
