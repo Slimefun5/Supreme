@@ -13,3 +13,11 @@ jobs:
       source: experimental
       target: stable
       mode: overwrite
+
+  readme:
+    needs: merge
+    permissions:
+      contents: write
+    uses: intisy/workflows/.github/workflows/readme.yml@main
+    with:
+      repository: ${{ github.repository }}
