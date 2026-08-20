@@ -317,7 +317,7 @@ public class MobCollector extends SimpleItemWithLargeContainerMachine {
                 int current = CompatUtils.getItemDamage(itemInSlot);
                 if (current + 2 >= itemInSlot.getType().getMaxDurability()) {
                   inv.consumeItem(slot);
-                } else { //reduce
+                } else {
                   CompatUtils.setItemDamage(itemMeta, itemInSlot, current + 2);
                   itemInSlot.setItemMeta(itemMeta);
                   inv.replaceExistingItem(slot, itemInSlot);

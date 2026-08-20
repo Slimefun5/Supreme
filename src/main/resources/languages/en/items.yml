@@ -2085,6 +2085,14 @@ SUPREME_MOB_COLLECTOR_TOOL_III:
   stats:
     - "&8⇨ &e⚡ &750 J per use"
 
+MOB_TECH_COLLECTOR_MACHINE:
+  name: "&bMobTech Collector I"
+  type:
+    - "&7&oMachine"
+  description:
+    - "&fThis machine allows you to collect "
+    - "&fMobTech head nearby mobs. (3 block)"
+
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   name: "&bMobTech Collector II"
   type:

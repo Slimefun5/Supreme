@@ -77,7 +77,6 @@ public class MobTech extends SlimefunItem implements Radioactive, NotPlaceable {
     mobTech.setMobTechTier(1);
     mobTech.register(plugin);
 
-    // upgrade tier
     for (int i = 2; i <= 9; i++) {
       TechRobotic.addRecipe(ItemUtil.buildItemFromMobTechDTO(item, (i - 1)).item(),
           ItemUtil.buildItemFromMobTechDTO(item, i).item());

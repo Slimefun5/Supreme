@@ -18,7 +18,6 @@ public class SetupSimpleCard {
 
     boolean customBc = getSupremeOptions().isCustomBc();
 
-    // setup cards
     TechGenerator.preSetup(plugin, SimpleCard.CARD_STONE, MaterialCompat.safe(XMaterial.STONE), MaterialCompat.safe(XMaterial.COBBLESTONE));
 
     TechGenerator.preSetup(plugin, SimpleCard.CARD_GRANITE, MaterialCompat.safe(XMaterial.POLISHED_GRANITE), MaterialCompat.safe(XMaterial.GRANITE));

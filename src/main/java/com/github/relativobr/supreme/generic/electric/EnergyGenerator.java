@@ -91,7 +91,6 @@ public final class EnergyGenerator extends MenuBlock implements EnergyNetProvide
     if(this.generate > 0 && (this.currentDelay < Supreme.getSupremeOptions().getDelayTimeValidGenerators())){
       this.currentDelay++;
     } else {
-      // check block
       this.generate = this.type.generate(l.getWorld(), l.getBlock(), this.energy);
       this.currentDelay = 0;
     }

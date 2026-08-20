@@ -8,6 +8,6 @@ jobs:
   merge:
     permissions:
       contents: write
-    uses: Slimefun5/workflows/.github/workflows/auto-merge.yaml@stable
+    uses: Slimefun5/workflows/.github/workflows/auto-merge.yaml@main
     with:
       repository: ${{ github.repository }}

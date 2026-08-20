@@ -56,9 +56,7 @@ public class MultiBlockGearFabricator extends MultiBlockMachine implements NotPl
     Block dispenser = b.getRelative(BlockFace.UP);
     if (!dispenser.isEmpty()) {
 
-      // Cast to the plain Furnace interface (not BlastFurnace, 1.14+ only) so this class stays
-      // loadable on legacy servers; a real BlastFurnace block state also implements Furnace, and only
-      // Furnace#getInventory() is used here, so behaviour is unchanged on modern versions.
+      // Plain Furnace, not BlastFurnace (1.14+ only), keeps this class loadable on legacy servers; a real BlastFurnace state also implements Furnace and only getInventory() is used.
       Furnace furnace = (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.DOWN), false)
           .getState();
       FurnaceInventory furnaceInventory = furnace.getInventory();

@@ -154,11 +154,9 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
       new BlobBuildUpdater(this, getFile(), "Supreme", "Dev").start();
     }
 
-    // localization
     Supreme.inst().log(Level.INFO, "Loaded language Supreme: " + getSupremeOptions().getLang());
     getLocalization();
 
-    // check Compatibily Legacy (SupremeExpansion)
     if (getSupremeOptions().isUseLegacySupremeexpansionItemId()) {
       Supreme.inst().log(Level.INFO, "Legacy SupremeExpansion IDs: enable");
       getLegacyItem();
@@ -168,10 +166,28 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
 
     MainSetup.setup(this);
 
-    // Register this addon's languages/<lang>/items.yml so the core translation service renders
-    // Supreme item names/lore per-viewer (items are constructed name-less, see SupremeItemStack).
-    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService().registerTranslations(this);
+    registerItemTranslations();
+    registerMobTechResolver();
 
+  }
+
+  /**
+   * @implNote Registers this addon's {@code languages/<lang>/items.yml} so the core translation service
+   * renders Supreme item names/lore per-viewer; items are constructed name-less, see
+   * {@code SupremeItemStack}.
+   */
+  private void registerItemTranslations() {
+    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService().registerTranslations(this);
+  }
+
+  /**
+   * @implNote The mob-tech tier items are generated at runtime (per-tier colour + Roman numeral +
+   * dynamic lore) so they can't live in {@code items.yml}; a resolver reproduces their display for
+   * per-viewer packet rendering.
+   */
+  private void registerMobTechResolver() {
+    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService()
+        .registerResolver(new com.github.relativobr.supreme.util.SupremeMobTechResolver());
   }
 
   @Override

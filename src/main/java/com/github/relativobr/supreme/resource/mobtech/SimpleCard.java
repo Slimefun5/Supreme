@@ -12,13 +12,6 @@ import org.bukkit.Material;
 @UtilityClass
 public class SimpleCard {
 
-  /**
-   * MUSIC_DISC_STRAD       1 branco MUSIC_DISC_13          2 amarelo/branco MUSIC_DISC_MELLOHI     3 rosa/branco
-   * MUSIC_DISC_FAR         4 verdeclaro MUSIC_DISC_CAT         5 verde MUSIC_DISC_WARD        6 verde/verdeclaro
-   * MUSIC_DISC_WAIT        7 azul
-   */
-
-  // cards basicos
   public static final SlimefunItemStack CARD_STONE = new SupremeItemStack("SUPREME_CARD_STONE", MaterialCompat.safe(XMaterial.MUSIC_DISC_STRAD));
 
 
