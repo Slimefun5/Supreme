@@ -9,4 +9,10 @@ on:
 
 jobs:
   build:
-    uses: Slimefun5/workflows/.github/workflows/ci.yml@main
+    uses: intisy/workflows/.github/workflows/test.yml@main
+    with:
+      java_version: '25'
+      gradle_test: build -x test
+      gradle_args: --no-daemon
+    secrets:
+      envPAT: ${{ secrets.PAT }}
