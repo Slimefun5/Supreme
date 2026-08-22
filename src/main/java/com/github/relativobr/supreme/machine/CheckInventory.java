@@ -80,6 +80,7 @@ public class CheckInventory extends SlimefunItem implements InventoryBlock {
 
       @Override
       public void init() {
+        optOutOfHeaderItem();
         constructMenu(this);
       }
 

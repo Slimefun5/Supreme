@@ -28,6 +28,7 @@ final class MenuBlockPreset extends BlockMenuPreset {
 
     MenuBlockPreset(MenuBlock menuBlock) {
         super(menuBlock.getId(), menuBlock.getItemName());
+        optOutOfHeaderItem();
         this.menuBlock = menuBlock;
         menuBlock.setup(this);
     }

@@ -66,6 +66,7 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
 
       @Override
       public void init() {
+        optOutOfHeaderItem();
         constructMenu(this);
       }
 
