@@ -18,7 +18,7 @@ import com.github.relativobr.supreme.resource.mobtech.ZombieTech;
 
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTextResolver;
-import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTranslationService.RenderedDisplay;
+import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTextBlocks;
 
 /**
  * Resolves the runtime-generated mob-tech tier items ({@code SUPREME_<type>_<creature>_<tier>}) for
@@ -74,7 +74,7 @@ public final class SupremeMobTechResolver implements ItemTextResolver {
 
     @Override
     @Nullable
-    public RenderedDisplay resolve(@Nullable ItemStack item, String itemId, @Nullable String languageId) {
+    public ItemTextBlocks resolve(@Nullable ItemStack item, String itemId, @Nullable String languageId) {
         int split = itemId.lastIndexOf('_');
 
         if (split <= 0) {
@@ -97,6 +97,9 @@ public final class SupremeMobTechResolver implements ItemTextResolver {
 
         String name = meta.hasDisplayName() ? meta.getDisplayName() : itemId;
         List<String> lore = meta.getLore() != null ? meta.getLore() : Collections.<String>emptyList();
-        return RenderedDisplay.of(name, lore);
+
+        // The built lore is this tier's numbers - the one thing an items.yml entry cannot know - so it goes
+        // in the Stats block and the item keeps its authored type and description.
+        return ItemTextBlocks.of(name, null, null, lore, null);
     }
 }
