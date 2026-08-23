@@ -52,4 +52,21 @@ public class ItemGroups {
       MULTI_CATEGORY,
       CustomItemStack.create(MaterialCompat.safe(XMaterial.NETHERITE_SWORD), Supreme.getLocalization().getCategoryName("weapons")));
 
+
+  /**
+   * Places this addon's items in the shared guide categories. One call per group is enough:
+   * the guide reads a group's category for every item in it (see ItemTypeClassifier), so items
+   * no longer fall back to Misc.
+   */
+  static {
+    RESOURCE_CATEGORY.setCategory("resources");
+    COMPONENTS_CATEGORY.setCategory("resources");
+    CARDS_CATEGORY.setCategory("misc");
+    TECHMOB_CATEGORY.setCategory("machines");
+    MACHINES_CATEGORY.setCategory("machines");
+    ELECTRIC_CATEGORY.setCategory("energy_tech");
+    TOOLS_CATEGORY.setCategory("tools");
+    ARMOR_CATEGORY.setCategory("armor");
+    WEAPONS_CATEGORY.setCategory("weapons");
+  }
 }
