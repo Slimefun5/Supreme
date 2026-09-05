@@ -1,0 +1,1041 @@
+MOB_TECH_COLLECTOR_MACHINE:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ADAMANTIUM_AXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_ADAMANTIUM_BOOTS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_ADAMANTIUM_CAPACITOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ADAMANTIUM_CHESTPLATE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_ADAMANTIUM_HELMET:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_ADAMANTIUM_LEGGINGS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_ADAMANTIUM_PICKAXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_ADAMANTIUM_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ADAMANTIUM_SHOVEL:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_ADAMANTIUM_SWORD:
+  type:
+  - '&7&oආයුධ'
+SUPREME_ALLOY_ADAMANTIUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_AURUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_IRIDIUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_MANGANESE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_PLATINUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_TITANIUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_ALLOY_ZIRCONIUM:
+  type:
+  - '&7&oසංරචක'
+SUPREME_AQUA_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ATTRIBUTE_BOMB:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_ATTRIBUTE_FORTUNE:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_ATTRIBUTE_IMPETUS:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_ATTRIBUTE_MAGIC:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_AURUM_AXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AURUM_BOOTS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_AURUM_CAPACITOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_AURUM_CHESTPLATE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_AURUM_HELMET:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_AURUM_LEGGINGS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_AURUM_PICKAXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AURUM_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_AURUM_SHOVEL:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AURUM_SWORD:
+  type:
+  - '&7&oආයුධ'
+SUPREME_AXE_EPIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AXE_LEGENDARY:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AXE_MAGIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AXE_RARE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AXE_SUPREME:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_AXE_THORNIUM:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_BASIC_AQUA_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_BASIC_IGNIS_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_BASIC_LUMIUM_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_BASIC_LUX_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_BASIC_VENTUS_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_BLEND_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_BOOTS_EPIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOOTS_LEGENDARY:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOOTS_MAGIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOOTS_RARE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOOTS_SUPREME:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOOTS_THORNIUM:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_BOW_EPIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_BOW_LEGENDARY:
+  type:
+  - '&7&oආයුධ'
+SUPREME_BOW_MAGIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_BOW_RARE:
+  type:
+  - '&7&oආයුධ'
+SUPREME_BOW_SUPREME:
+  type:
+  - '&7&oආයුධ'
+SUPREME_BOW_THORNIUM:
+  type:
+  - '&7&oආයුධ'
+SUPREME_CARD_ALUMINUM_BRASS:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ALUMINUM_BRONZE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ALUMINUM_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_AMETHYST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ANDESITE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_APPLE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_BATTERY:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_BILLON:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_BLAZE_ROD:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_BRASS:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_BRONZE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_CARBON:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_CARBONADO:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_CARBON_PRESS:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_CLAY:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_COAL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_COBALT:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_COPPER:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_COPPER_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_CORINTHIAN_BRONZE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_DAMASCUS:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_DIAMOND:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_DIORITE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_DURALUMIN:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ELECTRIC_MOTOR:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ELECTRO_MAGNET:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_EMERALD:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ENDSTONE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_FERROSILICON:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GLOW_INK_SAC:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GOLD:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GOLD24K:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GOLD_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GRANITE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_GRAVEL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_HARDENED_METAL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_HEATING_COIL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_HONEY_BOTTLE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_INK_SAC:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_IRON:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_IRON_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_LAPIS:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_LEAD_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_MAGNESIUM_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_MAGNET:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_NETHERITE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_NETHER_STAR:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_NICKEL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_PLASTIC_SHEET:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_QUARTZ:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_QUARTZ_BLOCK:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_REDSTONE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_REDSTONE_ALLOY:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_REINFORCED_ALLOY:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SAND:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SILICON:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SILVER_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SLIME_BALL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SNOW:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SOLDER:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_STEEL:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_STONE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SULFATE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SYNTHETIC_DIAMOND:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SYNTHETIC_EMERALD:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_TIN_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_WITHER_ROSE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARD_ZINC_DUST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CARRIAGE_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_CENTER_CARD_ADVANCED:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CENTER_CARD_SIMPLE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CENTER_CARD_ULTIMATE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_CETRUS_AQUA:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CETRUS_IGNIS:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CETRUS_LUMIUM:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CETRUS_LUX:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CETRUS_VENTUS:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CHECK_INVENTORY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_CHESTPLATE_EPIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_CHESTPLATE_LEGENDARY:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_CHESTPLATE_MAGIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_CHESTPLATE_RARE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_CHESTPLATE_SUPREME:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_CHESTPLATE_THORNIUM:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_COAL_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_CONVEYANCE_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_CORE_ACACIA_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_ANDESITE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_APPLE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_BEEF:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_BEETROOT:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_BIRCH_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_BLACK:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_BLUE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_CARROT:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_CHICKEN:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_CLAY:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_COAL:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_COD:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_CRIMSON_STEM:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_CYAN:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_DARK_OAK_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_DIAMOND:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_DIORITE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_EMERALD:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_ENDSTONE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_GOLD:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_GRANITE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_GRAVEL:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_GRAY:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_GREEN:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_IRON:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_JUNGLE_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_LAPIS:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_MELON:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_MUTTON:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_NETHERITE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_OAK_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_OF_ALLOY:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_OF_BLOCK:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_OF_COLOR:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_OF_DEATH:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_OF_LIFE:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_OF_NATURE:
+  type:
+  - '&7&oමායාකාරී සංරචක'
+SUPREME_CORE_PINK:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_PORKCHOP:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_POTATO:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_PUMPKIN:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_PURPLE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_QUARTZ:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_RED:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_REDSTONE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SALMON:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SAND:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SNOW:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SPIDER_EYE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SPRUCE_LOG:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_STONE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_STRING:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SUGAR_CANE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_SWEET_BERRIES:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_TEAR:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_WARPED_STEM:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_WHEAT:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_WITHER_ROSE:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CORE_YELLOW:
+  type:
+  - '&7&oමූලික සංරචක'
+SUPREME_CRYSTALLIZER_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_DIAMOND_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_DUST_AMETHYST:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_DUST_GLOW_INK:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_DUST_NETHERITE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_ELECTRIC_CORE_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_CORE_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_CORE_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_CRAFTER_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_CRAFTER_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_CRAFTER_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_GEAR_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_GEAR_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_GEAR_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_ITEM:
+  type:
+  - '&7&oවිවිධ'
+SUPREME_ELECTRIC_MAGICAL_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_MAGICAL_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ELECTRIC_MAGICAL_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_EMPTY_MOBTECH:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_FORGE_INGOT_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FORGE_INGOT_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FORGE_INGOT_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FORGE_MAGICAL_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FORGE_MAGICAL_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FORGE_MAGICAL_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FOUNDRY_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FOUNDRY_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_FOUNDRY_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_GENERATOR_MOB_ADVANCED:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_GENERATOR_MOB_BASIC:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_GENERATOR_MOB_MEDIUM:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_GENE_BERSERK:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_GENE_INTELLIGENCE:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_GENE_LUCK:
+  type:
+  - '&7&oසංරචකය'
+SUPREME_GOLD_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_HELMET_EPIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_HELMET_LEGENDARY:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_HELMET_MAGIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_HELMET_RARE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_HELMET_SUPREME:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_HELMET_THORNIUM:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_IGNIS_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_INDUCTIVE_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_INDUCTOR_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_IRIDIUM_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_IRON_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_LEGGINGS_EPIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LEGGINGS_LEGENDARY:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LEGGINGS_MAGIC:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LEGGINGS_RARE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LEGGINGS_SUPREME:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LEGGINGS_THORNIUM:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_LUMIUM_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_LUX_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MAGIC_ALTAR_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MAGIC_ALTAR_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MAGIC_ALTAR_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MAIN_ITEM:
+  type:
+  - '&7&oවිවිධ'
+SUPREME_MANGANESE_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_MOB_COLLECTOR_MACHINE_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MOB_COLLECTOR_MACHINE_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MOB_COLLECTOR_MACHINE_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MOB_COLLECTOR_TOOL_I:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_MOB_COLLECTOR_TOOL_II:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_MOB_COLLECTOR_TOOL_III:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MULTIBLOCK_CORE:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MULTIBLOCK_GEAR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_MULTIBLOCK_MAGICAL:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_PETRIFIER_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_PICKAXE_EPIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PICKAXE_LEGENDARY:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PICKAXE_MAGIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PICKAXE_RARE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PICKAXE_SUPREME:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PICKAXE_THORNIUM:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_PLATINUM_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_RUSTLESS_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_SHIELD_EPIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHIELD_LEGENDARY:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHIELD_MAGIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHIELD_RARE:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHIELD_SUPREME:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHIELD_THORNIUM:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SHOVEL_EPIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_SHOVEL_LEGENDARY:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_SHOVEL_MAGIC:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_SHOVEL_RARE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_SHOVEL_SUPREME:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_SHOVEL_THORNIUM:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_STAINLESS_MACHINE:
+  type:
+  - '&7&oඋසස් සංරචක'
+SUPREME_STONE_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_SUPREME:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_SUPREME_CAPACITOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_SUPREME_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_SUPREME_NUGGET:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_SUPREME_NUGGETS_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_SWORD_EPIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SWORD_LEGENDARY:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SWORD_MAGIC:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SWORD_RARE:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SWORD_SUPREME:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SWORD_THORNIUM:
+  type:
+  - '&7&oආයුධ'
+SUPREME_SYNTHETIC_AMETHYST:
+  type:
+  - '&7&oසංරචක'
+SUPREME_SYNTHETIC_RUBY:
+  type:
+  - '&7&oසංරචක'
+SUPREME_TECH_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_MUTATION_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_MUTATION_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_MUTATION_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_ROBOTIC:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_ROBOTIC_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TECH_ROBOTIC_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_THORNERITE:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_BIT:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_BIT_SYNTHETIC:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_CAPACITOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_THORNIUM_CARBONADO:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_DUST:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_DUST_SYNTHETIC:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_ENERGIZED:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_THORNIUM_INGOT:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  type:
+  - '&7&oඅවසන් අදියරේ සංරචක'
+SUPREME_THORNIUM_QUARRY:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TITANIUM_AXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_TITANIUM_BOOTS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_TITANIUM_CAPACITOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_TITANIUM_CHESTPLATE:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_TITANIUM_HELMET:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_TITANIUM_LEGGINGS:
+  type:
+  - '&7&oසන්නාහය'
+SUPREME_TITANIUM_PICKAXE:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_TITANIUM_PLATE:
+  type:
+  - '&7&oසංරචක'
+SUPREME_TITANIUM_SHOVEL:
+  type:
+  - '&7&oමෙවලම්'
+SUPREME_TITANIUM_SWORD:
+  type:
+  - '&7&oආයුධ'
+SUPREME_VENTUS_GENERATOR:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_AQUARIUM_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_AQUARIUM_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_AQUARIUM_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_GARDEN_I:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_GARDEN_II:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_VIRTUAL_GARDEN_III:
+  type:
+  - '&7&oයන්ත්‍රය'
+SUPREME_ZIRCONIUM_PLATE:
+  type:
+  - '&7&oසංරචක'
