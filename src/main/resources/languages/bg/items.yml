@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fТази машина ви позволява да събирате '
+  - '&fМобТек глави от близките мобове. (3 блока)'
+  name: '&bМобТек колектор I'
   type:
   - '&7&oМашина'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lБрадва от адамантий'
+  name: '&f&lАдамантиева брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lБотуши от адамантий'
+  name: '&f&lАдамантиеви ботуши'
   type:
   - '&7&oБроня'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9Адамантиев кондензатор'
+  stats:
+  - '&6Усъвършенстван кондензатор'
+  - '&8⇨ &e⚡ &7Капацитет: 16,000,000.00 J'
   type:
   - '&7&oМашина'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lНагръдник от адамантий'
+  name: '&f&lАдамантиев нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lШлем от адамантий'
+  name: '&f&lАдамантиев шлем'
   type:
   - '&7&oБроня'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lПанталони от адамантий'
+  name: '&f&lАдамантиеви панталони'
   type:
   - '&7&oБроня'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lКирка от адамантий'
+  name: '&f&lАдамантиева кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aАдамантиева плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lЛопата от адамантий'
+  name: '&f&lАдамантиева лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lМеч от адамантий'
+  name: '&f&lАдамантиев меч'
   type:
   - '&7&oОръжия'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aСплав от адамантий'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_AURUM:
+  name: '&aСплав от аурум'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aСплав от иридий'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aСплав от манган'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aСплав от платина'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aСплав от титан'
   type:
   - '&7&oКомпоненти'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aСплав от цирконий'
   type:
   - '&7&oКомпоненти'
 SUPREME_AQUA_GENERATOR:
+  name: '&9Аква генератор'
+  stats:
+  - '&6Усъвършенстван генератор'
   type:
   - '&7&oМашина'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7Супер атрибут бомба със специални ефекти'
+  name: '&aАтрибут бомба'
   type:
   - '&7&oМагически компоненти'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7Супер атрибут късмет със специални ефекти'
+  name: '&aАтрибут късмет'
   type:
   - '&7&oМагически компоненти'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7Супер атрибут устрем със специални ефекти'
+  name: '&aАтрибут устрем'
   type:
   - '&7&oМагически компоненти'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7Супер атрибут магия със специални ефекти'
+  name: '&aАтрибут магия'
   type:
   - '&7&oМагически компоненти'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lБрадва от аурум'
+  name: '&f&lАурумова брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lБотуши от аурум'
+  name: '&f&lАурумови ботуши'
   type:
   - '&7&oБроня'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9Аурумов кондензатор'
+  stats:
+  - '&6Усъвършенстван кондензатор'
+  - '&8⇨ &e⚡ &7Капацитет: 1,000,000.00 J'
   type:
   - '&7&oМашина'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lНагръдник от аурум'
+  name: '&f&lАурумов нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lШлем от аурум'
+  name: '&f&lАурумов шлем'
   type:
   - '&7&oБроня'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lПанталони от аурум'
+  name: '&f&lАурумови панталони'
   type:
   - '&7&oБроня'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lКирка от аурум'
+  name: '&f&lАурумова кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_AURUM_PLATE:
+  name: '&aАурумова плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lЛопата от аурум'
+  name: '&f&lАурумова лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lМеч от аурум'
+  name: '&f&lАурумов меч'
   type:
   - '&7&oОръжия'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lЕпична брадва от торний'
+  name: '&d&lЕпична брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lЛегендарна брадва от торний'
+  name: '&6&lЛегендарна брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lМагическа брадва от торний'
+  name: '&a&lМагическа брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lРядка брадва от торний'
+  name: '&b&lРядка брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lВърховна брадва от торний'
+  name: '&4&lВърховна брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lБрадва от торний'
+  name: '&f&lТорниева брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9Основен аква генератор'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9Основен игнис генератор'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9Основен лумиум генератор'
+  stats:
+  - '&6Усъвършенстван генератор'
   type:
   - '&7&oМашина'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9Основен лукс генератор'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9Основен вентус генератор'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_BLEND_MACHINE:
+  name: '&aСмесителна машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lЕпични ботуши от торний'
+  name: '&d&lЕпични ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lЛегендарни ботуши от торний'
+  name: '&6&lЛегендарни ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lМагически ботуши от торний'
+  name: '&a&lМагически ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lРедки ботуши от торний'
+  name: '&b&lРедки ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lВърховни ботуши от торний'
+  name: '&4&lВърховни ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lБотуши от торний'
+  name: '&f&lТорниеви ботуши'
   type:
   - '&7&oБроня'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lЕпичен лък от торний'
+  name: '&d&lЕпичен лък'
   type:
   - '&7&oОръжия'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lЛегендарен лък от торний'
+  name: '&6&lЛегендарен лък'
   type:
   - '&7&oОръжия'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lМагически лък от торний'
+  name: '&a&lМагически лък'
   type:
   - '&7&oОръжия'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lРядък лък от торний'
+  name: '&b&lРядък лък'
   type:
   - '&7&oОръжия'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lВърховен лък от торний'
+  name: '&4&lВърховен лък'
   type:
   - '&7&oОръжия'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lЛък от торний'
+  name: '&f&lТорниев лък'
   type:
   - '&7&oОръжия'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fСмени към производство на слитък от алуминиев месинг'
+  name: '&bКарта за машина: слитък от алуминиев месинг'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fСмени към производство на слитък от алуминиев бронз'
+  name: '&bКарта за машина: слитък от алуминиев бронз'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fСмени към производство на алуминиев прах'
+  name: '&bКарта за машина: алуминиев прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fСмени към производство на аметист'
+  name: '&bКарта за машина: аметист'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fСмени към производство на андезит'
+  name: '&bКарта за машина: андезит'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fСмени към производство на ябълки'
+  name: '&bКарта за машина: ябълка'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fСмени към производство на батерии'
+  name: '&bКарта за машина: батерия'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fСмени към производство на слитък от билон'
+  name: '&bКарта за машина: слитък от билон'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fСмени към производство на пръчки от блейз'
+  name: '&bКарта за машина: пръчка от блейз'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fСмени към производство на месингови слитъци'
+  name: '&bКарта за машина: месингов слитък'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fСмени към производство на бронзови слитъци'
+  name: '&bКарта за машина: бронзов слитък'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fСмени към производство на въглерод'
+  name: '&bКарта за машина: въглерод'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fСмени към производство на карбонадо'
+  name: '&bКарта за машина: карбонадо'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fСмени към производство на компресиран въглерод'
+  name: '&bКарта за машина: компресиран въглерод'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fСмени към производство на глина'
+  name: '&bКарта за машина: глина'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_COAL:
+  description:
+  - '&fСмени към производство на въглища'
+  name: '&bКарта за машина: въглища'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fСмени към производство на кобалт'
+  name: '&bКарта за машина: кобалт'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fСмени към производство на мед'
+  name: '&bКарта за машина: мед'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fСмени към производство на меден прах'
+  name: '&bКарта за машина: меден прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fСмени към производство на слитък от коринтски бронз'
+  name: '&bКарта за машина: слитък от коринтски бронз'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fСмени към производство на дамаска стомана'
+  name: '&bКарта за машина: дамаска стомана'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fСмени към производство на диаманти'
+  name: '&bКарта за машина: диамант'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fСмени към производство на диорит'
+  name: '&bКарта за машина: диорит'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fСмени към производство на слитък от дуралуминий'
+  name: '&bКарта за машина: слитък от дуралуминий'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fСмени към производство на електрически мотори'
+  name: '&bКарта за машина: електрически мотор'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fСмени към производство на електромагнити'
+  name: '&bКарта за машина: електромагнит'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fСмени към производство на изумруди'
+  name: '&bКарта за машина: изумруд'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fСмени към производство на ендкамък'
+  name: '&bКарта за машина: ендкамък'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fСмени към производство на феросилиций'
+  name: '&bКарта за машина: феросилиций'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fСмени към производство на светещи мастилени торбички'
+  name: '&bКарта за машина: светеща мастилена торбичка'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fСмени към производство на злато'
+  name: '&bКарта за машина: злато'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&fСмени към производство на злато 24k'
+  name: '&bКарта за машина: злато 24k'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fСмени към производство на златен прах'
+  name: '&bКарта за машина: златен прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fСмени към производство на гранит'
+  name: '&bКарта за машина: гранит'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fСмени към производство на чакъл'
+  name: '&bКарта за машина: чакъл'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fСмени към производство на слитък от закален метал'
+  name: '&bКарта за машина: слитък от закален метал'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fСмени към производство на нагревателни намотки'
+  name: '&bКарта за машина: нагревателна намотка'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fСмени към производство на бутилки с мед'
+  name: '&bКарта за машина: бутилка с мед'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fСмени към производство на мастилени торбички'
+  name: '&bКарта за машина: мастилена торбичка'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_IRON:
+  description:
+  - '&fСмени към производство на желязо'
+  name: '&bКарта за машина: желязо'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fСмени към производство на железен прах'
+  name: '&bКарта за машина: железен прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fСмени към производство на лапис'
+  name: '&bКарта за машина: лапис'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fСмени към производство на оловен прах'
+  name: '&bКарта за машина: оловен прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fСмени към производство на магнезиев прах'
+  name: '&bКарта за машина: магнезиев прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fСмени към производство на магнити'
+  name: '&bКарта за машина: магнит'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fСмени към производство на нетерит'
+  name: '&bКарта за машина: нетерит'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fСмени към производство на нетерски звезди'
+  name: '&bКарта за машина: нетерска звезда'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fСмени към производство на никел'
+  name: '&bКарта за машина: никел'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fСмени към производство на пластмасови листове'
+  name: '&bКарта за машина: пластмасов лист'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fСмени към производство на кварц'
+  name: '&bКарта за машина: кварц'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fСмени към производство на кварцови блокове'
+  name: '&bКарта за машина: кварцов блок'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fСмени към производство на редстоун'
+  name: '&bКарта за машина: редстоун'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fСмени към производство на редстоунова сплав'
+  name: '&bКарта за машина: редстоунова сплав'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fСмени към производство на слитък от подсилена сплав'
+  name: '&bКарта за машина: слитък от подсилена сплав'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SAND:
+  description:
+  - '&fСмени към производство на пясък'
+  name: '&bКарта за машина: пясък'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fСмени към производство на силиций'
+  name: '&bКарта за машина: силиций'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fСмени към производство на сребърен прах'
+  name: '&bКарта за машина: сребърен прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fСмени към производство на топки слуз'
+  name: '&bКарта за машина: топка слуз'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fСмени към производство на сняг'
+  name: '&bКарта за машина: сняг'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fСмени към производство на слитък от спойка'
+  name: '&bКарта за машина: слитък от спойка'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fСмени към производство на стомана'
+  name: '&bКарта за машина: стомана'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_STONE:
+  description:
+  - '&fСмени към производство на камък'
+  name: '&bКарта за машина: камък'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fСмени към производство на сулфат'
+  name: '&bКарта за машина: сулфат'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fСмени към производство на синтетични диаманти'
+  name: '&bКарта за машина: синтетичен диамант'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fСмени към производство на синтетични изумруди'
+  name: '&bКарта за машина: синтетичен изумруд'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fСмени към производство на синтетични сапфири'
+  name: '&bКарта за машина: синтетичен сапфир'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fСмени към производство на калаен прах'
+  name: '&bКарта за машина: калаен прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fСмени към производство на уидър рози'
+  name: '&bКарта за машина: уидър роза'
+  stats:
+  - '&eОсновна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fСмени към производство на цинков прах'
+  name: '&bКарта за машина: цинков прах'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oКомпонент'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aПревозна машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fКомпонент за машина, която произвежда предмети'
+  name: '&aУсъвършенстван компонент за карта'
   type:
   - '&7&oКомпонент'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fКомпонент за машина, която произвежда предмети'
+  name: '&aОсновен компонент за карта'
   type:
   - '&7&oКомпонент'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fКомпонент за машина, която произвежда предмети'
+  name: '&aКраен компонент за карта'
   type:
   - '&7&oКомпонент'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7Супер аква скиптър'
+  name: '&aЦетрус аква'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7Супер игнис скиптър'
+  name: '&aЦетрус игнис'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7Супер лумиум скиптър'
+  name: '&aЦетрус лумиум'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7Супер лукс скиптър'
+  name: '&aЦетрус лукс'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7Супер вентус скиптър'
+  name: '&aЦетрус вентус'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fПроверява дали близкият сандък има филтърния предмет'
+  - '&fвсички страни се проверяват (намира първия)'
+  - '&fако е намерен, този блок ще светне'
+  name: '&bПроверка на инвентар'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lЕпичен нагръдник от торний'
+  name: '&d&lЕпичен нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lЛегендарен нагръдник от торний'
+  name: '&6&lЛегендарен нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lМагически нагръдник от торний'
+  name: '&a&lМагически нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lРядък нагръдник от торний'
+  name: '&b&lРядък нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lВърховен нагръдник от торний'
+  name: '&4&lВърховен нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lНагръдник от торний'
+  name: '&f&lТорниев нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_COAL_QUARRY:
+  name: '&eКариера за въглища'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aТранспортна машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7Супер акация'
+  name: '&aВърховен акациев дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7Супер андезит'
+  name: '&aВърховен андезит'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7Супер ябълка'
+  name: '&aВърховна ябълка'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7Супер говеждо'
+  name: '&aВърховно говеждо'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7Супер цвекло'
+  name: '&aВърховно цвекло'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7Супер бреза'
+  name: '&aВърховен брезов дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7Супер черно'
+  name: '&aВърховно черно'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7Супер синьо'
+  name: '&aВърховно синьо'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7Върховен морков'
+  name: '&aВърховен морков'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7Супер пиле'
+  name: '&aВърховно пиле'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7Супер глина'
+  name: '&aВърховна глина'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_COAL:
+  description:
+  - '&7Супер въглища'
+  name: '&aВърховни въглища'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_COD:
+  description:
+  - '&7Супер треска'
+  name: '&aВърховна треска'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7Супер пурпур'
+  name: '&aВърховно пурпурно стъбло'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7Супер циан'
+  name: '&aВърховен циан'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7Супер тъмно'
+  name: '&aВърховен тъмен дъбов дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7Супер диамант'
+  name: '&aВърховен диамант'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7Супер диорит'
+  name: '&aВърховен диорит'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7Супер изумруд'
+  name: '&aВърховен изумруд'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7Супер ендкамък'
+  name: '&aВърховен ендкамък'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7Супер злато'
+  name: '&aВърховно злато'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7Супер гранит'
+  name: '&aВърховен гранит'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7Супер чакъл'
+  name: '&aВърховен чакъл'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7Супер сиво'
+  name: '&aВърховно сиво'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7Супер зелено'
+  name: '&aВърховно зелено'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_IRON:
+  description:
+  - '&7Супер желязо'
+  name: '&aВърховно желязо'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7Супер джунгла'
+  name: '&aВърховен джунглен дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7Супер лапис'
+  name: '&aВърховен лапис'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_MELON:
+  description:
+  - '&7Супер диня'
+  name: '&aВърховна диня'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7Супер овнешко'
+  name: '&aВърховно овнешко'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7Супер нетерит'
+  name: '&aВърховен нетерит'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7Супер дъб'
+  name: '&aВърховен дъбов дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7Това ядро съдържа няколко руди'
+  - '&7които са събрани из целия свят.'
+  name: '&aЯдро от сплав'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7Това ядро съдържа няколко блока'
+  - '&7които са събрани из целия свят.'
+  name: '&aЯдро от блок'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7Това ядро съдържа няколко цвята'
+  - '&7които са събрани из целия свят.'
+  name: '&aЯдро от цвят'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7Това ядро съдържа душите на '
+  - '&7различни същества, отишли отвъд.'
+  name: '&aЯдро на смъртта'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7Това ядро съдържа частици живот'
+  - '&7които са събрани от света.'
+  name: '&aЯдро на живота'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7Това ядро съдържа няколко природни'
+  - '&7които са събрани из целия свят.'
+  name: '&aЯдро на природата'
   type:
   - '&7&oМагически компоненти'
 SUPREME_CORE_PINK:
+  description:
+  - '&7Супер розово'
+  name: '&aВърховно розово'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7Супер бекон'
+  name: '&aВърховен бекон'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7Супер картоф'
+  name: '&aВърховен картоф'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7Супер тиква'
+  name: '&aВърховна тиква'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7Супер лилаво'
+  name: '&aВърховно лилаво'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7Супер кварц'
+  name: '&aВърховен кварц'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_RED:
+  description:
+  - '&7Супер червено'
+  name: '&aВърховно червено'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7Супер редстоун'
+  name: '&aВърховен редстоун'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7Супер сьомга'
+  name: '&aВърховна сьомга'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SAND:
+  description:
+  - '&7Супер пясък'
+  name: '&aВърховен пясък'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7Супер сняг'
+  name: '&aВърховен сняг'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7Супер око'
+  name: '&aВърховно око'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7Супер смърч'
+  name: '&aВърховен смърчов дънер'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_STONE:
+  description:
+  - '&7Супер калдъръм'
+  name: '&aВърховен калдъръм'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_STRING:
+  description:
+  - '&7Супер повод'
+  name: '&aВърховен повод'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7Супер захарна тръстика'
+  name: '&aВърховна захарна тръстика'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7Супер плодчета'
+  name: '&aВърховни сладки плодчета'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7Супер сълза'
+  name: '&aВърховна сълза'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7Супер изкривено'
+  name: '&aВърховно изкривено стъбло'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7Супер пшеница'
+  name: '&aВърховна пшеница'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7Супер роза'
+  name: '&aВърховна уидър роза'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7Супер жълто'
+  name: '&aВърховно жълто'
   type:
   - '&7&oОсновни компоненти'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aКристализираща машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eКариера за диаманти'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_DUST_AMETHYST:
+  name: '&aАметистов прах'
   type:
   - '&7&oКомпонент'
 SUPREME_DUST_GLOW_INK:
+  name: '&aСветещ мастилен прах'
   type:
   - '&7&oКомпонент'
 SUPREME_DUST_NETHERITE:
+  name: '&aНетеритов прах'
   type:
   - '&7&oКомпонент'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fИзработва ресурси за ядра'
+  name: '&bЕлектрическа машина за ядра'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fУсъвършенствано изработване на ресурси за ядра'
+  name: '&bЕлектрическа машина за ядра II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fУсъвършенствано изработване на ресурси за ядра'
+  name: '&bЕлектрическа машина за ядра III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fИзработва предмети'
+  name: '&bЕлектрически изработвач'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fУсъвършенствано изработване на предмети'
+  name: '&bЕлектрически изработвач II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fУсъвършенствано изработване на предмети'
+  name: '&bЕлектрически изработвач III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fИзработва нива екипировка'
+  name: '&bЕлектрическа машина за екипировка'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fУсъвършенствано изработване на нива екипировка'
+  name: '&bЕлектрическа машина за екипировка II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fУсъвършенствано изработване на нива екипировка'
+  name: '&bЕлектрическа машина за екипировка III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_ITEM:
+  name: Електрически предмет
   type:
   - '&7&oРазни'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fИзработва магически ресурси'
+  name: '&bЕлектрическа магическа машина'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fУсъвършенствано изработване на магически ресурси'
+  name: '&bЕлектрическа магическа машина II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fУсъвършенствано изработване на магически ресурси'
+  name: '&bЕлектрическа магическа машина III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aПразен МобТек'
   type:
   - '&7&oКомпонент'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате ресурси на слитъци.'
+  name: '&bКовачница за слитъци'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате ресурси на слитъци.'
+  name: '&bКовачница за слитъци II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
+  - '&8⇨ &e⚡ &7Буфер: 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате ресурси на слитъци.'
+  name: '&bКовачница за слитъци III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
+  - '&8⇨ &e⚡ &7Буфер: 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате магически ресурси.'
+  name: '&bМагическа ковачница'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате магически ресурси.'
+  name: '&bМагическа ковачница II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
+  - '&8⇨ &e⚡ &7Буфер: 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fизковавате магически ресурси.'
+  name: '&bМагическа ковачница III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
+  - '&8⇨ &e⚡ &7Буфер: 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oМашина'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fЛее и синтезира предмети'
+  name: '&bЛеярна'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fУсъвършенствано леене и синтез на предмети'
+  name: '&bЛеярна II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fУсъвършенствано леене и синтез на предмети'
+  name: '&bЛеярна III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bУсъвършенстван генератор за мобове'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bОсновен генератор за мобове'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bСреден генератор за мобове'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_GENE_BERSERK:
+  name: '&aГен на яростта'
   type:
   - '&7&oКомпонент'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fГен на интелигентността'
   type:
   - '&7&oКомпонент'
 SUPREME_GENE_LUCK:
+  name: '&aГен на късмета'
   type:
   - '&7&oКомпонент'
 SUPREME_GOLD_QUARRY:
+  name: '&eКариера за злато'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lЕпичен шлем от торний'
+  name: '&d&lЕпичен шлем'
   type:
   - '&7&oБроня'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lЛегендарен шлем от торний'
+  name: '&6&lЛегендарен шлем'
   type:
   - '&7&oБроня'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lМагически шлем от торний'
+  name: '&a&lМагически шлем'
   type:
   - '&7&oБроня'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lРядък шлем от торний'
+  name: '&b&lРядък шлем'
   type:
   - '&7&oБроня'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lВърховен шлем от торний'
+  name: '&4&lВърховен шлем'
   type:
   - '&7&oБроня'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lШлем от торний'
+  name: '&f&lТорниев шлем'
   type:
   - '&7&oБроня'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9Игнис генератор'
+  stats:
+  - '&6Усъвършенстван генератор'
   type:
   - '&7&oМашина'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aИндуктивна машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aИндукторна машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aИридиева плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_IRON_QUARRY:
+  name: '&eКариера за желязо'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lЕпични панталони от торний'
+  name: '&d&lЕпични панталони'
   type:
   - '&7&oБроня'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lЛегендарни панталони от торний'
+  name: '&6&lЛегендарни панталони'
   type:
   - '&7&oБроня'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lМагически панталони от торний'
+  name: '&a&lМагически панталони'
   type:
   - '&7&oБроня'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lРедки панталони от торний'
+  name: '&b&lРедки панталони'
   type:
   - '&7&oБроня'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lВърховни панталони от торний'
+  name: '&4&lВърховни панталони'
   type:
   - '&7&oБроня'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lПанталони от торний'
+  name: '&f&lТорниеви панталони'
   type:
   - '&7&oБроня'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9Лумиум генератор'
+  stats:
+  - '&6Усъвършенстван генератор'
   type:
   - '&7&oМашина'
 SUPREME_LUX_GENERATOR:
+  name: '&9Лукс генератор'
+  stats:
+  - '&6Усъвършенстван генератор'
   type:
   - '&7&oМашина'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fИзработва руни и магически предмети'
+  name: '&bМагически олтар'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
   type:
   - '&7&oМашина'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fУсъвършенствано изработване на руни и магически предмети'
+  name: '&bМагически олтар II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
   type:
   - '&7&oМашина'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fУсъвършенствано изработване на руни и магически предмети'
+  name: '&bМагически олтар III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
   type:
   - '&7&oМашина'
 SUPREME_MAIN_ITEM:
+  name: Основен предмет
   type:
   - '&7&oРазни'
 SUPREME_MANGANESE_PLATE:
+  name: '&aМанганова плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fТази машина ви позволява да събирате '
+  - '&fпредмети от близките мобове. (4 блока)'
+  name: '&bКолектор за мобове'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fТази машина ви позволява да събирате'
+  - '&f предмети от близките мобове. (8 блока)'
+  name: '&bКолектор за мобове II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
+  - '&8⇨ &e⚡ &7Буфер: 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oМашина'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fТази машина ви позволява да събирате'
+  - '&f предмети от близките мобове. (16 блока)'
+  name: '&bКолектор за мобове III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
+  - '&8⇨ &e⚡ &7Буфер: 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oМашина'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6МобТек колектор I'
+  stats:
+  - '&8⇨ &e⚡ &750 J на употреба'
   type:
   - '&7&oИнструменти'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6МобТек колектор II'
+  stats:
+  - '&8⇨ &e⚡ &750 J на употреба'
   type:
   - '&7&oИнструменти'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6МобТек колектор III'
+  stats:
+  - '&8⇨ &e⚡ &750 J на употреба'
   type:
   - '&7&oИнструменти'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fТази машина ви позволява да събирате '
+  - '&fМобТек глави от близките мобове. (6 блока)'
+  name: '&bМобТек колектор II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fТази машина ви позволява да събирате '
+  - '&fМобТек глави от близките мобове. (9 блока)'
+  name: '&bМобТек колектор III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oТук можете да изработвате ядра!'
+  - '&aМултиблок машина'
+  name: '&eФабрикатор на ядра'
   type:
   - '&7&oМашина'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oТук можете да изработвате оръжия, броня и инструменти!'
+  - '&aМултиблок машина'
+  name: '&eФабрикатор на екипировка'
   type:
   - '&7&oМашина'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oТук можете да изработвате магически неща!'
+  - '&aМултиблок машина'
+  name: '&eМагически фабрикатор'
   type:
   - '&7&oМашина'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aВкаменяваща машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lЕпична кирка от торний'
+  name: '&d&lЕпична кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lЛегендарна кирка от торний'
+  name: '&6&lЛегендарна кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lМагическа кирка от торний'
+  name: '&a&lМагическа кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lРядка кирка от торний'
+  name: '&b&lРядка кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lВърховна кирка от торний'
+  name: '&4&lВърховна кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lКирка от торний'
+  name: '&f&lТорниева кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_PLATINUM_PLATE:
+  name: '&aПлатинена плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aБезръждива машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lЕпичен щит от торний'
+  name: '&d&lЕпичен щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lЛегендарен щит от торний'
+  name: '&6&lЛегендарен щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lМагически щит от торний'
+  name: '&a&lМагически щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lРядък щит от торний'
+  name: '&b&lРядък щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lВърховен щит от торний'
+  name: '&4&lВърховен щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lЩит от торний'
+  name: '&f&lТорниев щит'
   type:
   - '&7&oОръжия'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lЕпична лопата от торний'
+  name: '&d&lЕпична лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lЛегендарна лопата от торний'
+  name: '&6&lЛегендарна лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lМагическа лопата от торний'
+  name: '&a&lМагическа лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lРядка лопата от торний'
+  name: '&b&lРядка лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lВърховна лопата от торний'
+  name: '&4&lВърховна лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lЛопата от торний'
+  name: '&f&lТорниева лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aНеръждаема машина'
   type:
   - '&7&oРазширени компоненти'
 SUPREME_STONE_QUARRY:
+  name: '&eКариера за камък'
+  stats:
+  - '&aСредна машина'
   type:
   - '&7&oМашина'
 SUPREME_SUPREME:
+  description:
+  - '&7Върховният'
+  name: '&aВърховен'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9Върховен кондензатор'
+  stats:
+  - '&4Кондензатор за финалния етап'
+  - '&8⇨ &e⚡ &7Капацитет: безкрайни J'
   type:
   - '&7&oМашина'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9Върховен генератор'
+  stats:
+  - '&4Генератор за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7От кариерата за върховни късчета'
+  name: '&aВърховно късче'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eКариера за върховни късчета'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lЕпичен меч от торний'
+  name: '&d&lЕпичен меч'
   type:
   - '&7&oОръжия'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lЛегендарен меч от торний'
+  name: '&6&lЛегендарен меч'
   type:
   - '&7&oОръжия'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lМагически меч от торний'
+  name: '&a&lМагически меч'
   type:
   - '&7&oОръжия'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lРядък меч от торний'
+  name: '&b&lРядък меч'
   type:
   - '&7&oОръжия'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lВърховен меч от торний'
+  name: '&4&lВърховен меч'
   type:
   - '&7&oОръжия'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lМеч от торний'
+  name: '&f&lТорниев меч'
   type:
   - '&7&oОръжия'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aСинтетичен аметист'
   type:
   - '&7&oКомпоненти'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aСинтетичен рубин'
   type:
   - '&7&oКомпоненти'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fИзползвайки енергия и пчели/голем/зомби, '
+  - '&fбавно генерира материали.'
+  name: '&bТехнологичен генератор'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fИзползвайте генератор за мутация '
+  - '&fза напредък към по-високи нива'
+  name: '&bТехнологична мутация'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fИзползвайте генератор за мутация '
+  - '&fза напредък към по-високи нива'
+  - '&fФакторът на шанса е умножен по 2x'
+  name: '&bТехнологична мутация II'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fИзползвайте генератор за мутация '
+  - '&fза напредък към по-високи нива'
+  - '&fФакторът на шанса е умножен по 4x'
+  name: '&bТехнологична мутация III'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fИзползвайте роботи за начинаещи '
+  - '&fза напредък към по-високи нива'
+  - '&fизисква 64x за надграждане'
+  name: '&bТехнологична роботика'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fИзползвайте роботи за начинаещи '
+  - '&fза напредък към по-високи нива'
+  - '&fизисква 32x за надграждане'
+  name: '&bТехнологична роботика II'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fИзползвайте роботи за начинаещи '
+  - '&fза напредък към по-високи нива'
+  - '&fизисква 16x за надграждане'
+  name: '&bТехнологична роботика III'
+  stats:
+  - '&4Машина за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_THORNERITE:
+  name: '&aТорнерит'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7От кариерата за торний'
+  name: '&aТорниево късче'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7От торниевото късче'
+  name: '&aСинтетично торниево късче'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9Торниев кондензатор'
+  stats:
+  - '&4Кондензатор за финалния етап'
+  - '&8⇨ &e⚡ &7Капацитет: 100,000,000.00 J'
   type:
   - '&7&oМашина'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7От торниевия слитък'
+  name: '&aТорниево карбонадо'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7От торниевото късче'
+  name: '&aТорниев прах'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7От торниевия прах'
+  name: '&aСинтетичен торниев прах'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7От торниевия слитък'
+  name: '&aЕнергизиран торний'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9Торниев генератор'
+  stats:
+  - '&4Генератор за финалния етап'
   type:
   - '&7&oМашина'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7От торниевия прах'
+  name: '&aТорниев слитък'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7От торниевия слитък'
+  name: '&aСинтетичен торниев слитък'
   type:
   - '&7&oКомпоненти за края на играта'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eКариера за торний'
+  stats:
+  - '&6Усъвършенствана машина'
   type:
   - '&7&oМашина'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lБрадва от титан'
+  name: '&f&lТитанова брадва'
   type:
   - '&7&oИнструменти'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lБотуши от титан'
+  name: '&f&lТитанови ботуши'
   type:
   - '&7&oБроня'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9Титанов кондензатор'
+  stats:
+  - '&6Усъвършенстван кондензатор'
+  - '&8⇨ &e⚡ &7Капацитет: 4,000,000.00 J'
   type:
   - '&7&oМашина'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lНагръдник от титан'
+  name: '&f&lТитанов нагръдник'
   type:
   - '&7&oБроня'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lШлем от титан'
+  name: '&f&lТитанов шлем'
   type:
   - '&7&oБроня'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lПанталони от титан'
+  name: '&f&lТитанови панталони'
   type:
   - '&7&oБроня'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lКирка от титан'
+  name: '&f&lТитанова кирка'
   type:
   - '&7&oИнструменти'
 SUPREME_TITANIUM_PLATE:
+  name: '&aТитанова плоча'
   type:
   - '&7&oКомпоненти'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lЛопата от титан'
+  name: '&f&lТитанова лопата'
   type:
   - '&7&oИнструменти'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lМеч от титан'
+  name: '&f&lТитанов меч'
   type:
   - '&7&oОръжия'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9Вентус генератор'
+  stats:
+  - '&eОсновен генератор'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fТази машина ви позволява да събирате '
+  - '&f предмети, които се събират в морето.'
+  name: '&bВиртуален аквариум'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fТази машина ви позволява да събирате'
+  - '&f предмети, които се събират в морето.'
+  name: '&bВиртуален аквариум II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
+  - '&8⇨ &e⚡ &7Буфер: 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fТази машина ви позволява да събирате'
+  - '&f предмети, които се събират в морето.'
+  name: '&bВиртуален аквариум III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
+  - '&8⇨ &e⚡ &7Буфер: 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fотглеждате някои ресурси.'
+  name: '&bВиртуална градина'
+  stats:
+  - '&6Усъвършенствана машина'
+  - '&8⇨ &b⚡ &7Скорост: &b1.0x'
+  - '&8⇨ &e⚡ &7Буфер: 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fотглеждате някои ресурси.'
+  name: '&bВиртуална градина II'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b5.0x'
+  - '&8⇨ &e⚡ &7Буфер: 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oМашина'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fТази машина ви позволява да'
+  - '&fотглеждате някои ресурси.'
+  name: '&bВиртуална градина III'
+  stats:
+  - '&4Машина за финалния етап'
+  - '&8⇨ &b⚡ &7Скорост: &b15.0x'
+  - '&8⇨ &e⚡ &7Буфер: 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oМашина'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aЦиркониева плоча'
   type:
   - '&7&oКомпоненти'
