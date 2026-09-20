@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite '
+  - '&fMobTech glave obližnjih mobova. (3 bloka)'
+  name: '&bMobTech sakupljač I'
   type:
   - '&7&oStroj'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lSjekira izrađena od adamantiuma'
+  name: '&f&lSjekira od adamantiuma'
   type:
   - '&7&oAlati'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lČizme izrađene od adamantiuma'
+  name: '&f&lČizme od adamantiuma'
   type:
   - '&7&oOklop'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9Kondenzator od adamantiuma'
+  stats:
+  - '&6Napredni kondenzator'
+  - '&8⇨ &e⚡ &716,000,000.00 J kapaciteta'
   type:
   - '&7&oStroj'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lOklop za prsa izrađen od adamantiuma'
+  name: '&f&lOklop za prsa od adamantiuma'
   type:
   - '&7&oOklop'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lKaciga izrađena od adamantiuma'
+  name: '&f&lKaciga od adamantiuma'
   type:
   - '&7&oOklop'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lHlače izrađene od adamantiuma'
+  name: '&f&lHlače od adamantiuma'
   type:
   - '&7&oOklop'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lPijuk izrađen od adamantiuma'
+  name: '&f&lPijuk od adamantiuma'
   type:
   - '&7&oAlati'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aPloča od adamantiuma'
   type:
   - '&7&oKomponente'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lLopata izrađena od adamantiuma'
+  name: '&f&lLopata od adamantiuma'
   type:
   - '&7&oAlati'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lMač izrađen od adamantiuma'
+  name: '&f&lMač od adamantiuma'
   type:
   - '&7&oOružja'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aLegura adamantiuma'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_AURUM:
+  name: '&aLegura auruma'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aLegura iridija'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aLegura mangana'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aLegura platine'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aLegura titana'
   type:
   - '&7&oKomponente'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aLegura cirkonija'
   type:
   - '&7&oKomponente'
 SUPREME_AQUA_GENERATOR:
+  name: '&9Aqua generator'
+  stats:
+  - '&6Napredni generator'
   type:
   - '&7&oStroj'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7Super atribut bombe s posebnim učincima'
+  name: '&aAtribut bombe'
   type:
   - '&7&oMagične komponente'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7Super atribut sreće s posebnim učincima'
+  name: '&aAtribut sreće'
   type:
   - '&7&oMagične komponente'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7Super atribut zamaha s posebnim učincima'
+  name: '&aAtribut zamaha'
   type:
   - '&7&oMagične komponente'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7Super atribut magije s posebnim učincima'
+  name: '&aAtribut magije'
   type:
   - '&7&oMagične komponente'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lSjekira izrađena od auruma'
+  name: '&f&lSjekira od auruma'
   type:
   - '&7&oAlati'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lČizme izrađene od auruma'
+  name: '&f&lČizme od auruma'
   type:
   - '&7&oOklop'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9Kondenzator od auruma'
+  stats:
+  - '&6Napredni kondenzator'
+  - '&8⇨ &e⚡ &71,000,000.00 J kapaciteta'
   type:
   - '&7&oStroj'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lOklop za prsa izrađen od auruma'
+  name: '&f&lOklop za prsa od auruma'
   type:
   - '&7&oOklop'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lKaciga izrađena od auruma'
+  name: '&f&lKaciga od auruma'
   type:
   - '&7&oOklop'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lHlače izrađene od auruma'
+  name: '&f&lHlače od auruma'
   type:
   - '&7&oOklop'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lPijuk izrađen od auruma'
+  name: '&f&lPijuk od auruma'
   type:
   - '&7&oAlati'
 SUPREME_AURUM_PLATE:
+  name: '&aPloča od auruma'
   type:
   - '&7&oKomponente'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lLopata izrađena od auruma'
+  name: '&f&lLopata od auruma'
   type:
   - '&7&oAlati'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lMač izrađen od auruma'
+  name: '&f&lMač od auruma'
   type:
   - '&7&oOružja'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lEpska sjekira izrađena od thorniuma'
+  name: '&d&lEpska sjekira'
   type:
   - '&7&oAlati'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lLegendarna sjekira izrađena od thorniuma'
+  name: '&6&lLegendarna sjekira'
   type:
   - '&7&oAlati'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lMagična sjekira izrađena od thorniuma'
+  name: '&a&lMagična sjekira'
   type:
   - '&7&oAlati'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lRijetka sjekira izrađena od thorniuma'
+  name: '&b&lRijetka sjekira'
   type:
   - '&7&oAlati'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lVrhunska sjekira izrađena od thorniuma'
+  name: '&4&lVrhunska sjekira'
   type:
   - '&7&oAlati'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lSjekira izrađena od thorniuma'
+  name: '&f&lSjekira od thorniuma'
   type:
   - '&7&oAlati'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9Osnovni Aqua generator'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9Osnovni Ignis generator'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9Osnovni Lumium generator'
+  stats:
+  - '&6Napredni generator'
   type:
   - '&7&oStroj'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9Osnovni Lux generator'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9Osnovni Ventus generator'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_BLEND_MACHINE:
+  name: '&aStroj za miješanje'
   type:
   - '&7&oNapredne komponente'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lEpske čizme izrađene od thorniuma'
+  name: '&d&lEpske čizme'
   type:
   - '&7&oOklop'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lLegendarne čizme izrađene od thorniuma'
+  name: '&6&lLegendarne čizme'
   type:
   - '&7&oOklop'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lMagične čizme izrađene od thorniuma'
+  name: '&a&lMagične čizme'
   type:
   - '&7&oOklop'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lRijetke čizme izrađene od thorniuma'
+  name: '&b&lRijetke čizme'
   type:
   - '&7&oOklop'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lVrhunske čizme izrađene od thorniuma'
+  name: '&4&lVrhunske čizme'
   type:
   - '&7&oOklop'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lČizme izrađene od thorniuma'
+  name: '&f&lČizme od thorniuma'
   type:
   - '&7&oOklop'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lEpski luk izrađen od thorniuma'
+  name: '&d&lEpski luk'
   type:
   - '&7&oOružja'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lLegendarni luk izrađen od thorniuma'
+  name: '&6&lLegendarni luk'
   type:
   - '&7&oOružja'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lMagični luk izrađen od thorniuma'
+  name: '&a&lMagični luk'
   type:
   - '&7&oOružja'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lRijetki luk izrađen od thorniuma'
+  name: '&b&lRijetki luk'
   type:
   - '&7&oOružja'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lVrhunski luk izrađen od thorniuma'
+  name: '&4&lVrhunski luk'
   type:
   - '&7&oOružja'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lLuk izrađen od thorniuma'
+  name: '&f&lLuk od thorniuma'
   type:
   - '&7&oOružja'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fPromijeni proizvodnju na: poluga aluminijske mjedi'
+  name: '&bKartični stroj: poluga aluminijske mjedi'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fPromijeni proizvodnju na: poluga aluminijske bronce'
+  name: '&bKartični stroj: poluga aluminijske bronce'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: aluminijski prah'
+  name: '&bKartični stroj: aluminijski prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fPromijeni proizvodnju na: ametist'
+  name: '&bKartični stroj: ametist'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fPromijeni proizvodnju na: andezit'
+  name: '&bKartični stroj: andezit'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fPromijeni proizvodnju na: jabuka'
+  name: '&bKartični stroj: jabuka'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fPromijeni proizvodnju na: baterija'
+  name: '&bKartični stroj: baterija'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fPromijeni proizvodnju na: poluga bilona'
+  name: '&bKartični stroj: poluga bilona'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fPromijeni proizvodnju na: Blaze štap'
+  name: '&bKartični stroj: Blaze štap'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fPromijeni proizvodnju na: mjedena poluga'
+  name: '&bKartični stroj: mjedena poluga'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fPromijeni proizvodnju na: brončana poluga'
+  name: '&bKartični stroj: brončana poluga'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fPromijeni proizvodnju na: ugljik'
+  name: '&bKartični stroj: ugljik'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fPromijeni proizvodnju na: karbonado'
+  name: '&bKartični stroj: karbonado'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fPromijeni proizvodnju na: komprimirani ugljik'
+  name: '&bKartični stroj: komprimirani ugljik'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fPromijeni proizvodnju na: glina'
+  name: '&bKartični stroj: glina'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_COAL:
+  description:
+  - '&fPromijeni proizvodnju na: ugljen'
+  name: '&bKartični stroj: ugljen'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fPromijeni proizvodnju na: kobalt'
+  name: '&bKartični stroj: kobalt'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fPromijeni proizvodnju na: bakar'
+  name: '&bKartični stroj: bakar'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: bakreni prah'
+  name: '&bKartični stroj: bakreni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fPromijeni proizvodnju na: poluga korintske bronce'
+  name: '&bKartični stroj: poluga korintske bronce'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fPromijeni proizvodnju na: damast'
+  name: '&bKartični stroj: damast'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fPromijeni proizvodnju na: dijamant'
+  name: '&bKartični stroj: dijamant'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fPromijeni proizvodnju na: diorit'
+  name: '&bKartični stroj: diorit'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fPromijeni proizvodnju na: duraluminijska poluga'
+  name: '&bKartični stroj: duraluminijska poluga'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fPromijeni proizvodnju na: električni motor'
+  name: '&bKartični stroj: električni motor'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fPromijeni proizvodnju na: elektromagnet'
+  name: '&bKartični stroj: elektromagnet'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fPromijeni proizvodnju na: smaragd'
+  name: '&bKartični stroj: smaragd'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fPromijeni proizvodnju na: kamen Enda'
+  name: '&bKartični stroj: kamen Enda'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fPromijeni proizvodnju na: ferosilicij'
+  name: '&bKartični stroj: ferosilicij'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fPromijeni proizvodnju na: svjetleća vrećica tinte'
+  name: '&bKartični stroj: svjetleća vrećica tinte'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fPromijeni proizvodnju na: zlato'
+  name: '&bKartični stroj: zlato'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&fPromijeni proizvodnju na: zlato 24k'
+  name: '&bKartični stroj: zlato 24k'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: zlatni prah'
+  name: '&bKartični stroj: zlatni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fPromijeni proizvodnju na: granit'
+  name: '&bKartični stroj: granit'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fPromijeni proizvodnju na: šljunak'
+  name: '&bKartični stroj: šljunak'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fPromijeni proizvodnju na: poluga očvrsnutog metala'
+  name: '&bKartični stroj: poluga očvrsnutog metala'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fPromijeni proizvodnju na: grijaća zavojnica'
+  name: '&bKartični stroj: grijaća zavojnica'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fPromijeni proizvodnju na: boca meda'
+  name: '&bKartični stroj: boca meda'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fPromijeni proizvodnju na: vrećica tinte'
+  name: '&bKartični stroj: vrećica tinte'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_IRON:
+  description:
+  - '&fPromijeni proizvodnju na: željezo'
+  name: '&bKartični stroj: željezo'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: željezni prah'
+  name: '&bKartični stroj: željezni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fPromijeni proizvodnju na: lapis'
+  name: '&bKartični stroj: lapis'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: olovni prah'
+  name: '&bKartični stroj: olovni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: magnezijev prah'
+  name: '&bKartični stroj: magnezijev prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fPromijeni proizvodnju na: magnet'
+  name: '&bKartični stroj: magnet'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fPromijeni proizvodnju na: netherit'
+  name: '&bKartični stroj: netherit'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fPromijeni proizvodnju na: Nether zvijezda'
+  name: '&bKartični stroj: Nether zvijezda'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fPromijeni proizvodnju na: nikal'
+  name: '&bKartični stroj: nikal'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fPromijeni proizvodnju na: plastični list'
+  name: '&bKartični stroj: plastični list'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fPromijeni proizvodnju na: kvarc'
+  name: '&bKartični stroj: kvarc'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fPromijeni proizvodnju na: blok kvarca'
+  name: '&bKartični stroj: blok kvarca'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fPromijeni proizvodnju na: redstone'
+  name: '&bKartični stroj: redstone'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fPromijeni proizvodnju na: redstone legura'
+  name: '&bKartični stroj: redstone legura'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fPromijeni proizvodnju na: poluga ojačane legure'
+  name: '&bKartični stroj: poluga ojačane legure'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SAND:
+  description:
+  - '&fPromijeni proizvodnju na: pijesak'
+  name: '&bKartični stroj: pijesak'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fPromijeni proizvodnju na: silicij'
+  name: '&bKartični stroj: silicij'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: srebrni prah'
+  name: '&bKartični stroj: srebrni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fPromijeni proizvodnju na: sluzava kuglica'
+  name: '&bKartični stroj: sluzava kuglica'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fPromijeni proizvodnju na: snijeg'
+  name: '&bKartični stroj: snijeg'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fPromijeni proizvodnju na: poluga lema'
+  name: '&bKartični stroj: poluga lema'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fPromijeni proizvodnju na: čelik'
+  name: '&bKartični stroj: čelik'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_STONE:
+  description:
+  - '&fPromijeni proizvodnju na: kamen'
+  name: '&bKartični stroj: kamen'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fPromijeni proizvodnju na: sulfat'
+  name: '&bKartični stroj: sulfat'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fPromijeni proizvodnju na: sintetički dijamant'
+  name: '&bKartični stroj: sintetički dijamant'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fPromijeni proizvodnju na: sintetički smaragd'
+  name: '&bKartični stroj: sintetički smaragd'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fPromijeni proizvodnju na: sintetički safir'
+  name: '&bKartični stroj: sintetički safir'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: kositreni prah'
+  name: '&bKartični stroj: kositreni prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fPromijeni proizvodnju na: Wither ruža'
+  name: '&bKartični stroj: Wither ruža'
+  stats:
+  - '&eOsnovni stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fPromijeni proizvodnju na: cinkov prah'
+  name: '&bKartični stroj: cinkov prah'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oKomponenta'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aPrijenosni stroj'
   type:
   - '&7&oNapredne komponente'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fKomponenta za stroj koji proizvodi predmete'
+  name: '&aNapredna komponenta za karticu'
   type:
   - '&7&oKomponenta'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fKomponenta za stroj koji proizvodi predmete'
+  name: '&aOsnovna komponenta za karticu'
   type:
   - '&7&oKomponenta'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fKomponenta za stroj koji proizvodi predmete'
+  name: '&aKonačna komponenta za karticu'
   type:
   - '&7&oKomponenta'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7Super žezlo Aqua'
+  name: '&aCetrus Aqua'
   type:
   - '&7&oMagične komponente'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7Super žezlo Ignis'
+  name: '&aCetrus Ignis'
   type:
   - '&7&oMagične komponente'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7Super žezlo Lumium'
+  name: '&aCetrus Lumium'
   type:
   - '&7&oMagične komponente'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7Super žezlo Lux'
+  name: '&aCetrus Lux'
   type:
   - '&7&oMagične komponente'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7Super žezlo Ventus'
+  name: '&aCetrus Ventus'
   type:
   - '&7&oMagične komponente'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fProvjerava ima li obližnja škrinja predmet filtra'
+  - '&fu obzir se uzimaju sve strane (nalazi prvu)'
+  - '&fako je pronađen, ovaj blok će zasvijetliti'
+  name: '&bProvjeraInventara'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lEpski oklop za prsa izrađen od thorniuma'
+  name: '&d&lEpski oklop za prsa'
   type:
   - '&7&oOklop'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lLegendarni oklop za prsa izrađen od thorniuma'
+  name: '&6&lLegendarni oklop za prsa'
   type:
   - '&7&oOklop'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lMagični oklop za prsa izrađen od thorniuma'
+  name: '&a&lMagični oklop za prsa'
   type:
   - '&7&oOklop'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lRijetki oklop za prsa izrađen od thorniuma'
+  name: '&b&lRijetki oklop za prsa'
   type:
   - '&7&oOklop'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lVrhunski oklop za prsa izrađen od thorniuma'
+  name: '&4&lVrhunski oklop za prsa'
   type:
   - '&7&oOklop'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lOklop za prsa izrađen od thorniuma'
+  name: '&f&lOklop za prsa od thorniuma'
   type:
   - '&7&oOklop'
 SUPREME_COAL_QUARRY:
+  name: '&eKamenolom ugljena'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aTransportni stroj'
   type:
   - '&7&oNapredne komponente'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7Super akacija'
+  name: '&aVrhunska akacijina klada'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7Super andezit'
+  name: '&aVrhunski andezit'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7Super jabuka'
+  name: '&aVrhunska jabuka'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7Super govedina'
+  name: '&aVrhunska govedina'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7Super cikla'
+  name: '&aVrhunska cikla'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7Super breza'
+  name: '&aVrhunska brezova klada'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7Super crna'
+  name: '&aVrhunska crna'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7Super plava'
+  name: '&aVrhunska plava'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7Vrhunska mrkva'
+  name: '&aVrhunska mrkva'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7Super piletina'
+  name: '&aVrhunska piletina'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7Super glina'
+  name: '&aVrhunska glina'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_COAL:
+  description:
+  - '&7Super ugljen'
+  name: '&aVrhunski ugljen'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_COD:
+  description:
+  - '&7Super bakalar'
+  name: '&aVrhunski bakalar'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7Super grimizno drvo'
+  name: '&aVrhunska grimizna stabljika'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7Super cijan boja'
+  name: '&aVrhunska cijan boja'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7Super tamni hrast'
+  name: '&aVrhunska klada tamnog hrasta'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7Super dijamant'
+  name: '&aVrhunski dijamant'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7Super diorit'
+  name: '&aVrhunski diorit'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7Super smaragd'
+  name: '&aVrhunski smaragd'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7Super kamen Enda'
+  name: '&aVrhunski kamen Enda'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7Super zlato'
+  name: '&aVrhunsko zlato'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7Super granit'
+  name: '&aVrhunski granit'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7Super šljunak'
+  name: '&aVrhunski šljunak'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7Super siva'
+  name: '&aVrhunska siva'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7Super zelena'
+  name: '&aVrhunska zelena'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_IRON:
+  description:
+  - '&7Super željezo'
+  name: '&aVrhunsko željezo'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7Super džungla'
+  name: '&aVrhunska klada džungle'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7Super lapis'
+  name: '&aVrhunski lapis'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_MELON:
+  description:
+  - '&7Super lubenica'
+  name: '&aVrhunska lubenica'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7Super ovčetina'
+  name: '&aVrhunska ovčetina'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7Super netherit'
+  name: '&aVrhunski netherit'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7Super hrast'
+  name: '&aVrhunska hrastova klada'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7Ova jezgra sadrži nekoliko ruda'
+  - '&7prikupljenih diljem svijeta.'
+  name: '&aJezgra legure'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7Ova jezgra sadrži nekoliko blokova'
+  - '&7prikupljenih diljem svijeta.'
+  name: '&aJezgra bloka'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7Ova jezgra sadrži nekoliko boja'
+  - '&7prikupljenih diljem svijeta.'
+  name: '&aJezgra boje'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7Ova jezgra sadrži duše '
+  - '&7raznih bića koja su otišla s onu stranu.'
+  name: '&aJezgra smrti'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7Ova jezgra sadrži djeliće života'
+  - '&7koje je svijet prikupio.'
+  name: '&aJezgra života'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7Ova jezgra sadrži nekoliko prirodnih resursa'
+  - '&7prikupljenih diljem svijeta.'
+  name: '&aJezgra prirode'
   type:
   - '&7&oMagične komponente'
 SUPREME_CORE_PINK:
+  description:
+  - '&7Super ružičasta'
+  name: '&aVrhunska ružičasta'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7Super slanina'
+  name: '&aVrhunska slanina'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7Super krumpir'
+  name: '&aVrhunski krumpir'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7Super bundeva'
+  name: '&aVrhunska bundeva'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7Super ljubičasta'
+  name: '&aVrhunska ljubičasta'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7Super kvarc'
+  name: '&aVrhunski kvarc'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_RED:
+  description:
+  - '&7Super crvena'
+  name: '&aVrhunska crvena'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7Super redstone'
+  name: '&aVrhunski redstone'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7Super losos'
+  name: '&aVrhunski losos'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SAND:
+  description:
+  - '&7Super pijesak'
+  name: '&aVrhunski pijesak'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7Super snijeg'
+  name: '&aVrhunski snijeg'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7Super oko'
+  name: '&aVrhunsko oko'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7Super smreka'
+  name: '&aVrhunska smrekova klada'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_STONE:
+  description:
+  - '&7Super kaldrma'
+  name: '&aVrhunska kaldrma'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_STRING:
+  description:
+  - '&7Super povodac'
+  name: '&aVrhunski povodac'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7Super šećerna trska'
+  name: '&aVrhunska šećerna trska'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7Super bobice'
+  name: '&aVrhunske slatke bobice'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7Super suza'
+  name: '&aVrhunska suza'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7Super iskrivljeno drvo'
+  name: '&aVrhunska iskrivljena stabljika'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7Super pšenica'
+  name: '&aVrhunska pšenica'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7Super ruža'
+  name: '&aVrhunska Wither ruža'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7Super žuta'
+  name: '&aVrhunska žuta'
   type:
   - '&7&oOsnovne komponente'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aStroj za kristalizaciju'
   type:
   - '&7&oNapredne komponente'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eKamenolom dijamanata'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_DUST_AMETHYST:
+  name: '&aAmetistov prah'
   type:
   - '&7&oKomponenta'
 SUPREME_DUST_GLOW_INK:
+  name: '&aPrah svjetleće tinte'
   type:
   - '&7&oKomponenta'
 SUPREME_DUST_NETHERITE:
+  name: '&aNetheritni prah'
   type:
   - '&7&oKomponenta'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fIzradi resurs jezgre'
+  name: '&bElektrični stroj za jezgre'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fNapredna izrada resursa jezgre'
+  name: '&bElektrični stroj za jezgre II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fNapredna izrada resursa jezgre'
+  name: '&bElektrični stroj za jezgre III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fIzradi predmete'
+  name: '&bElektrični izrađivač'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fNapredna izrada predmeta'
+  name: '&bElektrični izrađivač II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fNapredna izrada predmeta'
+  name: '&bElektrični izrađivač III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fIzradi stupanj opreme'
+  name: '&bElektrični stroj za opremu'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fNapredna izrada stupnja opreme'
+  name: '&bElektrični stroj za opremu II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fNapredna izrada stupnja opreme'
+  name: '&bElektrični stroj za opremu III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_ITEM:
+  name: Električni predmet
   type:
   - '&7&oRazno'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fIzradi čarobni resurs'
+  name: '&bElektrični čarobni stroj'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fNapredna izrada čarobnog resursa'
+  name: '&bElektrični čarobni stroj II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fNapredna izrada čarobnog resursa'
+  name: '&bElektrični čarobni stroj III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aPrazni MobTech'
   type:
   - '&7&oKomponenta'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete resurse poluga.'
+  name: '&bKovačnica poluga'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete resurse poluga.'
+  name: '&bKovačnica poluga II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J međuspremnika'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete resurse poluga.'
+  name: '&bKovačnica poluga III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J međuspremnika'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete čarobne resurse.'
+  name: '&bČarobna kovačnica'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete čarobne resurse.'
+  name: '&bČarobna kovačnica II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J međuspremnika'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fkujete čarobne resurse.'
+  name: '&bČarobna kovačnica III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J međuspremnika'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oStroj'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fPredmeti ljevaonice i sintetizatora'
+  name: '&bLjevaonica'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fNapredni predmeti ljevaonice i sintetizatora'
+  name: '&bLjevaonica II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fNapredni predmeti ljevaonice i sintetizatora'
+  name: '&bLjevaonica III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bNapredni generator mobova'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bOsnovni generator mobova'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bSrednji generator mobova'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_GENE_BERSERK:
+  name: '&aGen bjesnila'
   type:
   - '&7&oKomponenta'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fGen inteligencije'
   type:
   - '&7&oKomponenta'
 SUPREME_GENE_LUCK:
+  name: '&aGen sreće'
   type:
   - '&7&oKomponenta'
 SUPREME_GOLD_QUARRY:
+  name: '&eKamenolom zlata'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lEpska kaciga izrađena od thorniuma'
+  name: '&d&lEpska kaciga'
   type:
   - '&7&oOklop'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lLegendarna kaciga izrađena od thorniuma'
+  name: '&6&lLegendarna kaciga'
   type:
   - '&7&oOklop'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lMagična kaciga izrađena od thorniuma'
+  name: '&a&lMagična kaciga'
   type:
   - '&7&oOklop'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lRijetka kaciga izrađena od thorniuma'
+  name: '&b&lRijetka kaciga'
   type:
   - '&7&oOklop'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lVrhunska kaciga izrađena od thorniuma'
+  name: '&4&lVrhunska kaciga'
   type:
   - '&7&oOklop'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lKaciga izrađena od thorniuma'
+  name: '&f&lKaciga od thorniuma'
   type:
   - '&7&oOklop'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9Ignis generator'
+  stats:
+  - '&6Napredni generator'
   type:
   - '&7&oStroj'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aInduktivni stroj'
   type:
   - '&7&oNapredne komponente'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aInduktorski stroj'
   type:
   - '&7&oNapredne komponente'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aPloča od iridija'
   type:
   - '&7&oKomponente'
 SUPREME_IRON_QUARRY:
+  name: '&eKamenolom željeza'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lEpske hlače izrađene od thorniuma'
+  name: '&d&lEpske hlače'
   type:
   - '&7&oOklop'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lLegendarne hlače izrađene od thorniuma'
+  name: '&6&lLegendarne hlače'
   type:
   - '&7&oOklop'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lMagične hlače izrađene od thorniuma'
+  name: '&a&lMagične hlače'
   type:
   - '&7&oOklop'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lRijetke hlače izrađene od thorniuma'
+  name: '&b&lRijetke hlače'
   type:
   - '&7&oOklop'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lVrhunske hlače izrađene od thorniuma'
+  name: '&4&lVrhunske hlače'
   type:
   - '&7&oOklop'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lHlače izrađene od thorniuma'
+  name: '&f&lHlače od thorniuma'
   type:
   - '&7&oOklop'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9Lumium generator'
+  stats:
+  - '&6Napredni generator'
   type:
   - '&7&oStroj'
 SUPREME_LUX_GENERATOR:
+  name: '&9Lux generator'
+  stats:
+  - '&6Napredni generator'
   type:
   - '&7&oStroj'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fIzradi rune i čarobne predmete'
+  name: '&bMagični oltar'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
   type:
   - '&7&oStroj'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fNapredna izrada runa i čarobnih predmeta'
+  name: '&bMagični oltar II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
   type:
   - '&7&oStroj'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fNapredna izrada runa i čarobnih predmeta'
+  name: '&bMagični oltar III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
   type:
   - '&7&oStroj'
 SUPREME_MAIN_ITEM:
+  name: Glavni predmet
   type:
   - '&7&oRazno'
 SUPREME_MANGANESE_PLATE:
+  name: '&aPloča od mangana'
   type:
   - '&7&oKomponente'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite '
+  - '&fpredmete od obližnjih mobova. (4 bloka)'
+  name: '&bSakupljač mobova'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite'
+  - '&f predmete od obližnjih mobova. (8 blokova)'
+  name: '&bSakupljač mobova II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J međuspremnika'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oStroj'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite'
+  - '&f predmete od obližnjih mobova. (16 blokova)'
+  name: '&bSakupljač mobova III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J međuspremnika'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oStroj'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6MobTech sakupljač I'
+  stats:
+  - '&8⇨ &e⚡ &750 J po upotrebi'
   type:
   - '&7&oAlati'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6MobTech sakupljač II'
+  stats:
+  - '&8⇨ &e⚡ &750 J po upotrebi'
   type:
   - '&7&oAlati'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6MobTech sakupljač III'
+  stats:
+  - '&8⇨ &e⚡ &750 J po upotrebi'
   type:
   - '&7&oAlati'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite '
+  - '&fMobTech glave obližnjih mobova. (6 blokova)'
+  name: '&bMobTech sakupljač II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite '
+  - '&fMobTech glave obližnjih mobova. (9 blokova)'
+  name: '&bMobTech sakupljač III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oOvdje možete izraditi jezgre!'
+  - '&aMultiblok stroj'
+  name: '&eTvornica jezgri'
   type:
   - '&7&oStroj'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oOvdje možete izraditi oružje, oklope i alate!'
+  - '&aMultiblok stroj'
+  name: '&eTvornica opreme'
   type:
   - '&7&oStroj'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oOvdje možete izraditi čarobne predmete!'
+  - '&aMultiblok stroj'
+  name: '&eČarobna tvornica'
   type:
   - '&7&oStroj'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aStroj za okamenjivanje'
   type:
   - '&7&oNapredne komponente'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lEpski pijuk izrađen od thorniuma'
+  name: '&d&lEpski pijuk'
   type:
   - '&7&oAlati'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lLegendarni pijuk izrađen od thorniuma'
+  name: '&6&lLegendarni pijuk'
   type:
   - '&7&oAlati'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lMagični pijuk izrađen od thorniuma'
+  name: '&a&lMagični pijuk'
   type:
   - '&7&oAlati'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lRijetki pijuk izrađen od thorniuma'
+  name: '&b&lRijetki pijuk'
   type:
   - '&7&oAlati'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lVrhunski pijuk izrađen od thorniuma'
+  name: '&4&lVrhunski pijuk'
   type:
   - '&7&oAlati'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lPijuk izrađen od thorniuma'
+  name: '&f&lPijuk od thorniuma'
   type:
   - '&7&oAlati'
 SUPREME_PLATINUM_PLATE:
+  name: '&aPloča od platine'
   type:
   - '&7&oKomponente'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aStroj bez hrđe'
   type:
   - '&7&oNapredne komponente'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lEpski štit izrađen od thorniuma'
+  name: '&d&lEpski štit'
   type:
   - '&7&oOružja'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lLegendarni štit izrađen od thorniuma'
+  name: '&6&lLegendarni štit'
   type:
   - '&7&oOružja'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lMagični štit izrađen od thorniuma'
+  name: '&a&lMagični štit'
   type:
   - '&7&oOružja'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lRijetki štit izrađen od thorniuma'
+  name: '&b&lRijetki štit'
   type:
   - '&7&oOružja'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lVrhunski štit izrađen od thorniuma'
+  name: '&4&lVrhunski štit'
   type:
   - '&7&oOružja'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lŠtit izrađen od thorniuma'
+  name: '&f&lŠtit od thorniuma'
   type:
   - '&7&oOružja'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lEpska lopata izrađena od thorniuma'
+  name: '&d&lEpska lopata'
   type:
   - '&7&oAlati'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lLegendarna lopata izrađena od thorniuma'
+  name: '&6&lLegendarna lopata'
   type:
   - '&7&oAlati'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lMagična lopata izrađena od thorniuma'
+  name: '&a&lMagična lopata'
   type:
   - '&7&oAlati'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lRijetka lopata izrađena od thorniuma'
+  name: '&b&lRijetka lopata'
   type:
   - '&7&oAlati'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lVrhunska lopata izrađena od thorniuma'
+  name: '&4&lVrhunska lopata'
   type:
   - '&7&oAlati'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lLopata izrađena od thorniuma'
+  name: '&f&lLopata od thorniuma'
   type:
   - '&7&oAlati'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aNehrđajući stroj'
   type:
   - '&7&oNapredne komponente'
 SUPREME_STONE_QUARRY:
+  name: '&eKamenolom kamena'
+  stats:
+  - '&aSrednji stroj'
   type:
   - '&7&oStroj'
 SUPREME_SUPREME:
+  description:
+  - '&7Vrhunski'
+  name: '&aVrhunski'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9Vrhunski kondenzator'
+  stats:
+  - '&4Kondenzator kasne igre'
+  - '&8⇨ &e⚡ &7Beskonačno J kapaciteta'
   type:
   - '&7&oStroj'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9Vrhunski generator'
+  stats:
+  - '&4Generator kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7Iz kamenoloma vrhunskih grumena'
+  name: '&aVrhunski grumen'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eKamenolom vrhunskih grumena'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lEpski mač izrađen od thorniuma'
+  name: '&d&lEpski mač'
   type:
   - '&7&oOružja'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lLegendarni mač izrađen od thorniuma'
+  name: '&6&lLegendarni mač'
   type:
   - '&7&oOružja'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lMagični mač izrađen od thorniuma'
+  name: '&a&lMagični mač'
   type:
   - '&7&oOružja'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lRijetki mač izrađen od thorniuma'
+  name: '&b&lRijetki mač'
   type:
   - '&7&oOružja'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lVrhunski mač izrađen od thorniuma'
+  name: '&4&lVrhunski mač'
   type:
   - '&7&oOružja'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lMač izrađen od thorniuma'
+  name: '&f&lMač od thorniuma'
   type:
   - '&7&oOružja'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aSintetički ametist'
   type:
   - '&7&oKomponente'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aSintetički rubin'
   type:
   - '&7&oKomponente'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fKoristeći energiju i pčele/golema/zombija, '
+  - '&fpolako stvara materijale.'
+  name: '&bTehnološki generator'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fKoristite generator mutacije '
+  - '&fza napredovanje na više razine'
+  name: '&bTehnološka mutacija'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fKoristite generator mutacije '
+  - '&fza napredovanje na više razine'
+  - '&fFaktor šanse pomnožen 2x'
+  name: '&bTehnološka mutacija II'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fKoristite generator mutacije '
+  - '&fza napredovanje na više razine'
+  - '&fFaktor šanse pomnožen 4x'
+  name: '&bTehnološka mutacija III'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fKoristite robote početničke razine '
+  - '&fza napredovanje na više razine'
+  - '&ftreba 64x za nadogradnju'
+  name: '&bTehnološka robotika'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fKoristite robote početničke razine '
+  - '&fza napredovanje na više razine'
+  - '&ftreba 32x za nadogradnju'
+  name: '&bTehnološka robotika II'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fKoristite robote početničke razine '
+  - '&fza napredovanje na više razine'
+  - '&ftreba 16x za nadogradnju'
+  name: '&bTehnološka robotika III'
+  stats:
+  - '&4Stroj kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_THORNERITE:
+  name: '&aThornerite'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7Iz kamenoloma thorniuma'
+  name: '&aKomadić thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7Iz komadića thorniuma'
+  name: '&aSintetički komadić thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9Kondenzator od thorniuma'
+  stats:
+  - '&4Kondenzator kasne igre'
+  - '&8⇨ &e⚡ &7100,000,000.00 J kapaciteta'
   type:
   - '&7&oStroj'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7Iz poluge thorniuma'
+  name: '&aKarbonado od thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7Iz komadića thorniuma'
+  name: '&aPrah thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7Iz praha thorniuma'
+  name: '&aSintetički prah thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7Iz poluge thorniuma'
+  name: '&aEnergizirani thornium'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9Generator od thorniuma'
+  stats:
+  - '&4Generator kasne igre'
   type:
   - '&7&oStroj'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7Iz praha thorniuma'
+  name: '&aPoluga thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7Iz poluge thorniuma'
+  name: '&aSintetička poluga thorniuma'
   type:
   - '&7&oKomponente završne igre'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eKamenolom thorniuma'
+  stats:
+  - '&6Napredni stroj'
   type:
   - '&7&oStroj'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lSjekira izrađena od titana'
+  name: '&f&lSjekira od titana'
   type:
   - '&7&oAlati'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lČizme izrađene od titana'
+  name: '&f&lČizme od titana'
   type:
   - '&7&oOklop'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9Kondenzator od titana'
+  stats:
+  - '&6Napredni kondenzator'
+  - '&8⇨ &e⚡ &74,000,000.00 J kapaciteta'
   type:
   - '&7&oStroj'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lOklop za prsa izrađen od titana'
+  name: '&f&lOklop za prsa od titana'
   type:
   - '&7&oOklop'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lKaciga izrađena od titana'
+  name: '&f&lKaciga od titana'
   type:
   - '&7&oOklop'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lHlače izrađene od titana'
+  name: '&f&lHlače od titana'
   type:
   - '&7&oOklop'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lPijuk izrađen od titana'
+  name: '&f&lPijuk od titana'
   type:
   - '&7&oAlati'
 SUPREME_TITANIUM_PLATE:
+  name: '&aPloča od titana'
   type:
   - '&7&oKomponente'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lLopata izrađena od titana'
+  name: '&f&lLopata od titana'
   type:
   - '&7&oAlati'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lMač izrađen od titana'
+  name: '&f&lMač od titana'
   type:
   - '&7&oOružja'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9Ventus generator'
+  stats:
+  - '&eOsnovni generator'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite '
+  - '&f predmete koji se skupljaju na moru.'
+  name: '&bVirtualni akvarij'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite'
+  - '&f predmete koji se skupljaju na moru.'
+  name: '&bVirtualni akvarij II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J međuspremnika'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da sakupite'
+  - '&f predmete koji se skupljaju na moru.'
+  name: '&bVirtualni akvarij III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J međuspremnika'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fuzgojite neke resurse.'
+  name: '&bVirtualni vrt'
+  stats:
+  - '&6Napredni stroj'
+  - '&8⇨ &b⚡ &7Brzina: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J međuspremnika'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fuzgojite neke resurse.'
+  name: '&bVirtualni vrt II'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J međuspremnika'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oStroj'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fOvaj stroj omogućuje vam da'
+  - '&fuzgojite neke resurse.'
+  name: '&bVirtualni vrt III'
+  stats:
+  - '&4Stroj kasne igre'
+  - '&8⇨ &b⚡ &7Brzina: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J međuspremnika'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oStroj'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aPloča od cirkonija'
   type:
   - '&7&oKomponente'
