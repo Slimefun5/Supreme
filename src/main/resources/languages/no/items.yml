@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fDenne maskinen lar deg samle '
+  - '&fMobTech-hode fra mobs i nærheten. (3 blokk)'
+  name: '&bMobTech-samler I'
   type:
   - '&7&oMaskin'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lEn øks av Adamantium'
+  name: '&f&lAdamantium-øks'
   type:
   - '&7&oVerktøy'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lStøvler av Adamantium'
+  name: '&f&lAdamantium-støvler'
   type:
   - '&7&oRustning'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9Adamantium-kondensator'
+  stats:
+  - '&6Avansert kondensator'
+  - '&8⇨ &e⚡ &716,000,000.00 J kapasitet'
   type:
   - '&7&oMaskin'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lEn brystplate av Adamantium'
+  name: '&f&lAdamantium-brystplate'
   type:
   - '&7&oRustning'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lEn hjelm av Adamantium'
+  name: '&f&lAdamantium-hjelm'
   type:
   - '&7&oRustning'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lBukser av Adamantium'
+  name: '&f&lAdamantium-bukser'
   type:
   - '&7&oRustning'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lEn hakke av Adamantium'
+  name: '&f&lAdamantium-hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aAdamantium-plate'
   type:
   - '&7&oKomponenter'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lEn spade av Adamantium'
+  name: '&f&lAdamantium-spade'
   type:
   - '&7&oVerktøy'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lEt sverd av Adamantium'
+  name: '&f&lAdamantium-sverd'
   type:
   - '&7&oVåpen'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aAdamantium-legering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_AURUM:
+  name: '&aAurum-legering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aIridium-legering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aManganlegering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aPlatinalegering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aTitanlegering'
   type:
   - '&7&oKomponenter'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aZirkoniumlegering'
   type:
   - '&7&oKomponenter'
 SUPREME_AQUA_GENERATOR:
+  name: '&9Aqua-generator'
+  stats:
+  - '&6Avansert generator'
   type:
   - '&7&oMaskin'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7Et super bombeattributt med spesielle effekter'
+  name: '&aBombeattributt'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7Et super lykkeattributt med spesielle effekter'
+  name: '&aLykkeattributt'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7Et super drivattributt med spesielle effekter'
+  name: '&aDrivattributt'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7Et super magiattributt med spesielle effekter'
+  name: '&aMagiattributt'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lEn øks av Aurum'
+  name: '&f&lAurum-øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lStøvler av Aurum'
+  name: '&f&lAurum-støvler'
   type:
   - '&7&oRustning'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9Aurum-kondensator'
+  stats:
+  - '&6Avansert kondensator'
+  - '&8⇨ &e⚡ &71,000,000.00 J kapasitet'
   type:
   - '&7&oMaskin'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lEn brystplate av Aurum'
+  name: '&f&lAurum-brystplate'
   type:
   - '&7&oRustning'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lEn hjelm av Aurum'
+  name: '&f&lAurum-hjelm'
   type:
   - '&7&oRustning'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lBukser av Aurum'
+  name: '&f&lAurum-bukser'
   type:
   - '&7&oRustning'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lEn hakke av Aurum'
+  name: '&f&lAurum-hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_AURUM_PLATE:
+  name: '&aAurum-plate'
   type:
   - '&7&oKomponenter'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lEn spade av Aurum'
+  name: '&f&lAurum-spade'
   type:
   - '&7&oVerktøy'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lEt sverd av Aurum'
+  name: '&f&lAurum-sverd'
   type:
   - '&7&oVåpen'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lEn episk øks av Thornium'
+  name: '&d&lEpisk øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk øks av Thornium'
+  name: '&6&lLegendarisk øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lEn magisk øks av Thornium'
+  name: '&a&lMagisk øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lEn sjelden øks av Thornium'
+  name: '&b&lSjelden øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lEn suveren øks av Thornium'
+  name: '&4&lSuveren øks'
   type:
   - '&7&oVerktøy'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lEn øks av Thornium'
+  name: '&f&lThornium-øks'
   type:
   - '&7&oVerktøy'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9Grunnleggende Aqua-generator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9Grunnleggende Ignis-generator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9Grunnleggende Lumium-generator'
+  stats:
+  - '&6Avansert generator'
   type:
   - '&7&oMaskin'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9Grunnleggende Lux-generator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9Grunnleggende Ventus-generator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_BLEND_MACHINE:
+  name: '&aBlandemaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lEpiske støvler av Thornium'
+  name: '&d&lEpiske støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lLegendariske støvler av Thornium'
+  name: '&6&lLegendariske støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lMagiske støvler av Thornium'
+  name: '&a&lMagiske støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lSjeldne støvler av Thornium'
+  name: '&b&lSjeldne støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lSuverene støvler av Thornium'
+  name: '&4&lSuverene støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lStøvler av Thornium'
+  name: '&f&lThornium-støvler'
   type:
   - '&7&oRustning'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lEn episk bue av Thornium'
+  name: '&d&lEpisk bue'
   type:
   - '&7&oVåpen'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk bue av Thornium'
+  name: '&6&lLegendarisk bue'
   type:
   - '&7&oVåpen'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lEn magisk bue av Thornium'
+  name: '&a&lMagisk bue'
   type:
   - '&7&oVåpen'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lEn sjelden bue av Thornium'
+  name: '&b&lSjelden bue'
   type:
   - '&7&oVåpen'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lEn suveren bue av Thornium'
+  name: '&4&lSuveren bue'
   type:
   - '&7&oVåpen'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lEn bue av Thornium'
+  name: '&f&lThornium-bue'
   type:
   - '&7&oVåpen'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fEndre til produksjon av aluminiumsmessingbarre'
+  name: '&bKortmaskin aluminiumsmessingbarre'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fEndre til produksjon av aluminiumsbronsebarre'
+  name: '&bKortmaskin aluminiumsbronsebarre'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fEndre til produksjon av aluminiumsstøv'
+  name: '&bKortmaskin aluminiumsstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fEndre til produksjon av ametyst'
+  name: '&bKortmaskin ametyst'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fEndre til produksjon av andesitt'
+  name: '&bKortmaskin andesitt'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fEndre til produksjon av eple'
+  name: '&bKortmaskin eple'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fEndre til produksjon av batteri'
+  name: '&bKortmaskin batteri'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fEndre til produksjon av billonbarre'
+  name: '&bKortmaskin billonbarre'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fEndre til produksjon av blazestav'
+  name: '&bKortmaskin blazestav'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fEndre til produksjon av messingbarre'
+  name: '&bKortmaskin messingbarre'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fEndre til produksjon av bronsebarre'
+  name: '&bKortmaskin bronsebarre'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fEndre til produksjon av karbon'
+  name: '&bKortmaskin karbon'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fEndre til produksjon av karbonado'
+  name: '&bKortmaskin karbonado'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fEndre til produksjon av komprimert karbon'
+  name: '&bKortmaskin komprimert karbon'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fEndre til produksjon av leire'
+  name: '&bKortmaskin leire'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_COAL:
+  description:
+  - '&fEndre til produksjon av kull'
+  name: '&bKortmaskin kull'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fEndre til produksjon av kobolt'
+  name: '&bKortmaskin kobolt'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fEndre til produksjon av kobber'
+  name: '&bKortmaskin kobber'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fEndre til produksjon av kobberstøv'
+  name: '&bKortmaskin kobberstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fEndre til produksjon av korintisk bronsebarre'
+  name: '&bKortmaskin korintisk bronsebarre'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fEndre til produksjon av damaskus'
+  name: '&bKortmaskin damaskus'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fEndre til produksjon av diamant'
+  name: '&bKortmaskin diamant'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fEndre til produksjon av dioritt'
+  name: '&bKortmaskin dioritt'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fEndre til produksjon av duraluminbarre'
+  name: '&bKortmaskin duraluminbarre'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fEndre til produksjon av elektrisk motor'
+  name: '&bKortmaskin elektrisk motor'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fEndre til produksjon av elektromagnet'
+  name: '&bKortmaskin elektromagnet'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fEndre til produksjon av smaragd'
+  name: '&bKortmaskin smaragd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fEndre til produksjon av endestein'
+  name: '&bKortmaskin endestein'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fEndre til produksjon av ferrosilisium'
+  name: '&bKortmaskin ferrosilisium'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fEndre til produksjon av lysende blekksekk'
+  name: '&bKortmaskin lysende blekksekk'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fEndre til produksjon av gull'
+  name: '&bKortmaskin gull'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&fEndre til produksjon av gull 24k'
+  name: '&bKortmaskin gull 24k'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fEndre til produksjon av gullstøv'
+  name: '&bKortmaskin gullstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fEndre til produksjon av granitt'
+  name: '&bKortmaskin granitt'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fEndre til produksjon av grus'
+  name: '&bKortmaskin grus'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fEndre til produksjon av herdet metallbarre'
+  name: '&bKortmaskin herdet metallbarre'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fEndre til produksjon av varmespiral'
+  name: '&bKortmaskin varmespiral'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fEndre til produksjon av honningflaske'
+  name: '&bKortmaskin honningflaske'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fEndre til produksjon av blekksekk'
+  name: '&bKortmaskin blekksekk'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_IRON:
+  description:
+  - '&fEndre til produksjon av jern'
+  name: '&bKortmaskin jern'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fEndre til produksjon av jernstøv'
+  name: '&bKortmaskin jernstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fEndre til produksjon av lapis'
+  name: '&bKortmaskin lapis'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fEndre til produksjon av blystøv'
+  name: '&bKortmaskin blystøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fEndre til produksjon av magnesiumstøv'
+  name: '&bKortmaskin magnesiumstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fEndre til produksjon av magnet'
+  name: '&bKortmaskin magnet'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fEndre til produksjon av netherite'
+  name: '&bKortmaskin netherite'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fEndre til produksjon av netherstjerne'
+  name: '&bKortmaskin netherstjerne'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fEndre til produksjon av nikkel'
+  name: '&bKortmaskin nikkel'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fEndre til produksjon av plastplate'
+  name: '&bKortmaskin plastplate'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fEndre til produksjon av kvarts'
+  name: '&bKortmaskin kvarts'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fEndre til produksjon av kvartsblokk'
+  name: '&bKortmaskin kvartsblokk'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fEndre til produksjon av redstone'
+  name: '&bKortmaskin redstone'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fEndre til produksjon av redstonelegering'
+  name: '&bKortmaskin redstonelegering'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fEndre til produksjon av forsterket legeringsbarre'
+  name: '&bKortmaskin forsterket legeringsbarre'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SAND:
+  description:
+  - '&fEndre til produksjon av sand'
+  name: '&bKortmaskin sand'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fEndre til produksjon av silisium'
+  name: '&bKortmaskin silisium'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fEndre til produksjon av sølvstøv'
+  name: '&bKortmaskin sølvstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fEndre til produksjon av slimball'
+  name: '&bKortmaskin slimball'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fEndre til produksjon av snø'
+  name: '&bKortmaskin snø'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fEndre til produksjon av loddebarre'
+  name: '&bKortmaskin loddebarre'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fEndre til produksjon av stål'
+  name: '&bKortmaskin stål'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_STONE:
+  description:
+  - '&fEndre til produksjon av stein'
+  name: '&bKortmaskin stein'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fEndre til produksjon av sulfat'
+  name: '&bKortmaskin sulfat'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fEndre til produksjon av syntetisk diamant'
+  name: '&bKortmaskin syntetisk diamant'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fEndre til produksjon av syntetisk smaragd'
+  name: '&bKortmaskin syntetisk smaragd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fEndre til produksjon av syntetisk safir'
+  name: '&bKortmaskin syntetisk safir'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fEndre til produksjon av tinnstøv'
+  name: '&bKortmaskin tinnstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fEndre til produksjon av witherrose'
+  name: '&bKortmaskin witherrose'
+  stats:
+  - '&eGrunnleggende maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fEndre til produksjon av sinkstøv'
+  name: '&bKortmaskin sinkstøv'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oKomponent'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aVognmaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fKomponent for maskin til å produsere gjenstander'
+  name: '&aAvansert komponent for kort'
   type:
   - '&7&oKomponent'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fKomponent for maskin til å produsere gjenstander'
+  name: '&aGrunnleggende komponent for kort'
   type:
   - '&7&oKomponent'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fKomponent for maskin til å produsere gjenstander'
+  name: '&aUltimat komponent for kort'
   type:
   - '&7&oKomponent'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7Et super Aqua-septer'
+  name: '&aCetrus Aqua'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7Et super Ignis-septer'
+  name: '&aCetrus Ignis'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7Et super Lumium-septer'
+  name: '&aCetrus Lumium'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7Et super Lux-septer'
+  name: '&aCetrus Lux'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7Et super Ventus-septer'
+  name: '&aCetrus Ventus'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fSjekker om kisten i nærheten har filtergjenstanden'
+  - '&falle sider blir vurdert (finn første)'
+  - '&fhvis den finnes, lyser denne blokken opp'
+  name: '&bSjekkInventar'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lEn episk brystplate av Thornium'
+  name: '&d&lEpisk brystplate'
   type:
   - '&7&oRustning'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk brystplate av Thornium'
+  name: '&6&lLegendarisk brystplate'
   type:
   - '&7&oRustning'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lEn magisk brystplate av Thornium'
+  name: '&a&lMagisk brystplate'
   type:
   - '&7&oRustning'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lEn sjelden brystplate av Thornium'
+  name: '&b&lSjelden brystplate'
   type:
   - '&7&oRustning'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lEn suveren brystplate av Thornium'
+  name: '&4&lSuveren brystplate'
   type:
   - '&7&oRustning'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lEn brystplate av Thornium'
+  name: '&f&lThornium-brystplate'
   type:
   - '&7&oRustning'
 SUPREME_COAL_QUARRY:
+  name: '&eKullsteinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aTransportmaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7En super akasie'
+  name: '&aSuveren akasiestokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7En super andesitt'
+  name: '&aSuveren andesitt'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7Et super eple'
+  name: '&aSuverent eple'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7Et super storfekjøtt'
+  name: '&aSuverent storfekjøtt'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7En super rødbete'
+  name: '&aSuveren rødbete'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7En super bjørk'
+  name: '&aSuveren bjørkestokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7En super svart'
+  name: '&aSuveren svart'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7En super blå'
+  name: '&aSuveren blå'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7En suveren gulrot'
+  name: '&aSuveren gulrot'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7En super kylling'
+  name: '&aSuveren kylling'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7En super leire'
+  name: '&aSuveren leire'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_COAL:
+  description:
+  - '&7Et super kull'
+  name: '&aSuverent kull'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_COD:
+  description:
+  - '&7En super torsk'
+  name: '&aSuveren torsk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7En super karmosin'
+  name: '&aSuveren karmosinstamme'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7En super cyan'
+  name: '&aSuveren cyan'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7En super mørk'
+  name: '&aSuveren mørk eikestokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7En super diamant'
+  name: '&aSuveren diamant'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7En super dioritt'
+  name: '&aSuveren dioritt'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7En super smaragd'
+  name: '&aSuveren smaragd'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7En super endestein'
+  name: '&aSuveren endestein'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7Et super gull'
+  name: '&aSuverent gull'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7En super granitt'
+  name: '&aSuveren granitt'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7En super grus'
+  name: '&aSuveren grus'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7En super grå'
+  name: '&aSuveren grå'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7En super grønn'
+  name: '&aSuveren grønn'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_IRON:
+  description:
+  - '&7Et super jern'
+  name: '&aSuverent jern'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7En super jungel'
+  name: '&aSuveren jungelstokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7En super lapis'
+  name: '&aSuveren lapis'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_MELON:
+  description:
+  - '&7En super melon'
+  name: '&aSuveren melon'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7Et super sauekjøtt'
+  name: '&aSuverent sauekjøtt'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7En super netherite'
+  name: '&aSuveren netherite'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7En super eik'
+  name: '&aSuveren eikestokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7Denne kjernen inneholder flere malmer'
+  - '&7som har blitt samlet rundt om i verden.'
+  name: '&aLegeringskjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7Denne kjernen inneholder flere blokker'
+  - '&7som har blitt samlet rundt om i verden.'
+  name: '&aBlokkjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7Denne kjernen inneholder flere farger'
+  - '&7som har blitt samlet rundt om i verden.'
+  name: '&aFargekjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7Denne kjernen inneholder sjelene til '
+  - '&7ulike vesener som har gått bort.'
+  name: '&aDødskjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7Denne kjernen inneholder livsfragmenter'
+  - '&7som har blitt samlet av verden.'
+  name: '&aLivskjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7Denne kjernen inneholder flere naturlige'
+  - '&7som har blitt samlet rundt om i verden.'
+  name: '&aNaturkjerne'
   type:
   - '&7&oMagiske komponenter'
 SUPREME_CORE_PINK:
+  description:
+  - '&7En super rosa'
+  name: '&aSuveren rosa'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7Et super bacon'
+  name: '&aSuverent bacon'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7En super potet'
+  name: '&aSuveren potet'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7Et super gresskar'
+  name: '&aSuverent gresskar'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7En super lilla'
+  name: '&aSuveren lilla'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7En super kvarts'
+  name: '&aSuveren kvarts'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_RED:
+  description:
+  - '&7En super rød'
+  name: '&aSuveren rød'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7En super redstone'
+  name: '&aSuveren redstone'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7En super laks'
+  name: '&aSuveren laks'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SAND:
+  description:
+  - '&7En super sand'
+  name: '&aSuveren sand'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7En super snø'
+  name: '&aSuveren snø'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7Et super øye'
+  name: '&aSuverent øye'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7En super gran'
+  name: '&aSuveren granstokk'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_STONE:
+  description:
+  - '&7En super brostein'
+  name: '&aSuveren brostein'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_STRING:
+  description:
+  - '&7Et super bånd'
+  name: '&aSuverent bånd'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7Et super sukkerrør'
+  name: '&aSuverent sukkerrør'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7Et super bær'
+  name: '&aSuverene søtbær'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7En super tåre'
+  name: '&aSuveren tåre'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7En super vridd'
+  name: '&aSuveren vridd stamme'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7En super hvete'
+  name: '&aSuveren hvete'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7En super rose'
+  name: '&aSuveren witherrose'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7En super gul'
+  name: '&aSuveren gul'
   type:
   - '&7&oKjernekomponenter'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aKrystalliseringsmaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eDiamantsteinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_DUST_AMETHYST:
+  name: '&aAmetyststøv'
   type:
   - '&7&oKomponent'
 SUPREME_DUST_GLOW_INK:
+  name: '&aLysende blekkstøv'
   type:
   - '&7&oKomponent'
 SUPREME_DUST_NETHERITE:
+  name: '&aNetheritestøv'
   type:
   - '&7&oKomponent'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fHåndverksressurs for kjerne'
+  name: '&bElektrisk kjernemaskin'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fAvansert håndverksressurs for kjerne'
+  name: '&bElektrisk kjernemaskin II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fAvansert håndverksressurs for kjerne'
+  name: '&bElektrisk kjernemaskin III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fLag gjenstander'
+  name: '&bElektrisk håndverker'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fAvansert laging av gjenstander'
+  name: '&bElektrisk håndverker II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fAvansert laging av gjenstander'
+  name: '&bElektrisk håndverker III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fLag nivå av utstyr'
+  name: '&bElektrisk utstyrsmaskin'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fAvansert laging av utstyrsnivå'
+  name: '&bElektrisk utstyrsmaskin II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fAvansert laging av utstyrsnivå'
+  name: '&bElektrisk utstyrsmaskin III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_ITEM:
+  name: Elektrisk gjenstand
   type:
   - '&7&oDiverse'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fHåndverksressurs for magi'
+  name: '&bElektrisk magisk maskin'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fAvansert håndverksressurs for magi'
+  name: '&bElektrisk magisk maskin II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fAvansert håndverksressurs for magi'
+  name: '&bElektrisk magisk maskin III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aTom MobTech'
   type:
   - '&7&oKomponent'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi barreressurser.'
+  name: '&bSmibarre'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi barreressurser.'
+  name: '&bSmibarre II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J buffer'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi barreressurser.'
+  name: '&bSmibarre III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J buffer'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi magiske ressurser.'
+  name: '&bSmi magisk'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi magiske ressurser.'
+  name: '&bSmi magisk II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J buffer'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fsmi magiske ressurser.'
+  name: '&bSmi magisk III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J buffer'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fStøperi- og syntesegjenstander'
+  name: '&bStøperi'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fAvanserte støperi- og syntesegjenstander'
+  name: '&bStøperi II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fAvanserte støperi- og syntesegjenstander'
+  name: '&bStøperi III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bAvansert mobgenerator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bGrunnleggende mobgenerator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bMiddels mobgenerator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_GENE_BERSERK:
+  name: '&aBerserkergen'
   type:
   - '&7&oKomponent'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fIntelligensgen'
   type:
   - '&7&oKomponent'
 SUPREME_GENE_LUCK:
+  name: '&aLykkegen'
   type:
   - '&7&oKomponent'
 SUPREME_GOLD_QUARRY:
+  name: '&eGullsteinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lEn episk hjelm av Thornium'
+  name: '&d&lEpisk hjelm'
   type:
   - '&7&oRustning'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk hjelm av Thornium'
+  name: '&6&lLegendarisk hjelm'
   type:
   - '&7&oRustning'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lEn magisk hjelm av Thornium'
+  name: '&a&lMagisk hjelm'
   type:
   - '&7&oRustning'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lEn sjelden hjelm av Thornium'
+  name: '&b&lSjelden hjelm'
   type:
   - '&7&oRustning'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lEn suveren hjelm av Thornium'
+  name: '&4&lSuveren hjelm'
   type:
   - '&7&oRustning'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lEn hjelm av Thornium'
+  name: '&f&lThornium-hjelm'
   type:
   - '&7&oRustning'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9Ignis-generator'
+  stats:
+  - '&6Avansert generator'
   type:
   - '&7&oMaskin'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aInduktiv maskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aInduktormaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aIridium-plate'
   type:
   - '&7&oKomponenter'
 SUPREME_IRON_QUARRY:
+  name: '&eJernsteinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lEpiske bukser av Thornium'
+  name: '&d&lEpiske bukser'
   type:
   - '&7&oRustning'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lLegendariske bukser av Thornium'
+  name: '&6&lLegendariske bukser'
   type:
   - '&7&oRustning'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lMagiske bukser av Thornium'
+  name: '&a&lMagiske bukser'
   type:
   - '&7&oRustning'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lSjeldne bukser av Thornium'
+  name: '&b&lSjeldne bukser'
   type:
   - '&7&oRustning'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lSuverene bukser av Thornium'
+  name: '&4&lSuverene bukser'
   type:
   - '&7&oRustning'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lBukser av Thornium'
+  name: '&f&lThornium-bukser'
   type:
   - '&7&oRustning'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9Lumium-generator'
+  stats:
+  - '&6Avansert generator'
   type:
   - '&7&oMaskin'
 SUPREME_LUX_GENERATOR:
+  name: '&9Lux-generator'
+  stats:
+  - '&6Avansert generator'
   type:
   - '&7&oMaskin'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fLag runer og magiske gjenstander'
+  name: '&bMagisk alter'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
   type:
   - '&7&oMaskin'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fAvansert laging av runer og magiske gjenstander'
+  name: '&bMagisk alter II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
   type:
   - '&7&oMaskin'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fAvansert laging av runer og magiske gjenstander'
+  name: '&bMagisk alter III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
   type:
   - '&7&oMaskin'
 SUPREME_MAIN_ITEM:
+  name: Hovedgjenstand
   type:
   - '&7&oDiverse'
 SUPREME_MANGANESE_PLATE:
+  name: '&aManganplate'
   type:
   - '&7&oKomponenter'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fDenne maskinen lar deg samle '
+  - '&fgjenstander fra mobs i nærheten. (4 blokk)'
+  name: '&bMobsamler'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fDenne maskinen lar deg samle'
+  - '&f gjenstander fra mobs i nærheten. (8 blokk)'
+  name: '&bMobsamler II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J buffer'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fDenne maskinen lar deg samle'
+  - '&f gjenstander fra mobs i nærheten. (16 blokk)'
+  name: '&bMobsamler III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J buffer'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6MobTech-samler I'
+  stats:
+  - '&8⇨ &e⚡ &750 J per bruk'
   type:
   - '&7&oVerktøy'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6MobTech-samler II'
+  stats:
+  - '&8⇨ &e⚡ &750 J per bruk'
   type:
   - '&7&oVerktøy'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6MobTech-samler III'
+  stats:
+  - '&8⇨ &e⚡ &750 J per bruk'
   type:
   - '&7&oVerktøy'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fDenne maskinen lar deg samle '
+  - '&fMobTech-hode fra mobs i nærheten. (6 blokk)'
+  name: '&bMobTech-samler II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fDenne maskinen lar deg samle '
+  - '&fMobTech-hode fra mobs i nærheten. (9 blokk)'
+  name: '&bMobTech-samler III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oHer kan du lage kjerner!'
+  - '&aMultiblokkmaskin'
+  name: '&eKjernefabrikator'
   type:
   - '&7&oMaskin'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oHer kan du lage våpen, rustning og verktøy!'
+  - '&aMultiblokkmaskin'
+  name: '&eUtstyrsfabrikator'
   type:
   - '&7&oMaskin'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oHer kan du lage magiske ting!'
+  - '&aMultiblokkmaskin'
+  name: '&eMagisk fabrikator'
   type:
   - '&7&oMaskin'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aForsteiningsmaskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lEn episk hakke av Thornium'
+  name: '&d&lEpisk hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk hakke av Thornium'
+  name: '&6&lLegendarisk hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lEn magisk hakke av Thornium'
+  name: '&a&lMagisk hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lEn sjelden hakke av Thornium'
+  name: '&b&lSjelden hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lEn suveren hakke av Thornium'
+  name: '&4&lSuveren hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lEn hakke av Thornium'
+  name: '&f&lThornium-hakke'
   type:
   - '&7&oVerktøy'
 SUPREME_PLATINUM_PLATE:
+  name: '&aPlatinaplate'
   type:
   - '&7&oKomponenter'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aRustløs maskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lEt episk skjold av Thornium'
+  name: '&d&lEpisk skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lEt legendarisk skjold av Thornium'
+  name: '&6&lLegendarisk skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lEt magisk skjold av Thornium'
+  name: '&a&lMagisk skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lEt sjeldent skjold av Thornium'
+  name: '&b&lSjeldent skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lEt suverent skjold av Thornium'
+  name: '&4&lSuverent skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lEt skjold av Thornium'
+  name: '&f&lThornium-skjold'
   type:
   - '&7&oVåpen'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lEn episk spade av Thornium'
+  name: '&d&lEpisk spade'
   type:
   - '&7&oVerktøy'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lEn legendarisk spade av Thornium'
+  name: '&6&lLegendarisk spade'
   type:
   - '&7&oVerktøy'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lEn magisk spade av Thornium'
+  name: '&a&lMagisk spade'
   type:
   - '&7&oVerktøy'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lEn sjelden spade av Thornium'
+  name: '&b&lSjelden spade'
   type:
   - '&7&oVerktøy'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lEn suveren spade av Thornium'
+  name: '&4&lSuveren spade'
   type:
   - '&7&oVerktøy'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lEn spade av Thornium'
+  name: '&f&lThornium-spade'
   type:
   - '&7&oVerktøy'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aRustfri maskin'
   type:
   - '&7&oAvanserte komponenter'
 SUPREME_STONE_QUARRY:
+  name: '&eSteinbrudd'
+  stats:
+  - '&aMiddels maskin'
   type:
   - '&7&oMaskin'
 SUPREME_SUPREME:
+  description:
+  - '&7Den suverene'
+  name: '&aSuveren'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9Suveren kondensator'
+  stats:
+  - '&4Sluttspillkondensator'
+  - '&8⇨ &e⚡ &7Uendelig J kapasitet'
   type:
   - '&7&oMaskin'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9Suveren generator'
+  stats:
+  - '&4Sluttspillgenerator'
   type:
   - '&7&oMaskin'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7Fra det suverene klumpsteinbruddet'
+  name: '&aSuveren klump'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eSuverent klumpsteinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lEt episk sverd av Thornium'
+  name: '&d&lEpisk sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lEt legendarisk sverd av Thornium'
+  name: '&6&lLegendarisk sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lEt magisk sverd av Thornium'
+  name: '&a&lMagisk sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lEt sjeldent sverd av Thornium'
+  name: '&b&lSjeldent sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lEt suverent sverd av Thornium'
+  name: '&4&lSuverent sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lEt sverd av Thornium'
+  name: '&f&lThornium-sverd'
   type:
   - '&7&oVåpen'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aSyntetisk ametyst'
   type:
   - '&7&oKomponenter'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aSyntetisk rubin'
   type:
   - '&7&oKomponenter'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fBruker kraft og bier/golem/zombie, '
+  - '&fgenererer sakte materialer.'
+  name: '&bTeknogenerator'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fBruk generatormutasjon '
+  - '&ffor å nå høyere nivåer'
+  name: '&bTeknomutasjon'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fBruk generatormutasjon '
+  - '&ffor å nå høyere nivåer'
+  - '&fSjansefaktor multiplisert med 2x'
+  name: '&bTeknomutasjon II'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fBruk generatormutasjon '
+  - '&ffor å nå høyere nivåer'
+  - '&fSjansefaktor multiplisert med 4x'
+  name: '&bTeknomutasjon III'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fBruk roboter på nybegynnernivå '
+  - '&ffor å nå høyere nivåer'
+  - '&ftrenger 64x for å oppgradere'
+  name: '&bTeknorobotikk'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fBruk roboter på nybegynnernivå '
+  - '&ffor å nå høyere nivåer'
+  - '&ftrenger 32x for å oppgradere'
+  name: '&bTeknorobotikk II'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fBruk roboter på nybegynnernivå '
+  - '&ffor å nå høyere nivåer'
+  - '&ftrenger 16x for å oppgradere'
+  name: '&bTeknorobotikk III'
+  stats:
+  - '&4Sluttspillmaskin'
   type:
   - '&7&oMaskin'
 SUPREME_THORNERITE:
+  name: '&aThornerite'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7Fra Thornium-steinbruddet'
+  name: '&aThornium-bit'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7Fra Thornium-biten'
+  name: '&aSyntetisk Thornium-bit'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9Thornium-kondensator'
+  stats:
+  - '&4Sluttspillkondensator'
+  - '&8⇨ &e⚡ &7100,000,000.00 J kapasitet'
   type:
   - '&7&oMaskin'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7Fra Thornium-barren'
+  name: '&aThornium-karbonado'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7Fra Thornium-biten'
+  name: '&aThornium-støv'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7Fra Thornium-støvet'
+  name: '&aSyntetisk Thornium-støv'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7Fra Thornium-barren'
+  name: '&aEnergisert Thornium'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9Thornium-generator'
+  stats:
+  - '&4Sluttspillgenerator'
   type:
   - '&7&oMaskin'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7Fra Thornium-støvet'
+  name: '&aThornium-barre'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7Fra Thornium-barren'
+  name: '&aSyntetisk Thornium-barre'
   type:
   - '&7&oSluttspillkomponenter'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eThornium-steinbrudd'
+  stats:
+  - '&6Avansert maskin'
   type:
   - '&7&oMaskin'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lEn øks av titan'
+  name: '&f&lTitanøks'
   type:
   - '&7&oVerktøy'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lStøvler av titan'
+  name: '&f&lTitanstøvler'
   type:
   - '&7&oRustning'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9Titankondensator'
+  stats:
+  - '&6Avansert kondensator'
+  - '&8⇨ &e⚡ &74,000,000.00 J kapasitet'
   type:
   - '&7&oMaskin'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lEn brystplate av titan'
+  name: '&f&lTitanbrystplate'
   type:
   - '&7&oRustning'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lEn hjelm av titan'
+  name: '&f&lTitanhjelm'
   type:
   - '&7&oRustning'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lBukser av titan'
+  name: '&f&lTitanbukser'
   type:
   - '&7&oRustning'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lEn hakke av titan'
+  name: '&f&lTitanhakke'
   type:
   - '&7&oVerktøy'
 SUPREME_TITANIUM_PLATE:
+  name: '&aTitanplate'
   type:
   - '&7&oKomponenter'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lEn spade av titan'
+  name: '&f&lTitanspade'
   type:
   - '&7&oVerktøy'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lEt sverd av titan'
+  name: '&f&lTitansverd'
   type:
   - '&7&oVåpen'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9Ventus-generator'
+  stats:
+  - '&eGrunnleggende generator'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fDenne maskinen lar deg samle '
+  - '&f gjenstander som samles til havs.'
+  name: '&bVirtuelt akvarium'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fDenne maskinen lar deg samle'
+  - '&f gjenstander som samles til havs.'
+  name: '&bVirtuelt akvarium II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J buffer'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fDenne maskinen lar deg samle'
+  - '&f gjenstander som samles til havs.'
+  name: '&bVirtuelt akvarium III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J buffer'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fdyrke noen ressurser.'
+  name: '&bVirtuell hage'
+  stats:
+  - '&6Avansert maskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J buffer'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fdyrke noen ressurser.'
+  name: '&bVirtuell hage II'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J buffer'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fDenne maskinen lar deg'
+  - '&fdyrke noen ressurser.'
+  name: '&bVirtuell hage III'
+  stats:
+  - '&4Sluttspillmaskin'
+  - '&8⇨ &b⚡ &7Hastighet: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J buffer'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMaskin'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aZirkoniumplate'
   type:
   - '&7&oKomponenter'
