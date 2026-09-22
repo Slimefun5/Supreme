@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&f此機器可讓你收集 '
+  - '&f收集附近生物的頭顱。（3 方塊）'
+  name: '&b生物科技收集器 I'
   type:
   - '&7&o機器'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&l以亞德曼打造的斧'
+  name: '&f&l亞德曼斧'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&l以亞德曼打造的靴子'
+  name: '&f&l亞德曼靴子'
   type:
   - '&7&o護甲'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9亞德曼電容器'
+  stats:
+  - '&6進階電容器'
+  - '&8⇨ &e⚡ &716,000,000.00 J 容量'
   type:
   - '&7&o機器'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&l以亞德曼打造的胸甲'
+  name: '&f&l亞德曼胸甲'
   type:
   - '&7&o護甲'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&l以亞德曼打造的頭盔'
+  name: '&f&l亞德曼頭盔'
   type:
   - '&7&o護甲'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&l以亞德曼打造的護腿'
+  name: '&f&l亞德曼護腿'
   type:
   - '&7&o護甲'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&l以亞德曼打造的鎬'
+  name: '&f&l亞德曼鎬'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&a亞德曼板'
   type:
   - '&7&o元件'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&l以亞德曼打造的鏟'
+  name: '&f&l亞德曼鏟'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&l以亞德曼打造的劍'
+  name: '&f&l亞德曼劍'
   type:
   - '&7&o武器'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&a亞德曼合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_AURUM:
+  name: '&a奧倫姆合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&a銥合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_MANGANESE:
+  name: '&a錳合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_PLATINUM:
+  name: '&a鉑合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_TITANIUM:
+  name: '&a鈦合金'
   type:
   - '&7&o元件'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&a鋯合金'
   type:
   - '&7&o元件'
 SUPREME_AQUA_GENERATOR:
+  name: '&9阿奎亞發電機'
+  stats:
+  - '&6進階發電機'
   type:
   - '&7&o機器'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7具有特殊效果的超級炸彈屬性'
+  name: '&a炸彈屬性'
   type:
   - '&7&o魔法元件'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7具有特殊效果的超級幸運屬性'
+  name: '&a幸運屬性'
   type:
   - '&7&o魔法元件'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7具有特殊效果的超級衝力屬性'
+  name: '&a衝力屬性'
   type:
   - '&7&o魔法元件'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7具有特殊效果的超級魔法屬性'
+  name: '&a魔法屬性'
   type:
   - '&7&o魔法元件'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&l以奧倫姆打造的斧'
+  name: '&f&l奧倫姆斧'
   type:
   - '&7&o工具'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&l以奧倫姆打造的靴子'
+  name: '&f&l奧倫姆靴子'
   type:
   - '&7&o護甲'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9奧倫姆電容器'
+  stats:
+  - '&6進階電容器'
+  - '&8⇨ &e⚡ &71,000,000.00 J 容量'
   type:
   - '&7&o機器'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&l以奧倫姆打造的胸甲'
+  name: '&f&l奧倫姆胸甲'
   type:
   - '&7&o護甲'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&l以奧倫姆打造的頭盔'
+  name: '&f&l奧倫姆頭盔'
   type:
   - '&7&o護甲'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&l以奧倫姆打造的護腿'
+  name: '&f&l奧倫姆護腿'
   type:
   - '&7&o護甲'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&l以奧倫姆打造的鎬'
+  name: '&f&l奧倫姆鎬'
   type:
   - '&7&o工具'
 SUPREME_AURUM_PLATE:
+  name: '&a奧倫姆板'
   type:
   - '&7&o元件'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&l以奧倫姆打造的鏟'
+  name: '&f&l奧倫姆鏟'
   type:
   - '&7&o工具'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&l以奧倫姆打造的劍'
+  name: '&f&l奧倫姆劍'
   type:
   - '&7&o武器'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩斧'
+  name: '&d&l史詩斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說斧'
+  name: '&6&l傳說斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法斧'
+  name: '&a&l魔法斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有斧'
+  name: '&b&l稀有斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊斧'
+  name: '&4&l至尊斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的斧'
+  name: '&f&l索恩姆斧'
   type:
   - '&7&o工具'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9基礎阿奎亞發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9基礎伊格尼斯發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9基礎盧米姆發電機'
+  stats:
+  - '&6進階發電機'
   type:
   - '&7&o機器'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9基礎盧克斯發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9基礎溫圖斯發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_BLEND_MACHINE:
+  name: '&a混合機器'
   type:
   - '&7&o進階元件'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩靴子'
+  name: '&d&l史詩靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說靴子'
+  name: '&6&l傳說靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法靴子'
+  name: '&a&l魔法靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有靴子'
+  name: '&b&l稀有靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊靴子'
+  name: '&4&l至尊靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的靴子'
+  name: '&f&l索恩姆靴子'
   type:
   - '&7&o護甲'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩弓'
+  name: '&d&l史詩弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說弓'
+  name: '&6&l傳說弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法弓'
+  name: '&a&l魔法弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有弓'
+  name: '&b&l稀有弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊弓'
+  name: '&4&l至尊弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的弓'
+  name: '&f&l索恩姆弓'
   type:
   - '&7&o武器'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&f變更為生產鋁黃銅錠'
+  name: '&b鋁黃銅錠卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&f變更為生產鋁青銅錠'
+  name: '&b鋁青銅錠卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&f變更為生產鋁粉末'
+  name: '&b鋁粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&f變更為生產紫水晶'
+  name: '&b紫水晶卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&f變更為生產安山岩'
+  name: '&b安山岩卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_APPLE:
+  description:
+  - '&f變更為生產蘋果'
+  name: '&b蘋果卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&f變更為生產電池'
+  name: '&b電池卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_BILLON:
+  description:
+  - '&f變更為生產比隆錠'
+  name: '&b比隆錠卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&f變更為生產烈焰桿'
+  name: '&b烈焰桿卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_BRASS:
+  description:
+  - '&f變更為生產黃銅錠'
+  name: '&b黃銅錠卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&f變更為生產青銅錠'
+  name: '&b青銅錠卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_CARBON:
+  description:
+  - '&f變更為生產碳'
+  name: '&b碳卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&f變更為生產黑鑽石'
+  name: '&b黑鑽石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&f變更為生產壓縮碳'
+  name: '&b壓縮碳卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_CLAY:
+  description:
+  - '&f變更為生產黏土'
+  name: '&b黏土卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_COAL:
+  description:
+  - '&f變更為生產煤炭'
+  name: '&b煤炭卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_COBALT:
+  description:
+  - '&f變更為生產鈷'
+  name: '&b鈷卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_COPPER:
+  description:
+  - '&f變更為生產銅'
+  name: '&b銅卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&f變更為生產銅粉末'
+  name: '&b銅粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&f變更為生產科林斯青銅錠'
+  name: '&b科林斯青銅錠卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&f變更為生產大馬士革鋼'
+  name: '&b大馬士革鋼卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&f變更為生產鑽石'
+  name: '&b鑽石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&f變更為生產閃長岩'
+  name: '&b閃長岩卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&f變更為生產杜拉鋁錠'
+  name: '&b杜拉鋁錠卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&f變更為生產電動馬達'
+  name: '&b電動馬達卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&f變更為生產電磁鐵'
+  name: '&b電磁鐵卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&f變更為生產綠寶石'
+  name: '&b綠寶石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&f變更為生產終界石'
+  name: '&b終界石卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&f變更為生產矽鐵'
+  name: '&b矽鐵卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&f變更為生產發光墨囊'
+  name: '&b發光墨囊卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GOLD:
+  description:
+  - '&f變更為生產金'
+  name: '&b金卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&f變更為生產 24k 金'
+  name: '&b24k 金卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&f變更為生產金粉末'
+  name: '&b金粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&f變更為生產花崗岩'
+  name: '&b花崗岩卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&f變更為生產礫石'
+  name: '&b礫石卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&f變更為生產硬化金屬錠'
+  name: '&b硬化金屬錠卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&f變更為生產加熱線圈'
+  name: '&b加熱線圈卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&f變更為生產蜂蜜瓶'
+  name: '&b蜂蜜瓶卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&f變更為生產墨囊'
+  name: '&b墨囊卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_IRON:
+  description:
+  - '&f變更為生產鐵'
+  name: '&b鐵卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&f變更為生產鐵粉末'
+  name: '&b鐵粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&f變更為生產青金石'
+  name: '&b青金石卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&f變更為生產鉛粉末'
+  name: '&b鉛粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&f變更為生產鎂粉末'
+  name: '&b鎂粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&f變更為生產磁鐵'
+  name: '&b磁鐵卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&f變更為生產獄髓'
+  name: '&b獄髓卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&f變更為生產地獄之星'
+  name: '&b地獄之星卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&f變更為生產鎳'
+  name: '&b鎳卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&f變更為生產塑膠片'
+  name: '&b塑膠片卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&f變更為生產石英'
+  name: '&b石英卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&f變更為生產石英方塊'
+  name: '&b石英方塊卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&f變更為生產紅石'
+  name: '&b紅石卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&f變更為生產紅石合金'
+  name: '&b紅石合金卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&f變更為生產強化合金錠'
+  name: '&b強化合金錠卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SAND:
+  description:
+  - '&f變更為生產沙子'
+  name: '&b沙子卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SILICON:
+  description:
+  - '&f變更為生產矽'
+  name: '&b矽卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&f變更為生產銀粉末'
+  name: '&b銀粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&f變更為生產史萊姆球'
+  name: '&b史萊姆球卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SNOW:
+  description:
+  - '&f變更為生產雪'
+  name: '&b雪卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&f變更為生產焊料錠'
+  name: '&b焊料錠卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_STEEL:
+  description:
+  - '&f變更為生產鋼'
+  name: '&b鋼卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_STONE:
+  description:
+  - '&f變更為生產石頭'
+  name: '&b石頭卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&f變更為生產硫酸鹽'
+  name: '&b硫酸鹽卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&f變更為生產合成鑽石'
+  name: '&b合成鑽石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&f變更為生產合成綠寶石'
+  name: '&b合成綠寶石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&f變更為生產合成藍寶石'
+  name: '&b合成藍寶石卡片機器'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&f變更為生產錫粉末'
+  name: '&b錫粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&f變更為生產凋零玫瑰'
+  name: '&b凋零玫瑰卡片機器'
+  stats:
+  - '&e基礎機器'
   type:
   - '&7&o元件'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&f變更為生產鋅粉末'
+  name: '&b鋅粉末卡片機器'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o元件'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&a運載機器'
   type:
   - '&7&o進階元件'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&f供機器生產物品的元件'
+  name: '&a卡片進階元件'
   type:
   - '&7&o元件'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&f供機器生產物品的元件'
+  name: '&a卡片基礎元件'
   type:
   - '&7&o元件'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&f供機器生產物品的元件'
+  name: '&a卡片終極元件'
   type:
   - '&7&o元件'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7超級阿奎亞權杖'
+  name: '&a賽特魯斯阿奎亞'
   type:
   - '&7&o魔法元件'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7超級伊格尼斯權杖'
+  name: '&a賽特魯斯伊格尼斯'
   type:
   - '&7&o魔法元件'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7超級盧米姆權杖'
+  name: '&a賽特魯斯盧米姆'
   type:
   - '&7&o魔法元件'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7超級盧克斯權杖'
+  name: '&a賽特魯斯盧克斯'
   type:
   - '&7&o魔法元件'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7超級溫圖斯權杖'
+  name: '&a賽特魯斯溫圖斯'
   type:
   - '&7&o魔法元件'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&f檢查附近的箱子是否有篩選物品'
+  - '&f所有面都會納入判斷（以最先找到者為準）'
+  - '&f若找到，此方塊便會亮起'
+  name: '&b物品欄檢查器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩胸甲'
+  name: '&d&l史詩胸甲'
   type:
   - '&7&o護甲'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說胸甲'
+  name: '&6&l傳說胸甲'
   type:
   - '&7&o護甲'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法胸甲'
+  name: '&a&l魔法胸甲'
   type:
   - '&7&o護甲'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有胸甲'
+  name: '&b&l稀有胸甲'
   type:
   - '&7&o護甲'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊胸甲'
+  name: '&4&l至尊胸甲'
   type:
   - '&7&o護甲'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的胸甲'
+  name: '&f&l索恩姆胸甲'
   type:
   - '&7&o護甲'
 SUPREME_COAL_QUARRY:
+  name: '&e煤炭採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&a輸送機器'
   type:
   - '&7&o進階元件'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7超級相思木'
+  name: '&a至尊相思木原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7超級安山岩'
+  name: '&a至尊安山岩'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7超級蘋果'
+  name: '&a至尊蘋果'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7超級牛肉'
+  name: '&a至尊牛肉'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7超級甜菜根'
+  name: '&a至尊甜菜根'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7超級樺木'
+  name: '&a至尊樺木原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7超級黑色'
+  name: '&a至尊黑色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7超級藍色'
+  name: '&a至尊藍色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7至尊胡蘿蔔'
+  name: '&a至尊胡蘿蔔'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7超級雞肉'
+  name: '&a至尊雞肉'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7超級黏土'
+  name: '&a至尊黏土'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_COAL:
+  description:
+  - '&7超級煤炭'
+  name: '&a至尊煤炭'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_COD:
+  description:
+  - '&7超級鱈魚'
+  name: '&a至尊鱈魚'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7超級緋紅菌柄'
+  name: '&a至尊緋紅菌柄'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7超級青色'
+  name: '&a至尊青色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7超級黑橡木'
+  name: '&a至尊黑橡木原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7超級鑽石'
+  name: '&a至尊鑽石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7超級閃長岩'
+  name: '&a至尊閃長岩'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7超級綠寶石'
+  name: '&a至尊綠寶石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7超級終界石'
+  name: '&a至尊終界石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7超級金'
+  name: '&a至尊金'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7超級花崗岩'
+  name: '&a至尊花崗岩'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7超級礫石'
+  name: '&a至尊礫石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7超級灰色'
+  name: '&a至尊灰色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7超級綠色'
+  name: '&a至尊綠色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_IRON:
+  description:
+  - '&7超級鐵'
+  name: '&a至尊鐵'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7超級叢林木'
+  name: '&a至尊叢林原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7超級青金石'
+  name: '&a至尊青金石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_MELON:
+  description:
+  - '&7超級西瓜'
+  name: '&a至尊西瓜'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7超級羊肉'
+  name: '&a至尊羊肉'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7超級獄髓'
+  name: '&a至尊獄髓'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7超級橡木'
+  name: '&a至尊橡木原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7此核心含有多種礦石'
+  - '&7這些都是在世界各地收集而來的。'
+  name: '&a合金核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7此核心含有多種方塊'
+  - '&7這些都是在世界各地收集而來的。'
+  name: '&a方塊核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7此核心含有多種顏色'
+  - '&7這些都是在世界各地收集而來的。'
+  name: '&a顏色核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7此核心含有靈魂，來自 '
+  - '&7已然逝去的各種實體。'
+  name: '&a死亡核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7此核心含有生命碎片'
+  - '&7這些都是由世界收集而來的。'
+  name: '&a生命核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7此核心含有多種自然'
+  - '&7這些都是在世界各地收集而來的。'
+  name: '&a自然核心'
   type:
   - '&7&o魔法元件'
 SUPREME_CORE_PINK:
+  description:
+  - '&7超級粉紅色'
+  name: '&a至尊粉紅色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7超級培根'
+  name: '&a至尊培根'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7超級馬鈴薯'
+  name: '&a至尊馬鈴薯'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7超級南瓜'
+  name: '&a至尊南瓜'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7超級紫色'
+  name: '&a至尊紫色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7超級石英'
+  name: '&a至尊石英'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_RED:
+  description:
+  - '&7超級紅色'
+  name: '&a至尊紅色'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7超級紅石'
+  name: '&a至尊紅石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7超級鮭魚'
+  name: '&a至尊鮭魚'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SAND:
+  description:
+  - '&7超級沙子'
+  name: '&a至尊沙子'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7超級雪'
+  name: '&a至尊雪'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7超級蜘蛛眼'
+  name: '&a至尊蜘蛛眼'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7超級杉木'
+  name: '&a至尊杉木原木'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_STONE:
+  description:
+  - '&7超級圓石'
+  name: '&a至尊圓石'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_STRING:
+  description:
+  - '&7超級拴繩'
+  name: '&a至尊拴繩'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7超級甘蔗'
+  name: '&a至尊甘蔗'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7超級莓果'
+  name: '&a至尊甜莓'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7超級之淚'
+  name: '&a至尊之淚'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7超級扭曲菌柄'
+  name: '&a至尊扭曲菌柄'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7超級小麥'
+  name: '&a至尊小麥'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7超級玫瑰'
+  name: '&a至尊凋零玫瑰'
   type:
   - '&7&o核心元件'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7超級黃色'
+  name: '&a至尊黃色'
   type:
   - '&7&o核心元件'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&a結晶機器'
   type:
   - '&7&o進階元件'
 SUPREME_DIAMOND_QUARRY:
+  name: '&e鑽石採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_DUST_AMETHYST:
+  name: '&a紫水晶粉末'
   type:
   - '&7&o元件'
 SUPREME_DUST_GLOW_INK:
+  name: '&a發光墨粉末'
   type:
   - '&7&o元件'
 SUPREME_DUST_NETHERITE:
+  name: '&a獄髓粉末'
   type:
   - '&7&o元件'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&f合成核心資源'
+  name: '&b電力核心機器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&f進階合成核心資源'
+  name: '&b電力核心機器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&f進階合成核心資源'
+  name: '&b電力核心機器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&f合成物品'
+  name: '&b電力合成器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&f進階合成物品'
+  name: '&b電力合成器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&f進階合成物品'
+  name: '&b電力合成器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&f合成裝備階級'
+  name: '&b電力裝備機器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&f進階合成裝備階級'
+  name: '&b電力裝備機器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&f進階合成裝備階級'
+  name: '&b電力裝備機器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_ITEM:
+  name: 電力物品
   type:
   - '&7&o雜項'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&f合成魔法資源'
+  name: '&b電力魔法機器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&f進階合成魔法資源'
+  name: '&b電力魔法機器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&f進階合成魔法資源'
+  name: '&b電力魔法機器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_EMPTY_MOBTECH:
+  name: '&a空的生物科技'
   type:
   - '&7&o元件'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造錠類資源。'
+  name: '&b鍛造錠'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造錠類資源。'
+  name: '&b鍛造錠 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
+  - '&8⇨ &e⚡ &75000 J 緩衝'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o機器'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造錠類資源。'
+  name: '&b鍛造錠 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
+  - '&8⇨ &e⚡ &715000 J 緩衝'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o機器'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造魔法資源。'
+  name: '&b鍛造魔法'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造魔法資源。'
+  name: '&b鍛造魔法 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
+  - '&8⇨ &e⚡ &75000 J 緩衝'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o機器'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&f此機器可讓你'
+  - '&f鍛造魔法資源。'
+  name: '&b鍛造魔法 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
+  - '&8⇨ &e⚡ &715000 J 緩衝'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o機器'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&f鑄造與合成物品'
+  name: '&b鑄造廠'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&f進階鑄造與合成物品'
+  name: '&b鑄造廠 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&f進階鑄造與合成物品'
+  name: '&b鑄造廠 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&b進階生物發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&b基礎生物發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&b中型生物發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_GENE_BERSERK:
+  name: '&a狂暴基因'
   type:
   - '&7&o元件'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&f智慧基因'
   type:
   - '&7&o元件'
 SUPREME_GENE_LUCK:
+  name: '&a幸運基因'
   type:
   - '&7&o元件'
 SUPREME_GOLD_QUARRY:
+  name: '&e金採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩頭盔'
+  name: '&d&l史詩頭盔'
   type:
   - '&7&o護甲'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說頭盔'
+  name: '&6&l傳說頭盔'
   type:
   - '&7&o護甲'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法頭盔'
+  name: '&a&l魔法頭盔'
   type:
   - '&7&o護甲'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有頭盔'
+  name: '&b&l稀有頭盔'
   type:
   - '&7&o護甲'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊頭盔'
+  name: '&4&l至尊頭盔'
   type:
   - '&7&o護甲'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的頭盔'
+  name: '&f&l索恩姆頭盔'
   type:
   - '&7&o護甲'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9伊格尼斯發電機'
+  stats:
+  - '&6進階發電機'
   type:
   - '&7&o機器'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&a感應機器'
   type:
   - '&7&o進階元件'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&a電感機器'
   type:
   - '&7&o進階元件'
 SUPREME_IRIDIUM_PLATE:
+  name: '&a銥板'
   type:
   - '&7&o元件'
 SUPREME_IRON_QUARRY:
+  name: '&e鐵採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩護腿'
+  name: '&d&l史詩護腿'
   type:
   - '&7&o護甲'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說護腿'
+  name: '&6&l傳說護腿'
   type:
   - '&7&o護甲'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法護腿'
+  name: '&a&l魔法護腿'
   type:
   - '&7&o護甲'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有護腿'
+  name: '&b&l稀有護腿'
   type:
   - '&7&o護甲'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊護腿'
+  name: '&4&l至尊護腿'
   type:
   - '&7&o護甲'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的護腿'
+  name: '&f&l索恩姆護腿'
   type:
   - '&7&o護甲'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9盧米姆發電機'
+  stats:
+  - '&6進階發電機'
   type:
   - '&7&o機器'
 SUPREME_LUX_GENERATOR:
+  name: '&9盧克斯發電機'
+  stats:
+  - '&6進階發電機'
   type:
   - '&7&o機器'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&f合成符文與魔法物品'
+  name: '&b魔法祭壇'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
   type:
   - '&7&o機器'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&f進階合成符文與魔法物品'
+  name: '&b魔法祭壇 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
   type:
   - '&7&o機器'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&f進階合成符文與魔法物品'
+  name: '&b魔法祭壇 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
   type:
   - '&7&o機器'
 SUPREME_MAIN_ITEM:
+  name: 主要物品
   type:
   - '&7&o雜項'
 SUPREME_MANGANESE_PLATE:
+  name: '&a錳板'
   type:
   - '&7&o元件'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&f此機器可讓你收集 '
+  - '&f附近生物身上的物品。（4 方塊）'
+  name: '&b生物收集器'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&f此機器可讓你收集'
+  - '&f 附近生物身上的物品。（8 方塊）'
+  name: '&b生物收集器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
+  - '&8⇨ &e⚡ &75000 J 緩衝'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o機器'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&f此機器可讓你收集'
+  - '&f 附近生物身上的物品。（16 方塊）'
+  name: '&b生物收集器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
+  - '&8⇨ &e⚡ &715000 J 緩衝'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o機器'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6生物科技收集器 I'
+  stats:
+  - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
   - '&7&o工具'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6生物科技收集器 II'
+  stats:
+  - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
   - '&7&o工具'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6生物科技收集器 III'
+  stats:
+  - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
   - '&7&o工具'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&f此機器可讓你收集 '
+  - '&f收集附近生物的頭顱。（6 方塊）'
+  name: '&b生物科技收集器 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&f此機器可讓你收集 '
+  - '&f收集附近生物的頭顱。（9 方塊）'
+  name: '&b生物科技收集器 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&o你可以在這裡合成核心！'
+  - '&a多方塊結構機器'
+  name: '&e核心製造器'
   type:
   - '&7&o機器'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&o你可以在這裡合成武器、盔甲與工具！'
+  - '&a多方塊結構機器'
+  name: '&e裝備製造器'
   type:
   - '&7&o機器'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&o你可以在這裡合成魔法物品！'
+  - '&a多方塊結構機器'
+  name: '&e魔法製造器'
   type:
   - '&7&o機器'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&a石化機器'
   type:
   - '&7&o進階元件'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩鎬'
+  name: '&d&l史詩鎬'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說鎬'
+  name: '&6&l傳說鎬'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法鎬'
+  name: '&a&l魔法鎬'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有鎬'
+  name: '&b&l稀有鎬'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊鎬'
+  name: '&4&l至尊鎬'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的鎬'
+  name: '&f&l索恩姆鎬'
   type:
   - '&7&o工具'
 SUPREME_PLATINUM_PLATE:
+  name: '&a鉑板'
   type:
   - '&7&o元件'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&a防鏽機器'
   type:
   - '&7&o進階元件'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩盾牌'
+  name: '&d&l史詩盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說盾牌'
+  name: '&6&l傳說盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法盾牌'
+  name: '&a&l魔法盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有盾牌'
+  name: '&b&l稀有盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊盾牌'
+  name: '&4&l至尊盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的盾牌'
+  name: '&f&l索恩姆盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩鏟'
+  name: '&d&l史詩鏟'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說鏟'
+  name: '&6&l傳說鏟'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法鏟'
+  name: '&a&l魔法鏟'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有鏟'
+  name: '&b&l稀有鏟'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊鏟'
+  name: '&4&l至尊鏟'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的鏟'
+  name: '&f&l索恩姆鏟'
   type:
   - '&7&o工具'
 SUPREME_STAINLESS_MACHINE:
+  name: '&a不鏽機器'
   type:
   - '&7&o進階元件'
 SUPREME_STONE_QUARRY:
+  name: '&e石頭採石場'
+  stats:
+  - '&a中型機器'
   type:
   - '&7&o機器'
 SUPREME_SUPREME:
+  description:
+  - '&7至尊之物'
+  name: '&a至尊'
   type:
   - '&7&o終局元件'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9至尊電容器'
+  stats:
+  - '&4終局電容器'
+  - '&8⇨ &e⚡ &7無限 J 容量'
   type:
   - '&7&o機器'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9至尊發電機'
+  stats:
+  - '&4終局發電機'
   type:
   - '&7&o機器'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7來自至尊粒採石場'
+  name: '&a至尊粒'
   type:
   - '&7&o終局元件'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&e至尊粒採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&l以索恩姆打造的史詩劍'
+  name: '&d&l史詩劍'
   type:
   - '&7&o武器'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&l以索恩姆打造的傳說劍'
+  name: '&6&l傳說劍'
   type:
   - '&7&o武器'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&l以索恩姆打造的魔法劍'
+  name: '&a&l魔法劍'
   type:
   - '&7&o武器'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&l以索恩姆打造的稀有劍'
+  name: '&b&l稀有劍'
   type:
   - '&7&o武器'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&l以索恩姆打造的至尊劍'
+  name: '&4&l至尊劍'
   type:
   - '&7&o武器'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&l以索恩姆打造的劍'
+  name: '&f&l索恩姆劍'
   type:
   - '&7&o武器'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&a合成紫水晶'
   type:
   - '&7&o元件'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&a合成紅寶石'
   type:
   - '&7&o元件'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&f使用電力與蜜蜂/傀儡/殭屍， '
+  - '&f緩慢產生材料。'
+  name: '&b科技發電機'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&f使用突變發電機 '
+  - '&f以提升至更高等級'
+  name: '&b科技突變'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&f使用突變發電機 '
+  - '&f以提升至更高等級'
+  - '&f機率係數乘以 2x'
+  name: '&b科技突變 II'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&f使用突變發電機 '
+  - '&f以提升至更高等級'
+  - '&f機率係數乘以 4x'
+  name: '&b科技突變 III'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&f使用初階機器人 '
+  - '&f以提升至更高等級'
+  - '&f升級需要 64x'
+  name: '&b科技機器人'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&f使用初階機器人 '
+  - '&f以提升至更高等級'
+  - '&f升級需要 32x'
+  name: '&b科技機器人 II'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&f使用初階機器人 '
+  - '&f以提升至更高等級'
+  - '&f升級需要 16x'
+  name: '&b科技機器人 III'
+  stats:
+  - '&4終局機器'
   type:
   - '&7&o機器'
 SUPREME_THORNERITE:
+  name: '&a索恩萊特'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7來自索恩姆採石場'
+  name: '&a索恩姆碎塊'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7來自索恩姆碎塊'
+  name: '&a合成索恩姆碎塊'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9索恩姆電容器'
+  stats:
+  - '&4終局電容器'
+  - '&8⇨ &e⚡ &7100,000,000.00 J 容量'
   type:
   - '&7&o機器'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7來自索恩姆錠'
+  name: '&a索恩姆黑鑽石'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7來自索恩姆碎塊'
+  name: '&a索恩姆粉末'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7來自索恩姆粉末'
+  name: '&a合成索恩姆粉末'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7來自索恩姆錠'
+  name: '&a充能索恩姆'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9索恩姆發電機'
+  stats:
+  - '&4終局發電機'
   type:
   - '&7&o機器'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7來自索恩姆粉末'
+  name: '&a索恩姆錠'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7來自索恩姆錠'
+  name: '&a合成索恩姆錠'
   type:
   - '&7&o終局元件'
 SUPREME_THORNIUM_QUARRY:
+  name: '&e索恩姆採石場'
+  stats:
+  - '&6進階機器'
   type:
   - '&7&o機器'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&l以鈦打造的斧'
+  name: '&f&l鈦斧'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&l以鈦打造的靴子'
+  name: '&f&l鈦靴子'
   type:
   - '&7&o護甲'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9鈦電容器'
+  stats:
+  - '&6進階電容器'
+  - '&8⇨ &e⚡ &74,000,000.00 J 容量'
   type:
   - '&7&o機器'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&l以鈦打造的胸甲'
+  name: '&f&l鈦胸甲'
   type:
   - '&7&o護甲'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&l以鈦打造的頭盔'
+  name: '&f&l鈦頭盔'
   type:
   - '&7&o護甲'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&l以鈦打造的護腿'
+  name: '&f&l鈦護腿'
   type:
   - '&7&o護甲'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&l以鈦打造的鎬'
+  name: '&f&l鈦鎬'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_PLATE:
+  name: '&a鈦板'
   type:
   - '&7&o元件'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&l以鈦打造的鏟'
+  name: '&f&l鈦鏟'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&l以鈦打造的劍'
+  name: '&f&l鈦劍'
   type:
   - '&7&o武器'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9溫圖斯發電機'
+  stats:
+  - '&e基礎發電機'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&f此機器可讓你收集 '
+  - '&f 在海中收集到的物品。'
+  name: '&b虛擬水族箱'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&f此機器可讓你收集'
+  - '&f 在海中收集到的物品。'
+  name: '&b虛擬水族箱 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
+  - '&8⇨ &e⚡ &75000 J 緩衝'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&f此機器可讓你收集'
+  - '&f 在海中收集到的物品。'
+  name: '&b虛擬水族箱 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
+  - '&8⇨ &e⚡ &715000 J 緩衝'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&f此機器可讓你'
+  - '&f培育一些資源。'
+  name: '&b虛擬花園'
+  stats:
+  - '&6進階機器'
+  - '&8⇨ &b⚡ &7速度：&b1.0x'
+  - '&8⇨ &e⚡ &71000 J 緩衝'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&f此機器可讓你'
+  - '&f培育一些資源。'
+  name: '&b虛擬花園 II'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b5.0x'
+  - '&8⇨ &e⚡ &75000 J 緩衝'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o機器'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&f此機器可讓你'
+  - '&f培育一些資源。'
+  name: '&b虛擬花園 III'
+  stats:
+  - '&4終局機器'
+  - '&8⇨ &b⚡ &7速度：&b15.0x'
+  - '&8⇨ &e⚡ &715000 J 緩衝'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o機器'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&a鋯板'
   type:
   - '&7&o元件'
