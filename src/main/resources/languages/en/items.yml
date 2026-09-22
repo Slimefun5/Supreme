@@ -404,11 +404,11 @@ SUPREME_CARD_ALUMINUM_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_AMETHYST:
-  name: "&bCard Machine Ametista"
+  name: "&bCard Machine Amethyst"
   type:
     - "&7&oComponent"
   description:
-    - "&fChange to Production Ametista"
+    - "&fChange to Production Amethyst"
   stats:
     - "&6Advanced Machine"
 
@@ -935,7 +935,7 @@ SUPREME_CARD_STONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_SULFATE:
-  name: "&bCard de Sulfate"
+  name: "&bCard Machine Sulfate"
   type:
     - "&7&oComponent"
   description:
@@ -1125,7 +1125,7 @@ SUPREME_CONVEYANCE_MACHINE:
     - "&7&oAdvanced Components"
 
 SUPREME_CORE_ACACIA_LOG:
-  name: "&aAcácia Suprema"
+  name: "&aSupreme Acacia Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1160,7 +1160,7 @@ SUPREME_CORE_BEETROOT:
     - "&7A super beetroot"
 
 SUPREME_CORE_BIRCH_LOG:
-  name: "&aBétula Supremo"
+  name: "&aSupreme Birch Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1216,7 +1216,7 @@ SUPREME_CORE_COD:
     - "&7A super cod"
 
 SUPREME_CORE_CRIMSON_STEM:
-  name: "&aCrimson Supremo"
+  name: "&aSupreme Crimson Stem"
   type:
     - "&7&oCore Components"
   description:
@@ -1230,7 +1230,7 @@ SUPREME_CORE_CYAN:
     - "&7A super cyan"
 
 SUPREME_CORE_DARK_OAK_LOG:
-  name: "&aDark Supremo"
+  name: "&aSupreme Dark Oak Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1307,7 +1307,7 @@ SUPREME_CORE_IRON:
     - "&7A super iron"
 
 SUPREME_CORE_JUNGLE_LOG:
-  name: "&aJungle Suprema"
+  name: "&aSupreme Jungle Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1342,7 +1342,7 @@ SUPREME_CORE_NETHERITE:
     - "&7A super netherite"
 
 SUPREME_CORE_OAK_LOG:
-  name: "&aCarvalho Supremo"
+  name: "&aSupreme Oak Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1481,7 +1481,7 @@ SUPREME_CORE_SPIDER_EYE:
     - "&7A super eye"
 
 SUPREME_CORE_SPRUCE_LOG:
-  name: "&aPinheiro Supremo"
+  name: "&aSupreme Spruce Log"
   type:
     - "&7&oCore Components"
   description:
@@ -1509,7 +1509,7 @@ SUPREME_CORE_SUGAR_CANE:
     - "&7A super sugar cane"
 
 SUPREME_CORE_SWEET_BERRIES:
-  name: "&aSupreme Barries"
+  name: "&aSupreme Sweet Berries"
   type:
     - "&7&oCore Components"
   description:
@@ -1523,7 +1523,7 @@ SUPREME_CORE_TEAR:
     - "&7A super tear"
 
 SUPREME_CORE_WARPED_STEM:
-  name: "&aWarped Supremo"
+  name: "&aSupreme Warped Stem"
   type:
     - "&7&oCore Components"
   description:
@@ -1537,7 +1537,7 @@ SUPREME_CORE_WHEAT:
     - "&7A super wheat"
 
 SUPREME_CORE_WITHER_ROSE:
-  name: "&aRosa Suprema"
+  name: "&aSupreme Wither Rose"
   type:
     - "&7&oCore Components"
   description:
@@ -2390,8 +2390,7 @@ SUPREME_TECH_GENERATOR:
     - "&7&oMachine"
   description:
     - "&fUsing power and bees/golem/zombie, "
-    - "&fslowly generates \"
-      + \"materials."
+    - "&fslowly generates materials."
   stats:
     - "&4End-Game Machine"
 
