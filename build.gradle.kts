@@ -7,7 +7,7 @@ plugins {
 group = "com.github.relativobr"
 description = "Supreme is a Slimefun addon that adds high-tier machines, magic, and generic-machine tooling."
 
-apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/main/slimefun-addon.gradle")
 
 dependencies {
     compileOnly("org.projectlombok:lombok:1.18.36")
