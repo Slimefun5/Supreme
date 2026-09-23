@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar: '
+  - '&fYakındaki yaratıkların MobTech kafası. (3 blok)'
+  name: '&bMobTech Toplayıcı I'
   type:
   - '&7&oMakine'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lAdamantium''dan bir Balta'
+  name: '&f&lAdamantium Balta'
   type:
   - '&7&oAletler'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lAdamantium''dan bir Bot'
+  name: '&f&lAdamantium Bot'
   type:
   - '&7&oZırh'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9Adamantium Kapasitör'
+  stats:
+  - '&6Gelişmiş Kapasitör'
+  - '&8⇨ &e⚡ &716,000,000.00 J Kapasite'
   type:
   - '&7&oMakine'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lAdamantium''dan bir Göğüslük'
+  name: '&f&lAdamantium Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lAdamantium''dan bir Kask'
+  name: '&f&lAdamantium Kask'
   type:
   - '&7&oZırh'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lAdamantium''dan bir Pantolon'
+  name: '&f&lAdamantium Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lAdamantium''dan bir Kazma'
+  name: '&f&lAdamantium Kazma'
   type:
   - '&7&oAletler'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aAdamantium Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lAdamantium''dan bir Kürek'
+  name: '&f&lAdamantium Kürek'
   type:
   - '&7&oAletler'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lAdamantium''dan bir Kılıç'
+  name: '&f&lAdamantium Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aAdamantium Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_AURUM:
+  name: '&aAurum Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aİridyum Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aManganez Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aPlatin Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aTitanyum Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aZirkonyum Alaşımı'
   type:
   - '&7&oBileşenler'
 SUPREME_AQUA_GENERATOR:
+  name: '&9Aqua Jeneratörü'
+  stats:
+  - '&6Gelişmiş Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7Özel etkileri olan süper bir bomba niteliği'
+  name: '&aBomba Niteliği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7Özel etkileri olan süper bir şans niteliği'
+  name: '&aŞans Niteliği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7Özel etkileri olan süper bir itki niteliği'
+  name: '&aİtki Niteliği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7Özel etkileri olan süper bir sihir niteliği'
+  name: '&aSihir Niteliği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lAurum''dan bir Balta'
+  name: '&f&lAurum Balta'
   type:
   - '&7&oAletler'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lAurum''dan bir Bot'
+  name: '&f&lAurum Bot'
   type:
   - '&7&oZırh'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9Aurum Kapasitör'
+  stats:
+  - '&6Gelişmiş Kapasitör'
+  - '&8⇨ &e⚡ &71,000,000.00 J Kapasite'
   type:
   - '&7&oMakine'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lAurum''dan bir Göğüslük'
+  name: '&f&lAurum Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lAurum''dan bir Kask'
+  name: '&f&lAurum Kask'
   type:
   - '&7&oZırh'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lAurum''dan bir Pantolon'
+  name: '&f&lAurum Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lAurum''dan bir Kazma'
+  name: '&f&lAurum Kazma'
   type:
   - '&7&oAletler'
 SUPREME_AURUM_PLATE:
+  name: '&aAurum Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lAurum''dan bir Kürek'
+  name: '&f&lAurum Kürek'
   type:
   - '&7&oAletler'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lAurum''dan bir Kılıç'
+  name: '&f&lAurum Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Balta'
+  name: '&d&lEpik Balta'
   type:
   - '&7&oAletler'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Balta'
+  name: '&6&lEfsanevi Balta'
   type:
   - '&7&oAletler'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Balta'
+  name: '&a&lSihirli Balta'
   type:
   - '&7&oAletler'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Balta'
+  name: '&b&lNadir Balta'
   type:
   - '&7&oAletler'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Balta'
+  name: '&4&lYüce Balta'
   type:
   - '&7&oAletler'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Balta'
+  name: '&f&lThornium Balta'
   type:
   - '&7&oAletler'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9Temel Aqua Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9Temel Ignis Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9Temel Lumium Jeneratörü'
+  stats:
+  - '&6Gelişmiş Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9Temel Lux Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9Temel Ventus Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_BLEND_MACHINE:
+  name: '&aKarıştırma Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir bot'
+  name: '&d&lEpik Bot'
   type:
   - '&7&oZırh'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir bot'
+  name: '&6&lEfsanevi Bot'
   type:
   - '&7&oZırh'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir bot'
+  name: '&a&lSihirli Bot'
   type:
   - '&7&oZırh'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir bot'
+  name: '&b&lNadir Bot'
   type:
   - '&7&oZırh'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir bot'
+  name: '&4&lYüce Bot'
   type:
   - '&7&oZırh'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir bot'
+  name: '&f&lThornium bot'
   type:
   - '&7&oZırh'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Yay'
+  name: '&d&lEpik Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Yay'
+  name: '&6&lEfsanevi Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Yay'
+  name: '&a&lSihirli Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Yay'
+  name: '&b&lNadir Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Yay'
+  name: '&4&lYüce Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Yay'
+  name: '&f&lThornium Yay'
   type:
   - '&7&oSilahlar'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fAlüminyum Pirinç Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Alüminyum Pirinç Külçesi'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fAlüminyum Bronz Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Alüminyum Bronz Külçesi'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fAlüminyum Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Alüminyum Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fAmetist Üretimine Geç'
+  name: '&bMakine Kartı: Ametist'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fAndezit Üretimine Geç'
+  name: '&bMakine Kartı: Andezit'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fElma Üretimine Geç'
+  name: '&bMakine Kartı: Elma'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fPil Üretimine Geç'
+  name: '&bMakine Kartı: Pil'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fBillon Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Billon Külçesi'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fBlaze Çubuğu Üretimine Geç'
+  name: '&bMakine Kartı: Blaze Çubuğu'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fPirinç Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Pirinç Külçesi'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fBronz Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Bronz Külçesi'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fKarbon Üretimine Geç'
+  name: '&bMakine Kartı: Karbon'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fKarbonado Üretimine Geç'
+  name: '&bMakine Kartı: Karbonado'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fSıkıştırılmış Karbon Üretimine Geç'
+  name: '&bMakine Kartı: Sıkıştırılmış Karbon'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fKil Üretimine Geç'
+  name: '&bMakine Kartı: Kil'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_COAL:
+  description:
+  - '&fKömür Üretimine Geç'
+  name: '&bMakine Kartı: Kömür'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fKobalt Üretimine Geç'
+  name: '&bMakine Kartı: Kobalt'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fBakır Üretimine Geç'
+  name: '&bMakine Kartı: Bakır'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fBakır Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Bakır Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fKorint Bronzu Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Korint Bronzu Külçesi'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fŞam Çeliği Üretimine Geç'
+  name: '&bMakine Kartı: Şam Çeliği'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fElmas Üretimine Geç'
+  name: '&bMakine Kartı: Elmas'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fDiyorit Üretimine Geç'
+  name: '&bMakine Kartı: Diyorit'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fDüralümin Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Düralümin Külçesi'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fElektrikli Motor Üretimine Geç'
+  name: '&bMakine Kartı: Elektrikli Motor'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fElektromıknatıs Üretimine Geç'
+  name: '&bMakine Kartı: Elektromıknatıs'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fZümrüt Üretimine Geç'
+  name: '&bMakine Kartı: Zümrüt'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fEnd Taşı Üretimine Geç'
+  name: '&bMakine Kartı: End Taşı'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fFerrosilisyum Üretimine Geç'
+  name: '&bMakine Kartı: Ferrosilisyum'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fParlayan Mürekkep Kesesi Üretimine Geç'
+  name: '&bMakine Kartı: Parlayan Mürekkep Kesesi'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fAltın Üretimine Geç'
+  name: '&bMakine Kartı: Altın'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&f24k Altın Üretimine Geç'
+  name: '&bMakine Kartı: 24k Altın'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fAltın Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Altın Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fGranit Üretimine Geç'
+  name: '&bMakine Kartı: Granit'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fÇakıl Üretimine Geç'
+  name: '&bMakine Kartı: Çakıl'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fSertleştirilmiş Metal Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Sertleştirilmiş Metal Külçesi'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fIsıtma Bobini Üretimine Geç'
+  name: '&bMakine Kartı: Isıtma Bobini'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fBal Şişesi Üretimine Geç'
+  name: '&bMakine Kartı: Bal Şişesi'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fMürekkep Kesesi Üretimine Geç'
+  name: '&bMakine Kartı: Mürekkep Kesesi'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_IRON:
+  description:
+  - '&fDemir Üretimine Geç'
+  name: '&bMakine Kartı: Demir'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fDemir Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Demir Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fLapis Üretimine Geç'
+  name: '&bMakine Kartı: Lapis'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fKurşun Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Kurşun Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fMagnezyum Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Magnezyum Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fMıknatıs Üretimine Geç'
+  name: '&bMakine Kartı: Mıknatıs'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fNetherit Üretimine Geç'
+  name: '&bMakine Kartı: Netherit'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fNether Yıldızı Üretimine Geç'
+  name: '&bMakine Kartı: Nether Yıldızı'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fNikel Üretimine Geç'
+  name: '&bMakine Kartı: Nikel'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fPlastik Levha Üretimine Geç'
+  name: '&bMakine Kartı: Plastik Levha'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fKuvars Üretimine Geç'
+  name: '&bMakine Kartı: Kuvars'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fKuvars Bloğu Üretimine Geç'
+  name: '&bMakine Kartı: Kuvars Bloğu'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fKızıltaş Üretimine Geç'
+  name: '&bMakine Kartı: Kızıltaş'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fKızıltaş Alaşımı Üretimine Geç'
+  name: '&bMakine Kartı: Kızıltaş Alaşımı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fTakviyeli Alaşım Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Takviyeli Alaşım Külçesi'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SAND:
+  description:
+  - '&fKum Üretimine Geç'
+  name: '&bMakine Kartı: Kum'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fSilisyum Üretimine Geç'
+  name: '&bMakine Kartı: Silisyum'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fGümüş Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Gümüş Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fSlime Topu Üretimine Geç'
+  name: '&bMakine Kartı: Slime Topu'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fKar Üretimine Geç'
+  name: '&bMakine Kartı: Kar'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fLehim Külçesi Üretimine Geç'
+  name: '&bMakine Kartı: Lehim Külçesi'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fÇelik Üretimine Geç'
+  name: '&bMakine Kartı: Çelik'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_STONE:
+  description:
+  - '&fTaş Üretimine Geç'
+  name: '&bMakine Kartı: Taş'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fSülfat Üretimine Geç'
+  name: '&bMakine Kartı: Sülfat'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fSentetik Elmas Üretimine Geç'
+  name: '&bMakine Kartı: Sentetik Elmas'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fSentetik Zümrüt Üretimine Geç'
+  name: '&bMakine Kartı: Sentetik Zümrüt'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fSentetik Safir Üretimine Geç'
+  name: '&bMakine Kartı: Sentetik Safir'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fKalay Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Kalay Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fWither Gülü Üretimine Geç'
+  name: '&bMakine Kartı: Wither Gülü'
+  stats:
+  - '&eTemel Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fÇinko Tozu Üretimine Geç'
+  name: '&bMakine Kartı: Çinko Tozu'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oBileşen'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aTaşıma Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fMakinenin eşya üretmesi için Bileşen'
+  name: '&aKart için Gelişmiş Bileşen'
   type:
   - '&7&oBileşen'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fMakinenin eşya üretmesi için Bileşen'
+  name: '&aKart için Temel Bileşen'
   type:
   - '&7&oBileşen'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fMakinenin eşya üretmesi için Bileşen'
+  name: '&aKart için Nihai Bileşen'
   type:
   - '&7&oBileşen'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7Süper bir aqua asası'
+  name: '&aCetrus Aqua'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7Süper bir ignis asası'
+  name: '&aCetrus Ignis'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7Süper bir lumium asası'
+  name: '&aCetrus Lumium'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7Süper bir lux asası'
+  name: '&aCetrus Lux'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7Süper bir ventus asası'
+  name: '&aCetrus Ventus'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fYakındaki sandıkta filtre eşyası var mı diye bakar'
+  - '&ftüm yüzler dikkate alınır (ilk bulunan seçilir)'
+  - '&fbulunursa bu blok yanar'
+  name: '&bEnvanterKontrol'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir göğüslük'
+  name: '&d&lEpik Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir göğüslük'
+  name: '&6&lEfsanevi Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir göğüslük'
+  name: '&a&lSihirli Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir göğüslük'
+  name: '&b&lNadir Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir göğüslük'
+  name: '&4&lYüce Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir göğüslük'
+  name: '&f&lThornium Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_COAL_QUARRY:
+  name: '&eKömür Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aNakliye Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7Süper bir akasya'
+  name: '&aYüce Akasya Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7Süper bir andezit'
+  name: '&aYüce andezit'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7Süper bir elma'
+  name: '&aYüce Elma'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7Süper bir sığır eti'
+  name: '&aYüce sığır eti'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7Süper bir pancar'
+  name: '&aYüce Pancar'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7Süper bir huş'
+  name: '&aYüce Huş Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7Süper bir siyah'
+  name: '&aYüce Siyah'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7Süper bir mavi'
+  name: '&aYüce Mavi'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7Yüce bir Havuç'
+  name: '&aYüce Havuç'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7Süper bir tavuk'
+  name: '&aYüce tavuk'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7Süper bir kil'
+  name: '&aYüce kil'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_COAL:
+  description:
+  - '&7Süper bir kömür'
+  name: '&aYüce kömür'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_COD:
+  description:
+  - '&7Süper bir morina'
+  name: '&aYüce morina'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7Süper bir kızıl'
+  name: '&aYüce Kızıl Gövde'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7Süper bir camgöbeği'
+  name: '&aYüce Camgöbeği'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7Süper bir koyu'
+  name: '&aYüce Koyu Meşe Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7Süper bir elmas'
+  name: '&aYüce elmas'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7Süper bir diyorit'
+  name: '&aYüce diyorit'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7Süper bir zümrüt'
+  name: '&aYüce zümrüt'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7Süper bir end taşı'
+  name: '&aYüce end taşı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7Süper bir altın'
+  name: '&aYüce altın'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7Süper bir granit'
+  name: '&aYüce granit'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7Süper bir çakıl'
+  name: '&aYüce çakıl'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7Süper bir gri'
+  name: '&aYüce Gri'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7Süper bir yeşil'
+  name: '&aYüce Yeşil'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_IRON:
+  description:
+  - '&7Süper bir demir'
+  name: '&aYüce demir'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7Süper bir orman'
+  name: '&aYüce Orman Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7Süper bir lapis'
+  name: '&aYüce lapis'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_MELON:
+  description:
+  - '&7Süper bir kavun'
+  name: '&aYüce Kavun'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7Süper bir koyun eti'
+  name: '&aYüce koyun eti'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7Süper bir netherit'
+  name: '&aYüce netherit'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7Süper bir meşe'
+  name: '&aYüce Meşe Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7Bu çekirdek birçok cevher içerir'
+  - '&7dünyanın dört bir yanından toplanmış.'
+  name: '&aAlaşım Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7Bu çekirdek birçok blok içerir'
+  - '&7dünyanın dört bir yanından toplanmış.'
+  name: '&aBlok Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7Bu çekirdek birçok renk içerir'
+  - '&7dünyanın dört bir yanından toplanmış.'
+  name: '&aRenk Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7Bu çekirdek, öte tarafa geçmiş '
+  - '&7çeşitli varlıkların ruhlarını içerir.'
+  name: '&aÖlüm Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7Bu çekirdek yaşam parçaları içerir'
+  - '&7dünya tarafından toplanmış.'
+  name: '&aYaşam Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7Bu çekirdek birçok doğal madde içerir'
+  - '&7dünyanın dört bir yanından toplanmış.'
+  name: '&aDoğa Çekirdeği'
   type:
   - '&7&oSihirli Bileşenler'
 SUPREME_CORE_PINK:
+  description:
+  - '&7Süper bir pembe'
+  name: '&aYüce pembe'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7Süper bir pastırma'
+  name: '&aYüce pastırma'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7Süper bir patates'
+  name: '&aYüce Patates'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7Süper bir balkabağı'
+  name: '&aYüce Balkabağı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7Süper bir mor'
+  name: '&aYüce Mor'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7Süper bir kuvars'
+  name: '&aYüce kuvars'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_RED:
+  description:
+  - '&7Süper bir kırmızı'
+  name: '&aYüce Kırmızı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7Süper bir kızıltaş'
+  name: '&aYüce kızıltaş'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7Süper bir somon'
+  name: '&aYüce somon'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SAND:
+  description:
+  - '&7Süper bir kum'
+  name: '&aYüce kum'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7Süper bir kar'
+  name: '&aYüce kar'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7Süper bir göz'
+  name: '&aYüce göz'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7Süper bir ladin'
+  name: '&aYüce Ladin Kütüğü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_STONE:
+  description:
+  - '&7Süper bir kaldırım taşı'
+  name: '&aYüce kaldırım taşı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_STRING:
+  description:
+  - '&7Süper bir tasma'
+  name: '&aYüce tasma'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7Süper bir şeker kamışı'
+  name: '&aYüce Şeker Kamışı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7Süper bir meyve'
+  name: '&aYüce Tatlı Meyveler'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7Süper bir gözyaşı'
+  name: '&aYüce gözyaşı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7Süper bir çarpık'
+  name: '&aYüce Çarpık Gövde'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7Süper bir buğday'
+  name: '&aYüce Buğday'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7Süper bir gül'
+  name: '&aYüce Wither Gülü'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7Süper bir sarı'
+  name: '&aYüce Sarı'
   type:
   - '&7&oTemel Bileşenler'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aKristalleştirme Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eElmas Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_DUST_AMETHYST:
+  name: '&aAmetist Tozu'
   type:
   - '&7&oBileşen'
 SUPREME_DUST_GLOW_INK:
+  name: '&aParlayan Mürekkep Tozu'
   type:
   - '&7&oBileşen'
 SUPREME_DUST_NETHERITE:
+  name: '&aNetherit Tozu'
   type:
   - '&7&oBileşen'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fÇekirdek kaynağı üretir'
+  name: '&bElektrikli Çekirdek Makinesi'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fGelişmiş çekirdek kaynağı üretir'
+  name: '&bElektrikli Çekirdek Makinesi II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fGelişmiş çekirdek kaynağı üretir'
+  name: '&bElektrikli Çekirdek Makinesi III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fEşya Üretir'
+  name: '&bElektrikli Üretici'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fGelişmiş Eşya Üretir'
+  name: '&bElektrikli Üretici II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fGelişmiş Eşya Üretir'
+  name: '&bElektrikli Üretici III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fTeçhizat kademesi üretir'
+  name: '&bElektrikli Teçhizat Makinesi'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fGelişmiş teçhizat kademesi üretir'
+  name: '&bElektrikli Teçhizat Makinesi II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fGelişmiş teçhizat kademesi üretir'
+  name: '&bElektrikli Teçhizat Makinesi III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_ITEM:
+  name: Elektrikli Eşya
   type:
   - '&7&oÇeşitli'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fBüyülü kaynak üretir'
+  name: '&bElektrikli Büyülü Makine'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fGelişmiş büyülü kaynak üretir'
+  name: '&bElektrikli Büyülü Makine II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fGelişmiş büyülü kaynak üretir'
+  name: '&bElektrikli Büyülü Makine III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aBoş MobTech'
   type:
   - '&7&oBileşen'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fkülçe kaynaklarını dövmek.'
+  name: '&bKülçe Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fkülçe kaynaklarını dövmek.'
+  name: '&bKülçe Ocağı II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J Tampon'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fkülçe kaynaklarını dövmek.'
+  name: '&bKülçe Ocağı III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J Tampon'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbüyülü kaynakları dövmek.'
+  name: '&bBüyü Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbüyülü kaynakları dövmek.'
+  name: '&bBüyü Ocağı II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J Tampon'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbüyülü kaynakları dövmek.'
+  name: '&bBüyü Ocağı III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J Tampon'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMakine'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fDökümhane ve Sentezleyici Eşyaları'
+  name: '&bDökümhane'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fGelişmiş Dökümhane ve Sentezleyici Eşyaları'
+  name: '&bDökümhane II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fGelişmiş Dökümhane ve Sentezleyici Eşyaları'
+  name: '&bDökümhane III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bGelişmiş Yaratık Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bTemel Yaratık Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bOrta Yaratık Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_GENE_BERSERK:
+  name: '&aÇılgınlık Geni'
   type:
   - '&7&oBileşen'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fZeka Geni'
   type:
   - '&7&oBileşen'
 SUPREME_GENE_LUCK:
+  name: '&aŞans Geni'
   type:
   - '&7&oBileşen'
 SUPREME_GOLD_QUARRY:
+  name: '&eAltın Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir kask'
+  name: '&d&lEpik Kask'
   type:
   - '&7&oZırh'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir kask'
+  name: '&6&lEfsanevi Kask'
   type:
   - '&7&oZırh'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir kask'
+  name: '&a&lSihirli Kask'
   type:
   - '&7&oZırh'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir kask'
+  name: '&b&lNadir Kask'
   type:
   - '&7&oZırh'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir kask'
+  name: '&4&lYüce Kask'
   type:
   - '&7&oZırh'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir kask'
+  name: '&f&lThornium Kask'
   type:
   - '&7&oZırh'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9Ignis Jeneratörü'
+  stats:
+  - '&6Gelişmiş Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aEndüktif Makine'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aİndüktör Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aİridyum Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_IRON_QUARRY:
+  name: '&eDemir Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir pantolon'
+  name: '&d&lEpik Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir pantolon'
+  name: '&6&lEfsanevi Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir pantolon'
+  name: '&a&lSihirli Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir pantolon'
+  name: '&b&lNadir Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir pantolon'
+  name: '&4&lYüce Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir pantolon'
+  name: '&f&lThornium Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9Lumium Jeneratörü'
+  stats:
+  - '&6Gelişmiş Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_LUX_GENERATOR:
+  name: '&9Lux Jeneratörü'
+  stats:
+  - '&6Gelişmiş Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fRün ve Büyülü Eşyalar Üretir'
+  name: '&bSihir Sunağı'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
   type:
   - '&7&oMakine'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fGelişmiş Rün ve Büyülü Eşyalar Üretir'
+  name: '&bSihir Sunağı II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
   type:
   - '&7&oMakine'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fGelişmiş Rün ve Büyülü Eşyalar Üretir'
+  name: '&bSihir Sunağı III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
   type:
   - '&7&oMakine'
 SUPREME_MAIN_ITEM:
+  name: Ana eşya
   type:
   - '&7&oÇeşitli'
 SUPREME_MANGANESE_PLATE:
+  name: '&aManganez Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar: '
+  - '&fyakındaki yaratıklardan eşyalar. (4 blok)'
+  name: '&bYaratık Toplayıcı'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar:'
+  - '&f yakındaki yaratıklardan eşyalar. (8 blok)'
+  name: '&bYaratık Toplayıcı II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J Tampon'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMakine'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar:'
+  - '&f yakındaki yaratıklardan eşyalar. (16 blok)'
+  name: '&bYaratık Toplayıcı III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J Tampon'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMakine'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6MobTech Toplayıcı I'
+  stats:
+  - '&8⇨ &e⚡ &750 J kullanım başına'
   type:
   - '&7&oAletler'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6MobTech Toplayıcı II'
+  stats:
+  - '&8⇨ &e⚡ &750 J kullanım başına'
   type:
   - '&7&oAletler'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6MobTech Toplayıcı III'
+  stats:
+  - '&8⇨ &e⚡ &750 J kullanım başına'
   type:
   - '&7&oAletler'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar: '
+  - '&fYakındaki yaratıkların MobTech kafası. (6 blok)'
+  name: '&bMobTech Toplayıcı II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar: '
+  - '&fYakındaki yaratıkların MobTech kafası. (9 blok)'
+  name: '&bMobTech Toplayıcı III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oBurada çekirdek üretebilirsin!'
+  - '&aÇok Bloklu Makine'
+  name: '&eÇekirdek Fabrikatörü'
   type:
   - '&7&oMakine'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oBurada silah, zırh ve alet üretebilirsin!'
+  - '&aÇok Bloklu Makine'
+  name: '&eTeçhizat Fabrikatörü'
   type:
   - '&7&oMakine'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oBurada büyülü eşya üretebilirsin!'
+  - '&aÇok Bloklu Makine'
+  name: '&eBüyülü Fabrikatör'
   type:
   - '&7&oMakine'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aTaşlaştırma Makinesi'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Kazma'
+  name: '&d&lEpik Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Kazma'
+  name: '&6&lEfsanevi Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Kazma'
+  name: '&a&lSihirli Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Kazma'
+  name: '&b&lNadir Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Kazma'
+  name: '&4&lYüce Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Kazma'
+  name: '&f&lThornium Kazma'
   type:
   - '&7&oAletler'
 SUPREME_PLATINUM_PLATE:
+  name: '&aPlatin Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aPaslanmaz Makine'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Kalkan'
+  name: '&d&lEpik Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Kalkan'
+  name: '&6&lEfsanevi Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Kalkan'
+  name: '&a&lSihirli Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Kalkan'
+  name: '&b&lNadir Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Kalkan'
+  name: '&4&lYüce Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Kalkan'
+  name: '&f&lThornium Kalkan'
   type:
   - '&7&oSilahlar'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Kürek'
+  name: '&d&lEpik Kürek'
   type:
   - '&7&oAletler'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Kürek'
+  name: '&6&lEfsanevi Kürek'
   type:
   - '&7&oAletler'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Kürek'
+  name: '&a&lSihirli Kürek'
   type:
   - '&7&oAletler'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Kürek'
+  name: '&b&lNadir Kürek'
   type:
   - '&7&oAletler'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Kürek'
+  name: '&4&lYüce Kürek'
   type:
   - '&7&oAletler'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Kürek'
+  name: '&f&lThornium Kürek'
   type:
   - '&7&oAletler'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aLekesiz Makine'
   type:
   - '&7&oGelişmiş Bileşenler'
 SUPREME_STONE_QUARRY:
+  name: '&eTaş Ocağı'
+  stats:
+  - '&aOrta Makine'
   type:
   - '&7&oMakine'
 SUPREME_SUPREME:
+  description:
+  - '&7Yüce olan'
+  name: '&aYüce'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9Yüce Kapasitör'
+  stats:
+  - '&4Oyun Sonu Kapasitörü'
+  - '&8⇨ &e⚡ &7Sonsuz J Kapasite'
   type:
   - '&7&oMakine'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9Yüce Jeneratör'
+  stats:
+  - '&4Oyun Sonu Jeneratörü'
   type:
   - '&7&oMakine'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7Yüce Külçecik Ocağından'
+  name: '&aYüce Külçecik'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eYüce Külçecik Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lThornium''dan Epik bir Kılıç'
+  name: '&d&lEpik Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lThornium''dan Efsanevi bir Kılıç'
+  name: '&6&lEfsanevi Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lThornium''dan Sihirli bir Kılıç'
+  name: '&a&lSihirli Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lThornium''dan Nadir bir Kılıç'
+  name: '&b&lNadir Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lThornium''dan Yüce bir Kılıç'
+  name: '&4&lYüce Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lThornium''dan bir Kılıç'
+  name: '&f&lThornium Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aSentetik Ametist'
   type:
   - '&7&oBileşenler'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aSentetik Yakut'
   type:
   - '&7&oBileşenler'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fGüç ve arı/golem/zombi kullanarak, '
+  - '&fyavaşça malzeme üretir.'
+  name: '&bTeknoloji Jeneratörü'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fMutasyon jeneratörünü kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  name: '&bTeknoloji Mutasyonu'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fMutasyon jeneratörünü kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  - '&fŞans faktörü 2x ile çarpılır'
+  name: '&bTeknoloji Mutasyonu II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fMutasyon jeneratörünü kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  - '&fŞans faktörü 4x ile çarpılır'
+  name: '&bTeknoloji Mutasyonu III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fBaşlangıç seviyesi robotları kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  - '&fyükseltmek için 64x gerekir'
+  name: '&bTeknoloji Robotiği'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fBaşlangıç seviyesi robotları kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  - '&fyükseltmek için 32x gerekir'
+  name: '&bTeknoloji Robotiği II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fBaşlangıç seviyesi robotları kullanarak '
+  - '&fdaha yüksek seviyelere ilerleyin'
+  - '&fyükseltmek için 16x gerekir'
+  name: '&bTeknoloji Robotiği III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
   type:
   - '&7&oMakine'
 SUPREME_THORNERITE:
+  name: '&aThornerite'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7Thornium Ocağından'
+  name: '&aThornium Kırıntısı'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7Thornium Kırıntısından'
+  name: '&aSentetik Thornium Kırıntısı'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9Thornium Kapasitör'
+  stats:
+  - '&4Oyun Sonu Kapasitörü'
+  - '&8⇨ &e⚡ &7100,000,000.00 J Kapasite'
   type:
   - '&7&oMakine'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7Thornium Külçesinden'
+  name: '&aThornium Karbonado'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7Thornium Kırıntısından'
+  name: '&aThornium Tozu'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7Thornium Tozundan'
+  name: '&aSentetik Thornium Tozu'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7Thornium Külçesinden'
+  name: '&aEnerjili Thornium'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9Thornium Jeneratörü'
+  stats:
+  - '&4Oyun Sonu Jeneratörü'
   type:
   - '&7&oMakine'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7Thornium Tozundan'
+  name: '&aThornium Külçesi'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7Thornium Külçesinden'
+  name: '&aSentetik Thornium Külçesi'
   type:
   - '&7&oOyun Sonu Bileşenleri'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eThornium Ocağı'
+  stats:
+  - '&6Gelişmiş Makine'
   type:
   - '&7&oMakine'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lTitanyumdan bir Balta'
+  name: '&f&lTitanyum Balta'
   type:
   - '&7&oAletler'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lTitanyumdan bir Bot'
+  name: '&f&lTitanyum Bot'
   type:
   - '&7&oZırh'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9Titanyum Kapasitör'
+  stats:
+  - '&6Gelişmiş Kapasitör'
+  - '&8⇨ &e⚡ &74,000,000.00 J Kapasite'
   type:
   - '&7&oMakine'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lTitanyumdan bir Göğüslük'
+  name: '&f&lTitanyum Göğüslük'
   type:
   - '&7&oZırh'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lTitanyumdan bir Kask'
+  name: '&f&lTitanyum Kask'
   type:
   - '&7&oZırh'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lTitanyumdan bir Pantolon'
+  name: '&f&lTitanyum Pantolon'
   type:
   - '&7&oZırh'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lTitanyumdan bir Kazma'
+  name: '&f&lTitanyum Kazma'
   type:
   - '&7&oAletler'
 SUPREME_TITANIUM_PLATE:
+  name: '&aTitanyum Plaka'
   type:
   - '&7&oBileşenler'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lTitanyumdan bir Kürek'
+  name: '&f&lTitanyum Kürek'
   type:
   - '&7&oAletler'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lTitanyumdan bir Kılıç'
+  name: '&f&lTitanyum Kılıç'
   type:
   - '&7&oSilahlar'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9Ventus Jeneratörü'
+  stats:
+  - '&eTemel Jeneratör'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar: '
+  - '&f denizde toplanan eşyalar.'
+  name: '&bSanal Akvaryum'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar:'
+  - '&f denizde toplanan eşyalar.'
+  name: '&bSanal Akvaryum II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J Tampon'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fBu makine şunları toplamanızı sağlar:'
+  - '&f denizde toplanan eşyalar.'
+  name: '&bSanal Akvaryum III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J Tampon'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbazı kaynakları yetiştirmek.'
+  name: '&bSanal Bahçe'
+  stats:
+  - '&6Gelişmiş Makine'
+  - '&8⇨ &b⚡ &7Hız: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J Tampon'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbazı kaynakları yetiştirmek.'
+  name: '&bSanal Bahçe II'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J Tampon'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oMakine'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fBu makine şunu yapmanızı sağlar:'
+  - '&fbazı kaynakları yetiştirmek.'
+  name: '&bSanal Bahçe III'
+  stats:
+  - '&4Oyun Sonu Makinesi'
+  - '&8⇨ &b⚡ &7Hız: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J Tampon'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oMakine'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aZirkonyum Plaka'
   type:
   - '&7&oBileşenler'
