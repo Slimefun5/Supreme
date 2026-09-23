@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fKeisti gamybą į aliuminio žalvario luitą'
-  name: '&bKortelių mašina: aliuminio žalvario luitas'
+  name: '&bMašinos kortelė: aliuminio žalvario luitas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fKeisti gamybą į aliuminio bronzos luitą'
-  name: '&bKortelių mašina: aliuminio bronzos luitas'
+  name: '&bMašinos kortelė: aliuminio bronzos luitas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fKeisti gamybą į aliuminio dulkes'
-  name: '&bKortelių mašina: aliuminio dulkės'
+  name: '&bMašinos kortelė: aliuminio dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fKeisti gamybą į ametistą'
-  name: '&bKortelių mašina: ametistas'
+  name: '&bMašinos kortelė: ametistas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fKeisti gamybą į andezitą'
-  name: '&bKortelių mašina: andezitas'
+  name: '&bMašinos kortelė: andezitas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fKeisti gamybą į obuolį'
-  name: '&bKortelių mašina: obuolys'
+  name: '&bMašinos kortelė: obuolys'
   stats:
   - '&eBazinė mašina'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fKeisti gamybą į bateriją'
-  name: '&bKortelių mašina: baterija'
+  name: '&bMašinos kortelė: baterija'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fKeisti gamybą į bilono luitą'
-  name: '&bKortelių mašina: bilono luitas'
+  name: '&bMašinos kortelė: bilono luitas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fKeisti gamybą į Blaze lazdelę'
-  name: '&bKortelių mašina: Blaze lazdelė'
+  name: '&bMašinos kortelė: Blaze lazdelė'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fKeisti gamybą į žalvario luitą'
-  name: '&bKortelių mašina: žalvario luitas'
+  name: '&bMašinos kortelė: žalvario luitas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fKeisti gamybą į bronzos luitą'
-  name: '&bKortelių mašina: bronzos luitas'
+  name: '&bMašinos kortelė: bronzos luitas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fKeisti gamybą į anglį'
-  name: '&bKortelių mašina: anglis'
+  name: '&bMašinos kortelė: anglis'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fKeisti gamybą į karbonadą'
-  name: '&bKortelių mašina: karbonadas'
+  name: '&bMašinos kortelė: karbonadas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fKeisti gamybą į suspaustą anglį'
-  name: '&bKortelių mašina: suspausta anglis'
+  name: '&bMašinos kortelė: suspausta anglis'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fKeisti gamybą į molį'
-  name: '&bKortelių mašina: molis'
+  name: '&bMašinos kortelė: molis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fKeisti gamybą į akmens anglį'
-  name: '&bKortelių mašina: akmens anglis'
+  name: '&bMašinos kortelė: akmens anglis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fKeisti gamybą į kobaltą'
-  name: '&bKortelių mašina: kobaltas'
+  name: '&bMašinos kortelė: kobaltas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fKeisti gamybą į varį'
-  name: '&bKortelių mašina: varis'
+  name: '&bMašinos kortelė: varis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fKeisti gamybą į vario dulkes'
-  name: '&bKortelių mašina: vario dulkės'
+  name: '&bMašinos kortelė: vario dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fKeisti gamybą į korintietiškos bronzos luitą'
-  name: '&bKortelių mašina: korintietiškos bronzos luitas'
+  name: '&bMašinos kortelė: korintietiškos bronzos luitas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fKeisti gamybą į damaską'
-  name: '&bKortelių mašina: damaskas'
+  name: '&bMašinos kortelė: damaskas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fKeisti gamybą į deimantą'
-  name: '&bKortelių mašina: deimantas'
+  name: '&bMašinos kortelė: deimantas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fKeisti gamybą į dioritą'
-  name: '&bKortelių mašina: dioritas'
+  name: '&bMašinos kortelė: dioritas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fKeisti gamybą į duraliuminio luitą'
-  name: '&bKortelių mašina: duraliuminio luitas'
+  name: '&bMašinos kortelė: duraliuminio luitas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fKeisti gamybą į elektros variklį'
-  name: '&bKortelių mašina: elektros variklis'
+  name: '&bMašinos kortelė: elektros variklis'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fKeisti gamybą į elektromagnetą'
-  name: '&bKortelių mašina: elektromagnetas'
+  name: '&bMašinos kortelė: elektromagnetas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fKeisti gamybą į smaragdą'
-  name: '&bKortelių mašina: smaragdas'
+  name: '&bMašinos kortelė: smaragdas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fKeisti gamybą į End akmenį'
-  name: '&bKortelių mašina: End akmuo'
+  name: '&bMašinos kortelė: End akmuo'
   stats:
   - '&eBazinė mašina'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fKeisti gamybą į ferosilicį'
-  name: '&bKortelių mašina: ferosilicis'
+  name: '&bMašinos kortelė: ferosilicis'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fKeisti gamybą į šviečiantį rašalo maišelį'
-  name: '&bKortelių mašina: šviečiantis rašalo maišelis'
+  name: '&bMašinos kortelė: šviečiantis rašalo maišelis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fKeisti gamybą į auksą'
-  name: '&bKortelių mašina: auksas'
+  name: '&bMašinos kortelė: auksas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fKeisti gamybą į auksą 24k'
-  name: '&bKortelių mašina: auksas 24k'
+  name: '&bMašinos kortelė: auksas 24k'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fKeisti gamybą į aukso dulkes'
-  name: '&bKortelių mašina: aukso dulkės'
+  name: '&bMašinos kortelė: aukso dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fKeisti gamybą į granitą'
-  name: '&bKortelių mašina: granitas'
+  name: '&bMašinos kortelė: granitas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fKeisti gamybą į žvyrą'
-  name: '&bKortelių mašina: žvyras'
+  name: '&bMašinos kortelė: žvyras'
   stats:
   - '&eBazinė mašina'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fKeisti gamybą į grūdinto metalo luitą'
-  name: '&bKortelių mašina: grūdinto metalo luitas'
+  name: '&bMašinos kortelė: grūdinto metalo luitas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fKeisti gamybą į kaitinimo ritę'
-  name: '&bKortelių mašina: kaitinimo ritė'
+  name: '&bMašinos kortelė: kaitinimo ritė'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fKeisti gamybą į medaus buteliuką'
-  name: '&bKortelių mašina: medaus buteliukas'
+  name: '&bMašinos kortelė: medaus buteliukas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fKeisti gamybą į rašalo maišelį'
-  name: '&bKortelių mašina: rašalo maišelis'
+  name: '&bMašinos kortelė: rašalo maišelis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fKeisti gamybą į geležį'
-  name: '&bKortelių mašina: geležis'
+  name: '&bMašinos kortelė: geležis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fKeisti gamybą į geležies dulkes'
-  name: '&bKortelių mašina: geležies dulkės'
+  name: '&bMašinos kortelė: geležies dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fKeisti gamybą į lazuritą'
-  name: '&bKortelių mašina: lazuritas'
+  name: '&bMašinos kortelė: lazuritas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fKeisti gamybą į švino dulkes'
-  name: '&bKortelių mašina: švino dulkės'
+  name: '&bMašinos kortelė: švino dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fKeisti gamybą į magnio dulkes'
-  name: '&bKortelių mašina: magnio dulkės'
+  name: '&bMašinos kortelė: magnio dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fKeisti gamybą į magnetą'
-  name: '&bKortelių mašina: magnetas'
+  name: '&bMašinos kortelė: magnetas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fKeisti gamybą į netheritą'
-  name: '&bKortelių mašina: netheritas'
+  name: '&bMašinos kortelė: netheritas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fKeisti gamybą į Nether žvaigždę'
-  name: '&bKortelių mašina: Nether žvaigždė'
+  name: '&bMašinos kortelė: Nether žvaigždė'
   stats:
   - '&eBazinė mašina'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fKeisti gamybą į nikelį'
-  name: '&bKortelių mašina: nikelis'
+  name: '&bMašinos kortelė: nikelis'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fKeisti gamybą į plastiko lakštą'
-  name: '&bKortelių mašina: plastiko lakštas'
+  name: '&bMašinos kortelė: plastiko lakštas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fKeisti gamybą į kvarcą'
-  name: '&bKortelių mašina: kvarcas'
+  name: '&bMašinos kortelė: kvarcas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fKeisti gamybą į kvarco bloką'
-  name: '&bKortelių mašina: kvarco blokas'
+  name: '&bMašinos kortelė: kvarco blokas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fKeisti gamybą į raudonakmenį'
-  name: '&bKortelių mašina: raudonakmenis'
+  name: '&bMašinos kortelė: raudonakmenis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fKeisti gamybą į raudonakmenio lydinį'
-  name: '&bKortelių mašina: raudonakmenio lydinys'
+  name: '&bMašinos kortelė: raudonakmenio lydinys'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fKeisti gamybą į sustiprinto lydinio luitą'
-  name: '&bKortelių mašina: sustiprinto lydinio luitas'
+  name: '&bMašinos kortelė: sustiprinto lydinio luitas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fKeisti gamybą į smėlį'
-  name: '&bKortelių mašina: smėlis'
+  name: '&bMašinos kortelė: smėlis'
   stats:
   - '&eBazinė mašina'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fKeisti gamybą į silicį'
-  name: '&bKortelių mašina: silicis'
+  name: '&bMašinos kortelė: silicis'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fKeisti gamybą į sidabro dulkes'
-  name: '&bKortelių mašina: sidabro dulkės'
+  name: '&bMašinos kortelė: sidabro dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fKeisti gamybą į gleivių kamuoliuką'
-  name: '&bKortelių mašina: gleivių kamuoliukas'
+  name: '&bMašinos kortelė: gleivių kamuoliukas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fKeisti gamybą į sniegą'
-  name: '&bKortelių mašina: sniegas'
+  name: '&bMašinos kortelė: sniegas'
   stats:
   - '&eBazinė mašina'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fKeisti gamybą į lydmetalio luitą'
-  name: '&bKortelių mašina: lydmetalio luitas'
+  name: '&bMašinos kortelė: lydmetalio luitas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fKeisti gamybą į plieną'
-  name: '&bKortelių mašina: plienas'
+  name: '&bMašinos kortelė: plienas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fKeisti gamybą į akmenį'
-  name: '&bKortelių mašina: akmuo'
+  name: '&bMašinos kortelė: akmuo'
   stats:
   - '&eBazinė mašina'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fKeisti gamybą į sulfatą'
-  name: '&bKortelių mašina: sulfatas'
+  name: '&bMašinos kortelė: sulfatas'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fKeisti gamybą į sintetinį deimantą'
-  name: '&bKortelių mašina: sintetinis deimantas'
+  name: '&bMašinos kortelė: sintetinis deimantas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fKeisti gamybą į sintetinį smaragdą'
-  name: '&bKortelių mašina: sintetinis smaragdas'
+  name: '&bMašinos kortelė: sintetinis smaragdas'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fKeisti gamybą į sintetinį safyrą'
-  name: '&bKortelių mašina: sintetinis safyras'
+  name: '&bMašinos kortelė: sintetinis safyras'
   stats:
   - '&6Pažangi mašina'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fKeisti gamybą į alavo dulkes'
-  name: '&bKortelių mašina: alavo dulkės'
+  name: '&bMašinos kortelė: alavo dulkės'
   stats:
   - '&aVidutinė mašina'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fKeisti gamybą į Wither rožę'
-  name: '&bKortelių mašina: Wither rožė'
+  name: '&bMašinos kortelė: Wither rožė'
   stats:
   - '&eBazinė mašina'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fKeisti gamybą į cinko dulkes'
-  name: '&bKortelių mašina: cinko dulkės'
+  name: '&bMašinos kortelė: cinko dulkės'
   stats:
   - '&aVidutinė mašina'
   type:

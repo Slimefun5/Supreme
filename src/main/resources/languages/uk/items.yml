@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fЗмінити виробництво на злиток алюмінієвої латуні'
-  name: '&bКарткова машина: злиток алюмінієвої латуні'
+  name: '&bКартка для машини: злиток алюмінієвої латуні'
   stats:
   - '&6Просунута машина'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fЗмінити виробництво на злиток алюмінієвої бронзи'
-  name: '&bКарткова машина: злиток алюмінієвої бронзи'
+  name: '&bКартка для машини: злиток алюмінієвої бронзи'
   stats:
   - '&6Просунута машина'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fЗмінити виробництво на алюмінієвий пил'
-  name: '&bКарткова машина: алюмінієвий пил'
+  name: '&bКартка для машини: алюмінієвий пил'
   stats:
   - '&aСередня машина'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fЗмінити виробництво на аметист'
-  name: '&bКарткова машина: аметист'
+  name: '&bКартка для машини: аметист'
   stats:
   - '&6Просунута машина'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fЗмінити виробництво на андезит'
-  name: '&bКарткова машина: андезит'
+  name: '&bКартка для машини: андезит'
   stats:
   - '&eБазова машина'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fЗмінити виробництво на яблуко'
-  name: '&bКарткова машина: яблуко'
+  name: '&bКартка для машини: яблуко'
   stats:
   - '&eБазова машина'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fЗмінити виробництво на батарею'
-  name: '&bКарткова машина: батарея'
+  name: '&bКартка для машини: батарея'
   stats:
   - '&6Просунута машина'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fЗмінити виробництво на злиток білону'
-  name: '&bКарткова машина: злиток білону'
+  name: '&bКартка для машини: злиток білону'
   stats:
   - '&aСередня машина'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fЗмінити виробництво на стрижень іфрита'
-  name: '&bКарткова машина: стрижень іфрита'
+  name: '&bКартка для машини: стрижень іфрита'
   stats:
   - '&6Просунута машина'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fЗмінити виробництво на злиток латуні'
-  name: '&bКарткова машина: злиток латуні'
+  name: '&bКартка для машини: злиток латуні'
   stats:
   - '&aСередня машина'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fЗмінити виробництво на злиток бронзи'
-  name: '&bКарткова машина: злиток бронзи'
+  name: '&bКартка для машини: злиток бронзи'
   stats:
   - '&aСередня машина'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fЗмінити виробництво на вуглець'
-  name: '&bКарткова машина: вуглець'
+  name: '&bКартка для машини: вуглець'
   stats:
   - '&aСередня машина'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fЗмінити виробництво на карбонадо'
-  name: '&bКарткова машина: карбонадо'
+  name: '&bКартка для машини: карбонадо'
   stats:
   - '&6Просунута машина'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fЗмінити виробництво на стиснений вуглець'
-  name: '&bКарткова машина: стиснений вуглець'
+  name: '&bКартка для машини: стиснений вуглець'
   stats:
   - '&aСередня машина'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fЗмінити виробництво на глину'
-  name: '&bКарткова машина: глина'
+  name: '&bКартка для машини: глина'
   stats:
   - '&eБазова машина'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fЗмінити виробництво на вугілля'
-  name: '&bКарткова машина: вугілля'
+  name: '&bКартка для машини: вугілля'
   stats:
   - '&eБазова машина'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fЗмінити виробництво на кобальт'
-  name: '&bКарткова машина: кобальт'
+  name: '&bКартка для машини: кобальт'
   stats:
   - '&aСередня машина'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fЗмінити виробництво на мідь'
-  name: '&bКарткова машина: мідь'
+  name: '&bКартка для машини: мідь'
   stats:
   - '&eБазова машина'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fЗмінити виробництво на мідний пил'
-  name: '&bКарткова машина: мідний пил'
+  name: '&bКартка для машини: мідний пил'
   stats:
   - '&aСередня машина'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fЗмінити виробництво на злиток коринфської бронзи'
-  name: '&bКарткова машина: злиток коринфської бронзи'
+  name: '&bКартка для машини: злиток коринфської бронзи'
   stats:
   - '&6Просунута машина'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fЗмінити виробництво на дамаську сталь'
-  name: '&bКарткова машина: дамаська сталь'
+  name: '&bКартка для машини: дамаська сталь'
   stats:
   - '&aСередня машина'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fЗмінити виробництво на алмаз'
-  name: '&bКарткова машина: алмаз'
+  name: '&bКартка для машини: алмаз'
   stats:
   - '&6Просунута машина'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fЗмінити виробництво на діорит'
-  name: '&bКарткова машина: діорит'
+  name: '&bКартка для машини: діорит'
   stats:
   - '&eБазова машина'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fЗмінити виробництво на злиток дюралюмінію'
-  name: '&bКарткова машина: злиток дюралюмінію'
+  name: '&bКартка для машини: злиток дюралюмінію'
   stats:
   - '&aСередня машина'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fЗмінити виробництво на електродвигун'
-  name: '&bКарткова машина: електродвигун'
+  name: '&bКартка для машини: електродвигун'
   stats:
   - '&6Просунута машина'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fЗмінити виробництво на електромагніт'
-  name: '&bКарткова машина: електромагніт'
+  name: '&bКартка для машини: електромагніт'
   stats:
   - '&6Просунута машина'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fЗмінити виробництво на смарагд'
-  name: '&bКарткова машина: смарагд'
+  name: '&bКартка для машини: смарагд'
   stats:
   - '&6Просунута машина'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fЗмінити виробництво на камінь Енду'
-  name: '&bКарткова машина: камінь Енду'
+  name: '&bКартка для машини: камінь Енду'
   stats:
   - '&eБазова машина'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fЗмінити виробництво на феросиліцій'
-  name: '&bКарткова машина: феросиліцій'
+  name: '&bКартка для машини: феросиліцій'
   stats:
   - '&aСередня машина'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fЗмінити виробництво на мішечок сяйливого чорнила'
-  name: '&bКарткова машина: мішечок сяйливого чорнила'
+  name: '&bКартка для машини: мішечок сяйливого чорнила'
   stats:
   - '&eБазова машина'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fЗмінити виробництво на золото'
-  name: '&bКарткова машина: золото'
+  name: '&bКартка для машини: золото'
   stats:
   - '&eБазова машина'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fЗмінити виробництво на золото 24k'
-  name: '&bКарткова машина: золото 24k'
+  name: '&bКартка для машини: золото 24k'
   stats:
   - '&6Просунута машина'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fЗмінити виробництво на золотий пил'
-  name: '&bКарткова машина: золотий пил'
+  name: '&bКартка для машини: золотий пил'
   stats:
   - '&aСередня машина'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fЗмінити виробництво на граніт'
-  name: '&bКарткова машина: граніт'
+  name: '&bКартка для машини: граніт'
   stats:
   - '&eБазова машина'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fЗмінити виробництво на гравій'
-  name: '&bКарткова машина: гравій'
+  name: '&bКартка для машини: гравій'
   stats:
   - '&eБазова машина'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fЗмінити виробництво на злиток загартованого металу'
-  name: '&bКарткова машина: злиток загартованого металу'
+  name: '&bКартка для машини: злиток загартованого металу'
   stats:
   - '&6Просунута машина'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fЗмінити виробництво на нагрівальну котушку'
-  name: '&bКарткова машина: нагрівальна котушка'
+  name: '&bКартка для машини: нагрівальна котушка'
   stats:
   - '&6Просунута машина'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fЗмінити виробництво на пляшку меду'
-  name: '&bКарткова машина: пляшка меду'
+  name: '&bКартка для машини: пляшка меду'
   stats:
   - '&eБазова машина'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fЗмінити виробництво на мішечок чорнила'
-  name: '&bКарткова машина: мішечок чорнила'
+  name: '&bКартка для машини: мішечок чорнила'
   stats:
   - '&eБазова машина'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fЗмінити виробництво на залізо'
-  name: '&bКарткова машина: залізо'
+  name: '&bКартка для машини: залізо'
   stats:
   - '&eБазова машина'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fЗмінити виробництво на залізний пил'
-  name: '&bКарткова машина: залізний пил'
+  name: '&bКартка для машини: залізний пил'
   stats:
   - '&aСередня машина'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fЗмінити виробництво на лазурит'
-  name: '&bКарткова машина: лазурит'
+  name: '&bКартка для машини: лазурит'
   stats:
   - '&eБазова машина'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fЗмінити виробництво на свинцевий пил'
-  name: '&bКарткова машина: свинцевий пил'
+  name: '&bКартка для машини: свинцевий пил'
   stats:
   - '&aСередня машина'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fЗмінити виробництво на магнієвий пил'
-  name: '&bКарткова машина: магнієвий пил'
+  name: '&bКартка для машини: магнієвий пил'
   stats:
   - '&aСередня машина'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fЗмінити виробництво на магніт'
-  name: '&bКарткова машина: магніт'
+  name: '&bКартка для машини: магніт'
   stats:
   - '&6Просунута машина'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fЗмінити виробництво на незерит'
-  name: '&bКарткова машина: незерит'
+  name: '&bКартка для машини: незерит'
   stats:
   - '&6Просунута машина'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fЗмінити виробництво на зорю Незеру'
-  name: '&bКарткова машина: зоря Незеру'
+  name: '&bКартка для машини: зоря Незеру'
   stats:
   - '&eБазова машина'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fЗмінити виробництво на нікель'
-  name: '&bКарткова машина: нікель'
+  name: '&bКартка для машини: нікель'
   stats:
   - '&aСередня машина'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fЗмінити виробництво на пластиковий лист'
-  name: '&bКарткова машина: пластиковий лист'
+  name: '&bКартка для машини: пластиковий лист'
   stats:
   - '&6Просунута машина'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fЗмінити виробництво на кварц'
-  name: '&bКарткова машина: кварц'
+  name: '&bКартка для машини: кварц'
   stats:
   - '&eБазова машина'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fЗмінити виробництво на блок кварцу'
-  name: '&bКарткова машина: блок кварцу'
+  name: '&bКартка для машини: блок кварцу'
   stats:
   - '&eБазова машина'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fЗмінити виробництво на редстоун'
-  name: '&bКарткова машина: редстоун'
+  name: '&bКартка для машини: редстоун'
   stats:
   - '&eБазова машина'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fЗмінити виробництво на редстоуновий сплав'
-  name: '&bКарткова машина: редстоуновий сплав'
+  name: '&bКартка для машини: редстоуновий сплав'
   stats:
   - '&6Просунута машина'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fЗмінити виробництво на злиток армованого сплаву'
-  name: '&bКарткова машина: злиток армованого сплаву'
+  name: '&bКартка для машини: злиток армованого сплаву'
   stats:
   - '&6Просунута машина'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fЗмінити виробництво на пісок'
-  name: '&bКарткова машина: пісок'
+  name: '&bКартка для машини: пісок'
   stats:
   - '&eБазова машина'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fЗмінити виробництво на кремній'
-  name: '&bКарткова машина: кремній'
+  name: '&bКартка для машини: кремній'
   stats:
   - '&aСередня машина'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fЗмінити виробництво на срібний пил'
-  name: '&bКарткова машина: срібний пил'
+  name: '&bКартка для машини: срібний пил'
   stats:
   - '&aСередня машина'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fЗмінити виробництво на слизову кульку'
-  name: '&bКарткова машина: слизова кулька'
+  name: '&bКартка для машини: слизова кулька'
   stats:
   - '&eБазова машина'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fЗмінити виробництво на сніг'
-  name: '&bКарткова машина: сніг'
+  name: '&bКартка для машини: сніг'
   stats:
   - '&eБазова машина'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fЗмінити виробництво на злиток припою'
-  name: '&bКарткова машина: злиток припою'
+  name: '&bКартка для машини: злиток припою'
   stats:
   - '&aСередня машина'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fЗмінити виробництво на сталь'
-  name: '&bКарткова машина: сталь'
+  name: '&bКартка для машини: сталь'
   stats:
   - '&aСередня машина'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fЗмінити виробництво на камінь'
-  name: '&bКарткова машина: камінь'
+  name: '&bКартка для машини: камінь'
   stats:
   - '&eБазова машина'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fЗмінити виробництво на сульфат'
-  name: '&bКарткова машина: сульфат'
+  name: '&bКартка для машини: сульфат'
   stats:
   - '&aСередня машина'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fЗмінити виробництво на синтетичний алмаз'
-  name: '&bКарткова машина: синтетичний алмаз'
+  name: '&bКартка для машини: синтетичний алмаз'
   stats:
   - '&6Просунута машина'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fЗмінити виробництво на синтетичний смарагд'
-  name: '&bКарткова машина: синтетичний смарагд'
+  name: '&bКартка для машини: синтетичний смарагд'
   stats:
   - '&6Просунута машина'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fЗмінити виробництво на синтетичний сапфір'
-  name: '&bКарткова машина: синтетичний сапфір'
+  name: '&bКартка для машини: синтетичний сапфір'
   stats:
   - '&6Просунута машина'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fЗмінити виробництво на олов''яний пил'
-  name: '&bКарткова машина: олов''яний пил'
+  name: '&bКартка для машини: олов''яний пил'
   stats:
   - '&aСередня машина'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fЗмінити виробництво на візерову троянду'
-  name: '&bКарткова машина: візерова троянда'
+  name: '&bКартка для машини: візерова троянда'
   stats:
   - '&eБазова машина'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fЗмінити виробництво на цинковий пил'
-  name: '&bКарткова машина: цинковий пил'
+  name: '&bКартка для машини: цинковий пил'
   stats:
   - '&aСередня машина'
   type:

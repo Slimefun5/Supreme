@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fÄndra till produktion av aluminiummässingstacka'
-  name: '&bKortmaskin för aluminiummässingstacka'
+  name: '&bMaskinkort: aluminiummässingstacka'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fÄndra till produktion av aluminiumbronstacka'
-  name: '&bKortmaskin för aluminiumbronstacka'
+  name: '&bMaskinkort: aluminiumbronstacka'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fÄndra till produktion av aluminiumdamm'
-  name: '&bKortmaskin för aluminiumdamm'
+  name: '&bMaskinkort: aluminiumdamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fÄndra till produktion av ametist'
-  name: '&bKortmaskin för ametist'
+  name: '&bMaskinkort: ametist'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fÄndra till produktion av andesit'
-  name: '&bKortmaskin för andesit'
+  name: '&bMaskinkort: andesit'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fÄndra till produktion av äpple'
-  name: '&bKortmaskin för äpple'
+  name: '&bMaskinkort: äpple'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fÄndra till produktion av batteri'
-  name: '&bKortmaskin för batteri'
+  name: '&bMaskinkort: batteri'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fÄndra till produktion av billontacka'
-  name: '&bKortmaskin för billontacka'
+  name: '&bMaskinkort: billontacka'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fÄndra till produktion av blazestav'
-  name: '&bKortmaskin för blazestav'
+  name: '&bMaskinkort: blazestav'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fÄndra till produktion av mässingstacka'
-  name: '&bKortmaskin för mässingstacka'
+  name: '&bMaskinkort: mässingstacka'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fÄndra till produktion av bronstacka'
-  name: '&bKortmaskin för bronstacka'
+  name: '&bMaskinkort: bronstacka'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fÄndra till produktion av karbon'
-  name: '&bKortmaskin för karbon'
+  name: '&bMaskinkort: karbon'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fÄndra till produktion av carbonado'
-  name: '&bKortmaskin för carbonado'
+  name: '&bMaskinkort: carbonado'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fÄndra till produktion av komprimerat karbon'
-  name: '&bKortmaskin för komprimerat karbon'
+  name: '&bMaskinkort: komprimerat karbon'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fÄndra till produktion av lera'
-  name: '&bKortmaskin för lera'
+  name: '&bMaskinkort: lera'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fÄndra till produktion av kol'
-  name: '&bKortmaskin för kol'
+  name: '&bMaskinkort: kol'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fÄndra till produktion av kobolt'
-  name: '&bKortmaskin för kobolt'
+  name: '&bMaskinkort: kobolt'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fÄndra till produktion av koppar'
-  name: '&bKortmaskin för koppar'
+  name: '&bMaskinkort: koppar'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fÄndra till produktion av koppardamm'
-  name: '&bKortmaskin för koppardamm'
+  name: '&bMaskinkort: koppardamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fÄndra till produktion av korintisk bronstacka'
-  name: '&bKortmaskin för korintisk bronstacka'
+  name: '&bMaskinkort: korintisk bronstacka'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fÄndra till produktion av damaskusstål'
-  name: '&bKortmaskin för damaskusstål'
+  name: '&bMaskinkort: damaskusstål'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fÄndra till produktion av diamant'
-  name: '&bKortmaskin för diamant'
+  name: '&bMaskinkort: diamant'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fÄndra till produktion av diorit'
-  name: '&bKortmaskin för diorit'
+  name: '&bMaskinkort: diorit'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fÄndra till produktion av duraluminiumtacka'
-  name: '&bKortmaskin för duraluminiumtacka'
+  name: '&bMaskinkort: duraluminiumtacka'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fÄndra till produktion av elektrisk motor'
-  name: '&bKortmaskin för elektrisk motor'
+  name: '&bMaskinkort: elektrisk motor'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fÄndra till produktion av elektromagnet'
-  name: '&bKortmaskin för elektromagnet'
+  name: '&bMaskinkort: elektromagnet'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fÄndra till produktion av smaragd'
-  name: '&bKortmaskin för smaragd'
+  name: '&bMaskinkort: smaragd'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fÄndra till produktion av endsten'
-  name: '&bKortmaskin för endsten'
+  name: '&bMaskinkort: endsten'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fÄndra till produktion av ferrokisel'
-  name: '&bKortmaskin för ferrokisel'
+  name: '&bMaskinkort: ferrokisel'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fÄndra till produktion av lysande bläcksäck'
-  name: '&bKortmaskin för lysande bläcksäck'
+  name: '&bMaskinkort: lysande bläcksäck'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fÄndra till produktion av guld'
-  name: '&bKortmaskin för guld'
+  name: '&bMaskinkort: guld'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fÄndra till produktion av guld 24k'
-  name: '&bKortmaskin för guld 24k'
+  name: '&bMaskinkort: guld 24k'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fÄndra till produktion av gulddamm'
-  name: '&bKortmaskin för gulddamm'
+  name: '&bMaskinkort: gulddamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fÄndra till produktion av granit'
-  name: '&bKortmaskin för granit'
+  name: '&bMaskinkort: granit'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fÄndra till produktion av grus'
-  name: '&bKortmaskin för grus'
+  name: '&bMaskinkort: grus'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fÄndra till produktion av härdad metalltacka'
-  name: '&bKortmaskin för härdad metalltacka'
+  name: '&bMaskinkort: härdad metalltacka'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fÄndra till produktion av värmespiral'
-  name: '&bKortmaskin för värmespiral'
+  name: '&bMaskinkort: värmespiral'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fÄndra till produktion av honungsflaska'
-  name: '&bKortmaskin för honungsflaska'
+  name: '&bMaskinkort: honungsflaska'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fÄndra till produktion av bläcksäck'
-  name: '&bKortmaskin för bläcksäck'
+  name: '&bMaskinkort: bläcksäck'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fÄndra till produktion av järn'
-  name: '&bKortmaskin för järn'
+  name: '&bMaskinkort: järn'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fÄndra till produktion av järndamm'
-  name: '&bKortmaskin för järndamm'
+  name: '&bMaskinkort: järndamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fÄndra till produktion av lapis'
-  name: '&bKortmaskin för lapis'
+  name: '&bMaskinkort: lapis'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fÄndra till produktion av blydamm'
-  name: '&bKortmaskin för blydamm'
+  name: '&bMaskinkort: blydamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fÄndra till produktion av magnesiumdamm'
-  name: '&bKortmaskin för magnesiumdamm'
+  name: '&bMaskinkort: magnesiumdamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fÄndra till produktion av magnet'
-  name: '&bKortmaskin för magnet'
+  name: '&bMaskinkort: magnet'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fÄndra till produktion av netherit'
-  name: '&bKortmaskin för netherit'
+  name: '&bMaskinkort: netherit'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fÄndra till produktion av netherstjärna'
-  name: '&bKortmaskin för netherstjärna'
+  name: '&bMaskinkort: netherstjärna'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fÄndra till produktion av nickel'
-  name: '&bKortmaskin för nickel'
+  name: '&bMaskinkort: nickel'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fÄndra till produktion av plastark'
-  name: '&bKortmaskin för plastark'
+  name: '&bMaskinkort: plastark'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fÄndra till produktion av kvarts'
-  name: '&bKortmaskin för kvarts'
+  name: '&bMaskinkort: kvarts'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fÄndra till produktion av kvartsblock'
-  name: '&bKortmaskin för kvartsblock'
+  name: '&bMaskinkort: kvartsblock'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fÄndra till produktion av rödsten'
-  name: '&bKortmaskin för rödsten'
+  name: '&bMaskinkort: rödsten'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fÄndra till produktion av rödstenslegering'
-  name: '&bKortmaskin för rödstenslegering'
+  name: '&bMaskinkort: rödstenslegering'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fÄndra till produktion av förstärkt legeringstacka'
-  name: '&bKortmaskin för förstärkt legeringstacka'
+  name: '&bMaskinkort: förstärkt legeringstacka'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fÄndra till produktion av sand'
-  name: '&bKortmaskin för sand'
+  name: '&bMaskinkort: sand'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fÄndra till produktion av kisel'
-  name: '&bKortmaskin för kisel'
+  name: '&bMaskinkort: kisel'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fÄndra till produktion av silverdamm'
-  name: '&bKortmaskin för silverdamm'
+  name: '&bMaskinkort: silverdamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fÄndra till produktion av slemboll'
-  name: '&bKortmaskin för slemboll'
+  name: '&bMaskinkort: slemboll'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fÄndra till produktion av snö'
-  name: '&bKortmaskin för snö'
+  name: '&bMaskinkort: snö'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fÄndra till produktion av lödtennstacka'
-  name: '&bKortmaskin för lödtennstacka'
+  name: '&bMaskinkort: lödtennstacka'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fÄndra till produktion av stål'
-  name: '&bKortmaskin för stål'
+  name: '&bMaskinkort: stål'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fÄndra till produktion av sten'
-  name: '&bKortmaskin för sten'
+  name: '&bMaskinkort: sten'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fÄndra till produktion av sulfat'
-  name: '&bKortmaskin för sulfat'
+  name: '&bMaskinkort: sulfat'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fÄndra till produktion av syntetisk diamant'
-  name: '&bKortmaskin för syntetisk diamant'
+  name: '&bMaskinkort: syntetisk diamant'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fÄndra till produktion av syntetisk smaragd'
-  name: '&bKortmaskin för syntetisk smaragd'
+  name: '&bMaskinkort: syntetisk smaragd'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fÄndra till produktion av syntetisk safir'
-  name: '&bKortmaskin för syntetisk safir'
+  name: '&bMaskinkort: syntetisk safir'
   stats:
   - '&6Avancerad maskin'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fÄndra till produktion av tenndamm'
-  name: '&bKortmaskin för tenndamm'
+  name: '&bMaskinkort: tenndamm'
   stats:
   - '&aMedelstor maskin'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fÄndra till produktion av witherros'
-  name: '&bKortmaskin för witherros'
+  name: '&bMaskinkort: witherros'
   stats:
   - '&eGrundläggande maskin'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fÄndra till produktion av zinkdamm'
-  name: '&bKortmaskin för zinkdamm'
+  name: '&bMaskinkort: zinkdamm'
   stats:
   - '&aMedelstor maskin'
   type:

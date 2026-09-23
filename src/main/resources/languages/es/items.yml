@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fCambiar a la producción de Lingote de Latón de Aluminio'
-  name: '&bMáquina de Tarjetas Lingote de Latón de Aluminio'
+  name: '&bTarjeta de Máquina: Lingote de Latón de Aluminio'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fCambiar a la producción de Lingote de Bronce de Aluminio'
-  name: '&bMáquina de Tarjetas Lingote de Bronce de Aluminio'
+  name: '&bTarjeta de Máquina: Lingote de Bronce de Aluminio'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Aluminio'
-  name: '&bMáquina de Tarjetas Polvo de Aluminio'
+  name: '&bTarjeta de Máquina: Polvo de Aluminio'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fCambiar a la producción de Amatista'
-  name: '&bMáquina de Tarjetas Amatista'
+  name: '&bTarjeta de Máquina: Amatista'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fCambiar a la producción de Andesita'
-  name: '&bMáquina de Tarjetas Andesita'
+  name: '&bTarjeta de Máquina: Andesita'
   stats:
   - '&eMáquina Básica'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fCambiar a la producción de Manzana'
-  name: '&bMáquina de Tarjetas Manzana'
+  name: '&bTarjeta de Máquina: Manzana'
   stats:
   - '&eMáquina Básica'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fCambiar a la producción de Batería'
-  name: '&bMáquina de Tarjetas Batería'
+  name: '&bTarjeta de Máquina: Batería'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fCambiar a la producción de Lingote de Vellón'
-  name: '&bMáquina de Tarjetas Lingote de Vellón'
+  name: '&bTarjeta de Máquina: Lingote de Vellón'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fCambiar a la producción de Vara de Blaze'
-  name: '&bMáquina de Tarjetas Vara de Blaze'
+  name: '&bTarjeta de Máquina: Vara de Blaze'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fCambiar a la producción de Lingote de Latón'
-  name: '&bMáquina de Tarjetas Lingote de Latón'
+  name: '&bTarjeta de Máquina: Lingote de Latón'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fCambiar a la producción de Lingote de Bronce'
-  name: '&bMáquina de Tarjetas Lingote de Bronce'
+  name: '&bTarjeta de Máquina: Lingote de Bronce'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fCambiar a la producción de Carbono'
-  name: '&bMáquina de Tarjetas Carbono'
+  name: '&bTarjeta de Máquina: Carbono'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fCambiar a la producción de Carbonado'
-  name: '&bMáquina de Tarjetas Carbonado'
+  name: '&bTarjeta de Máquina: Carbonado'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fCambiar a la producción de Carbono Comprimido'
-  name: '&bMáquina de Tarjetas Carbono Comprimido'
+  name: '&bTarjeta de Máquina: Carbono Comprimido'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fCambiar a la producción de Arcilla'
-  name: '&bMáquina de Tarjetas Arcilla'
+  name: '&bTarjeta de Máquina: Arcilla'
   stats:
   - '&eMáquina Básica'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fCambiar a la producción de Carbón'
-  name: '&bMáquina de Tarjetas Carbón'
+  name: '&bTarjeta de Máquina: Carbón'
   stats:
   - '&eMáquina Básica'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fCambiar a la producción de Cobalto'
-  name: '&bMáquina de Tarjetas Cobalto'
+  name: '&bTarjeta de Máquina: Cobalto'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fCambiar a la producción de Cobre'
-  name: '&bMáquina de Tarjetas Cobre'
+  name: '&bTarjeta de Máquina: Cobre'
   stats:
   - '&eMáquina Básica'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Cobre'
-  name: '&bMáquina de Tarjetas Polvo de Cobre'
+  name: '&bTarjeta de Máquina: Polvo de Cobre'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fCambiar a la producción de Lingote de Bronce Corintio'
-  name: '&bMáquina de Tarjetas Lingote de Bronce Corintio'
+  name: '&bTarjeta de Máquina: Lingote de Bronce Corintio'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fCambiar a la producción de Damasco'
-  name: '&bMáquina de Tarjetas Damasco'
+  name: '&bTarjeta de Máquina: Damasco'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fCambiar a la producción de Diamante'
-  name: '&bMáquina de Tarjetas Diamante'
+  name: '&bTarjeta de Máquina: Diamante'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fCambiar a la producción de Diorita'
-  name: '&bMáquina de Tarjetas Diorita'
+  name: '&bTarjeta de Máquina: Diorita'
   stats:
   - '&eMáquina Básica'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fCambiar a la producción de Lingote de Duraluminio'
-  name: '&bMáquina de Tarjetas Lingote de Duraluminio'
+  name: '&bTarjeta de Máquina: Lingote de Duraluminio'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fCambiar a la producción de Motor Eléctrico'
-  name: '&bMáquina de Tarjetas Motor Eléctrico'
+  name: '&bTarjeta de Máquina: Motor Eléctrico'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fCambiar a la producción de Electroimán'
-  name: '&bMáquina de Tarjetas Electroimán'
+  name: '&bTarjeta de Máquina: Electroimán'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fCambiar a la producción de Esmeralda'
-  name: '&bMáquina de Tarjetas Esmeralda'
+  name: '&bTarjeta de Máquina: Esmeralda'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fCambiar a la producción de Piedra del End'
-  name: '&bMáquina de Tarjetas Piedra del End'
+  name: '&bTarjeta de Máquina: Piedra del End'
   stats:
   - '&eMáquina Básica'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fCambiar a la producción de Ferrosilicio'
-  name: '&bMáquina de Tarjetas Ferrosilicio'
+  name: '&bTarjeta de Máquina: Ferrosilicio'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fCambiar a la producción de Saco de Tinta Brillante'
-  name: '&bMáquina de Tarjetas Saco de Tinta Brillante'
+  name: '&bTarjeta de Máquina: Saco de Tinta Brillante'
   stats:
   - '&eMáquina Básica'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fCambiar a la producción de Oro'
-  name: '&bMáquina de Tarjetas Oro'
+  name: '&bTarjeta de Máquina: Oro'
   stats:
   - '&eMáquina Básica'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fCambiar a la producción de Oro 24k'
-  name: '&bMáquina de Tarjetas Oro 24k'
+  name: '&bTarjeta de Máquina: Oro 24k'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Oro'
-  name: '&bMáquina de Tarjetas Polvo de Oro'
+  name: '&bTarjeta de Máquina: Polvo de Oro'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fCambiar a la producción de Granito'
-  name: '&bMáquina de Tarjetas Granito'
+  name: '&bTarjeta de Máquina: Granito'
   stats:
   - '&eMáquina Básica'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fCambiar a la producción de Grava'
-  name: '&bMáquina de Tarjetas Grava'
+  name: '&bTarjeta de Máquina: Grava'
   stats:
   - '&eMáquina Básica'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fCambiar a la producción de Lingote de Metal Endurecido'
-  name: '&bMáquina de Tarjetas Lingote de Metal Endurecido'
+  name: '&bTarjeta de Máquina: Lingote de Metal Endurecido'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fCambiar a la producción de Bobina de Calentamiento'
-  name: '&bMáquina de Tarjetas Bobina de Calentamiento'
+  name: '&bTarjeta de Máquina: Bobina de Calentamiento'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fCambiar a la producción de Botella de Miel'
-  name: '&bMáquina de Tarjetas Botella de Miel'
+  name: '&bTarjeta de Máquina: Botella de Miel'
   stats:
   - '&eMáquina Básica'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fCambiar a la producción de Saco de Tinta'
-  name: '&bMáquina de Tarjetas Saco de Tinta'
+  name: '&bTarjeta de Máquina: Saco de Tinta'
   stats:
   - '&eMáquina Básica'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fCambiar a la producción de Hierro'
-  name: '&bMáquina de Tarjetas Hierro'
+  name: '&bTarjeta de Máquina: Hierro'
   stats:
   - '&eMáquina Básica'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Hierro'
-  name: '&bMáquina de Tarjetas Polvo de Hierro'
+  name: '&bTarjeta de Máquina: Polvo de Hierro'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fCambiar a la producción de Lapislázuli'
-  name: '&bMáquina de Tarjetas Lapislázuli'
+  name: '&bTarjeta de Máquina: Lapislázuli'
   stats:
   - '&eMáquina Básica'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Plomo'
-  name: '&bMáquina de Tarjetas Polvo de Plomo'
+  name: '&bTarjeta de Máquina: Polvo de Plomo'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Magnesio'
-  name: '&bMáquina de Tarjetas Polvo de Magnesio'
+  name: '&bTarjeta de Máquina: Polvo de Magnesio'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fCambiar a la producción de Imán'
-  name: '&bMáquina de Tarjetas Imán'
+  name: '&bTarjeta de Máquina: Imán'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fCambiar a la producción de Netherita'
-  name: '&bMáquina de Tarjetas Netherita'
+  name: '&bTarjeta de Máquina: Netherita'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fCambiar a la producción de Estrella del Nether'
-  name: '&bMáquina de Tarjetas Estrella del Nether'
+  name: '&bTarjeta de Máquina: Estrella del Nether'
   stats:
   - '&eMáquina Básica'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fCambiar a la producción de Níquel'
-  name: '&bMáquina de Tarjetas Níquel'
+  name: '&bTarjeta de Máquina: Níquel'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fCambiar a la producción de Lámina de Plástico'
-  name: '&bMáquina de Tarjetas Lámina de Plástico'
+  name: '&bTarjeta de Máquina: Lámina de Plástico'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fCambiar a la producción de Cuarzo'
-  name: '&bMáquina de Tarjetas Cuarzo'
+  name: '&bTarjeta de Máquina: Cuarzo'
   stats:
   - '&eMáquina Básica'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fCambiar a la producción de Bloque de Cuarzo'
-  name: '&bMáquina de Tarjetas Bloque de Cuarzo'
+  name: '&bTarjeta de Máquina: Bloque de Cuarzo'
   stats:
   - '&eMáquina Básica'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fCambiar a la producción de Redstone'
-  name: '&bMáquina de Tarjetas Redstone'
+  name: '&bTarjeta de Máquina: Redstone'
   stats:
   - '&eMáquina Básica'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fCambiar a la producción de Aleación de Redstone'
-  name: '&bMáquina de Tarjetas Aleación de Redstone'
+  name: '&bTarjeta de Máquina: Aleación de Redstone'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fCambiar a la producción de Lingote de Aleación Reforzada'
-  name: '&bMáquina de Tarjetas Lingote de Aleación Reforzada'
+  name: '&bTarjeta de Máquina: Lingote de Aleación Reforzada'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fCambiar a la producción de Arena'
-  name: '&bMáquina de Tarjetas Arena'
+  name: '&bTarjeta de Máquina: Arena'
   stats:
   - '&eMáquina Básica'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fCambiar a la producción de Silicio'
-  name: '&bMáquina de Tarjetas Silicio'
+  name: '&bTarjeta de Máquina: Silicio'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Plata'
-  name: '&bMáquina de Tarjetas Polvo de Plata'
+  name: '&bTarjeta de Máquina: Polvo de Plata'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fCambiar a la producción de Bola de Slime'
-  name: '&bMáquina de Tarjetas Bola de Slime'
+  name: '&bTarjeta de Máquina: Bola de Slime'
   stats:
   - '&eMáquina Básica'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fCambiar a la producción de Nieve'
-  name: '&bMáquina de Tarjetas Nieve'
+  name: '&bTarjeta de Máquina: Nieve'
   stats:
   - '&eMáquina Básica'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fCambiar a la producción de Lingote de Soldadura'
-  name: '&bMáquina de Tarjetas Lingote de Soldadura'
+  name: '&bTarjeta de Máquina: Lingote de Soldadura'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fCambiar a la producción de Acero'
-  name: '&bMáquina de Tarjetas Acero'
+  name: '&bTarjeta de Máquina: Acero'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fCambiar a la producción de Piedra'
-  name: '&bMáquina de Tarjetas Piedra'
+  name: '&bTarjeta de Máquina: Piedra'
   stats:
   - '&eMáquina Básica'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fCambiar a la producción de Sulfato'
-  name: '&bMáquina de Tarjetas Sulfato'
+  name: '&bTarjeta de Máquina: Sulfato'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fCambiar a la producción de Diamante Sintético'
-  name: '&bMáquina de Tarjetas Diamante Sintético'
+  name: '&bTarjeta de Máquina: Diamante Sintético'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fCambiar a la producción de Esmeralda Sintética'
-  name: '&bMáquina de Tarjetas Esmeralda Sintética'
+  name: '&bTarjeta de Máquina: Esmeralda Sintética'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fCambiar a la producción de Zafiro Sintético'
-  name: '&bMáquina de Tarjetas Zafiro Sintético'
+  name: '&bTarjeta de Máquina: Zafiro Sintético'
   stats:
   - '&6Máquina Avanzada'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Estaño'
-  name: '&bMáquina de Tarjetas Polvo de Estaño'
+  name: '&bTarjeta de Máquina: Polvo de Estaño'
   stats:
   - '&aMáquina Mediana'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fCambiar a la producción de Rosa del Wither'
-  name: '&bMáquina de Tarjetas Rosa del Wither'
+  name: '&bTarjeta de Máquina: Rosa del Wither'
   stats:
   - '&eMáquina Básica'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fCambiar a la producción de Polvo de Zinc'
-  name: '&bMáquina de Tarjetas Polvo de Zinc'
+  name: '&bTarjeta de Máquina: Polvo de Zinc'
   stats:
   - '&aMáquina Mediana'
   type:

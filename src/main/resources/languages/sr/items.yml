@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fПрелазак на производњу полуге алуминијумског месинга'
-  name: '&bМашина за картице - полуга алуминијумског месинга'
+  name: '&bКартица за машину: полуга алуминијумског месинга'
   stats:
   - '&6Напредна машина'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fПрелазак на производњу полуге алуминијумске бронзе'
-  name: '&bМашина за картице - полуга алуминијумске бронзе'
+  name: '&bКартица за машину: полуга алуминијумске бронзе'
   stats:
   - '&6Напредна машина'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fПрелазак на производњу алуминијумског праха'
-  name: '&bМашина за картице - алуминијумски прах'
+  name: '&bКартица за машину: алуминијумски прах'
   stats:
   - '&aСредња машина'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fПрелазак на производњу аметиста'
-  name: '&bМашина за картице - аметист'
+  name: '&bКартица за машину: аметист'
   stats:
   - '&6Напредна машина'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fПрелазак на производњу андезита'
-  name: '&bМашина за картице - андезит'
+  name: '&bКартица за машину: андезит'
   stats:
   - '&eОсновна машина'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fПрелазак на производњу јабука'
-  name: '&bМашина за картице - јабука'
+  name: '&bКартица за машину: јабука'
   stats:
   - '&eОсновна машина'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fПрелазак на производњу батерија'
-  name: '&bМашина за картице - батерија'
+  name: '&bКартица за машину: батерија'
   stats:
   - '&6Напредна машина'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fПрелазак на производњу полуге билона'
-  name: '&bМашина за картице - полуга билона'
+  name: '&bКартица за машину: полуга билона'
   stats:
   - '&aСредња машина'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fПрелазак на производњу блејз штапова'
-  name: '&bМашина за картице - блејз штап'
+  name: '&bКартица за машину: блејз штап'
   stats:
   - '&6Напредна машина'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fПрелазак на производњу полуге месинга'
-  name: '&bМашина за картице - полуга месинга'
+  name: '&bКартица за машину: полуга месинга'
   stats:
   - '&aСредња машина'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fПрелазак на производњу полуге бронзе'
-  name: '&bМашина за картице - полуга бронзе'
+  name: '&bКартица за машину: полуга бронзе'
   stats:
   - '&aСредња машина'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fПрелазак на производњу угљеника'
-  name: '&bМашина за картице - угљеник'
+  name: '&bКартица за машину: угљеник'
   stats:
   - '&aСредња машина'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fПрелазак на производњу карбонада'
-  name: '&bМашина за картице - карбонадо'
+  name: '&bКартица за машину: карбонадо'
   stats:
   - '&6Напредна машина'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fПрелазак на производњу компримованог угљеника'
-  name: '&bМашина за картице - компримовани угљеник'
+  name: '&bКартица за машину: компримовани угљеник'
   stats:
   - '&aСредња машина'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fПрелазак на производњу глине'
-  name: '&bМашина за картице - глина'
+  name: '&bКартица за машину: глина'
   stats:
   - '&eОсновна машина'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fПрелазак на производњу угља'
-  name: '&bМашина за картице - угаљ'
+  name: '&bКартица за машину: угаљ'
   stats:
   - '&eОсновна машина'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fПрелазак на производњу кобалта'
-  name: '&bМашина за картице - кобалт'
+  name: '&bКартица за машину: кобалт'
   stats:
   - '&aСредња машина'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fПрелазак на производњу бакра'
-  name: '&bМашина за картице - бакар'
+  name: '&bКартица за машину: бакар'
   stats:
   - '&eОсновна машина'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fПрелазак на производњу бакарног праха'
-  name: '&bМашина за картице - бакарни прах'
+  name: '&bКартица за машину: бакарни прах'
   stats:
   - '&aСредња машина'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fПрелазак на производњу полуге коринтске бронзе'
-  name: '&bМашина за картице - полуга коринтске бронзе'
+  name: '&bКартица за машину: полуга коринтске бронзе'
   stats:
   - '&6Напредна машина'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fПрелазак на производњу дамаскинског челика'
-  name: '&bМашина за картице - дамаскински челик'
+  name: '&bКартица за машину: дамаскински челик'
   stats:
   - '&aСредња машина'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fПрелазак на производњу дијаманата'
-  name: '&bМашина за картице - дијамант'
+  name: '&bКартица за машину: дијамант'
   stats:
   - '&6Напредна машина'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fПрелазак на производњу диорита'
-  name: '&bМашина за картице - диорит'
+  name: '&bКартица за машину: диорит'
   stats:
   - '&eОсновна машина'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fПрелазак на производњу полуге дуралуминијума'
-  name: '&bМашина за картице - полуга дуралуминијума'
+  name: '&bКартица за машину: полуга дуралуминијума'
   stats:
   - '&aСредња машина'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fПрелазак на производњу електромотора'
-  name: '&bМашина за картице - електромотор'
+  name: '&bКартица за машину: електромотор'
   stats:
   - '&6Напредна машина'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fПрелазак на производњу електромагнета'
-  name: '&bМашина за картице - електромагнет'
+  name: '&bКартица за машину: електромагнет'
   stats:
   - '&6Напредна машина'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fПрелазак на производњу смарагда'
-  name: '&bМашина за картице - смарагд'
+  name: '&bКартица за машину: смарагд'
   stats:
   - '&6Напредна машина'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fПрелазак на производњу ендског камена'
-  name: '&bМашина за картице - ендски камен'
+  name: '&bКартица за машину: ендски камен'
   stats:
   - '&eОсновна машина'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fПрелазак на производњу феросилицијума'
-  name: '&bМашина за картице - феросилицијум'
+  name: '&bКартица за машину: феросилицијум'
   stats:
   - '&aСредња машина'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fПрелазак на производњу светлећих кесица мастила'
-  name: '&bМашина за картице - светлећа кесица мастила'
+  name: '&bКартица за машину: светлећа кесица мастила'
   stats:
   - '&eОсновна машина'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fПрелазак на производњу злата'
-  name: '&bМашина за картице - злато'
+  name: '&bКартица за машину: злато'
   stats:
   - '&eОсновна машина'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fПрелазак на производњу злата 24k'
-  name: '&bМашина за картице - злато 24k'
+  name: '&bКартица за машину: злато 24k'
   stats:
   - '&6Напредна машина'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fПрелазак на производњу златног праха'
-  name: '&bМашина за картице - златни прах'
+  name: '&bКартица за машину: златни прах'
   stats:
   - '&aСредња машина'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fПрелазак на производњу гранита'
-  name: '&bМашина за картице - гранит'
+  name: '&bКартица за машину: гранит'
   stats:
   - '&eОсновна машина'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fПрелазак на производњу шљунка'
-  name: '&bМашина за картице - шљунак'
+  name: '&bКартица за машину: шљунак'
   stats:
   - '&eОсновна машина'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fПрелазак на производњу полуге очврслог метала'
-  name: '&bМашина за картице - полуга очврслог метала'
+  name: '&bКартица за машину: полуга очврслог метала'
   stats:
   - '&6Напредна машина'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fПрелазак на производњу грејних калемова'
-  name: '&bМашина за картице - грејни калем'
+  name: '&bКартица за машину: грејни калем'
   stats:
   - '&6Напредна машина'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fПрелазак на производњу флашица меда'
-  name: '&bМашина за картице - флашица меда'
+  name: '&bКартица за машину: флашица меда'
   stats:
   - '&eОсновна машина'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fПрелазак на производњу кесица мастила'
-  name: '&bМашина за картице - кесица мастила'
+  name: '&bКартица за машину: кесица мастила'
   stats:
   - '&eОсновна машина'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fПрелазак на производњу гвожђа'
-  name: '&bМашина за картице - гвожђе'
+  name: '&bКартица за машину: гвожђе'
   stats:
   - '&eОсновна машина'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fПрелазак на производњу гвозденог праха'
-  name: '&bМашина за картице - гвоздени прах'
+  name: '&bКартица за машину: гвоздени прах'
   stats:
   - '&aСредња машина'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fПрелазак на производњу лаписа'
-  name: '&bМашина за картице - лапис'
+  name: '&bКартица за машину: лапис'
   stats:
   - '&eОсновна машина'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fПрелазак на производњу оловног праха'
-  name: '&bМашина за картице - оловни прах'
+  name: '&bКартица за машину: оловни прах'
   stats:
   - '&aСредња машина'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fПрелазак на производњу магнезијумског праха'
-  name: '&bМашина за картице - магнезијумски прах'
+  name: '&bКартица за машину: магнезијумски прах'
   stats:
   - '&aСредња машина'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fПрелазак на производњу магнета'
-  name: '&bМашина за картице - магнет'
+  name: '&bКартица за машину: магнет'
   stats:
   - '&6Напредна машина'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fПрелазак на производњу нетерита'
-  name: '&bМашина за картице - нетерит'
+  name: '&bКартица за машину: нетерит'
   stats:
   - '&6Напредна машина'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fПрелазак на производњу нетерских звезда'
-  name: '&bМашина за картице - нетерска звезда'
+  name: '&bКартица за машину: нетерска звезда'
   stats:
   - '&eОсновна машина'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fПрелазак на производњу никла'
-  name: '&bМашина за картице - никл'
+  name: '&bКартица за машину: никл'
   stats:
   - '&aСредња машина'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fПрелазак на производњу пластичних плоча'
-  name: '&bМашина за картице - пластична плоча'
+  name: '&bКартица за машину: пластична плоча'
   stats:
   - '&6Напредна машина'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fПрелазак на производњу кварца'
-  name: '&bМашина за картице - кварц'
+  name: '&bКартица за машину: кварц'
   stats:
   - '&eОсновна машина'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fПрелазак на производњу блокова кварца'
-  name: '&bМашина за картице - блок кварца'
+  name: '&bКартица за машину: блок кварца'
   stats:
   - '&eОсновна машина'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fПрелазак на производњу редстона'
-  name: '&bМашина за картице - редстон'
+  name: '&bКартица за машину: редстон'
   stats:
   - '&eОсновна машина'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fПрелазак на производњу редстон легуре'
-  name: '&bМашина за картице - редстон легура'
+  name: '&bКартица за машину: редстон легура'
   stats:
   - '&6Напредна машина'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fПрелазак на производњу полуге ојачане легуре'
-  name: '&bМашина за картице - полуга ојачане легуре'
+  name: '&bКартица за машину: полуга ојачане легуре'
   stats:
   - '&6Напредна машина'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fПрелазак на производњу песка'
-  name: '&bМашина за картице - песак'
+  name: '&bКартица за машину: песак'
   stats:
   - '&eОсновна машина'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fПрелазак на производњу силицијума'
-  name: '&bМашина за картице - силицијум'
+  name: '&bКартица за машину: силицијум'
   stats:
   - '&aСредња машина'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fПрелазак на производњу сребрног праха'
-  name: '&bМашина за картице - сребрни прах'
+  name: '&bКартица за машину: сребрни прах'
   stats:
   - '&aСредња машина'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fПрелазак на производњу слајм куглица'
-  name: '&bМашина за картице - слајм куглица'
+  name: '&bКартица за машину: слајм куглица'
   stats:
   - '&eОсновна машина'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fПрелазак на производњу снега'
-  name: '&bМашина за картице - снег'
+  name: '&bКартица за машину: снег'
   stats:
   - '&eОсновна машина'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fПрелазак на производњу полуге лема'
-  name: '&bМашина за картице - полуга лема'
+  name: '&bКартица за машину: полуга лема'
   stats:
   - '&aСредња машина'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fПрелазак на производњу челика'
-  name: '&bМашина за картице - челик'
+  name: '&bКартица за машину: челик'
   stats:
   - '&aСредња машина'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fПрелазак на производњу камена'
-  name: '&bМашина за картице - камен'
+  name: '&bКартица за машину: камен'
   stats:
   - '&eОсновна машина'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fПрелазак на производњу сулфата'
-  name: '&bМашина за картице - сулфат'
+  name: '&bКартица за машину: сулфат'
   stats:
   - '&aСредња машина'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fПрелазак на производњу синтетичких дијаманата'
-  name: '&bМашина за картице - синтетички дијамант'
+  name: '&bКартица за машину: синтетички дијамант'
   stats:
   - '&6Напредна машина'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fПрелазак на производњу синтетичких смарагда'
-  name: '&bМашина за картице - синтетички смарагд'
+  name: '&bКартица за машину: синтетички смарагд'
   stats:
   - '&6Напредна машина'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fПрелазак на производњу синтетичких сафира'
-  name: '&bМашина за картице - синтетички сафир'
+  name: '&bКартица за машину: синтетички сафир'
   stats:
   - '&6Напредна машина'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fПрелазак на производњу калајног праха'
-  name: '&bМашина за картице - калајни прах'
+  name: '&bКартица за машину: калајни прах'
   stats:
   - '&aСредња машина'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fПрелазак на производњу видерових ружа'
-  name: '&bМашина за картице - видерова ружа'
+  name: '&bКартица за машину: видерова ружа'
   stats:
   - '&eОсновна машина'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fПрелазак на производњу цинканог праха'
-  name: '&bМашина за картице - цинкани прах'
+  name: '&bКартица за машину: цинкани прах'
   stats:
   - '&aСредња машина'
   type:

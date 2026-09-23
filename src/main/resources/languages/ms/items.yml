@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Loyang Aluminium'
-  name: '&bMesin Kad Jongkong Loyang Aluminium'
+  name: '&bKad Mesin: Jongkong Loyang Aluminium'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Gangsa Aluminium'
-  name: '&bMesin Kad Jongkong Gangsa Aluminium'
+  name: '&bKad Mesin: Jongkong Gangsa Aluminium'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Aluminium'
-  name: '&bMesin Kad Serbuk Aluminium'
+  name: '&bKad Mesin: Serbuk Aluminium'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fUbah kepada Pengeluaran Ametis'
-  name: '&bMesin Kad Ametis'
+  name: '&bKad Mesin: Ametis'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fUbah kepada Pengeluaran Andesit'
-  name: '&bMesin Kad Andesit'
+  name: '&bKad Mesin: Andesit'
   stats:
   - '&eMesin Asas'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fUbah kepada Pengeluaran Epal'
-  name: '&bMesin Kad Epal'
+  name: '&bKad Mesin: Epal'
   stats:
   - '&eMesin Asas'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fUbah kepada Pengeluaran Bateri'
-  name: '&bMesin Kad Bateri'
+  name: '&bKad Mesin: Bateri'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Bilon'
-  name: '&bMesin Kad Jongkong Bilon'
+  name: '&bKad Mesin: Jongkong Bilon'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fUbah kepada Pengeluaran Rod Blaze'
-  name: '&bMesin Kad Rod Blaze'
+  name: '&bKad Mesin: Rod Blaze'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Loyang'
-  name: '&bMesin Kad Jongkong Loyang'
+  name: '&bKad Mesin: Jongkong Loyang'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Gangsa'
-  name: '&bMesin Kad Jongkong Gangsa'
+  name: '&bKad Mesin: Jongkong Gangsa'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fUbah kepada Pengeluaran Karbon'
-  name: '&bMesin Kad Karbon'
+  name: '&bKad Mesin: Karbon'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fUbah kepada Pengeluaran Carbonado'
-  name: '&bMesin Kad Carbonado'
+  name: '&bKad Mesin: Carbonado'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fUbah kepada Pengeluaran Karbon Termampat'
-  name: '&bMesin Kad Karbon Termampat'
+  name: '&bKad Mesin: Karbon Termampat'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fUbah kepada Pengeluaran Tanah Liat'
-  name: '&bMesin Kad Tanah Liat'
+  name: '&bKad Mesin: Tanah Liat'
   stats:
   - '&eMesin Asas'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fUbah kepada Pengeluaran Arang Batu'
-  name: '&bMesin Kad Arang Batu'
+  name: '&bKad Mesin: Arang Batu'
   stats:
   - '&eMesin Asas'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fUbah kepada Pengeluaran Kobalt'
-  name: '&bMesin Kad Kobalt'
+  name: '&bKad Mesin: Kobalt'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fUbah kepada Pengeluaran Tembaga'
-  name: '&bMesin Kad Tembaga'
+  name: '&bKad Mesin: Tembaga'
   stats:
   - '&eMesin Asas'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Tembaga'
-  name: '&bMesin Kad Serbuk Tembaga'
+  name: '&bKad Mesin: Serbuk Tembaga'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Gangsa Korinthia'
-  name: '&bMesin Kad Jongkong Gangsa Korinthia'
+  name: '&bKad Mesin: Jongkong Gangsa Korinthia'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fUbah kepada Pengeluaran Damascus'
-  name: '&bMesin Kad Damascus'
+  name: '&bKad Mesin: Damascus'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fUbah kepada Pengeluaran Berlian'
-  name: '&bMesin Kad Berlian'
+  name: '&bKad Mesin: Berlian'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fUbah kepada Pengeluaran Diorit'
-  name: '&bMesin Kad Diorit'
+  name: '&bKad Mesin: Diorit'
   stats:
   - '&eMesin Asas'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Duralumin'
-  name: '&bMesin Kad Jongkong Duralumin'
+  name: '&bKad Mesin: Jongkong Duralumin'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fUbah kepada Pengeluaran Motor Elektrik'
-  name: '&bMesin Kad Motor Elektrik'
+  name: '&bKad Mesin: Motor Elektrik'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fUbah kepada Pengeluaran Elektromagnet'
-  name: '&bMesin Kad Elektromagnet'
+  name: '&bKad Mesin: Elektromagnet'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fUbah kepada Pengeluaran Zamrud'
-  name: '&bMesin Kad Zamrud'
+  name: '&bKad Mesin: Zamrud'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fUbah kepada Pengeluaran Batu End'
-  name: '&bMesin Kad Batu End'
+  name: '&bKad Mesin: Batu End'
   stats:
   - '&eMesin Asas'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fUbah kepada Pengeluaran Ferrosilikon'
-  name: '&bMesin Kad Ferrosilikon'
+  name: '&bKad Mesin: Ferrosilikon'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fUbah kepada Pengeluaran Kantung Dakwat Bercahaya'
-  name: '&bMesin Kad Kantung Dakwat Bercahaya'
+  name: '&bKad Mesin: Kantung Dakwat Bercahaya'
   stats:
   - '&eMesin Asas'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fUbah kepada Pengeluaran Emas'
-  name: '&bMesin Kad Emas'
+  name: '&bKad Mesin: Emas'
   stats:
   - '&eMesin Asas'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fUbah kepada Pengeluaran Emas 24k'
-  name: '&bMesin Kad Emas 24k'
+  name: '&bKad Mesin: Emas 24k'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Emas'
-  name: '&bMesin Kad Serbuk Emas'
+  name: '&bKad Mesin: Serbuk Emas'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fUbah kepada Pengeluaran Granit'
-  name: '&bMesin Kad Granit'
+  name: '&bKad Mesin: Granit'
   stats:
   - '&eMesin Asas'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fUbah kepada Pengeluaran Kerikil'
-  name: '&bMesin Kad Kerikil'
+  name: '&bKad Mesin: Kerikil'
   stats:
   - '&eMesin Asas'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Logam Dikeraskan'
-  name: '&bMesin Kad Jongkong Logam Dikeraskan'
+  name: '&bKad Mesin: Jongkong Logam Dikeraskan'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fUbah kepada Pengeluaran Gegelung Pemanas'
-  name: '&bMesin Kad Gegelung Pemanas'
+  name: '&bKad Mesin: Gegelung Pemanas'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fUbah kepada Pengeluaran Botol Madu'
-  name: '&bMesin Kad Botol Madu'
+  name: '&bKad Mesin: Botol Madu'
   stats:
   - '&eMesin Asas'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fUbah kepada Pengeluaran Kantung Dakwat'
-  name: '&bMesin Kad Kantung Dakwat'
+  name: '&bKad Mesin: Kantung Dakwat'
   stats:
   - '&eMesin Asas'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fUbah kepada Pengeluaran Besi'
-  name: '&bMesin Kad Besi'
+  name: '&bKad Mesin: Besi'
   stats:
   - '&eMesin Asas'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Besi'
-  name: '&bMesin Kad Serbuk Besi'
+  name: '&bKad Mesin: Serbuk Besi'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fUbah kepada Pengeluaran Lazuardi'
-  name: '&bMesin Kad Lazuardi'
+  name: '&bKad Mesin: Lazuardi'
   stats:
   - '&eMesin Asas'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Plumbum'
-  name: '&bMesin Kad Serbuk Plumbum'
+  name: '&bKad Mesin: Serbuk Plumbum'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Magnesium'
-  name: '&bMesin Kad Serbuk Magnesium'
+  name: '&bKad Mesin: Serbuk Magnesium'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fUbah kepada Pengeluaran Magnet'
-  name: '&bMesin Kad Magnet'
+  name: '&bKad Mesin: Magnet'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fUbah kepada Pengeluaran Netherite'
-  name: '&bMesin Kad Netherite'
+  name: '&bKad Mesin: Netherite'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fUbah kepada Pengeluaran Bintang Nether'
-  name: '&bMesin Kad Bintang Nether'
+  name: '&bKad Mesin: Bintang Nether'
   stats:
   - '&eMesin Asas'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fUbah kepada Pengeluaran Nikel'
-  name: '&bMesin Kad Nikel'
+  name: '&bKad Mesin: Nikel'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fUbah kepada Pengeluaran Kepingan Plastik'
-  name: '&bMesin Kad Kepingan Plastik'
+  name: '&bKad Mesin: Kepingan Plastik'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fUbah kepada Pengeluaran Kuarza'
-  name: '&bMesin Kad Kuarza'
+  name: '&bKad Mesin: Kuarza'
   stats:
   - '&eMesin Asas'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fUbah kepada Pengeluaran Blok Kuarza'
-  name: '&bMesin Kad Blok Kuarza'
+  name: '&bKad Mesin: Blok Kuarza'
   stats:
   - '&eMesin Asas'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fUbah kepada Pengeluaran Batu Merah'
-  name: '&bMesin Kad Batu Merah'
+  name: '&bKad Mesin: Batu Merah'
   stats:
   - '&eMesin Asas'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fUbah kepada Pengeluaran Aloi Batu Merah'
-  name: '&bMesin Kad Aloi Batu Merah'
+  name: '&bKad Mesin: Aloi Batu Merah'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Aloi Diperkukuh'
-  name: '&bMesin Kad Jongkong Aloi Diperkukuh'
+  name: '&bKad Mesin: Jongkong Aloi Diperkukuh'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fUbah kepada Pengeluaran Pasir'
-  name: '&bMesin Kad Pasir'
+  name: '&bKad Mesin: Pasir'
   stats:
   - '&eMesin Asas'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fUbah kepada Pengeluaran Silikon'
-  name: '&bMesin Kad Silikon'
+  name: '&bKad Mesin: Silikon'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Perak'
-  name: '&bMesin Kad Serbuk Perak'
+  name: '&bKad Mesin: Serbuk Perak'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fUbah kepada Pengeluaran Bola Slime'
-  name: '&bMesin Kad Bola Slime'
+  name: '&bKad Mesin: Bola Slime'
   stats:
   - '&eMesin Asas'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fUbah kepada Pengeluaran Salji'
-  name: '&bMesin Kad Salji'
+  name: '&bKad Mesin: Salji'
   stats:
   - '&eMesin Asas'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fUbah kepada Pengeluaran Jongkong Pateri'
-  name: '&bMesin Kad Jongkong Pateri'
+  name: '&bKad Mesin: Jongkong Pateri'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fUbah kepada Pengeluaran Keluli'
-  name: '&bMesin Kad Keluli'
+  name: '&bKad Mesin: Keluli'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fUbah kepada Pengeluaran Batu'
-  name: '&bMesin Kad Batu'
+  name: '&bKad Mesin: Batu'
   stats:
   - '&eMesin Asas'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fUbah kepada Pengeluaran Sulfat'
-  name: '&bMesin Kad Sulfat'
+  name: '&bKad Mesin: Sulfat'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fUbah kepada Pengeluaran Berlian Sintetik'
-  name: '&bMesin Kad Berlian Sintetik'
+  name: '&bKad Mesin: Berlian Sintetik'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fUbah kepada Pengeluaran Zamrud Sintetik'
-  name: '&bMesin Kad Zamrud Sintetik'
+  name: '&bKad Mesin: Zamrud Sintetik'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fUbah kepada Pengeluaran Nilam Sintetik'
-  name: '&bMesin Kad Nilam Sintetik'
+  name: '&bKad Mesin: Nilam Sintetik'
   stats:
   - '&6Mesin Lanjutan'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Timah'
-  name: '&bMesin Kad Serbuk Timah'
+  name: '&bKad Mesin: Serbuk Timah'
   stats:
   - '&aMesin Sederhana'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fUbah kepada Pengeluaran Ros Wither'
-  name: '&bMesin Kad Ros Wither'
+  name: '&bKad Mesin: Ros Wither'
   stats:
   - '&eMesin Asas'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fUbah kepada Pengeluaran Serbuk Zink'
-  name: '&bMesin Kad Serbuk Zink'
+  name: '&bKad Mesin: Serbuk Zink'
   stats:
   - '&aMesin Sederhana'
   type:

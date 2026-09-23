@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fMainīt ražošanu uz alumīnija misiņa lietni'
-  name: '&bKaršu mašīna: alumīnija misiņa lietnis'
+  name: '&bMašīnas karte: alumīnija misiņa lietnis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fMainīt ražošanu uz alumīnija bronzas lietni'
-  name: '&bKaršu mašīna: alumīnija bronzas lietnis'
+  name: '&bMašīnas karte: alumīnija bronzas lietnis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fMainīt ražošanu uz alumīnija putekļus'
-  name: '&bKaršu mašīna: alumīnija putekļi'
+  name: '&bMašīnas karte: alumīnija putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fMainīt ražošanu uz ametistu'
-  name: '&bKaršu mašīna: ametists'
+  name: '&bMašīnas karte: ametists'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fMainīt ražošanu uz andezītu'
-  name: '&bKaršu mašīna: andezīts'
+  name: '&bMašīnas karte: andezīts'
   stats:
   - '&ePamata mašīna'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fMainīt ražošanu uz ābolu'
-  name: '&bKaršu mašīna: ābols'
+  name: '&bMašīnas karte: ābols'
   stats:
   - '&ePamata mašīna'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fMainīt ražošanu uz bateriju'
-  name: '&bKaršu mašīna: baterija'
+  name: '&bMašīnas karte: baterija'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fMainīt ražošanu uz biljona lietni'
-  name: '&bKaršu mašīna: biljona lietnis'
+  name: '&bMašīnas karte: biljona lietnis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fMainīt ražošanu uz Blaze stieni'
-  name: '&bKaršu mašīna: Blaze stienis'
+  name: '&bMašīnas karte: Blaze stienis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fMainīt ražošanu uz misiņa lietni'
-  name: '&bKaršu mašīna: misiņa lietnis'
+  name: '&bMašīnas karte: misiņa lietnis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fMainīt ražošanu uz bronzas lietni'
-  name: '&bKaršu mašīna: bronzas lietnis'
+  name: '&bMašīnas karte: bronzas lietnis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fMainīt ražošanu uz oglekli'
-  name: '&bKaršu mašīna: ogleklis'
+  name: '&bMašīnas karte: ogleklis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fMainīt ražošanu uz karbonado'
-  name: '&bKaršu mašīna: karbonado'
+  name: '&bMašīnas karte: karbonado'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fMainīt ražošanu uz saspiestu oglekli'
-  name: '&bKaršu mašīna: saspiests ogleklis'
+  name: '&bMašīnas karte: saspiests ogleklis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fMainīt ražošanu uz mālu'
-  name: '&bKaršu mašīna: māls'
+  name: '&bMašīnas karte: māls'
   stats:
   - '&ePamata mašīna'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fMainīt ražošanu uz oglēm'
-  name: '&bKaršu mašīna: ogles'
+  name: '&bMašīnas karte: ogles'
   stats:
   - '&ePamata mašīna'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fMainīt ražošanu uz kobaltu'
-  name: '&bKaršu mašīna: kobalts'
+  name: '&bMašīnas karte: kobalts'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fMainīt ražošanu uz varu'
-  name: '&bKaršu mašīna: varš'
+  name: '&bMašīnas karte: varš'
   stats:
   - '&ePamata mašīna'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fMainīt ražošanu uz vara putekļus'
-  name: '&bKaršu mašīna: vara putekļi'
+  name: '&bMašīnas karte: vara putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fMainīt ražošanu uz korintiešu bronzas lietni'
-  name: '&bKaršu mašīna: korintiešu bronzas lietnis'
+  name: '&bMašīnas karte: korintiešu bronzas lietnis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fMainīt ražošanu uz damasku'
-  name: '&bKaršu mašīna: damasks'
+  name: '&bMašīnas karte: damasks'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fMainīt ražošanu uz dimantu'
-  name: '&bKaršu mašīna: dimants'
+  name: '&bMašīnas karte: dimants'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fMainīt ražošanu uz diorītu'
-  name: '&bKaršu mašīna: diorīts'
+  name: '&bMašīnas karte: diorīts'
   stats:
   - '&ePamata mašīna'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fMainīt ražošanu uz duralumīnija lietni'
-  name: '&bKaršu mašīna: duralumīnija lietnis'
+  name: '&bMašīnas karte: duralumīnija lietnis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fMainīt ražošanu uz elektromotoru'
-  name: '&bKaršu mašīna: elektromotors'
+  name: '&bMašīnas karte: elektromotors'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fMainīt ražošanu uz elektromagnētu'
-  name: '&bKaršu mašīna: elektromagnēts'
+  name: '&bMašīnas karte: elektromagnēts'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fMainīt ražošanu uz smaragdu'
-  name: '&bKaršu mašīna: smaragds'
+  name: '&bMašīnas karte: smaragds'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fMainīt ražošanu uz Enda akmeni'
-  name: '&bKaršu mašīna: Enda akmens'
+  name: '&bMašīnas karte: Enda akmens'
   stats:
   - '&ePamata mašīna'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fMainīt ražošanu uz ferosilīciju'
-  name: '&bKaršu mašīna: ferosilīcijs'
+  name: '&bMašīnas karte: ferosilīcijs'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fMainīt ražošanu uz mirdzošo tintes maisiņu'
-  name: '&bKaršu mašīna: mirdzošais tintes maisiņš'
+  name: '&bMašīnas karte: mirdzošais tintes maisiņš'
   stats:
   - '&ePamata mašīna'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fMainīt ražošanu uz zeltu'
-  name: '&bKaršu mašīna: zelts'
+  name: '&bMašīnas karte: zelts'
   stats:
   - '&ePamata mašīna'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fMainīt ražošanu uz 24k zeltu'
-  name: '&bKaršu mašīna: 24k zelts'
+  name: '&bMašīnas karte: 24k zelts'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fMainīt ražošanu uz zelta putekļus'
-  name: '&bKaršu mašīna: zelta putekļi'
+  name: '&bMašīnas karte: zelta putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fMainīt ražošanu uz granītu'
-  name: '&bKaršu mašīna: granīts'
+  name: '&bMašīnas karte: granīts'
   stats:
   - '&ePamata mašīna'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fMainīt ražošanu uz granti'
-  name: '&bKaršu mašīna: grants'
+  name: '&bMašīnas karte: grants'
   stats:
   - '&ePamata mašīna'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fMainīt ražošanu uz rūdīta metāla lietni'
-  name: '&bKaršu mašīna: rūdīta metāla lietnis'
+  name: '&bMašīnas karte: rūdīta metāla lietnis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fMainīt ražošanu uz sildspirāli'
-  name: '&bKaršu mašīna: sildspirāle'
+  name: '&bMašīnas karte: sildspirāle'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fMainīt ražošanu uz medus pudeli'
-  name: '&bKaršu mašīna: medus pudele'
+  name: '&bMašīnas karte: medus pudele'
   stats:
   - '&ePamata mašīna'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fMainīt ražošanu uz tintes maisiņu'
-  name: '&bKaršu mašīna: tintes maisiņš'
+  name: '&bMašīnas karte: tintes maisiņš'
   stats:
   - '&ePamata mašīna'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fMainīt ražošanu uz dzelzi'
-  name: '&bKaršu mašīna: dzelzs'
+  name: '&bMašīnas karte: dzelzs'
   stats:
   - '&ePamata mašīna'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fMainīt ražošanu uz dzelzs putekļus'
-  name: '&bKaršu mašīna: dzelzs putekļi'
+  name: '&bMašīnas karte: dzelzs putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fMainīt ražošanu uz lazurītu'
-  name: '&bKaršu mašīna: lazurīts'
+  name: '&bMašīnas karte: lazurīts'
   stats:
   - '&ePamata mašīna'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fMainīt ražošanu uz svina putekļus'
-  name: '&bKaršu mašīna: svina putekļi'
+  name: '&bMašīnas karte: svina putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fMainīt ražošanu uz magnija putekļus'
-  name: '&bKaršu mašīna: magnija putekļi'
+  name: '&bMašīnas karte: magnija putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fMainīt ražošanu uz magnētu'
-  name: '&bKaršu mašīna: magnēts'
+  name: '&bMašīnas karte: magnēts'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fMainīt ražošanu uz netherītu'
-  name: '&bKaršu mašīna: netherīts'
+  name: '&bMašīnas karte: netherīts'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fMainīt ražošanu uz Nether zvaigzni'
-  name: '&bKaršu mašīna: Nether zvaigzne'
+  name: '&bMašīnas karte: Nether zvaigzne'
   stats:
   - '&ePamata mašīna'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fMainīt ražošanu uz niķeli'
-  name: '&bKaršu mašīna: niķelis'
+  name: '&bMašīnas karte: niķelis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fMainīt ražošanu uz plastmasas loksni'
-  name: '&bKaršu mašīna: plastmasas loksne'
+  name: '&bMašīnas karte: plastmasas loksne'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fMainīt ražošanu uz kvarcu'
-  name: '&bKaršu mašīna: kvarcs'
+  name: '&bMašīnas karte: kvarcs'
   stats:
   - '&ePamata mašīna'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fMainīt ražošanu uz kvarca bloku'
-  name: '&bKaršu mašīna: kvarca bloks'
+  name: '&bMašīnas karte: kvarca bloks'
   stats:
   - '&ePamata mašīna'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fMainīt ražošanu uz sarkanakmeni'
-  name: '&bKaršu mašīna: sarkanakmens'
+  name: '&bMašīnas karte: sarkanakmens'
   stats:
   - '&ePamata mašīna'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fMainīt ražošanu uz sarkanakmens sakausējumu'
-  name: '&bKaršu mašīna: sarkanakmens sakausējums'
+  name: '&bMašīnas karte: sarkanakmens sakausējums'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fMainīt ražošanu uz pastiprināta sakausējuma lietni'
-  name: '&bKaršu mašīna: pastiprināta sakausējuma lietnis'
+  name: '&bMašīnas karte: pastiprināta sakausējuma lietnis'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fMainīt ražošanu uz smiltīm'
-  name: '&bKaršu mašīna: smiltis'
+  name: '&bMašīnas karte: smiltis'
   stats:
   - '&ePamata mašīna'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fMainīt ražošanu uz silīciju'
-  name: '&bKaršu mašīna: silīcijs'
+  name: '&bMašīnas karte: silīcijs'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fMainīt ražošanu uz sudraba putekļus'
-  name: '&bKaršu mašīna: sudraba putekļi'
+  name: '&bMašīnas karte: sudraba putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fMainīt ražošanu uz gļotu bumbu'
-  name: '&bKaršu mašīna: gļotu bumba'
+  name: '&bMašīnas karte: gļotu bumba'
   stats:
   - '&ePamata mašīna'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fMainīt ražošanu uz sniegu'
-  name: '&bKaršu mašīna: sniegs'
+  name: '&bMašīnas karte: sniegs'
   stats:
   - '&ePamata mašīna'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fMainīt ražošanu uz lodmetāla lietni'
-  name: '&bKaršu mašīna: lodmetāla lietnis'
+  name: '&bMašīnas karte: lodmetāla lietnis'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fMainīt ražošanu uz tēraudu'
-  name: '&bKaršu mašīna: tērauds'
+  name: '&bMašīnas karte: tērauds'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fMainīt ražošanu uz akmeni'
-  name: '&bKaršu mašīna: akmens'
+  name: '&bMašīnas karte: akmens'
   stats:
   - '&ePamata mašīna'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fMainīt ražošanu uz sulfātu'
-  name: '&bKaršu mašīna: sulfāts'
+  name: '&bMašīnas karte: sulfāts'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fMainīt ražošanu uz sintētisku dimantu'
-  name: '&bKaršu mašīna: sintētisks dimants'
+  name: '&bMašīnas karte: sintētisks dimants'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fMainīt ražošanu uz sintētisku smaragdu'
-  name: '&bKaršu mašīna: sintētisks smaragds'
+  name: '&bMašīnas karte: sintētisks smaragds'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fMainīt ražošanu uz sintētisku safīru'
-  name: '&bKaršu mašīna: sintētisks safīrs'
+  name: '&bMašīnas karte: sintētisks safīrs'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fMainīt ražošanu uz alvas putekļus'
-  name: '&bKaršu mašīna: alvas putekļi'
+  name: '&bMašīnas karte: alvas putekļi'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fMainīt ražošanu uz Wither rozi'
-  name: '&bKaršu mašīna: Wither roze'
+  name: '&bMašīnas karte: Wither roze'
   stats:
   - '&ePamata mašīna'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fMainīt ražošanu uz cinka putekļus'
-  name: '&bKaršu mašīna: cinka putekļi'
+  name: '&bMašīnas karte: cinka putekļi'
   stats:
   - '&aVidēja mašīna'
   type:

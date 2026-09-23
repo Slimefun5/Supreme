@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fZmeniť produkciu na hliníkovo-mosadzný ingot'
-  name: '&bKartový stroj: hliníkovo-mosadzný ingot'
+  name: '&bKarta pre stroj: hliníkovo-mosadzný ingot'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fZmeniť produkciu na hliníkovo-bronzový ingot'
-  name: '&bKartový stroj: hliníkovo-bronzový ingot'
+  name: '&bKarta pre stroj: hliníkovo-bronzový ingot'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fZmeniť produkciu na hliníkový prach'
-  name: '&bKartový stroj: hliníkový prach'
+  name: '&bKarta pre stroj: hliníkový prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fZmeniť produkciu na ametyst'
-  name: '&bKartový stroj: ametyst'
+  name: '&bKarta pre stroj: ametyst'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fZmeniť produkciu na andezit'
-  name: '&bKartový stroj: andezit'
+  name: '&bKarta pre stroj: andezit'
   stats:
   - '&eZákladný stroj'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fZmeniť produkciu na jablko'
-  name: '&bKartový stroj: jablko'
+  name: '&bKarta pre stroj: jablko'
   stats:
   - '&eZákladný stroj'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fZmeniť produkciu na batériu'
-  name: '&bKartový stroj: batéria'
+  name: '&bKarta pre stroj: batéria'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fZmeniť produkciu na billonový ingot'
-  name: '&bKartový stroj: billonový ingot'
+  name: '&bKarta pre stroj: billonový ingot'
   stats:
   - '&aStredný stroj'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fZmeniť produkciu na ohnivú tyč'
-  name: '&bKartový stroj: ohnivá tyč'
+  name: '&bKarta pre stroj: ohnivá tyč'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fZmeniť produkciu na mosadzný ingot'
-  name: '&bKartový stroj: mosadzný ingot'
+  name: '&bKarta pre stroj: mosadzný ingot'
   stats:
   - '&aStredný stroj'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fZmeniť produkciu na bronzový ingot'
-  name: '&bKartový stroj: bronzový ingot'
+  name: '&bKarta pre stroj: bronzový ingot'
   stats:
   - '&aStredný stroj'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fZmeniť produkciu na uhlík'
-  name: '&bKartový stroj: uhlík'
+  name: '&bKarta pre stroj: uhlík'
   stats:
   - '&aStredný stroj'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fZmeniť produkciu na karbonado'
-  name: '&bKartový stroj: karbonado'
+  name: '&bKarta pre stroj: karbonado'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fZmeniť produkciu na stlačený uhlík'
-  name: '&bKartový stroj: stlačený uhlík'
+  name: '&bKarta pre stroj: stlačený uhlík'
   stats:
   - '&aStredný stroj'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fZmeniť produkciu na hlinu'
-  name: '&bKartový stroj: hlina'
+  name: '&bKarta pre stroj: hlina'
   stats:
   - '&eZákladný stroj'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fZmeniť produkciu na uhlie'
-  name: '&bKartový stroj: uhlie'
+  name: '&bKarta pre stroj: uhlie'
   stats:
   - '&eZákladný stroj'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fZmeniť produkciu na kobalt'
-  name: '&bKartový stroj: kobalt'
+  name: '&bKarta pre stroj: kobalt'
   stats:
   - '&aStredný stroj'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fZmeniť produkciu na meď'
-  name: '&bKartový stroj: meď'
+  name: '&bKarta pre stroj: meď'
   stats:
   - '&eZákladný stroj'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fZmeniť produkciu na medený prach'
-  name: '&bKartový stroj: medený prach'
+  name: '&bKarta pre stroj: medený prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fZmeniť produkciu na korintský bronzový ingot'
-  name: '&bKartový stroj: korintský bronzový ingot'
+  name: '&bKarta pre stroj: korintský bronzový ingot'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fZmeniť produkciu na damascénsku oceľ'
-  name: '&bKartový stroj: damascénska oceľ'
+  name: '&bKarta pre stroj: damascénska oceľ'
   stats:
   - '&aStredný stroj'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fZmeniť produkciu na diamant'
-  name: '&bKartový stroj: diamant'
+  name: '&bKarta pre stroj: diamant'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fZmeniť produkciu na diorit'
-  name: '&bKartový stroj: diorit'
+  name: '&bKarta pre stroj: diorit'
   stats:
   - '&eZákladný stroj'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fZmeniť produkciu na duralový ingot'
-  name: '&bKartový stroj: duralový ingot'
+  name: '&bKarta pre stroj: duralový ingot'
   stats:
   - '&aStredný stroj'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fZmeniť produkciu na elektrický motor'
-  name: '&bKartový stroj: elektrický motor'
+  name: '&bKarta pre stroj: elektrický motor'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fZmeniť produkciu na elektromagnet'
-  name: '&bKartový stroj: elektromagnet'
+  name: '&bKarta pre stroj: elektromagnet'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fZmeniť produkciu na smaragd'
-  name: '&bKartový stroj: smaragd'
+  name: '&bKarta pre stroj: smaragd'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fZmeniť produkciu na endový kameň'
-  name: '&bKartový stroj: endový kameň'
+  name: '&bKarta pre stroj: endový kameň'
   stats:
   - '&eZákladný stroj'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fZmeniť produkciu na ferosilícium'
-  name: '&bKartový stroj: ferosilícium'
+  name: '&bKarta pre stroj: ferosilícium'
   stats:
   - '&aStredný stroj'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fZmeniť produkciu na svietiaci atramentový vak'
-  name: '&bKartový stroj: svietiaci atramentový vak'
+  name: '&bKarta pre stroj: svietiaci atramentový vak'
   stats:
   - '&eZákladný stroj'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fZmeniť produkciu na zlato'
-  name: '&bKartový stroj: zlato'
+  name: '&bKarta pre stroj: zlato'
   stats:
   - '&eZákladný stroj'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fZmeniť produkciu na zlato 24k'
-  name: '&bKartový stroj: zlato 24k'
+  name: '&bKarta pre stroj: zlato 24k'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fZmeniť produkciu na zlatý prach'
-  name: '&bKartový stroj: zlatý prach'
+  name: '&bKarta pre stroj: zlatý prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fZmeniť produkciu na granit'
-  name: '&bKartový stroj: granit'
+  name: '&bKarta pre stroj: granit'
   stats:
   - '&eZákladný stroj'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fZmeniť produkciu na štrk'
-  name: '&bKartový stroj: štrk'
+  name: '&bKarta pre stroj: štrk'
   stats:
   - '&eZákladný stroj'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fZmeniť produkciu na tvrdený kovový ingot'
-  name: '&bKartový stroj: tvrdený kovový ingot'
+  name: '&bKarta pre stroj: tvrdený kovový ingot'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fZmeniť produkciu na ohrievaciu špirálu'
-  name: '&bKartový stroj: ohrievacia špirála'
+  name: '&bKarta pre stroj: ohrievacia špirála'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fZmeniť produkciu na fľašu medu'
-  name: '&bKartový stroj: fľaša medu'
+  name: '&bKarta pre stroj: fľaša medu'
   stats:
   - '&eZákladný stroj'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fZmeniť produkciu na atramentový vak'
-  name: '&bKartový stroj: atramentový vak'
+  name: '&bKarta pre stroj: atramentový vak'
   stats:
   - '&eZákladný stroj'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fZmeniť produkciu na železo'
-  name: '&bKartový stroj: železo'
+  name: '&bKarta pre stroj: železo'
   stats:
   - '&eZákladný stroj'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fZmeniť produkciu na železný prach'
-  name: '&bKartový stroj: železný prach'
+  name: '&bKarta pre stroj: železný prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fZmeniť produkciu na lazurit'
-  name: '&bKartový stroj: lazurit'
+  name: '&bKarta pre stroj: lazurit'
   stats:
   - '&eZákladný stroj'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fZmeniť produkciu na olovený prach'
-  name: '&bKartový stroj: olovený prach'
+  name: '&bKarta pre stroj: olovený prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fZmeniť produkciu na horčíkový prach'
-  name: '&bKartový stroj: horčíkový prach'
+  name: '&bKarta pre stroj: horčíkový prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fZmeniť produkciu na magnet'
-  name: '&bKartový stroj: magnet'
+  name: '&bKarta pre stroj: magnet'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fZmeniť produkciu na netherit'
-  name: '&bKartový stroj: netherit'
+  name: '&bKarta pre stroj: netherit'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fZmeniť produkciu na netherovú hviezdu'
-  name: '&bKartový stroj: netherová hviezda'
+  name: '&bKarta pre stroj: netherová hviezda'
   stats:
   - '&eZákladný stroj'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fZmeniť produkciu na nikel'
-  name: '&bKartový stroj: nikel'
+  name: '&bKarta pre stroj: nikel'
   stats:
   - '&aStredný stroj'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fZmeniť produkciu na plastovú fóliu'
-  name: '&bKartový stroj: plastová fólia'
+  name: '&bKarta pre stroj: plastová fólia'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fZmeniť produkciu na kremeň'
-  name: '&bKartový stroj: kremeň'
+  name: '&bKarta pre stroj: kremeň'
   stats:
   - '&eZákladný stroj'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fZmeniť produkciu na kremenný blok'
-  name: '&bKartový stroj: kremenný blok'
+  name: '&bKarta pre stroj: kremenný blok'
   stats:
   - '&eZákladný stroj'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fZmeniť produkciu na redstone'
-  name: '&bKartový stroj: redstone'
+  name: '&bKarta pre stroj: redstone'
   stats:
   - '&eZákladný stroj'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fZmeniť produkciu na redstonovú zliatinu'
-  name: '&bKartový stroj: redstonová zliatina'
+  name: '&bKarta pre stroj: redstonová zliatina'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fZmeniť produkciu na vystužený zliatinový ingot'
-  name: '&bKartový stroj: vystužený zliatinový ingot'
+  name: '&bKarta pre stroj: vystužený zliatinový ingot'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fZmeniť produkciu na piesok'
-  name: '&bKartový stroj: piesok'
+  name: '&bKarta pre stroj: piesok'
   stats:
   - '&eZákladný stroj'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fZmeniť produkciu na kremík'
-  name: '&bKartový stroj: kremík'
+  name: '&bKarta pre stroj: kremík'
   stats:
   - '&aStredný stroj'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fZmeniť produkciu na strieborný prach'
-  name: '&bKartový stroj: strieborný prach'
+  name: '&bKarta pre stroj: strieborný prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fZmeniť produkciu na slizovú guľu'
-  name: '&bKartový stroj: slizová guľa'
+  name: '&bKarta pre stroj: slizová guľa'
   stats:
   - '&eZákladný stroj'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fZmeniť produkciu na sneh'
-  name: '&bKartový stroj: sneh'
+  name: '&bKarta pre stroj: sneh'
   stats:
   - '&eZákladný stroj'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fZmeniť produkciu na spájkový ingot'
-  name: '&bKartový stroj: spájkový ingot'
+  name: '&bKarta pre stroj: spájkový ingot'
   stats:
   - '&aStredný stroj'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fZmeniť produkciu na oceľ'
-  name: '&bKartový stroj: oceľ'
+  name: '&bKarta pre stroj: oceľ'
   stats:
   - '&aStredný stroj'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fZmeniť produkciu na kameň'
-  name: '&bKartový stroj: kameň'
+  name: '&bKarta pre stroj: kameň'
   stats:
   - '&eZákladný stroj'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fZmeniť produkciu na sulfát'
-  name: '&bKartový stroj: sulfát'
+  name: '&bKarta pre stroj: sulfát'
   stats:
   - '&aStredný stroj'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fZmeniť produkciu na syntetický diamant'
-  name: '&bKartový stroj: syntetický diamant'
+  name: '&bKarta pre stroj: syntetický diamant'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fZmeniť produkciu na syntetický smaragd'
-  name: '&bKartový stroj: syntetický smaragd'
+  name: '&bKarta pre stroj: syntetický smaragd'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fZmeniť produkciu na syntetický zafír'
-  name: '&bKartový stroj: syntetický zafír'
+  name: '&bKarta pre stroj: syntetický zafír'
   stats:
   - '&6Pokročilý stroj'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fZmeniť produkciu na cínový prach'
-  name: '&bKartový stroj: cínový prach'
+  name: '&bKarta pre stroj: cínový prach'
   stats:
   - '&aStredný stroj'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fZmeniť produkciu na Witherovu ružu'
-  name: '&bKartový stroj: Witherova ruža'
+  name: '&bKarta pre stroj: Witherova ruža'
   stats:
   - '&eZákladný stroj'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fZmeniť produkciu na zinkový prach'
-  name: '&bKartový stroj: zinkový prach'
+  name: '&bKarta pre stroj: zinkový prach'
   stats:
   - '&aStredný stroj'
   type:

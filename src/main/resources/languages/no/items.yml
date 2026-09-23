@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fEndre til produksjon av aluminiumsmessingbarre'
-  name: '&bKortmaskin aluminiumsmessingbarre'
+  name: '&bMaskinkort: aluminiumsmessingbarre'
   stats:
   - '&6Avansert maskin'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fEndre til produksjon av aluminiumsbronsebarre'
-  name: '&bKortmaskin aluminiumsbronsebarre'
+  name: '&bMaskinkort: aluminiumsbronsebarre'
   stats:
   - '&6Avansert maskin'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fEndre til produksjon av aluminiumsstøv'
-  name: '&bKortmaskin aluminiumsstøv'
+  name: '&bMaskinkort: aluminiumsstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fEndre til produksjon av ametyst'
-  name: '&bKortmaskin ametyst'
+  name: '&bMaskinkort: ametyst'
   stats:
   - '&6Avansert maskin'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fEndre til produksjon av andesitt'
-  name: '&bKortmaskin andesitt'
+  name: '&bMaskinkort: andesitt'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fEndre til produksjon av eple'
-  name: '&bKortmaskin eple'
+  name: '&bMaskinkort: eple'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fEndre til produksjon av batteri'
-  name: '&bKortmaskin batteri'
+  name: '&bMaskinkort: batteri'
   stats:
   - '&6Avansert maskin'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fEndre til produksjon av billonbarre'
-  name: '&bKortmaskin billonbarre'
+  name: '&bMaskinkort: billonbarre'
   stats:
   - '&aMiddels maskin'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fEndre til produksjon av blazestav'
-  name: '&bKortmaskin blazestav'
+  name: '&bMaskinkort: blazestav'
   stats:
   - '&6Avansert maskin'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fEndre til produksjon av messingbarre'
-  name: '&bKortmaskin messingbarre'
+  name: '&bMaskinkort: messingbarre'
   stats:
   - '&aMiddels maskin'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fEndre til produksjon av bronsebarre'
-  name: '&bKortmaskin bronsebarre'
+  name: '&bMaskinkort: bronsebarre'
   stats:
   - '&aMiddels maskin'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fEndre til produksjon av karbon'
-  name: '&bKortmaskin karbon'
+  name: '&bMaskinkort: karbon'
   stats:
   - '&aMiddels maskin'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fEndre til produksjon av karbonado'
-  name: '&bKortmaskin karbonado'
+  name: '&bMaskinkort: karbonado'
   stats:
   - '&6Avansert maskin'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fEndre til produksjon av komprimert karbon'
-  name: '&bKortmaskin komprimert karbon'
+  name: '&bMaskinkort: komprimert karbon'
   stats:
   - '&aMiddels maskin'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fEndre til produksjon av leire'
-  name: '&bKortmaskin leire'
+  name: '&bMaskinkort: leire'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fEndre til produksjon av kull'
-  name: '&bKortmaskin kull'
+  name: '&bMaskinkort: kull'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fEndre til produksjon av kobolt'
-  name: '&bKortmaskin kobolt'
+  name: '&bMaskinkort: kobolt'
   stats:
   - '&aMiddels maskin'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fEndre til produksjon av kobber'
-  name: '&bKortmaskin kobber'
+  name: '&bMaskinkort: kobber'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fEndre til produksjon av kobberstøv'
-  name: '&bKortmaskin kobberstøv'
+  name: '&bMaskinkort: kobberstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fEndre til produksjon av korintisk bronsebarre'
-  name: '&bKortmaskin korintisk bronsebarre'
+  name: '&bMaskinkort: korintisk bronsebarre'
   stats:
   - '&6Avansert maskin'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fEndre til produksjon av damaskus'
-  name: '&bKortmaskin damaskus'
+  name: '&bMaskinkort: damaskus'
   stats:
   - '&aMiddels maskin'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fEndre til produksjon av diamant'
-  name: '&bKortmaskin diamant'
+  name: '&bMaskinkort: diamant'
   stats:
   - '&6Avansert maskin'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fEndre til produksjon av dioritt'
-  name: '&bKortmaskin dioritt'
+  name: '&bMaskinkort: dioritt'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fEndre til produksjon av duraluminbarre'
-  name: '&bKortmaskin duraluminbarre'
+  name: '&bMaskinkort: duraluminbarre'
   stats:
   - '&aMiddels maskin'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fEndre til produksjon av elektrisk motor'
-  name: '&bKortmaskin elektrisk motor'
+  name: '&bMaskinkort: elektrisk motor'
   stats:
   - '&6Avansert maskin'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fEndre til produksjon av elektromagnet'
-  name: '&bKortmaskin elektromagnet'
+  name: '&bMaskinkort: elektromagnet'
   stats:
   - '&6Avansert maskin'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fEndre til produksjon av smaragd'
-  name: '&bKortmaskin smaragd'
+  name: '&bMaskinkort: smaragd'
   stats:
   - '&6Avansert maskin'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fEndre til produksjon av endestein'
-  name: '&bKortmaskin endestein'
+  name: '&bMaskinkort: endestein'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fEndre til produksjon av ferrosilisium'
-  name: '&bKortmaskin ferrosilisium'
+  name: '&bMaskinkort: ferrosilisium'
   stats:
   - '&aMiddels maskin'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fEndre til produksjon av lysende blekksekk'
-  name: '&bKortmaskin lysende blekksekk'
+  name: '&bMaskinkort: lysende blekksekk'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fEndre til produksjon av gull'
-  name: '&bKortmaskin gull'
+  name: '&bMaskinkort: gull'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fEndre til produksjon av gull 24k'
-  name: '&bKortmaskin gull 24k'
+  name: '&bMaskinkort: gull 24k'
   stats:
   - '&6Avansert maskin'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fEndre til produksjon av gullstøv'
-  name: '&bKortmaskin gullstøv'
+  name: '&bMaskinkort: gullstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fEndre til produksjon av granitt'
-  name: '&bKortmaskin granitt'
+  name: '&bMaskinkort: granitt'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fEndre til produksjon av grus'
-  name: '&bKortmaskin grus'
+  name: '&bMaskinkort: grus'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fEndre til produksjon av herdet metallbarre'
-  name: '&bKortmaskin herdet metallbarre'
+  name: '&bMaskinkort: herdet metallbarre'
   stats:
   - '&6Avansert maskin'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fEndre til produksjon av varmespiral'
-  name: '&bKortmaskin varmespiral'
+  name: '&bMaskinkort: varmespiral'
   stats:
   - '&6Avansert maskin'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fEndre til produksjon av honningflaske'
-  name: '&bKortmaskin honningflaske'
+  name: '&bMaskinkort: honningflaske'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fEndre til produksjon av blekksekk'
-  name: '&bKortmaskin blekksekk'
+  name: '&bMaskinkort: blekksekk'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fEndre til produksjon av jern'
-  name: '&bKortmaskin jern'
+  name: '&bMaskinkort: jern'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fEndre til produksjon av jernstøv'
-  name: '&bKortmaskin jernstøv'
+  name: '&bMaskinkort: jernstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fEndre til produksjon av lapis'
-  name: '&bKortmaskin lapis'
+  name: '&bMaskinkort: lapis'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fEndre til produksjon av blystøv'
-  name: '&bKortmaskin blystøv'
+  name: '&bMaskinkort: blystøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fEndre til produksjon av magnesiumstøv'
-  name: '&bKortmaskin magnesiumstøv'
+  name: '&bMaskinkort: magnesiumstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fEndre til produksjon av magnet'
-  name: '&bKortmaskin magnet'
+  name: '&bMaskinkort: magnet'
   stats:
   - '&6Avansert maskin'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fEndre til produksjon av netherite'
-  name: '&bKortmaskin netherite'
+  name: '&bMaskinkort: netherite'
   stats:
   - '&6Avansert maskin'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fEndre til produksjon av netherstjerne'
-  name: '&bKortmaskin netherstjerne'
+  name: '&bMaskinkort: netherstjerne'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fEndre til produksjon av nikkel'
-  name: '&bKortmaskin nikkel'
+  name: '&bMaskinkort: nikkel'
   stats:
   - '&aMiddels maskin'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fEndre til produksjon av plastplate'
-  name: '&bKortmaskin plastplate'
+  name: '&bMaskinkort: plastplate'
   stats:
   - '&6Avansert maskin'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fEndre til produksjon av kvarts'
-  name: '&bKortmaskin kvarts'
+  name: '&bMaskinkort: kvarts'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fEndre til produksjon av kvartsblokk'
-  name: '&bKortmaskin kvartsblokk'
+  name: '&bMaskinkort: kvartsblokk'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fEndre til produksjon av redstone'
-  name: '&bKortmaskin redstone'
+  name: '&bMaskinkort: redstone'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fEndre til produksjon av redstonelegering'
-  name: '&bKortmaskin redstonelegering'
+  name: '&bMaskinkort: redstonelegering'
   stats:
   - '&6Avansert maskin'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fEndre til produksjon av forsterket legeringsbarre'
-  name: '&bKortmaskin forsterket legeringsbarre'
+  name: '&bMaskinkort: forsterket legeringsbarre'
   stats:
   - '&6Avansert maskin'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fEndre til produksjon av sand'
-  name: '&bKortmaskin sand'
+  name: '&bMaskinkort: sand'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fEndre til produksjon av silisium'
-  name: '&bKortmaskin silisium'
+  name: '&bMaskinkort: silisium'
   stats:
   - '&aMiddels maskin'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fEndre til produksjon av sølvstøv'
-  name: '&bKortmaskin sølvstøv'
+  name: '&bMaskinkort: sølvstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fEndre til produksjon av slimball'
-  name: '&bKortmaskin slimball'
+  name: '&bMaskinkort: slimball'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fEndre til produksjon av snø'
-  name: '&bKortmaskin snø'
+  name: '&bMaskinkort: snø'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fEndre til produksjon av loddebarre'
-  name: '&bKortmaskin loddebarre'
+  name: '&bMaskinkort: loddebarre'
   stats:
   - '&aMiddels maskin'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fEndre til produksjon av stål'
-  name: '&bKortmaskin stål'
+  name: '&bMaskinkort: stål'
   stats:
   - '&aMiddels maskin'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fEndre til produksjon av stein'
-  name: '&bKortmaskin stein'
+  name: '&bMaskinkort: stein'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fEndre til produksjon av sulfat'
-  name: '&bKortmaskin sulfat'
+  name: '&bMaskinkort: sulfat'
   stats:
   - '&aMiddels maskin'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fEndre til produksjon av syntetisk diamant'
-  name: '&bKortmaskin syntetisk diamant'
+  name: '&bMaskinkort: syntetisk diamant'
   stats:
   - '&6Avansert maskin'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fEndre til produksjon av syntetisk smaragd'
-  name: '&bKortmaskin syntetisk smaragd'
+  name: '&bMaskinkort: syntetisk smaragd'
   stats:
   - '&6Avansert maskin'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fEndre til produksjon av syntetisk safir'
-  name: '&bKortmaskin syntetisk safir'
+  name: '&bMaskinkort: syntetisk safir'
   stats:
   - '&6Avansert maskin'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fEndre til produksjon av tinnstøv'
-  name: '&bKortmaskin tinnstøv'
+  name: '&bMaskinkort: tinnstøv'
   stats:
   - '&aMiddels maskin'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fEndre til produksjon av witherrose'
-  name: '&bKortmaskin witherrose'
+  name: '&bMaskinkort: witherrose'
   stats:
   - '&eGrunnleggende maskin'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fEndre til produksjon av sinkstøv'
-  name: '&bKortmaskin sinkstøv'
+  name: '&bMaskinkort: sinkstøv'
   stats:
   - '&aMiddels maskin'
   type:

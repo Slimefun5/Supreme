@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&f變更為生產鋁黃銅錠'
-  name: '&b鋁黃銅錠卡片機器'
+  name: '&b鋁黃銅錠機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&f變更為生產鋁青銅錠'
-  name: '&b鋁青銅錠卡片機器'
+  name: '&b鋁青銅錠機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&f變更為生產鋁粉末'
-  name: '&b鋁粉末卡片機器'
+  name: '&b鋁粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&f變更為生產紫水晶'
-  name: '&b紫水晶卡片機器'
+  name: '&b紫水晶機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&f變更為生產安山岩'
-  name: '&b安山岩卡片機器'
+  name: '&b安山岩機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&f變更為生產蘋果'
-  name: '&b蘋果卡片機器'
+  name: '&b蘋果機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&f變更為生產電池'
-  name: '&b電池卡片機器'
+  name: '&b電池機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&f變更為生產比隆錠'
-  name: '&b比隆錠卡片機器'
+  name: '&b比隆錠機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&f變更為生產烈焰桿'
-  name: '&b烈焰桿卡片機器'
+  name: '&b烈焰桿機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&f變更為生產黃銅錠'
-  name: '&b黃銅錠卡片機器'
+  name: '&b黃銅錠機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&f變更為生產青銅錠'
-  name: '&b青銅錠卡片機器'
+  name: '&b青銅錠機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&f變更為生產碳'
-  name: '&b碳卡片機器'
+  name: '&b碳機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&f變更為生產黑鑽石'
-  name: '&b黑鑽石卡片機器'
+  name: '&b黑鑽石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&f變更為生產壓縮碳'
-  name: '&b壓縮碳卡片機器'
+  name: '&b壓縮碳機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&f變更為生產黏土'
-  name: '&b黏土卡片機器'
+  name: '&b黏土機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&f變更為生產煤炭'
-  name: '&b煤炭卡片機器'
+  name: '&b煤炭機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&f變更為生產鈷'
-  name: '&b鈷卡片機器'
+  name: '&b鈷機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&f變更為生產銅'
-  name: '&b銅卡片機器'
+  name: '&b銅機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&f變更為生產銅粉末'
-  name: '&b銅粉末卡片機器'
+  name: '&b銅粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&f變更為生產科林斯青銅錠'
-  name: '&b科林斯青銅錠卡片機器'
+  name: '&b科林斯青銅錠機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&f變更為生產大馬士革鋼'
-  name: '&b大馬士革鋼卡片機器'
+  name: '&b大馬士革鋼機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&f變更為生產鑽石'
-  name: '&b鑽石卡片機器'
+  name: '&b鑽石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&f變更為生產閃長岩'
-  name: '&b閃長岩卡片機器'
+  name: '&b閃長岩機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&f變更為生產杜拉鋁錠'
-  name: '&b杜拉鋁錠卡片機器'
+  name: '&b杜拉鋁錠機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&f變更為生產電動馬達'
-  name: '&b電動馬達卡片機器'
+  name: '&b電動馬達機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&f變更為生產電磁鐵'
-  name: '&b電磁鐵卡片機器'
+  name: '&b電磁鐵機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&f變更為生產綠寶石'
-  name: '&b綠寶石卡片機器'
+  name: '&b綠寶石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&f變更為生產終界石'
-  name: '&b終界石卡片機器'
+  name: '&b終界石機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&f變更為生產矽鐵'
-  name: '&b矽鐵卡片機器'
+  name: '&b矽鐵機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&f變更為生產發光墨囊'
-  name: '&b發光墨囊卡片機器'
+  name: '&b發光墨囊機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&f變更為生產金'
-  name: '&b金卡片機器'
+  name: '&b金機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&f變更為生產 24k 金'
-  name: '&b24k 金卡片機器'
+  name: '&b24k 金機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&f變更為生產金粉末'
-  name: '&b金粉末卡片機器'
+  name: '&b金粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&f變更為生產花崗岩'
-  name: '&b花崗岩卡片機器'
+  name: '&b花崗岩機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&f變更為生產礫石'
-  name: '&b礫石卡片機器'
+  name: '&b礫石機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&f變更為生產硬化金屬錠'
-  name: '&b硬化金屬錠卡片機器'
+  name: '&b硬化金屬錠機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&f變更為生產加熱線圈'
-  name: '&b加熱線圈卡片機器'
+  name: '&b加熱線圈機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&f變更為生產蜂蜜瓶'
-  name: '&b蜂蜜瓶卡片機器'
+  name: '&b蜂蜜瓶機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&f變更為生產墨囊'
-  name: '&b墨囊卡片機器'
+  name: '&b墨囊機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&f變更為生產鐵'
-  name: '&b鐵卡片機器'
+  name: '&b鐵機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&f變更為生產鐵粉末'
-  name: '&b鐵粉末卡片機器'
+  name: '&b鐵粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&f變更為生產青金石'
-  name: '&b青金石卡片機器'
+  name: '&b青金石機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&f變更為生產鉛粉末'
-  name: '&b鉛粉末卡片機器'
+  name: '&b鉛粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&f變更為生產鎂粉末'
-  name: '&b鎂粉末卡片機器'
+  name: '&b鎂粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&f變更為生產磁鐵'
-  name: '&b磁鐵卡片機器'
+  name: '&b磁鐵機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&f變更為生產獄髓'
-  name: '&b獄髓卡片機器'
+  name: '&b獄髓機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&f變更為生產地獄之星'
-  name: '&b地獄之星卡片機器'
+  name: '&b地獄之星機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&f變更為生產鎳'
-  name: '&b鎳卡片機器'
+  name: '&b鎳機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&f變更為生產塑膠片'
-  name: '&b塑膠片卡片機器'
+  name: '&b塑膠片機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&f變更為生產石英'
-  name: '&b石英卡片機器'
+  name: '&b石英機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&f變更為生產石英方塊'
-  name: '&b石英方塊卡片機器'
+  name: '&b石英方塊機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&f變更為生產紅石'
-  name: '&b紅石卡片機器'
+  name: '&b紅石機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&f變更為生產紅石合金'
-  name: '&b紅石合金卡片機器'
+  name: '&b紅石合金機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&f變更為生產強化合金錠'
-  name: '&b強化合金錠卡片機器'
+  name: '&b強化合金錠機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&f變更為生產沙子'
-  name: '&b沙子卡片機器'
+  name: '&b沙子機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&f變更為生產矽'
-  name: '&b矽卡片機器'
+  name: '&b矽機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&f變更為生產銀粉末'
-  name: '&b銀粉末卡片機器'
+  name: '&b銀粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&f變更為生產史萊姆球'
-  name: '&b史萊姆球卡片機器'
+  name: '&b史萊姆球機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&f變更為生產雪'
-  name: '&b雪卡片機器'
+  name: '&b雪機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&f變更為生產焊料錠'
-  name: '&b焊料錠卡片機器'
+  name: '&b焊料錠機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&f變更為生產鋼'
-  name: '&b鋼卡片機器'
+  name: '&b鋼機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&f變更為生產石頭'
-  name: '&b石頭卡片機器'
+  name: '&b石頭機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&f變更為生產硫酸鹽'
-  name: '&b硫酸鹽卡片機器'
+  name: '&b硫酸鹽機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&f變更為生產合成鑽石'
-  name: '&b合成鑽石卡片機器'
+  name: '&b合成鑽石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&f變更為生產合成綠寶石'
-  name: '&b合成綠寶石卡片機器'
+  name: '&b合成綠寶石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&f變更為生產合成藍寶石'
-  name: '&b合成藍寶石卡片機器'
+  name: '&b合成藍寶石機器卡片'
   stats:
   - '&6進階機器'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&f變更為生產錫粉末'
-  name: '&b錫粉末卡片機器'
+  name: '&b錫粉末機器卡片'
   stats:
   - '&a中型機器'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&f變更為生產凋零玫瑰'
-  name: '&b凋零玫瑰卡片機器'
+  name: '&b凋零玫瑰機器卡片'
   stats:
   - '&e基礎機器'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&f變更為生產鋅粉末'
-  name: '&b鋅粉末卡片機器'
+  name: '&b鋅粉末機器卡片'
   stats:
   - '&a中型機器'
   type:

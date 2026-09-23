@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fCambia alla Produzione di Lingotto di Ottone d''Alluminio'
-  name: '&bMacchina a Schede Lingotto di Ottone d''Alluminio'
+  name: '&bScheda per Macchina: Lingotto di Ottone d''Alluminio'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fCambia alla Produzione di Lingotto di Bronzo d''Alluminio'
-  name: '&bMacchina a Schede Lingotto di Bronzo d''Alluminio'
+  name: '&bScheda per Macchina: Lingotto di Bronzo d''Alluminio'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Alluminio'
-  name: '&bMacchina a Schede Polvere di Alluminio'
+  name: '&bScheda per Macchina: Polvere di Alluminio'
   stats:
   - '&aMacchina Media'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fCambia alla Produzione di Ametista'
-  name: '&bMacchina a Schede Ametista'
+  name: '&bScheda per Macchina: Ametista'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fCambia alla Produzione di Andesite'
-  name: '&bMacchina a Schede Andesite'
+  name: '&bScheda per Macchina: Andesite'
   stats:
   - '&eMacchina Base'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fCambia alla Produzione di Mela'
-  name: '&bMacchina a Schede Mela'
+  name: '&bScheda per Macchina: Mela'
   stats:
   - '&eMacchina Base'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fCambia alla Produzione di Batteria'
-  name: '&bMacchina a Schede Batteria'
+  name: '&bScheda per Macchina: Batteria'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fCambia alla Produzione di Lingotto di Biglione'
-  name: '&bMacchina a Schede Lingotto di Biglione'
+  name: '&bScheda per Macchina: Lingotto di Biglione'
   stats:
   - '&aMacchina Media'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fCambia alla Produzione di Bastoncino di Blaze'
-  name: '&bMacchina a Schede Bastoncino di Blaze'
+  name: '&bScheda per Macchina: Bastoncino di Blaze'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fCambia alla Produzione di Lingotto di Ottone'
-  name: '&bMacchina a Schede Lingotto di Ottone'
+  name: '&bScheda per Macchina: Lingotto di Ottone'
   stats:
   - '&aMacchina Media'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fCambia alla Produzione di Lingotto di Bronzo'
-  name: '&bMacchina a Schede Lingotto di Bronzo'
+  name: '&bScheda per Macchina: Lingotto di Bronzo'
   stats:
   - '&aMacchina Media'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fCambia alla Produzione di Carbonio'
-  name: '&bMacchina a Schede Carbonio'
+  name: '&bScheda per Macchina: Carbonio'
   stats:
   - '&aMacchina Media'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fCambia alla Produzione di Carbonado'
-  name: '&bMacchina a Schede Carbonado'
+  name: '&bScheda per Macchina: Carbonado'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fCambia alla Produzione di Carbonio Compresso'
-  name: '&bMacchina a Schede Carbonio Compresso'
+  name: '&bScheda per Macchina: Carbonio Compresso'
   stats:
   - '&aMacchina Media'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fCambia alla Produzione di Argilla'
-  name: '&bMacchina a Schede Argilla'
+  name: '&bScheda per Macchina: Argilla'
   stats:
   - '&eMacchina Base'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fCambia alla Produzione di Carbone'
-  name: '&bMacchina a Schede Carbone'
+  name: '&bScheda per Macchina: Carbone'
   stats:
   - '&eMacchina Base'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fCambia alla Produzione di Cobalto'
-  name: '&bMacchina a Schede Cobalto'
+  name: '&bScheda per Macchina: Cobalto'
   stats:
   - '&aMacchina Media'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fCambia alla Produzione di Rame'
-  name: '&bMacchina a Schede Rame'
+  name: '&bScheda per Macchina: Rame'
   stats:
   - '&eMacchina Base'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Rame'
-  name: '&bMacchina a Schede Polvere di Rame'
+  name: '&bScheda per Macchina: Polvere di Rame'
   stats:
   - '&aMacchina Media'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fCambia alla Produzione di Lingotto di Bronzo Corinzio'
-  name: '&bMacchina a Schede Lingotto di Bronzo Corinzio'
+  name: '&bScheda per Macchina: Lingotto di Bronzo Corinzio'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fCambia alla Produzione di Damasco'
-  name: '&bMacchina a Schede Damasco'
+  name: '&bScheda per Macchina: Damasco'
   stats:
   - '&aMacchina Media'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fCambia alla Produzione di Diamante'
-  name: '&bMacchina a Schede Diamante'
+  name: '&bScheda per Macchina: Diamante'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fCambia alla Produzione di Diorite'
-  name: '&bMacchina a Schede Diorite'
+  name: '&bScheda per Macchina: Diorite'
   stats:
   - '&eMacchina Base'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fCambia alla Produzione di Lingotto di Duralluminio'
-  name: '&bMacchina a Schede Lingotto di Duralluminio'
+  name: '&bScheda per Macchina: Lingotto di Duralluminio'
   stats:
   - '&aMacchina Media'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fCambia alla Produzione di Motore Elettrico'
-  name: '&bMacchina a Schede Motore Elettrico'
+  name: '&bScheda per Macchina: Motore Elettrico'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fCambia alla Produzione di Elettromagnete'
-  name: '&bMacchina a Schede Elettromagnete'
+  name: '&bScheda per Macchina: Elettromagnete'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fCambia alla Produzione di Smeraldo'
-  name: '&bMacchina a Schede Smeraldo'
+  name: '&bScheda per Macchina: Smeraldo'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fCambia alla Produzione di Pietra dell''End'
-  name: '&bMacchina a Schede Pietra dell''End'
+  name: '&bScheda per Macchina: Pietra dell''End'
   stats:
   - '&eMacchina Base'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fCambia alla Produzione di Ferrosilicio'
-  name: '&bMacchina a Schede Ferrosilicio'
+  name: '&bScheda per Macchina: Ferrosilicio'
   stats:
   - '&aMacchina Media'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fCambia alla Produzione di Sacca d''Inchiostro Luminoso'
-  name: '&bMacchina a Schede Sacca d''Inchiostro Luminoso'
+  name: '&bScheda per Macchina: Sacca d''Inchiostro Luminoso'
   stats:
   - '&eMacchina Base'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fCambia alla Produzione di Oro'
-  name: '&bMacchina a Schede Oro'
+  name: '&bScheda per Macchina: Oro'
   stats:
   - '&eMacchina Base'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fCambia alla Produzione di Oro 24k'
-  name: '&bMacchina a Schede Oro 24k'
+  name: '&bScheda per Macchina: Oro 24k'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fCambia alla Produzione di Polvere d''Oro'
-  name: '&bMacchina a Schede Polvere d''Oro'
+  name: '&bScheda per Macchina: Polvere d''Oro'
   stats:
   - '&aMacchina Media'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fCambia alla Produzione di Granito'
-  name: '&bMacchina a Schede Granito'
+  name: '&bScheda per Macchina: Granito'
   stats:
   - '&eMacchina Base'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fCambia alla Produzione di Ghiaia'
-  name: '&bMacchina a Schede Ghiaia'
+  name: '&bScheda per Macchina: Ghiaia'
   stats:
   - '&eMacchina Base'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fCambia alla Produzione di Lingotto di Metallo Temprato'
-  name: '&bMacchina a Schede Lingotto di Metallo Temprato'
+  name: '&bScheda per Macchina: Lingotto di Metallo Temprato'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fCambia alla Produzione di Bobina Riscaldante'
-  name: '&bMacchina a Schede Bobina Riscaldante'
+  name: '&bScheda per Macchina: Bobina Riscaldante'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fCambia alla Produzione di Bottiglia di Miele'
-  name: '&bMacchina a Schede Bottiglia di Miele'
+  name: '&bScheda per Macchina: Bottiglia di Miele'
   stats:
   - '&eMacchina Base'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fCambia alla Produzione di Sacca d''Inchiostro'
-  name: '&bMacchina a Schede Sacca d''Inchiostro'
+  name: '&bScheda per Macchina: Sacca d''Inchiostro'
   stats:
   - '&eMacchina Base'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fCambia alla Produzione di Ferro'
-  name: '&bMacchina a Schede Ferro'
+  name: '&bScheda per Macchina: Ferro'
   stats:
   - '&eMacchina Base'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Ferro'
-  name: '&bMacchina a Schede Polvere di Ferro'
+  name: '&bScheda per Macchina: Polvere di Ferro'
   stats:
   - '&aMacchina Media'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fCambia alla Produzione di Lapis'
-  name: '&bMacchina a Schede Lapis'
+  name: '&bScheda per Macchina: Lapis'
   stats:
   - '&eMacchina Base'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Piombo'
-  name: '&bMacchina a Schede Polvere di Piombo'
+  name: '&bScheda per Macchina: Polvere di Piombo'
   stats:
   - '&aMacchina Media'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Magnesio'
-  name: '&bMacchina a Schede Polvere di Magnesio'
+  name: '&bScheda per Macchina: Polvere di Magnesio'
   stats:
   - '&aMacchina Media'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fCambia alla Produzione di Magnete'
-  name: '&bMacchina a Schede Magnete'
+  name: '&bScheda per Macchina: Magnete'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fCambia alla Produzione di Netherite'
-  name: '&bMacchina a Schede Netherite'
+  name: '&bScheda per Macchina: Netherite'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fCambia alla Produzione di Stella del Nether'
-  name: '&bMacchina a Schede Stella del Nether'
+  name: '&bScheda per Macchina: Stella del Nether'
   stats:
   - '&eMacchina Base'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fCambia alla Produzione di Nichel'
-  name: '&bMacchina a Schede Nichel'
+  name: '&bScheda per Macchina: Nichel'
   stats:
   - '&aMacchina Media'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fCambia alla Produzione di Foglio di Plastica'
-  name: '&bMacchina a Schede Foglio di Plastica'
+  name: '&bScheda per Macchina: Foglio di Plastica'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fCambia alla Produzione di Quarzo'
-  name: '&bMacchina a Schede Quarzo'
+  name: '&bScheda per Macchina: Quarzo'
   stats:
   - '&eMacchina Base'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fCambia alla Produzione di Blocco di Quarzo'
-  name: '&bMacchina a Schede Blocco di Quarzo'
+  name: '&bScheda per Macchina: Blocco di Quarzo'
   stats:
   - '&eMacchina Base'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fCambia alla Produzione di Redstone'
-  name: '&bMacchina a Schede Redstone'
+  name: '&bScheda per Macchina: Redstone'
   stats:
   - '&eMacchina Base'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fCambia alla Produzione di Lega di Redstone'
-  name: '&bMacchina a Schede Lega di Redstone'
+  name: '&bScheda per Macchina: Lega di Redstone'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fCambia alla Produzione di Lingotto di Lega Rinforzata'
-  name: '&bMacchina a Schede Lingotto di Lega Rinforzata'
+  name: '&bScheda per Macchina: Lingotto di Lega Rinforzata'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fCambia alla Produzione di Sabbia'
-  name: '&bMacchina a Schede Sabbia'
+  name: '&bScheda per Macchina: Sabbia'
   stats:
   - '&eMacchina Base'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fCambia alla Produzione di Silicio'
-  name: '&bMacchina a Schede Silicio'
+  name: '&bScheda per Macchina: Silicio'
   stats:
   - '&aMacchina Media'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fCambia alla Produzione di Polvere d''Argento'
-  name: '&bMacchina a Schede Polvere d''Argento'
+  name: '&bScheda per Macchina: Polvere d''Argento'
   stats:
   - '&aMacchina Media'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fCambia alla Produzione di Palla di Slime'
-  name: '&bMacchina a Schede Palla di Slime'
+  name: '&bScheda per Macchina: Palla di Slime'
   stats:
   - '&eMacchina Base'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fCambia alla Produzione di Neve'
-  name: '&bMacchina a Schede Neve'
+  name: '&bScheda per Macchina: Neve'
   stats:
   - '&eMacchina Base'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fCambia alla Produzione di Lingotto di Lega Saldante'
-  name: '&bMacchina a Schede Lingotto di Lega Saldante'
+  name: '&bScheda per Macchina: Lingotto di Lega Saldante'
   stats:
   - '&aMacchina Media'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fCambia alla Produzione di Acciaio'
-  name: '&bMacchina a Schede Acciaio'
+  name: '&bScheda per Macchina: Acciaio'
   stats:
   - '&aMacchina Media'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fCambia alla Produzione di Pietra'
-  name: '&bMacchina a Schede Pietra'
+  name: '&bScheda per Macchina: Pietra'
   stats:
   - '&eMacchina Base'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fCambia alla Produzione di Solfato'
-  name: '&bMacchina a Schede Solfato'
+  name: '&bScheda per Macchina: Solfato'
   stats:
   - '&aMacchina Media'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fCambia alla Produzione di Diamante Sintetico'
-  name: '&bMacchina a Schede Diamante Sintetico'
+  name: '&bScheda per Macchina: Diamante Sintetico'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fCambia alla Produzione di Smeraldo Sintetico'
-  name: '&bMacchina a Schede Smeraldo Sintetico'
+  name: '&bScheda per Macchina: Smeraldo Sintetico'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fCambia alla Produzione di Zaffiro Sintetico'
-  name: '&bMacchina a Schede Zaffiro Sintetico'
+  name: '&bScheda per Macchina: Zaffiro Sintetico'
   stats:
   - '&6Macchina Avanzata'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Stagno'
-  name: '&bMacchina a Schede Polvere di Stagno'
+  name: '&bScheda per Macchina: Polvere di Stagno'
   stats:
   - '&aMacchina Media'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fCambia alla Produzione di Rosa del Wither'
-  name: '&bMacchina a Schede Rosa del Wither'
+  name: '&bScheda per Macchina: Rosa del Wither'
   stats:
   - '&eMacchina Base'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fCambia alla Produzione di Polvere di Zinco'
-  name: '&bMacchina a Schede Polvere di Zinco'
+  name: '&bScheda per Macchina: Polvere di Zinco'
   stats:
   - '&aMacchina Media'
   type:

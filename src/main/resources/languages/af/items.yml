@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fVerander na produksie van aluminiumgeelkoperstaaf'
-  name: '&bKaartmasjien Aluminiumgeelkoperstaaf'
+  name: '&bMasjienkaart: Aluminiumgeelkoperstaaf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fVerander na produksie van aluminiumbronsstaaf'
-  name: '&bKaartmasjien Aluminiumbronsstaaf'
+  name: '&bMasjienkaart: Aluminiumbronsstaaf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fVerander na produksie van aluminiumstof'
-  name: '&bKaartmasjien Aluminiumstof'
+  name: '&bMasjienkaart: Aluminiumstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fVerander na produksie van ametis'
-  name: '&bKaartmasjien Ametis'
+  name: '&bMasjienkaart: Ametis'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fVerander na produksie van andesiet'
-  name: '&bKaartmasjien Andesiet'
+  name: '&bMasjienkaart: Andesiet'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fVerander na produksie van appels'
-  name: '&bKaartmasjien Appel'
+  name: '&bMasjienkaart: Appel'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fVerander na produksie van batterye'
-  name: '&bKaartmasjien Battery'
+  name: '&bMasjienkaart: Battery'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fVerander na produksie van billonstaaf'
-  name: '&bKaartmasjien Billonstaaf'
+  name: '&bMasjienkaart: Billonstaaf'
   stats:
   - '&aMedium Masjien'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fVerander na produksie van Blaze-staf'
-  name: '&bKaartmasjien Blaze-staf'
+  name: '&bMasjienkaart: Blaze-staf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fVerander na produksie van geelkoperstaaf'
-  name: '&bKaartmasjien Geelkoperstaaf'
+  name: '&bMasjienkaart: Geelkoperstaaf'
   stats:
   - '&aMedium Masjien'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fVerander na produksie van bronsstaaf'
-  name: '&bKaartmasjien Bronsstaaf'
+  name: '&bMasjienkaart: Bronsstaaf'
   stats:
   - '&aMedium Masjien'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fVerander na produksie van koolstof'
-  name: '&bKaartmasjien Koolstof'
+  name: '&bMasjienkaart: Koolstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fVerander na produksie van karbonado'
-  name: '&bKaartmasjien Karbonado'
+  name: '&bMasjienkaart: Karbonado'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fVerander na produksie van saamgeperste koolstof'
-  name: '&bKaartmasjien Saamgeperste Koolstof'
+  name: '&bMasjienkaart: Saamgeperste Koolstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fVerander na produksie van klei'
-  name: '&bKaartmasjien Klei'
+  name: '&bMasjienkaart: Klei'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fVerander na produksie van steenkool'
-  name: '&bKaartmasjien Steenkool'
+  name: '&bMasjienkaart: Steenkool'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fVerander na produksie van kobalt'
-  name: '&bKaartmasjien Kobalt'
+  name: '&bMasjienkaart: Kobalt'
   stats:
   - '&aMedium Masjien'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fVerander na produksie van koper'
-  name: '&bKaartmasjien Koper'
+  name: '&bMasjienkaart: Koper'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fVerander na produksie van koperstof'
-  name: '&bKaartmasjien Koperstof'
+  name: '&bMasjienkaart: Koperstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fVerander na produksie van Korintiese bronsstaaf'
-  name: '&bKaartmasjien Korintiese Bronsstaaf'
+  name: '&bMasjienkaart: Korintiese Bronsstaaf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fVerander na produksie van Damaskus'
-  name: '&bKaartmasjien Damaskus'
+  name: '&bMasjienkaart: Damaskus'
   stats:
   - '&aMedium Masjien'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fVerander na produksie van diamante'
-  name: '&bKaartmasjien Diamant'
+  name: '&bMasjienkaart: Diamant'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fVerander na produksie van dioriet'
-  name: '&bKaartmasjien Dioriet'
+  name: '&bMasjienkaart: Dioriet'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fVerander na produksie van duraluminstaaf'
-  name: '&bKaartmasjien Duraluminstaaf'
+  name: '&bMasjienkaart: Duraluminstaaf'
   stats:
   - '&aMedium Masjien'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fVerander na produksie van elektriese motors'
-  name: '&bKaartmasjien Elektriese Motor'
+  name: '&bMasjienkaart: Elektriese Motor'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fVerander na produksie van elektromagnete'
-  name: '&bKaartmasjien Elektromagneet'
+  name: '&bMasjienkaart: Elektromagneet'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fVerander na produksie van smaragde'
-  name: '&bKaartmasjien Smarag'
+  name: '&bMasjienkaart: Smarag'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fVerander na produksie van endklip'
-  name: '&bKaartmasjien Endklip'
+  name: '&bMasjienkaart: Endklip'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fVerander na produksie van ferrosilikon'
-  name: '&bKaartmasjien Ferrosilikon'
+  name: '&bMasjienkaart: Ferrosilikon'
   stats:
   - '&aMedium Masjien'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fVerander na produksie van gloei-inksakke'
-  name: '&bKaartmasjien Gloei-inksak'
+  name: '&bMasjienkaart: Gloei-inksak'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fVerander na produksie van goud'
-  name: '&bKaartmasjien Goud'
+  name: '&bMasjienkaart: Goud'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fVerander na produksie van goud 24k'
-  name: '&bKaartmasjien Goud 24k'
+  name: '&bMasjienkaart: Goud 24k'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fVerander na produksie van goudstof'
-  name: '&bKaartmasjien Goudstof'
+  name: '&bMasjienkaart: Goudstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fVerander na produksie van graniet'
-  name: '&bKaartmasjien Graniet'
+  name: '&bMasjienkaart: Graniet'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fVerander na produksie van gruis'
-  name: '&bKaartmasjien Gruis'
+  name: '&bMasjienkaart: Gruis'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fVerander na produksie van verharde metaalstaaf'
-  name: '&bKaartmasjien Verharde Metaalstaaf'
+  name: '&bMasjienkaart: Verharde Metaalstaaf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fVerander na produksie van verhittingspoele'
-  name: '&bKaartmasjien Verhittingspoel'
+  name: '&bMasjienkaart: Verhittingspoel'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fVerander na produksie van heuningbottels'
-  name: '&bKaartmasjien Heuningbottel'
+  name: '&bMasjienkaart: Heuningbottel'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fVerander na produksie van inksakke'
-  name: '&bKaartmasjien Inksak'
+  name: '&bMasjienkaart: Inksak'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fVerander na produksie van yster'
-  name: '&bKaartmasjien Yster'
+  name: '&bMasjienkaart: Yster'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fVerander na produksie van ysterstof'
-  name: '&bKaartmasjien Ysterstof'
+  name: '&bMasjienkaart: Ysterstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fVerander na produksie van lapis'
-  name: '&bKaartmasjien Lapis'
+  name: '&bMasjienkaart: Lapis'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fVerander na produksie van loodstof'
-  name: '&bKaartmasjien Loodstof'
+  name: '&bMasjienkaart: Loodstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fVerander na produksie van magnesiumstof'
-  name: '&bKaartmasjien Magnesiumstof'
+  name: '&bMasjienkaart: Magnesiumstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fVerander na produksie van magnete'
-  name: '&bKaartmasjien Magneet'
+  name: '&bMasjienkaart: Magneet'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fVerander na produksie van netheriet'
-  name: '&bKaartmasjien Netheriet'
+  name: '&bMasjienkaart: Netheriet'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fVerander na produksie van nethersterre'
-  name: '&bKaartmasjien Netherster'
+  name: '&bMasjienkaart: Netherster'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fVerander na produksie van nikkel'
-  name: '&bKaartmasjien Nikkel'
+  name: '&bMasjienkaart: Nikkel'
   stats:
   - '&aMedium Masjien'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fVerander na produksie van plastiekvelle'
-  name: '&bKaartmasjien Plastiekvel'
+  name: '&bMasjienkaart: Plastiekvel'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fVerander na produksie van kwarts'
-  name: '&bKaartmasjien Kwarts'
+  name: '&bMasjienkaart: Kwarts'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fVerander na produksie van kwartsblokke'
-  name: '&bKaartmasjien Kwartsblok'
+  name: '&bMasjienkaart: Kwartsblok'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fVerander na produksie van rooiklip'
-  name: '&bKaartmasjien Rooiklip'
+  name: '&bMasjienkaart: Rooiklip'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fVerander na produksie van rooiklip-legering'
-  name: '&bKaartmasjien Rooiklip-legering'
+  name: '&bMasjienkaart: Rooiklip-legering'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fVerander na produksie van versterkte legeringstaaf'
-  name: '&bKaartmasjien Versterkte Legeringstaaf'
+  name: '&bMasjienkaart: Versterkte Legeringstaaf'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fVerander na produksie van sand'
-  name: '&bKaartmasjien Sand'
+  name: '&bMasjienkaart: Sand'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fVerander na produksie van silikon'
-  name: '&bKaartmasjien Silikon'
+  name: '&bMasjienkaart: Silikon'
   stats:
   - '&aMedium Masjien'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fVerander na produksie van silwerstof'
-  name: '&bKaartmasjien Silwerstof'
+  name: '&bMasjienkaart: Silwerstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fVerander na produksie van slymballe'
-  name: '&bKaartmasjien Slymbal'
+  name: '&bMasjienkaart: Slymbal'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fVerander na produksie van sneeu'
-  name: '&bKaartmasjien Sneeu'
+  name: '&bMasjienkaart: Sneeu'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fVerander na produksie van soldeerstaaf'
-  name: '&bKaartmasjien Soldeerstaaf'
+  name: '&bMasjienkaart: Soldeerstaaf'
   stats:
   - '&aMedium Masjien'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fVerander na produksie van staal'
-  name: '&bKaartmasjien Staal'
+  name: '&bMasjienkaart: Staal'
   stats:
   - '&aMedium Masjien'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fVerander na produksie van klip'
-  name: '&bKaartmasjien Klip'
+  name: '&bMasjienkaart: Klip'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fVerander na produksie van sulfaat'
-  name: '&bKaartmasjien Sulfaat'
+  name: '&bMasjienkaart: Sulfaat'
   stats:
   - '&aMedium Masjien'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fVerander na produksie van sintetiese diamante'
-  name: '&bKaartmasjien Sintetiese Diamant'
+  name: '&bMasjienkaart: Sintetiese Diamant'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fVerander na produksie van sintetiese smaragde'
-  name: '&bKaartmasjien Sintetiese Smarag'
+  name: '&bMasjienkaart: Sintetiese Smarag'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fVerander na produksie van sintetiese saffiere'
-  name: '&bKaartmasjien Sintetiese Saffier'
+  name: '&bMasjienkaart: Sintetiese Saffier'
   stats:
   - '&6Gevorderde Masjien'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fVerander na produksie van tinstof'
-  name: '&bKaartmasjien Tinstof'
+  name: '&bMasjienkaart: Tinstof'
   stats:
   - '&aMedium Masjien'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fVerander na produksie van Wither-rose'
-  name: '&bKaartmasjien Wither-roos'
+  name: '&bMasjienkaart: Wither-roos'
   stats:
   - '&eBasiese Masjien'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fVerander na produksie van sinkstof'
-  name: '&bKaartmasjien Sinkstof'
+  name: '&bMasjienkaart: Sinkstof'
   stats:
   - '&aMedium Masjien'
   type:

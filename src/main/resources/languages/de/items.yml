@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fÄndert die Produktion zu Aluminiummessing-Barren'
-  name: '&bKartenmaschine Aluminiummessing-Barren'
+  name: '&bMaschinenkarte: Aluminiummessing-Barren'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fÄndert die Produktion zu Aluminiumbronze-Barren'
-  name: '&bKartenmaschine Aluminiumbronze-Barren'
+  name: '&bMaschinenkarte: Aluminiumbronze-Barren'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fÄndert die Produktion zu Aluminiumstaub'
-  name: '&bKartenmaschine Aluminiumstaub'
+  name: '&bMaschinenkarte: Aluminiumstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fÄndert die Produktion zu Amethyst'
-  name: '&bKartenmaschine Amethyst'
+  name: '&bMaschinenkarte: Amethyst'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fÄndert die Produktion zu Andesit'
-  name: '&bKartenmaschine Andesit'
+  name: '&bMaschinenkarte: Andesit'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fÄndert die Produktion zu Apfel'
-  name: '&bKartenmaschine Apfel'
+  name: '&bMaschinenkarte: Apfel'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fÄndert die Produktion zu Batterie'
-  name: '&bKartenmaschine Batterie'
+  name: '&bMaschinenkarte: Batterie'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fÄndert die Produktion zu Billon-Barren'
-  name: '&bKartenmaschine Billon-Barren'
+  name: '&bMaschinenkarte: Billon-Barren'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fÄndert die Produktion zu Lohenrute'
-  name: '&bKartenmaschine Lohenrute'
+  name: '&bMaschinenkarte: Lohenrute'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fÄndert die Produktion zu Messingbarren'
-  name: '&bKartenmaschine Messingbarren'
+  name: '&bMaschinenkarte: Messingbarren'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fÄndert die Produktion zu Bronzebarren'
-  name: '&bKartenmaschine Bronzebarren'
+  name: '&bMaschinenkarte: Bronzebarren'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fÄndert die Produktion zu Kohlenstoff'
-  name: '&bKartenmaschine Kohlenstoff'
+  name: '&bMaschinenkarte: Kohlenstoff'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fÄndert die Produktion zu Carbonado'
-  name: '&bKartenmaschine Carbonado'
+  name: '&bMaschinenkarte: Carbonado'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fÄndert die Produktion zu komprimiertem Kohlenstoff'
-  name: '&bKartenmaschine Komprimierter Kohlenstoff'
+  name: '&bMaschinenkarte: Komprimierter Kohlenstoff'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fÄndert die Produktion zu Ton'
-  name: '&bKartenmaschine Ton'
+  name: '&bMaschinenkarte: Ton'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fÄndert die Produktion zu Kohle'
-  name: '&bKartenmaschine Kohle'
+  name: '&bMaschinenkarte: Kohle'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fÄndert die Produktion zu Kobalt'
-  name: '&bKartenmaschine Kobalt'
+  name: '&bMaschinenkarte: Kobalt'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fÄndert die Produktion zu Kupfer'
-  name: '&bKartenmaschine Kupfer'
+  name: '&bMaschinenkarte: Kupfer'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fÄndert die Produktion zu Kupferstaub'
-  name: '&bKartenmaschine Kupferstaub'
+  name: '&bMaschinenkarte: Kupferstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fÄndert die Produktion zu korinthischem Bronzebarren'
-  name: '&bKartenmaschine Korinthischer Bronzebarren'
+  name: '&bMaschinenkarte: Korinthischer Bronzebarren'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fÄndert die Produktion zu Damaszener Stahl'
-  name: '&bKartenmaschine Damaszener Stahl'
+  name: '&bMaschinenkarte: Damaszener Stahl'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fÄndert die Produktion zu Diamant'
-  name: '&bKartenmaschine Diamant'
+  name: '&bMaschinenkarte: Diamant'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fÄndert die Produktion zu Diorit'
-  name: '&bKartenmaschine Diorit'
+  name: '&bMaschinenkarte: Diorit'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fÄndert die Produktion zu Duraluminbarren'
-  name: '&bKartenmaschine Duraluminbarren'
+  name: '&bMaschinenkarte: Duraluminbarren'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fÄndert die Produktion zu Elektromotor'
-  name: '&bKartenmaschine Elektromotor'
+  name: '&bMaschinenkarte: Elektromotor'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fÄndert die Produktion zu Elektromagnet'
-  name: '&bKartenmaschine Elektromagnet'
+  name: '&bMaschinenkarte: Elektromagnet'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fÄndert die Produktion zu Smaragd'
-  name: '&bKartenmaschine Smaragd'
+  name: '&bMaschinenkarte: Smaragd'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fÄndert die Produktion zu Endstein'
-  name: '&bKartenmaschine Endstein'
+  name: '&bMaschinenkarte: Endstein'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fÄndert die Produktion zu Ferrosilizium'
-  name: '&bKartenmaschine Ferrosilizium'
+  name: '&bMaschinenkarte: Ferrosilizium'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fÄndert die Produktion zu leuchtendem Tintenbeutel'
-  name: '&bKartenmaschine Leuchtender Tintenbeutel'
+  name: '&bMaschinenkarte: Leuchtender Tintenbeutel'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fÄndert die Produktion zu Gold'
-  name: '&bKartenmaschine Gold'
+  name: '&bMaschinenkarte: Gold'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fÄndert die Produktion zu Gold 24k'
-  name: '&bKartenmaschine Gold 24k'
+  name: '&bMaschinenkarte: Gold 24k'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fÄndert die Produktion zu Goldstaub'
-  name: '&bKartenmaschine Goldstaub'
+  name: '&bMaschinenkarte: Goldstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fÄndert die Produktion zu Granit'
-  name: '&bKartenmaschine Granit'
+  name: '&bMaschinenkarte: Granit'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fÄndert die Produktion zu Kies'
-  name: '&bKartenmaschine Kies'
+  name: '&bMaschinenkarte: Kies'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fÄndert die Produktion zu gehärtetem Metallbarren'
-  name: '&bKartenmaschine Gehärteter Metallbarren'
+  name: '&bMaschinenkarte: Gehärteter Metallbarren'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fÄndert die Produktion zu Heizspirale'
-  name: '&bKartenmaschine Heizspirale'
+  name: '&bMaschinenkarte: Heizspirale'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fÄndert die Produktion zu Honigflasche'
-  name: '&bKartenmaschine Honigflasche'
+  name: '&bMaschinenkarte: Honigflasche'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fÄndert die Produktion zu Tintenbeutel'
-  name: '&bKartenmaschine Tintenbeutel'
+  name: '&bMaschinenkarte: Tintenbeutel'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fÄndert die Produktion zu Eisen'
-  name: '&bKartenmaschine Eisen'
+  name: '&bMaschinenkarte: Eisen'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fÄndert die Produktion zu Eisenstaub'
-  name: '&bKartenmaschine Eisenstaub'
+  name: '&bMaschinenkarte: Eisenstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fÄndert die Produktion zu Lapis'
-  name: '&bKartenmaschine Lapis'
+  name: '&bMaschinenkarte: Lapis'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fÄndert die Produktion zu Bleistaub'
-  name: '&bKartenmaschine Bleistaub'
+  name: '&bMaschinenkarte: Bleistaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fÄndert die Produktion zu Magnesiumstaub'
-  name: '&bKartenmaschine Magnesiumstaub'
+  name: '&bMaschinenkarte: Magnesiumstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fÄndert die Produktion zu Magnet'
-  name: '&bKartenmaschine Magnet'
+  name: '&bMaschinenkarte: Magnet'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fÄndert die Produktion zu Netherit'
-  name: '&bKartenmaschine Netherit'
+  name: '&bMaschinenkarte: Netherit'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fÄndert die Produktion zu Netherstern'
-  name: '&bKartenmaschine Netherstern'
+  name: '&bMaschinenkarte: Netherstern'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fÄndert die Produktion zu Nickel'
-  name: '&bKartenmaschine Nickel'
+  name: '&bMaschinenkarte: Nickel'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fÄndert die Produktion zu Kunststoffplatte'
-  name: '&bKartenmaschine Kunststoffplatte'
+  name: '&bMaschinenkarte: Kunststoffplatte'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fÄndert die Produktion zu Quarz'
-  name: '&bKartenmaschine Quarz'
+  name: '&bMaschinenkarte: Quarz'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fÄndert die Produktion zu Quarzblock'
-  name: '&bKartenmaschine Quarzblock'
+  name: '&bMaschinenkarte: Quarzblock'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fÄndert die Produktion zu Redstone'
-  name: '&bKartenmaschine Redstone'
+  name: '&bMaschinenkarte: Redstone'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fÄndert die Produktion zu Redstone-Legierung'
-  name: '&bKartenmaschine Redstone-Legierung'
+  name: '&bMaschinenkarte: Redstone-Legierung'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fÄndert die Produktion zu verstärktem Legierungsbarren'
-  name: '&bKartenmaschine Verstärkter Legierungsbarren'
+  name: '&bMaschinenkarte: Verstärkter Legierungsbarren'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fÄndert die Produktion zu Sand'
-  name: '&bKartenmaschine Sand'
+  name: '&bMaschinenkarte: Sand'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fÄndert die Produktion zu Silizium'
-  name: '&bKartenmaschine Silizium'
+  name: '&bMaschinenkarte: Silizium'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fÄndert die Produktion zu Silberstaub'
-  name: '&bKartenmaschine Silberstaub'
+  name: '&bMaschinenkarte: Silberstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fÄndert die Produktion zu Schleimball'
-  name: '&bKartenmaschine Schleimball'
+  name: '&bMaschinenkarte: Schleimball'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fÄndert die Produktion zu Schnee'
-  name: '&bKartenmaschine Schnee'
+  name: '&bMaschinenkarte: Schnee'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fÄndert die Produktion zu Lötzinnbarren'
-  name: '&bKartenmaschine Lötzinnbarren'
+  name: '&bMaschinenkarte: Lötzinnbarren'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fÄndert die Produktion zu Stahl'
-  name: '&bKartenmaschine Stahl'
+  name: '&bMaschinenkarte: Stahl'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fÄndert die Produktion zu Stein'
-  name: '&bKartenmaschine Stein'
+  name: '&bMaschinenkarte: Stein'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fÄndert die Produktion zu Sulfat'
-  name: '&bKartenmaschine Sulfat'
+  name: '&bMaschinenkarte: Sulfat'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fÄndert die Produktion zu synthetischem Diamant'
-  name: '&bKartenmaschine Synthetischer Diamant'
+  name: '&bMaschinenkarte: Synthetischer Diamant'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fÄndert die Produktion zu synthetischem Smaragd'
-  name: '&bKartenmaschine Synthetischer Smaragd'
+  name: '&bMaschinenkarte: Synthetischer Smaragd'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fÄndert die Produktion zu synthetischem Saphir'
-  name: '&bKartenmaschine Synthetischer Saphir'
+  name: '&bMaschinenkarte: Synthetischer Saphir'
   stats:
   - '&6Fortgeschrittene Maschine'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fÄndert die Produktion zu Zinnstaub'
-  name: '&bKartenmaschine Zinnstaub'
+  name: '&bMaschinenkarte: Zinnstaub'
   stats:
   - '&aMittlere Maschine'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fÄndert die Produktion zu Witherrose'
-  name: '&bKartenmaschine Witherrose'
+  name: '&bMaschinenkarte: Witherrose'
   stats:
   - '&eEinfache Maschine'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fÄndert die Produktion zu Zinkstaub'
-  name: '&bKartenmaschine Zinkstaub'
+  name: '&bMaschinenkarte: Zinkstaub'
   stats:
   - '&aMittlere Maschine'
   type:

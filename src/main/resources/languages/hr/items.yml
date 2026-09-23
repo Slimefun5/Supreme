@@ -326,7 +326,7 @@ SUPREME_BOW_THORNIUM:
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fPromijeni proizvodnju na: poluga aluminijske mjedi'
-  name: '&bKartični stroj: poluga aluminijske mjedi'
+  name: '&bKartica za stroj: poluga aluminijske mjedi'
   stats:
   - '&6Napredni stroj'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fPromijeni proizvodnju na: poluga aluminijske bronce'
-  name: '&bKartični stroj: poluga aluminijske bronce'
+  name: '&bKartica za stroj: poluga aluminijske bronce'
   stats:
   - '&6Napredni stroj'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fPromijeni proizvodnju na: aluminijski prah'
-  name: '&bKartični stroj: aluminijski prah'
+  name: '&bKartica za stroj: aluminijski prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fPromijeni proizvodnju na: ametist'
-  name: '&bKartični stroj: ametist'
+  name: '&bKartica za stroj: ametist'
   stats:
   - '&6Napredni stroj'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fPromijeni proizvodnju na: andezit'
-  name: '&bKartični stroj: andezit'
+  name: '&bKartica za stroj: andezit'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fPromijeni proizvodnju na: jabuka'
-  name: '&bKartični stroj: jabuka'
+  name: '&bKartica za stroj: jabuka'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fPromijeni proizvodnju na: baterija'
-  name: '&bKartični stroj: baterija'
+  name: '&bKartica za stroj: baterija'
   stats:
   - '&6Napredni stroj'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fPromijeni proizvodnju na: poluga bilona'
-  name: '&bKartični stroj: poluga bilona'
+  name: '&bKartica za stroj: poluga bilona'
   stats:
   - '&aSrednji stroj'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fPromijeni proizvodnju na: Blaze štap'
-  name: '&bKartični stroj: Blaze štap'
+  name: '&bKartica za stroj: Blaze štap'
   stats:
   - '&6Napredni stroj'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fPromijeni proizvodnju na: mjedena poluga'
-  name: '&bKartični stroj: mjedena poluga'
+  name: '&bKartica za stroj: mjedena poluga'
   stats:
   - '&aSrednji stroj'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fPromijeni proizvodnju na: brončana poluga'
-  name: '&bKartični stroj: brončana poluga'
+  name: '&bKartica za stroj: brončana poluga'
   stats:
   - '&aSrednji stroj'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fPromijeni proizvodnju na: ugljik'
-  name: '&bKartični stroj: ugljik'
+  name: '&bKartica za stroj: ugljik'
   stats:
   - '&aSrednji stroj'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fPromijeni proizvodnju na: karbonado'
-  name: '&bKartični stroj: karbonado'
+  name: '&bKartica za stroj: karbonado'
   stats:
   - '&6Napredni stroj'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fPromijeni proizvodnju na: komprimirani ugljik'
-  name: '&bKartični stroj: komprimirani ugljik'
+  name: '&bKartica za stroj: komprimirani ugljik'
   stats:
   - '&aSrednji stroj'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fPromijeni proizvodnju na: glina'
-  name: '&bKartični stroj: glina'
+  name: '&bKartica za stroj: glina'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fPromijeni proizvodnju na: ugljen'
-  name: '&bKartični stroj: ugljen'
+  name: '&bKartica za stroj: ugljen'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fPromijeni proizvodnju na: kobalt'
-  name: '&bKartični stroj: kobalt'
+  name: '&bKartica za stroj: kobalt'
   stats:
   - '&aSrednji stroj'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fPromijeni proizvodnju na: bakar'
-  name: '&bKartični stroj: bakar'
+  name: '&bKartica za stroj: bakar'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fPromijeni proizvodnju na: bakreni prah'
-  name: '&bKartični stroj: bakreni prah'
+  name: '&bKartica za stroj: bakreni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fPromijeni proizvodnju na: poluga korintske bronce'
-  name: '&bKartični stroj: poluga korintske bronce'
+  name: '&bKartica za stroj: poluga korintske bronce'
   stats:
   - '&6Napredni stroj'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fPromijeni proizvodnju na: damast'
-  name: '&bKartični stroj: damast'
+  name: '&bKartica za stroj: damast'
   stats:
   - '&aSrednji stroj'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fPromijeni proizvodnju na: dijamant'
-  name: '&bKartični stroj: dijamant'
+  name: '&bKartica za stroj: dijamant'
   stats:
   - '&6Napredni stroj'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fPromijeni proizvodnju na: diorit'
-  name: '&bKartični stroj: diorit'
+  name: '&bKartica za stroj: diorit'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fPromijeni proizvodnju na: duraluminijska poluga'
-  name: '&bKartični stroj: duraluminijska poluga'
+  name: '&bKartica za stroj: duraluminijska poluga'
   stats:
   - '&aSrednji stroj'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fPromijeni proizvodnju na: električni motor'
-  name: '&bKartični stroj: električni motor'
+  name: '&bKartica za stroj: električni motor'
   stats:
   - '&6Napredni stroj'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fPromijeni proizvodnju na: elektromagnet'
-  name: '&bKartični stroj: elektromagnet'
+  name: '&bKartica za stroj: elektromagnet'
   stats:
   - '&6Napredni stroj'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fPromijeni proizvodnju na: smaragd'
-  name: '&bKartični stroj: smaragd'
+  name: '&bKartica za stroj: smaragd'
   stats:
   - '&6Napredni stroj'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fPromijeni proizvodnju na: kamen Enda'
-  name: '&bKartični stroj: kamen Enda'
+  name: '&bKartica za stroj: kamen Enda'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fPromijeni proizvodnju na: ferosilicij'
-  name: '&bKartični stroj: ferosilicij'
+  name: '&bKartica za stroj: ferosilicij'
   stats:
   - '&aSrednji stroj'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fPromijeni proizvodnju na: svjetleća vrećica tinte'
-  name: '&bKartični stroj: svjetleća vrećica tinte'
+  name: '&bKartica za stroj: svjetleća vrećica tinte'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fPromijeni proizvodnju na: zlato'
-  name: '&bKartični stroj: zlato'
+  name: '&bKartica za stroj: zlato'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fPromijeni proizvodnju na: zlato 24k'
-  name: '&bKartični stroj: zlato 24k'
+  name: '&bKartica za stroj: zlato 24k'
   stats:
   - '&6Napredni stroj'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fPromijeni proizvodnju na: zlatni prah'
-  name: '&bKartični stroj: zlatni prah'
+  name: '&bKartica za stroj: zlatni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fPromijeni proizvodnju na: granit'
-  name: '&bKartični stroj: granit'
+  name: '&bKartica za stroj: granit'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fPromijeni proizvodnju na: šljunak'
-  name: '&bKartični stroj: šljunak'
+  name: '&bKartica za stroj: šljunak'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fPromijeni proizvodnju na: poluga očvrsnutog metala'
-  name: '&bKartični stroj: poluga očvrsnutog metala'
+  name: '&bKartica za stroj: poluga očvrsnutog metala'
   stats:
   - '&6Napredni stroj'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fPromijeni proizvodnju na: grijaća zavojnica'
-  name: '&bKartični stroj: grijaća zavojnica'
+  name: '&bKartica za stroj: grijaća zavojnica'
   stats:
   - '&6Napredni stroj'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fPromijeni proizvodnju na: boca meda'
-  name: '&bKartični stroj: boca meda'
+  name: '&bKartica za stroj: boca meda'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fPromijeni proizvodnju na: vrećica tinte'
-  name: '&bKartični stroj: vrećica tinte'
+  name: '&bKartica za stroj: vrećica tinte'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fPromijeni proizvodnju na: željezo'
-  name: '&bKartični stroj: željezo'
+  name: '&bKartica za stroj: željezo'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fPromijeni proizvodnju na: željezni prah'
-  name: '&bKartični stroj: željezni prah'
+  name: '&bKartica za stroj: željezni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fPromijeni proizvodnju na: lapis'
-  name: '&bKartični stroj: lapis'
+  name: '&bKartica za stroj: lapis'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fPromijeni proizvodnju na: olovni prah'
-  name: '&bKartični stroj: olovni prah'
+  name: '&bKartica za stroj: olovni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fPromijeni proizvodnju na: magnezijev prah'
-  name: '&bKartični stroj: magnezijev prah'
+  name: '&bKartica za stroj: magnezijev prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fPromijeni proizvodnju na: magnet'
-  name: '&bKartični stroj: magnet'
+  name: '&bKartica za stroj: magnet'
   stats:
   - '&6Napredni stroj'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fPromijeni proizvodnju na: netherit'
-  name: '&bKartični stroj: netherit'
+  name: '&bKartica za stroj: netherit'
   stats:
   - '&6Napredni stroj'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fPromijeni proizvodnju na: Nether zvijezda'
-  name: '&bKartični stroj: Nether zvijezda'
+  name: '&bKartica za stroj: Nether zvijezda'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fPromijeni proizvodnju na: nikal'
-  name: '&bKartični stroj: nikal'
+  name: '&bKartica za stroj: nikal'
   stats:
   - '&aSrednji stroj'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fPromijeni proizvodnju na: plastični list'
-  name: '&bKartični stroj: plastični list'
+  name: '&bKartica za stroj: plastični list'
   stats:
   - '&6Napredni stroj'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fPromijeni proizvodnju na: kvarc'
-  name: '&bKartični stroj: kvarc'
+  name: '&bKartica za stroj: kvarc'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fPromijeni proizvodnju na: blok kvarca'
-  name: '&bKartični stroj: blok kvarca'
+  name: '&bKartica za stroj: blok kvarca'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fPromijeni proizvodnju na: redstone'
-  name: '&bKartični stroj: redstone'
+  name: '&bKartica za stroj: redstone'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fPromijeni proizvodnju na: redstone legura'
-  name: '&bKartični stroj: redstone legura'
+  name: '&bKartica za stroj: redstone legura'
   stats:
   - '&6Napredni stroj'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fPromijeni proizvodnju na: poluga ojačane legure'
-  name: '&bKartični stroj: poluga ojačane legure'
+  name: '&bKartica za stroj: poluga ojačane legure'
   stats:
   - '&6Napredni stroj'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fPromijeni proizvodnju na: pijesak'
-  name: '&bKartični stroj: pijesak'
+  name: '&bKartica za stroj: pijesak'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fPromijeni proizvodnju na: silicij'
-  name: '&bKartični stroj: silicij'
+  name: '&bKartica za stroj: silicij'
   stats:
   - '&aSrednji stroj'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fPromijeni proizvodnju na: srebrni prah'
-  name: '&bKartični stroj: srebrni prah'
+  name: '&bKartica za stroj: srebrni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fPromijeni proizvodnju na: sluzava kuglica'
-  name: '&bKartični stroj: sluzava kuglica'
+  name: '&bKartica za stroj: sluzava kuglica'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fPromijeni proizvodnju na: snijeg'
-  name: '&bKartični stroj: snijeg'
+  name: '&bKartica za stroj: snijeg'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fPromijeni proizvodnju na: poluga lema'
-  name: '&bKartični stroj: poluga lema'
+  name: '&bKartica za stroj: poluga lema'
   stats:
   - '&aSrednji stroj'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fPromijeni proizvodnju na: čelik'
-  name: '&bKartični stroj: čelik'
+  name: '&bKartica za stroj: čelik'
   stats:
   - '&aSrednji stroj'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fPromijeni proizvodnju na: kamen'
-  name: '&bKartični stroj: kamen'
+  name: '&bKartica za stroj: kamen'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fPromijeni proizvodnju na: sulfat'
-  name: '&bKartični stroj: sulfat'
+  name: '&bKartica za stroj: sulfat'
   stats:
   - '&aSrednji stroj'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fPromijeni proizvodnju na: sintetički dijamant'
-  name: '&bKartični stroj: sintetički dijamant'
+  name: '&bKartica za stroj: sintetički dijamant'
   stats:
   - '&6Napredni stroj'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fPromijeni proizvodnju na: sintetički smaragd'
-  name: '&bKartični stroj: sintetički smaragd'
+  name: '&bKartica za stroj: sintetički smaragd'
   stats:
   - '&6Napredni stroj'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fPromijeni proizvodnju na: sintetički safir'
-  name: '&bKartični stroj: sintetički safir'
+  name: '&bKartica za stroj: sintetički safir'
   stats:
   - '&6Napredni stroj'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fPromijeni proizvodnju na: kositreni prah'
-  name: '&bKartični stroj: kositreni prah'
+  name: '&bKartica za stroj: kositreni prah'
   stats:
   - '&aSrednji stroj'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fPromijeni proizvodnju na: Wither ruža'
-  name: '&bKartični stroj: Wither ruža'
+  name: '&bKartica za stroj: Wither ruža'
   stats:
   - '&eOsnovni stroj'
   type:
@@ -870,7 +870,7 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fPromijeni proizvodnju na: cinkov prah'
-  name: '&bKartični stroj: cinkov prah'
+  name: '&bKartica za stroj: cinkov prah'
   stats:
   - '&aSrednji stroj'
   type:

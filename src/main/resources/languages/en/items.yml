@@ -377,7 +377,7 @@ SUPREME_BOW_THORNIUM:
     - "&f&lA Bow of Thornium"
 
 SUPREME_CARD_ALUMINUM_BRASS:
-  name: "&bCard Machine Aluminum Brass Ingot"
+  name: "&bMachine Card: Aluminum Brass Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -386,7 +386,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ALUMINUM_BRONZE:
-  name: "&bCard Machine Aluminum Bronze Ingot"
+  name: "&bMachine Card: Aluminum Bronze Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -395,7 +395,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ALUMINUM_DUST:
-  name: "&bCard Machine Aluminum Dust"
+  name: "&bMachine Card: Aluminum Dust"
   type:
     - "&7&oComponent"
   description:
@@ -404,7 +404,7 @@ SUPREME_CARD_ALUMINUM_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_AMETHYST:
-  name: "&bCard Machine Amethyst"
+  name: "&bMachine Card: Amethyst"
   type:
     - "&7&oComponent"
   description:
@@ -413,7 +413,7 @@ SUPREME_CARD_AMETHYST:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ANDESITE:
-  name: "&bCard Machine Andesite"
+  name: "&bMachine Card: Andesite"
   type:
     - "&7&oComponent"
   description:
@@ -422,7 +422,7 @@ SUPREME_CARD_ANDESITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_APPLE:
-  name: "&bCard Machine Apple"
+  name: "&bMachine Card: Apple"
   type:
     - "&7&oComponent"
   description:
@@ -431,7 +431,7 @@ SUPREME_CARD_APPLE:
     - "&eBasic Machine"
 
 SUPREME_CARD_BATTERY:
-  name: "&bCard Machine Battery"
+  name: "&bMachine Card: Battery"
   type:
     - "&7&oComponent"
   description:
@@ -440,7 +440,7 @@ SUPREME_CARD_BATTERY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_BILLON:
-  name: "&bCard Machine Billon Ingot"
+  name: "&bMachine Card: Billon Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -449,7 +449,7 @@ SUPREME_CARD_BILLON:
     - "&aMedium Machine"
 
 SUPREME_CARD_BLAZE_ROD:
-  name: "&bCard Machine Blaze Rod"
+  name: "&bMachine Card: Blaze Rod"
   type:
     - "&7&oComponent"
   description:
@@ -458,7 +458,7 @@ SUPREME_CARD_BLAZE_ROD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_BRASS:
-  name: "&bCard Machine Brass Ingot"
+  name: "&bMachine Card: Brass Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -467,7 +467,7 @@ SUPREME_CARD_BRASS:
     - "&aMedium Machine"
 
 SUPREME_CARD_BRONZE:
-  name: "&bCard Machine Bronze Ingot"
+  name: "&bMachine Card: Bronze Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -476,7 +476,7 @@ SUPREME_CARD_BRONZE:
     - "&aMedium Machine"
 
 SUPREME_CARD_CARBON:
-  name: "&bCard Machine Carbon"
+  name: "&bMachine Card: Carbon"
   type:
     - "&7&oComponent"
   description:
@@ -485,7 +485,7 @@ SUPREME_CARD_CARBON:
     - "&aMedium Machine"
 
 SUPREME_CARD_CARBONADO:
-  name: "&bCard Machine Carbonado"
+  name: "&bMachine Card: Carbonado"
   type:
     - "&7&oComponent"
   description:
@@ -494,7 +494,7 @@ SUPREME_CARD_CARBONADO:
     - "&6Advanced Machine"
 
 SUPREME_CARD_CARBON_PRESS:
-  name: "&bCard Machine Compressed Carbon"
+  name: "&bMachine Card: Compressed Carbon"
   type:
     - "&7&oComponent"
   description:
@@ -503,7 +503,7 @@ SUPREME_CARD_CARBON_PRESS:
     - "&aMedium Machine"
 
 SUPREME_CARD_CLAY:
-  name: "&bCard Machine Clay"
+  name: "&bMachine Card: Clay"
   type:
     - "&7&oComponent"
   description:
@@ -512,7 +512,7 @@ SUPREME_CARD_CLAY:
     - "&eBasic Machine"
 
 SUPREME_CARD_COAL:
-  name: "&bCard Machine Coal"
+  name: "&bMachine Card: Coal"
   type:
     - "&7&oComponent"
   description:
@@ -521,7 +521,7 @@ SUPREME_CARD_COAL:
     - "&eBasic Machine"
 
 SUPREME_CARD_COBALT:
-  name: "&bCard Machine Cobalt"
+  name: "&bMachine Card: Cobalt"
   type:
     - "&7&oComponent"
   description:
@@ -530,7 +530,7 @@ SUPREME_CARD_COBALT:
     - "&aMedium Machine"
 
 SUPREME_CARD_COPPER:
-  name: "&bCard Machine Copper"
+  name: "&bMachine Card: Copper"
   type:
     - "&7&oComponent"
   description:
@@ -539,7 +539,7 @@ SUPREME_CARD_COPPER:
     - "&eBasic Machine"
 
 SUPREME_CARD_COPPER_DUST:
-  name: "&bCard Machine Copper Dust"
+  name: "&bMachine Card: Copper Dust"
   type:
     - "&7&oComponent"
   description:
@@ -548,7 +548,7 @@ SUPREME_CARD_COPPER_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_CORINTHIAN_BRONZE:
-  name: "&bCard Machine Corinthian Bronze Ingot"
+  name: "&bMachine Card: Corinthian Bronze Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -557,7 +557,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_DAMASCUS:
-  name: "&bCard Machine Damascus"
+  name: "&bMachine Card: Damascus"
   type:
     - "&7&oComponent"
   description:
@@ -566,7 +566,7 @@ SUPREME_CARD_DAMASCUS:
     - "&aMedium Machine"
 
 SUPREME_CARD_DIAMOND:
-  name: "&bCard Machine Diamond"
+  name: "&bMachine Card: Diamond"
   type:
     - "&7&oComponent"
   description:
@@ -575,7 +575,7 @@ SUPREME_CARD_DIAMOND:
     - "&6Advanced Machine"
 
 SUPREME_CARD_DIORITE:
-  name: "&bCard Machine Diorite"
+  name: "&bMachine Card: Diorite"
   type:
     - "&7&oComponent"
   description:
@@ -584,7 +584,7 @@ SUPREME_CARD_DIORITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_DURALUMIN:
-  name: "&bCard Machine Duralumin Ingot"
+  name: "&bMachine Card: Duralumin Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -593,7 +593,7 @@ SUPREME_CARD_DURALUMIN:
     - "&aMedium Machine"
 
 SUPREME_CARD_ELECTRIC_MOTOR:
-  name: "&bCard Machine Electric Motor"
+  name: "&bMachine Card: Electric Motor"
   type:
     - "&7&oComponent"
   description:
@@ -602,7 +602,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ELECTRO_MAGNET:
-  name: "&bCard Machine Electro Magnet"
+  name: "&bMachine Card: Electro Magnet"
   type:
     - "&7&oComponent"
   description:
@@ -611,7 +611,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_EMERALD:
-  name: "&bCard Machine Emerald"
+  name: "&bMachine Card: Emerald"
   type:
     - "&7&oComponent"
   description:
@@ -620,7 +620,7 @@ SUPREME_CARD_EMERALD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ENDSTONE:
-  name: "&bCard Machine Endstone"
+  name: "&bMachine Card: Endstone"
   type:
     - "&7&oComponent"
   description:
@@ -629,7 +629,7 @@ SUPREME_CARD_ENDSTONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_FERROSILICON:
-  name: "&bCard Machine Ferrosilicon"
+  name: "&bMachine Card: Ferrosilicon"
   type:
     - "&7&oComponent"
   description:
@@ -638,7 +638,7 @@ SUPREME_CARD_FERROSILICON:
     - "&aMedium Machine"
 
 SUPREME_CARD_GLOW_INK_SAC:
-  name: "&bCard Machine Glow Ink Sac"
+  name: "&bMachine Card: Glow Ink Sac"
   type:
     - "&7&oComponent"
   description:
@@ -647,7 +647,7 @@ SUPREME_CARD_GLOW_INK_SAC:
     - "&eBasic Machine"
 
 SUPREME_CARD_GOLD:
-  name: "&bCard Machine Gold"
+  name: "&bMachine Card: Gold"
   type:
     - "&7&oComponent"
   description:
@@ -656,7 +656,7 @@ SUPREME_CARD_GOLD:
     - "&eBasic Machine"
 
 SUPREME_CARD_GOLD24K:
-  name: "&bCard Machine Gold 24k"
+  name: "&bMachine Card: Gold 24k"
   type:
     - "&7&oComponent"
   description:
@@ -665,7 +665,7 @@ SUPREME_CARD_GOLD24K:
     - "&6Advanced Machine"
 
 SUPREME_CARD_GOLD_DUST:
-  name: "&bCard Machine Gold Dust"
+  name: "&bMachine Card: Gold Dust"
   type:
     - "&7&oComponent"
   description:
@@ -674,7 +674,7 @@ SUPREME_CARD_GOLD_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_GRANITE:
-  name: "&bCard Machine Granite"
+  name: "&bMachine Card: Granite"
   type:
     - "&7&oComponent"
   description:
@@ -683,7 +683,7 @@ SUPREME_CARD_GRANITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_GRAVEL:
-  name: "&bCard Machine Gravel"
+  name: "&bMachine Card: Gravel"
   type:
     - "&7&oComponent"
   description:
@@ -692,7 +692,7 @@ SUPREME_CARD_GRAVEL:
     - "&eBasic Machine"
 
 SUPREME_CARD_HARDENED_METAL:
-  name: "&bCard Machine Hardened Metal Ingot"
+  name: "&bMachine Card: Hardened Metal Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -701,7 +701,7 @@ SUPREME_CARD_HARDENED_METAL:
     - "&6Advanced Machine"
 
 SUPREME_CARD_HEATING_COIL:
-  name: "&bCard Machine Heating Coil"
+  name: "&bMachine Card: Heating Coil"
   type:
     - "&7&oComponent"
   description:
@@ -710,7 +710,7 @@ SUPREME_CARD_HEATING_COIL:
     - "&6Advanced Machine"
 
 SUPREME_CARD_HONEY_BOTTLE:
-  name: "&bCard Machine Honey Bottle"
+  name: "&bMachine Card: Honey Bottle"
   type:
     - "&7&oComponent"
   description:
@@ -719,7 +719,7 @@ SUPREME_CARD_HONEY_BOTTLE:
     - "&eBasic Machine"
 
 SUPREME_CARD_INK_SAC:
-  name: "&bCard Machine Ink Sac"
+  name: "&bMachine Card: Ink Sac"
   type:
     - "&7&oComponent"
   description:
@@ -728,7 +728,7 @@ SUPREME_CARD_INK_SAC:
     - "&eBasic Machine"
 
 SUPREME_CARD_IRON:
-  name: "&bCard Machine Iron"
+  name: "&bMachine Card: Iron"
   type:
     - "&7&oComponent"
   description:
@@ -737,7 +737,7 @@ SUPREME_CARD_IRON:
     - "&eBasic Machine"
 
 SUPREME_CARD_IRON_DUST:
-  name: "&bCard Machine Iron Dust"
+  name: "&bMachine Card: Iron Dust"
   type:
     - "&7&oComponent"
   description:
@@ -746,7 +746,7 @@ SUPREME_CARD_IRON_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_LAPIS:
-  name: "&bCard Machine Lapiz"
+  name: "&bMachine Card: Lapiz"
   type:
     - "&7&oComponent"
   description:
@@ -755,7 +755,7 @@ SUPREME_CARD_LAPIS:
     - "&eBasic Machine"
 
 SUPREME_CARD_LEAD_DUST:
-  name: "&bCard Machine Lead Dust"
+  name: "&bMachine Card: Lead Dust"
   type:
     - "&7&oComponent"
   description:
@@ -764,7 +764,7 @@ SUPREME_CARD_LEAD_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_MAGNESIUM_DUST:
-  name: "&bCard Machine Magnesium Dust"
+  name: "&bMachine Card: Magnesium Dust"
   type:
     - "&7&oComponent"
   description:
@@ -773,7 +773,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_MAGNET:
-  name: "&bCard Machine Magnet"
+  name: "&bMachine Card: Magnet"
   type:
     - "&7&oComponent"
   description:
@@ -782,7 +782,7 @@ SUPREME_CARD_MAGNET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_NETHERITE:
-  name: "&bCard Machine Netherite"
+  name: "&bMachine Card: Netherite"
   type:
     - "&7&oComponent"
   description:
@@ -791,7 +791,7 @@ SUPREME_CARD_NETHERITE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_NETHER_STAR:
-  name: "&bCard Machine Nether Star"
+  name: "&bMachine Card: Nether Star"
   type:
     - "&7&oComponent"
   description:
@@ -800,7 +800,7 @@ SUPREME_CARD_NETHER_STAR:
     - "&eBasic Machine"
 
 SUPREME_CARD_NICKEL:
-  name: "&bCard Machine Nickel"
+  name: "&bMachine Card: Nickel"
   type:
     - "&7&oComponent"
   description:
@@ -809,7 +809,7 @@ SUPREME_CARD_NICKEL:
     - "&aMedium Machine"
 
 SUPREME_CARD_PLASTIC_SHEET:
-  name: "&bCard Machine Plastic Sheet"
+  name: "&bMachine Card: Plastic Sheet"
   type:
     - "&7&oComponent"
   description:
@@ -818,7 +818,7 @@ SUPREME_CARD_PLASTIC_SHEET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_QUARTZ:
-  name: "&bCard Machine Quartz"
+  name: "&bMachine Card: Quartz"
   type:
     - "&7&oComponent"
   description:
@@ -827,7 +827,7 @@ SUPREME_CARD_QUARTZ:
     - "&eBasic Machine"
 
 SUPREME_CARD_QUARTZ_BLOCK:
-  name: "&bCard Machine Quartz Block"
+  name: "&bMachine Card: Quartz Block"
   type:
     - "&7&oComponent"
   description:
@@ -836,7 +836,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
     - "&eBasic Machine"
 
 SUPREME_CARD_REDSTONE:
-  name: "&bCard Machine Redstone"
+  name: "&bMachine Card: Redstone"
   type:
     - "&7&oComponent"
   description:
@@ -845,7 +845,7 @@ SUPREME_CARD_REDSTONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_REDSTONE_ALLOY:
-  name: "&bCard Machine Redstone Alloy"
+  name: "&bMachine Card: Redstone Alloy"
   type:
     - "&7&oComponent"
   description:
@@ -854,7 +854,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_REINFORCED_ALLOY:
-  name: "&bCard Machine Reinforced Alloy Ingot"
+  name: "&bMachine Card: Reinforced Alloy Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -863,7 +863,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SAND:
-  name: "&bCard Machine Sand"
+  name: "&bMachine Card: Sand"
   type:
     - "&7&oComponent"
   description:
@@ -872,7 +872,7 @@ SUPREME_CARD_SAND:
     - "&eBasic Machine"
 
 SUPREME_CARD_SILICON:
-  name: "&bCard Machine Silicon"
+  name: "&bMachine Card: Silicon"
   type:
     - "&7&oComponent"
   description:
@@ -881,7 +881,7 @@ SUPREME_CARD_SILICON:
     - "&aMedium Machine"
 
 SUPREME_CARD_SILVER_DUST:
-  name: "&bCard Machine Silver Dust"
+  name: "&bMachine Card: Silver Dust"
   type:
     - "&7&oComponent"
   description:
@@ -890,7 +890,7 @@ SUPREME_CARD_SILVER_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_SLIME_BALL:
-  name: "&bCard Machine Slime Ball"
+  name: "&bMachine Card: Slime Ball"
   type:
     - "&7&oComponent"
   description:
@@ -899,7 +899,7 @@ SUPREME_CARD_SLIME_BALL:
     - "&eBasic Machine"
 
 SUPREME_CARD_SNOW:
-  name: "&bCard Machine Snow"
+  name: "&bMachine Card: Snow"
   type:
     - "&7&oComponent"
   description:
@@ -908,7 +908,7 @@ SUPREME_CARD_SNOW:
     - "&eBasic Machine"
 
 SUPREME_CARD_SOLDER:
-  name: "&bCard Machine Solder Ingot"
+  name: "&bMachine Card: Solder Ingot"
   type:
     - "&7&oComponent"
   description:
@@ -917,7 +917,7 @@ SUPREME_CARD_SOLDER:
     - "&aMedium Machine"
 
 SUPREME_CARD_STEEL:
-  name: "&bCard Machine Steel"
+  name: "&bMachine Card: Steel"
   type:
     - "&7&oComponent"
   description:
@@ -926,7 +926,7 @@ SUPREME_CARD_STEEL:
     - "&aMedium Machine"
 
 SUPREME_CARD_STONE:
-  name: "&bCard Machine Stone"
+  name: "&bMachine Card: Stone"
   type:
     - "&7&oComponent"
   description:
@@ -935,7 +935,7 @@ SUPREME_CARD_STONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_SULFATE:
-  name: "&bCard Machine Sulfate"
+  name: "&bMachine Card: Sulfate"
   type:
     - "&7&oComponent"
   description:
@@ -944,7 +944,7 @@ SUPREME_CARD_SULFATE:
     - "&aMedium Machine"
 
 SUPREME_CARD_SYNTHETIC_DIAMOND:
-  name: "&bCard Machine Synthetic Diamond"
+  name: "&bMachine Card: Synthetic Diamond"
   type:
     - "&7&oComponent"
   description:
@@ -953,7 +953,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SYNTHETIC_EMERALD:
-  name: "&bCard Machine Synthetic Emerald"
+  name: "&bMachine Card: Synthetic Emerald"
   type:
     - "&7&oComponent"
   description:
@@ -962,7 +962,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
-  name: "&bCard Machine Synthetic Sapphire"
+  name: "&bMachine Card: Synthetic Sapphire"
   type:
     - "&7&oComponent"
   description:
@@ -971,7 +971,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_TIN_DUST:
-  name: "&bCard Machine Tin Dust"
+  name: "&bMachine Card: Tin Dust"
   type:
     - "&7&oComponent"
   description:
@@ -980,7 +980,7 @@ SUPREME_CARD_TIN_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_WITHER_ROSE:
-  name: "&bCard Machine Wither Rose"
+  name: "&bMachine Card: Wither Rose"
   type:
     - "&7&oComponent"
   description:
@@ -989,7 +989,7 @@ SUPREME_CARD_WITHER_ROSE:
     - "&eBasic Machine"
 
 SUPREME_CARD_ZINC_DUST:
-  name: "&bCard Machine Zinc Dust"
+  name: "&bMachine Card: Zinc Dust"
   type:
     - "&7&oComponent"
   description:
