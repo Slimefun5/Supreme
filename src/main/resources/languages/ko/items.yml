@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&f이 기계를 사용하면 '
+  - '&f근처 몹의 몹테크 머리. (3 블록)'
+  name: '&b몹테크 수집기 I'
   type:
   - '&7&o기계'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&l아다만티움으로 만든 도끼'
+  name: '&f&l아다만티움 도끼'
   type:
   - '&7&o도구'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&l아다만티움으로 만든 부츠'
+  name: '&f&l아다만티움 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9아다만티움 축전기'
+  stats:
+  - '&6고급 축전기'
+  - '&8⇨ &e⚡ &716,000,000.00 J 용량'
   type:
   - '&7&o기계'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&l아다만티움으로 만든 흉갑'
+  name: '&f&l아다만티움 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&l아다만티움으로 만든 투구'
+  name: '&f&l아다만티움 투구'
   type:
   - '&7&o갑옷'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&l아다만티움으로 만든 바지'
+  name: '&f&l아다만티움 바지'
   type:
   - '&7&o갑옷'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&l아다만티움으로 만든 곡괭이'
+  name: '&f&l아다만티움 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&a아다만티움 판'
   type:
   - '&7&o부품'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&l아다만티움으로 만든 삽'
+  name: '&f&l아다만티움 삽'
   type:
   - '&7&o도구'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&l아다만티움으로 만든 검'
+  name: '&f&l아다만티움 검'
   type:
   - '&7&o무기'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&a아다만티움 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_AURUM:
+  name: '&a아우룸 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&a이리듐 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_MANGANESE:
+  name: '&a망간 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_PLATINUM:
+  name: '&a백금 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_TITANIUM:
+  name: '&a티타늄 합금'
   type:
   - '&7&o부품'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&a지르코늄 합금'
   type:
   - '&7&o부품'
 SUPREME_AQUA_GENERATOR:
+  name: '&9아쿠아 발전기'
+  stats:
+  - '&6고급 발전기'
   type:
   - '&7&o기계'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7특수 효과가 담긴 슈퍼 폭탄 속성'
+  name: '&a폭탄 속성'
   type:
   - '&7&o마법 부품'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7특수 효과가 담긴 슈퍼 행운 속성'
+  name: '&a행운 속성'
   type:
   - '&7&o마법 부품'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7특수 효과가 담긴 슈퍼 추진 속성'
+  name: '&a추진 속성'
   type:
   - '&7&o마법 부품'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7특수 효과가 담긴 슈퍼 마법 속성'
+  name: '&a마법 속성'
   type:
   - '&7&o마법 부품'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&l아우룸으로 만든 도끼'
+  name: '&f&l아우룸 도끼'
   type:
   - '&7&o도구'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&l아우룸으로 만든 부츠'
+  name: '&f&l아우룸 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9아우룸 축전기'
+  stats:
+  - '&6고급 축전기'
+  - '&8⇨ &e⚡ &71,000,000.00 J 용량'
   type:
   - '&7&o기계'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&l아우룸으로 만든 흉갑'
+  name: '&f&l아우룸 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&l아우룸으로 만든 투구'
+  name: '&f&l아우룸 투구'
   type:
   - '&7&o갑옷'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&l아우룸으로 만든 바지'
+  name: '&f&l아우룸 바지'
   type:
   - '&7&o갑옷'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&l아우룸으로 만든 곡괭이'
+  name: '&f&l아우룸 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_AURUM_PLATE:
+  name: '&a아우룸 판'
   type:
   - '&7&o부품'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&l아우룸으로 만든 삽'
+  name: '&f&l아우룸 삽'
   type:
   - '&7&o도구'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&l아우룸으로 만든 검'
+  name: '&f&l아우룸 검'
   type:
   - '&7&o무기'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 도끼'
+  name: '&d&l영웅 도끼'
   type:
   - '&7&o도구'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 도끼'
+  name: '&6&l전설 도끼'
   type:
   - '&7&o도구'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 도끼'
+  name: '&a&l마법 도끼'
   type:
   - '&7&o도구'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 도끼'
+  name: '&b&l희귀 도끼'
   type:
   - '&7&o도구'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 도끼'
+  name: '&4&l최상급 도끼'
   type:
   - '&7&o도구'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 도끼'
+  name: '&f&l토르늄 도끼'
   type:
   - '&7&o도구'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9기본 아쿠아 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9기본 이그니스 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9기본 루미움 발전기'
+  stats:
+  - '&6고급 발전기'
   type:
   - '&7&o기계'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9기본 룩스 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9기본 벤투스 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_BLEND_MACHINE:
+  name: '&a혼합 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 부츠'
+  name: '&d&l영웅 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 부츠'
+  name: '&6&l전설 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 부츠'
+  name: '&a&l마법 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 부츠'
+  name: '&b&l희귀 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 부츠'
+  name: '&4&l최상급 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 부츠'
+  name: '&f&l토르늄 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 활'
+  name: '&d&l영웅 활'
   type:
   - '&7&o무기'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 활'
+  name: '&6&l전설 활'
   type:
   - '&7&o무기'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 활'
+  name: '&a&l마법 활'
   type:
   - '&7&o무기'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 활'
+  name: '&b&l희귀 활'
   type:
   - '&7&o무기'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 활'
+  name: '&4&l최상급 활'
   type:
   - '&7&o무기'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 활'
+  name: '&f&l토르늄 활'
   type:
   - '&7&o무기'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&f알루미늄 황동 주괴 생산으로 변경'
+  name: '&b기계 카드: 알루미늄 황동 주괴'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&f알루미늄 청동 주괴 생산으로 변경'
+  name: '&b기계 카드: 알루미늄 청동 주괴'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&f알루미늄 가루 생산으로 변경'
+  name: '&b기계 카드: 알루미늄 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&f자수정 생산으로 변경'
+  name: '&b기계 카드: 자수정'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&f안산암 생산으로 변경'
+  name: '&b기계 카드: 안산암'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_APPLE:
+  description:
+  - '&f사과 생산으로 변경'
+  name: '&b기계 카드: 사과'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&f배터리 생산으로 변경'
+  name: '&b기계 카드: 배터리'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_BILLON:
+  description:
+  - '&f빌론 주괴 생산으로 변경'
+  name: '&b기계 카드: 빌론 주괴'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&f블레이즈 막대 생산으로 변경'
+  name: '&b기계 카드: 블레이즈 막대'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_BRASS:
+  description:
+  - '&f황동 주괴 생산으로 변경'
+  name: '&b기계 카드: 황동 주괴'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&f청동 주괴 생산으로 변경'
+  name: '&b기계 카드: 청동 주괴'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_CARBON:
+  description:
+  - '&f탄소 생산으로 변경'
+  name: '&b기계 카드: 탄소'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&f카보나도 생산으로 변경'
+  name: '&b기계 카드: 카보나도'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&f압축 탄소 생산으로 변경'
+  name: '&b기계 카드: 압축 탄소'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_CLAY:
+  description:
+  - '&f점토 생산으로 변경'
+  name: '&b기계 카드: 점토'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_COAL:
+  description:
+  - '&f석탄 생산으로 변경'
+  name: '&b기계 카드: 석탄'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_COBALT:
+  description:
+  - '&f코발트 생산으로 변경'
+  name: '&b기계 카드: 코발트'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_COPPER:
+  description:
+  - '&f구리 생산으로 변경'
+  name: '&b기계 카드: 구리'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&f구리 가루 생산으로 변경'
+  name: '&b기계 카드: 구리 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&f코린토스 청동 주괴 생산으로 변경'
+  name: '&b기계 카드: 코린토스 청동 주괴'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&f다마스쿠스 생산으로 변경'
+  name: '&b기계 카드: 다마스쿠스'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&f다이아몬드 생산으로 변경'
+  name: '&b기계 카드: 다이아몬드'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&f섬록암 생산으로 변경'
+  name: '&b기계 카드: 섬록암'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&f두랄루민 주괴 생산으로 변경'
+  name: '&b기계 카드: 두랄루민 주괴'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&f전기 모터 생산으로 변경'
+  name: '&b기계 카드: 전기 모터'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&f전자석 생산으로 변경'
+  name: '&b기계 카드: 전자석'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&f에메랄드 생산으로 변경'
+  name: '&b기계 카드: 에메랄드'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&f엔드스톤 생산으로 변경'
+  name: '&b기계 카드: 엔드스톤'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&f페로실리콘 생산으로 변경'
+  name: '&b기계 카드: 페로실리콘'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&f발광 먹물 주머니 생산으로 변경'
+  name: '&b기계 카드: 발광 먹물 주머니'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GOLD:
+  description:
+  - '&f금 생산으로 변경'
+  name: '&b기계 카드: 금'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&f24k 금 생산으로 변경'
+  name: '&b기계 카드: 24k 금'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&f금 가루 생산으로 변경'
+  name: '&b기계 카드: 금 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&f화강암 생산으로 변경'
+  name: '&b기계 카드: 화강암'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&f자갈 생산으로 변경'
+  name: '&b기계 카드: 자갈'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&f경화 금속 주괴 생산으로 변경'
+  name: '&b기계 카드: 경화 금속 주괴'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&f발열 코일 생산으로 변경'
+  name: '&b기계 카드: 발열 코일'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&f꿀 병 생산으로 변경'
+  name: '&b기계 카드: 꿀 병'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&f먹물 주머니 생산으로 변경'
+  name: '&b기계 카드: 먹물 주머니'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_IRON:
+  description:
+  - '&f철 생산으로 변경'
+  name: '&b기계 카드: 철'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&f철 가루 생산으로 변경'
+  name: '&b기계 카드: 철 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&f청금석 생산으로 변경'
+  name: '&b기계 카드: 청금석'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&f납 가루 생산으로 변경'
+  name: '&b기계 카드: 납 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&f마그네슘 가루 생산으로 변경'
+  name: '&b기계 카드: 마그네슘 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&f자석 생산으로 변경'
+  name: '&b기계 카드: 자석'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&f네더라이트 생산으로 변경'
+  name: '&b기계 카드: 네더라이트'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&f네더의 별 생산으로 변경'
+  name: '&b기계 카드: 네더의 별'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&f니켈 생산으로 변경'
+  name: '&b기계 카드: 니켈'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&f플라스틱 판 생산으로 변경'
+  name: '&b기계 카드: 플라스틱 판'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&f석영 생산으로 변경'
+  name: '&b기계 카드: 석영'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&f석영 블록 생산으로 변경'
+  name: '&b기계 카드: 석영 블록'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&f레드스톤 생산으로 변경'
+  name: '&b기계 카드: 레드스톤'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&f레드스톤 합금 생산으로 변경'
+  name: '&b기계 카드: 레드스톤 합금'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&f강화 합금 주괴 생산으로 변경'
+  name: '&b기계 카드: 강화 합금 주괴'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SAND:
+  description:
+  - '&f모래 생산으로 변경'
+  name: '&b기계 카드: 모래'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SILICON:
+  description:
+  - '&f규소 생산으로 변경'
+  name: '&b기계 카드: 규소'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&f은 가루 생산으로 변경'
+  name: '&b기계 카드: 은 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&f슬라임 덩이 생산으로 변경'
+  name: '&b기계 카드: 슬라임 덩이'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SNOW:
+  description:
+  - '&f눈 생산으로 변경'
+  name: '&b기계 카드: 눈'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&f땜납 주괴 생산으로 변경'
+  name: '&b기계 카드: 땜납 주괴'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_STEEL:
+  description:
+  - '&f강철 생산으로 변경'
+  name: '&b기계 카드: 강철'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_STONE:
+  description:
+  - '&f돌 생산으로 변경'
+  name: '&b기계 카드: 돌'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&f황산염 생산으로 변경'
+  name: '&b기계 카드: 황산염'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&f합성 다이아몬드 생산으로 변경'
+  name: '&b기계 카드: 합성 다이아몬드'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&f합성 에메랄드 생산으로 변경'
+  name: '&b기계 카드: 합성 에메랄드'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&f합성 사파이어 생산으로 변경'
+  name: '&b기계 카드: 합성 사파이어'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&f주석 가루 생산으로 변경'
+  name: '&b기계 카드: 주석 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&f위더 장미 생산으로 변경'
+  name: '&b기계 카드: 위더 장미'
+  stats:
+  - '&e기본 기계'
   type:
   - '&7&o부품'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&f아연 가루 생산으로 변경'
+  name: '&b기계 카드: 아연 가루'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o부품'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&a운반 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&f기계가 아이템을 생산하게 하는 부품'
+  name: '&a카드용 고급 부품'
   type:
   - '&7&o부품'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&f기계가 아이템을 생산하게 하는 부품'
+  name: '&a카드용 기본 부품'
   type:
   - '&7&o부품'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&f기계가 아이템을 생산하게 하는 부품'
+  name: '&a카드용 궁극 부품'
   type:
   - '&7&o부품'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7슈퍼 아쿠아 홀'
+  name: '&a세트루스 아쿠아'
   type:
   - '&7&o마법 부품'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7슈퍼 이그니스 홀'
+  name: '&a세트루스 이그니스'
   type:
   - '&7&o마법 부품'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7슈퍼 루미움 홀'
+  name: '&a세트루스 루미움'
   type:
   - '&7&o마법 부품'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7슈퍼 룩스 홀'
+  name: '&a세트루스 룩스'
   type:
   - '&7&o마법 부품'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7슈퍼 벤투스 홀'
+  name: '&a세트루스 벤투스'
   type:
   - '&7&o마법 부품'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&f근처 상자에 필터 아이템이 있는지 확인합니다'
+  - '&f모든 면을 검사합니다 (처음 발견한 것)'
+  - '&f발견되면 이 블록에 불이 켜집니다'
+  name: '&b인벤토리 확인'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 흉갑'
+  name: '&d&l영웅 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 흉갑'
+  name: '&6&l전설 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 흉갑'
+  name: '&a&l마법 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 흉갑'
+  name: '&b&l희귀 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 흉갑'
+  name: '&4&l최상급 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 흉갑'
+  name: '&f&l토르늄 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_COAL_QUARRY:
+  name: '&e석탄 채석장'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&a수송 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7슈퍼 아카시아나무'
+  name: '&a최상급 아카시아나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7슈퍼 안산암'
+  name: '&a최상급 안산암'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7슈퍼 사과'
+  name: '&a최상급 사과'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7슈퍼 소고기'
+  name: '&a최상급 소고기'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7슈퍼 비트'
+  name: '&a최상급 비트'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7슈퍼 자작나무'
+  name: '&a최상급 자작나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7슈퍼 검정'
+  name: '&a최상급 검정'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7슈퍼 파랑'
+  name: '&a최상급 파랑'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7최상급 당근'
+  name: '&a최상급 당근'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7슈퍼 닭고기'
+  name: '&a최상급 닭고기'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7슈퍼 점토'
+  name: '&a최상급 점토'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_COAL:
+  description:
+  - '&7슈퍼 석탄'
+  name: '&a최상급 석탄'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_COD:
+  description:
+  - '&7슈퍼 대구'
+  name: '&a최상급 대구'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7슈퍼 핏빛 나무'
+  name: '&a최상급 핏빛 줄기'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7슈퍼 청록'
+  name: '&a최상급 청록'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7슈퍼 짙은 참나무'
+  name: '&a최상급 짙은 참나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7슈퍼 다이아몬드'
+  name: '&a최상급 다이아몬드'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7슈퍼 섬록암'
+  name: '&a최상급 섬록암'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7슈퍼 에메랄드'
+  name: '&a최상급 에메랄드'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7슈퍼 엔드스톤'
+  name: '&a최상급 엔드스톤'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7슈퍼 금'
+  name: '&a최상급 금'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7슈퍼 화강암'
+  name: '&a최상급 화강암'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7슈퍼 자갈'
+  name: '&a최상급 자갈'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7슈퍼 회색'
+  name: '&a최상급 회색'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7슈퍼 초록'
+  name: '&a최상급 초록'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_IRON:
+  description:
+  - '&7슈퍼 철'
+  name: '&a최상급 철'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7슈퍼 정글나무'
+  name: '&a최상급 정글나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7슈퍼 청금석'
+  name: '&a최상급 청금석'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_MELON:
+  description:
+  - '&7슈퍼 수박'
+  name: '&a최상급 수박'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7슈퍼 양고기'
+  name: '&a최상급 양고기'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7슈퍼 네더라이트'
+  name: '&a최상급 네더라이트'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7슈퍼 참나무'
+  name: '&a최상급 참나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7이 코어에는 여러 광석이 담겨 있습니다'
+  - '&7세계 곳곳에서 수집된 것입니다.'
+  name: '&a합금의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7이 코어에는 여러 블록이 담겨 있습니다'
+  - '&7세계 곳곳에서 수집된 것입니다.'
+  name: '&a블록의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7이 코어에는 여러 색상이 담겨 있습니다'
+  - '&7세계 곳곳에서 수집된 것입니다.'
+  name: '&a색상의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7이 코어에는 영혼이 담겨 있습니다, '
+  - '&7저편으로 떠난 여러 존재의 것입니다.'
+  name: '&a죽음의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7이 코어에는 생명의 조각이 담겨 있습니다'
+  - '&7세계가 수집한 것입니다.'
+  name: '&a생명의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7이 코어에는 여러 자연물이 담겨 있습니다'
+  - '&7세계 곳곳에서 수집된 것입니다.'
+  name: '&a자연의 코어'
   type:
   - '&7&o마법 부품'
 SUPREME_CORE_PINK:
+  description:
+  - '&7슈퍼 분홍'
+  name: '&a최상급 분홍'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7슈퍼 베이컨'
+  name: '&a최상급 베이컨'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7슈퍼 감자'
+  name: '&a최상급 감자'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7슈퍼 호박'
+  name: '&a최상급 호박'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7슈퍼 보라'
+  name: '&a최상급 보라'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7슈퍼 석영'
+  name: '&a최상급 석영'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_RED:
+  description:
+  - '&7슈퍼 빨강'
+  name: '&a최상급 빨강'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7슈퍼 레드스톤'
+  name: '&a최상급 레드스톤'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7슈퍼 연어'
+  name: '&a최상급 연어'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SAND:
+  description:
+  - '&7슈퍼 모래'
+  name: '&a최상급 모래'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7슈퍼 눈'
+  name: '&a최상급 눈'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7슈퍼 눈알'
+  name: '&a최상급 눈알'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7슈퍼 가문비나무'
+  name: '&a최상급 가문비나무 원목'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_STONE:
+  description:
+  - '&7슈퍼 조약돌'
+  name: '&a최상급 조약돌'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_STRING:
+  description:
+  - '&7슈퍼 끈'
+  name: '&a최상급 끈'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7슈퍼 사탕수수'
+  name: '&a최상급 사탕수수'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7슈퍼 열매'
+  name: '&a최상급 달콤한 열매'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7슈퍼 눈물'
+  name: '&a최상급 눈물'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7슈퍼 뒤틀린 나무'
+  name: '&a최상급 뒤틀린 줄기'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7슈퍼 밀'
+  name: '&a최상급 밀'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7슈퍼 장미'
+  name: '&a최상급 위더 장미'
   type:
   - '&7&o핵심 부품'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7슈퍼 노랑'
+  name: '&a최상급 노랑'
   type:
   - '&7&o핵심 부품'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&a결정화 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_DIAMOND_QUARRY:
+  name: '&e다이아몬드 채석장'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_DUST_AMETHYST:
+  name: '&a자수정 가루'
   type:
   - '&7&o부품'
 SUPREME_DUST_GLOW_INK:
+  name: '&a발광 먹물 가루'
   type:
   - '&7&o부품'
 SUPREME_DUST_NETHERITE:
+  name: '&a네더라이트 가루'
   type:
   - '&7&o부품'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&f코어 자원 제작'
+  name: '&b전기 코어 기계'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&f고급 코어 자원 제작'
+  name: '&b전기 코어 기계 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&f고급 코어 자원 제작'
+  name: '&b전기 코어 기계 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&f아이템 제작'
+  name: '&b전기 제작기'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&f고급 아이템 제작'
+  name: '&b전기 제작기 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&f고급 아이템 제작'
+  name: '&b전기 제작기 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&f장비 티어 제작'
+  name: '&b전기 장비 기계'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&f고급 장비 티어 제작'
+  name: '&b전기 장비 기계 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&f고급 장비 티어 제작'
+  name: '&b전기 장비 기계 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_ITEM:
+  name: 전기 아이템
   type:
   - '&7&o기타'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&f마법 자원 제작'
+  name: '&b전기 마법 기계'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&f고급 마법 자원 제작'
+  name: '&b전기 마법 기계 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&f고급 마법 자원 제작'
+  name: '&b전기 마법 기계 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_EMPTY_MOBTECH:
+  name: '&a빈 몹테크'
   type:
   - '&7&o부품'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f주괴 자원을 단련할 수 있습니다.'
+  name: '&b제작소 주괴'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f주괴 자원을 단련할 수 있습니다.'
+  name: '&b제작소 주괴 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J 버퍼'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o기계'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f주괴 자원을 단련할 수 있습니다.'
+  name: '&b제작소 주괴 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J 버퍼'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o기계'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f마법 자원을 단련할 수 있습니다.'
+  name: '&b제작소 마법'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f마법 자원을 단련할 수 있습니다.'
+  name: '&b제작소 마법 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J 버퍼'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o기계'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f마법 자원을 단련할 수 있습니다.'
+  name: '&b제작소 마법 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J 버퍼'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o기계'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&f주조 및 합성 아이템'
+  name: '&b주조소'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&f고급 주조 및 합성 아이템'
+  name: '&b주조소 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&f고급 주조 및 합성 아이템'
+  name: '&b주조소 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&b고급 몹 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&b기본 몹 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&b중급 몹 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_GENE_BERSERK:
+  name: '&a광전사 유전자'
   type:
   - '&7&o부품'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&f지능 유전자'
   type:
   - '&7&o부품'
 SUPREME_GENE_LUCK:
+  name: '&a행운 유전자'
   type:
   - '&7&o부품'
 SUPREME_GOLD_QUARRY:
+  name: '&e금 채석장'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 투구'
+  name: '&d&l영웅 투구'
   type:
   - '&7&o갑옷'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 투구'
+  name: '&6&l전설 투구'
   type:
   - '&7&o갑옷'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 투구'
+  name: '&a&l마법 투구'
   type:
   - '&7&o갑옷'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 투구'
+  name: '&b&l희귀 투구'
   type:
   - '&7&o갑옷'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 투구'
+  name: '&4&l최상급 투구'
   type:
   - '&7&o갑옷'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 투구'
+  name: '&f&l토르늄 투구'
   type:
   - '&7&o갑옷'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9이그니스 발전기'
+  stats:
+  - '&6고급 발전기'
   type:
   - '&7&o기계'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&a유도성 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&a유도기 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_IRIDIUM_PLATE:
+  name: '&a이리듐 판'
   type:
   - '&7&o부품'
 SUPREME_IRON_QUARRY:
+  name: '&e철 채석장'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 바지'
+  name: '&d&l영웅 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 바지'
+  name: '&6&l전설 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 바지'
+  name: '&a&l마법 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 바지'
+  name: '&b&l희귀 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 바지'
+  name: '&4&l최상급 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 바지'
+  name: '&f&l토르늄 바지'
   type:
   - '&7&o갑옷'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9루미움 발전기'
+  stats:
+  - '&6고급 발전기'
   type:
   - '&7&o기계'
 SUPREME_LUX_GENERATOR:
+  name: '&9룩스 발전기'
+  stats:
+  - '&6고급 발전기'
   type:
   - '&7&o기계'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&f룬 및 마법 아이템 제작'
+  name: '&b마법 제단'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
   type:
   - '&7&o기계'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&f고급 룬 및 마법 아이템 제작'
+  name: '&b마법 제단 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
   type:
   - '&7&o기계'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&f고급 룬 및 마법 아이템 제작'
+  name: '&b마법 제단 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
   type:
   - '&7&o기계'
 SUPREME_MAIN_ITEM:
+  name: 주요 아이템
   type:
   - '&7&o기타'
 SUPREME_MANGANESE_PLATE:
+  name: '&a망간 판'
   type:
   - '&7&o부품'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&f이 기계를 사용하면 '
+  - '&f근처 몹에서 아이템을 수집합니다. (4 블록)'
+  name: '&b몹 수집기'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f 근처 몹에서 아이템을 수집합니다. (8 블록)'
+  name: '&b몹 수집기 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J 버퍼'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o기계'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f 근처 몹에서 아이템을 수집합니다. (16 블록)'
+  name: '&b몹 수집기 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J 버퍼'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o기계'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6몹테크 수집기 I'
+  stats:
+  - '&8⇨ &e⚡ &7사용당 50 J'
   type:
   - '&7&o도구'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6몹테크 수집기 II'
+  stats:
+  - '&8⇨ &e⚡ &7사용당 50 J'
   type:
   - '&7&o도구'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6몹테크 수집기 III'
+  stats:
+  - '&8⇨ &e⚡ &7사용당 50 J'
   type:
   - '&7&o도구'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&f이 기계를 사용하면 '
+  - '&f근처 몹의 몹테크 머리. (6 블록)'
+  name: '&b몹테크 수집기 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&f이 기계를 사용하면 '
+  - '&f근처 몹의 몹테크 머리. (9 블록)'
+  name: '&b몹테크 수집기 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&o여기서 코어를 제작할 수 있습니다!'
+  - '&a멀티블록 기계'
+  name: '&e코어 공작기'
   type:
   - '&7&o기계'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&o여기서 무기, 방어구, 도구를 제작할 수 있습니다!'
+  - '&a멀티블록 기계'
+  name: '&e장비 공작기'
   type:
   - '&7&o기계'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&o여기서 마법 물품을 제작할 수 있습니다!'
+  - '&a멀티블록 기계'
+  name: '&e마법 공작기'
   type:
   - '&7&o기계'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&a석화 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 곡괭이'
+  name: '&d&l영웅 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 곡괭이'
+  name: '&6&l전설 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 곡괭이'
+  name: '&a&l마법 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 곡괭이'
+  name: '&b&l희귀 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 곡괭이'
+  name: '&4&l최상급 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 곡괭이'
+  name: '&f&l토르늄 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_PLATINUM_PLATE:
+  name: '&a백금 판'
   type:
   - '&7&o부품'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&a방청 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 방패'
+  name: '&d&l영웅 방패'
   type:
   - '&7&o무기'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 방패'
+  name: '&6&l전설 방패'
   type:
   - '&7&o무기'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 방패'
+  name: '&a&l마법 방패'
   type:
   - '&7&o무기'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 방패'
+  name: '&b&l희귀 방패'
   type:
   - '&7&o무기'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 방패'
+  name: '&4&l최상급 방패'
   type:
   - '&7&o무기'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 방패'
+  name: '&f&l토르늄 방패'
   type:
   - '&7&o무기'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 삽'
+  name: '&d&l영웅 삽'
   type:
   - '&7&o도구'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 삽'
+  name: '&6&l전설 삽'
   type:
   - '&7&o도구'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 삽'
+  name: '&a&l마법 삽'
   type:
   - '&7&o도구'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 삽'
+  name: '&b&l희귀 삽'
   type:
   - '&7&o도구'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 삽'
+  name: '&4&l최상급 삽'
   type:
   - '&7&o도구'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 삽'
+  name: '&f&l토르늄 삽'
   type:
   - '&7&o도구'
 SUPREME_STAINLESS_MACHINE:
+  name: '&a내식 기계'
   type:
   - '&7&o고급 부품'
 SUPREME_STONE_QUARRY:
+  name: '&e돌 채석장'
+  stats:
+  - '&a중급 기계'
   type:
   - '&7&o기계'
 SUPREME_SUPREME:
+  description:
+  - '&7최상급'
+  name: '&a최상급'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9최상급 축전기'
+  stats:
+  - '&4엔드게임 축전기'
+  - '&8⇨ &e⚡ &7무한 J 용량'
   type:
   - '&7&o기계'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9최상급 발전기'
+  stats:
+  - '&4엔드게임 발전기'
   type:
   - '&7&o기계'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7채석장의 최상급 덩이에서 얻음'
+  name: '&a최상급 덩이'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&e최상급 채석장 덩이'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&l토르늄으로 만든 영웅 검'
+  name: '&d&l영웅 검'
   type:
   - '&7&o무기'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&l토르늄으로 만든 전설 검'
+  name: '&6&l전설 검'
   type:
   - '&7&o무기'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&l토르늄으로 만든 마법 검'
+  name: '&a&l마법 검'
   type:
   - '&7&o무기'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&l토르늄으로 만든 희귀 검'
+  name: '&b&l희귀 검'
   type:
   - '&7&o무기'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&l토르늄으로 만든 최상급 검'
+  name: '&4&l최상급 검'
   type:
   - '&7&o무기'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&l토르늄으로 만든 검'
+  name: '&f&l토르늄 검'
   type:
   - '&7&o무기'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&a합성 자수정'
   type:
   - '&7&o부품'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&a합성 루비'
   type:
   - '&7&o부품'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&f전력과 벌/골렘/좀비를 사용하여, '
+  - '&f재료를 천천히 생성합니다.'
+  name: '&b기술 발전기'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&f돌연변이 발전기를 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  name: '&b기술 돌연변이'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&f돌연변이 발전기를 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  - '&f확률 계수에 2x 적용'
+  name: '&b기술 돌연변이 II'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&f돌연변이 발전기를 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  - '&f확률 계수에 4x 적용'
+  name: '&b기술 돌연변이 III'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&f초급 레벨 로봇을 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  - '&f업그레이드에 64x 필요'
+  name: '&b기술 로봇'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&f초급 레벨 로봇을 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  - '&f업그레이드에 32x 필요'
+  name: '&b기술 로봇 II'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&f초급 레벨 로봇을 사용하여 '
+  - '&f상위 레벨로 올라가세요'
+  - '&f업그레이드에 16x 필요'
+  name: '&b기술 로봇 III'
+  stats:
+  - '&4엔드게임 기계'
   type:
   - '&7&o기계'
 SUPREME_THORNERITE:
+  name: '&a토르네라이트'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7토르늄 채석장에서 얻음'
+  name: '&a토르늄 조각'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7토르늄 조각에서 얻음'
+  name: '&a합성 토르늄 조각'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9토르늄 축전기'
+  stats:
+  - '&4엔드게임 축전기'
+  - '&8⇨ &e⚡ &7100,000,000.00 J 용량'
   type:
   - '&7&o기계'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7토르늄 주괴에서 얻음'
+  name: '&a토르늄 카보나도'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7토르늄 조각에서 얻음'
+  name: '&a토르늄 가루'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7토르늄 가루에서 얻음'
+  name: '&a합성 토르늄 가루'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7토르늄 주괴에서 얻음'
+  name: '&a고에너지 토르늄'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9토르늄 발전기'
+  stats:
+  - '&4엔드게임 발전기'
   type:
   - '&7&o기계'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7토르늄 가루에서 얻음'
+  name: '&a토르늄 주괴'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7토르늄 주괴에서 얻음'
+  name: '&a합성 토르늄 주괴'
   type:
   - '&7&o엔드게임 부품'
 SUPREME_THORNIUM_QUARRY:
+  name: '&e토르늄 채석장'
+  stats:
+  - '&6고급 기계'
   type:
   - '&7&o기계'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&l티타늄으로 만든 도끼'
+  name: '&f&l티타늄 도끼'
   type:
   - '&7&o도구'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&l티타늄으로 만든 부츠'
+  name: '&f&l티타늄 부츠'
   type:
   - '&7&o갑옷'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9티타늄 축전기'
+  stats:
+  - '&6고급 축전기'
+  - '&8⇨ &e⚡ &74,000,000.00 J 용량'
   type:
   - '&7&o기계'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&l티타늄으로 만든 흉갑'
+  name: '&f&l티타늄 흉갑'
   type:
   - '&7&o갑옷'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&l티타늄으로 만든 투구'
+  name: '&f&l티타늄 투구'
   type:
   - '&7&o갑옷'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&l티타늄으로 만든 바지'
+  name: '&f&l티타늄 바지'
   type:
   - '&7&o갑옷'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&l티타늄으로 만든 곡괭이'
+  name: '&f&l티타늄 곡괭이'
   type:
   - '&7&o도구'
 SUPREME_TITANIUM_PLATE:
+  name: '&a티타늄 판'
   type:
   - '&7&o부품'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&l티타늄으로 만든 삽'
+  name: '&f&l티타늄 삽'
   type:
   - '&7&o도구'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&l티타늄으로 만든 검'
+  name: '&f&l티타늄 검'
   type:
   - '&7&o무기'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9벤투스 발전기'
+  stats:
+  - '&e기본 발전기'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&f이 기계를 사용하면 '
+  - '&f 바다에서 수집되는 아이템을 모을 수 있습니다.'
+  name: '&b가상 수족관'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f 바다에서 수집되는 아이템을 모을 수 있습니다.'
+  name: '&b가상 수족관 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J 버퍼'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f 바다에서 수집되는 아이템을 모을 수 있습니다.'
+  name: '&b가상 수족관 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J 버퍼'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f자원을 재배할 수 있습니다.'
+  name: '&b가상 정원'
+  stats:
+  - '&6고급 기계'
+  - '&8⇨ &b⚡ &7속도: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J 버퍼'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f자원을 재배할 수 있습니다.'
+  name: '&b가상 정원 II'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J 버퍼'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&o기계'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&f이 기계를 사용하면'
+  - '&f자원을 재배할 수 있습니다.'
+  name: '&b가상 정원 III'
+  stats:
+  - '&4엔드게임 기계'
+  - '&8⇨ &b⚡ &7속도: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J 버퍼'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&o기계'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&a지르코늄 판'
   type:
   - '&7&o부품'
