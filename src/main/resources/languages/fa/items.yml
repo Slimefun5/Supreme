@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید '
+  - '&fسر ماب‌تک از ماب‌های نزدیک. (3 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب‌تک I'
   type:
   - '&7&oماشین'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lتبری از آدامانتیوم'
+  name: '&f&lتبر آدامانتیوم'
   type:
   - '&7&oابزارها'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lچکمه‌ای از آدامانتیوم'
+  name: '&f&lچکمهٔ آدامانتیوم'
   type:
   - '&7&oزره'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9خازن آدامانتیوم'
+  stats:
+  - '&6خازن پیشرفته'
+  - '&8⇨ &e⚡ &7ظرفیت 16,000,000.00 J'
   type:
   - '&7&oماشین'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lسینه‌پوشی از آدامانتیوم'
+  name: '&f&lسینه‌پوش آدامانتیوم'
   type:
   - '&7&oزره'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lکلاه‌خودی از آدامانتیوم'
+  name: '&f&lکلاه‌خود آدامانتیوم'
   type:
   - '&7&oزره'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lساق‌پوشی از آدامانتیوم'
+  name: '&f&lساق‌پوش آدامانتیوم'
   type:
   - '&7&oزره'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lکلنگی از آدامانتیوم'
+  name: '&f&lکلنگ آدامانتیوم'
   type:
   - '&7&oابزارها'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aصفحهٔ آدامانتیوم'
   type:
   - '&7&oقطعات'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lبیلی از آدامانتیوم'
+  name: '&f&lبیل آدامانتیوم'
   type:
   - '&7&oابزارها'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lشمشیری از آدامانتیوم'
+  name: '&f&lشمشیر آدامانتیوم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aآلیاژ آدامانتیوم'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_AURUM:
+  name: '&aآلیاژ آئوروم'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aآلیاژ ایریدیوم'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aآلیاژ منگنز'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aآلیاژ پلاتین'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aآلیاژ تیتانیوم'
   type:
   - '&7&oقطعات'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aآلیاژ زیرکونیوم'
   type:
   - '&7&oقطعات'
 SUPREME_AQUA_GENERATOR:
+  name: '&9مولد آکوا'
+  stats:
+  - '&6مولد پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7ویژگی ابر‌بمب با اثرهای ویژه'
+  name: '&aویژگی بمب'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7ویژگی ابر‌اقبال با اثرهای ویژه'
+  name: '&aویژگی اقبال'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7ویژگی ابر‌تکانه با اثرهای ویژه'
+  name: '&aویژگی تکانه'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7ویژگی ابر‌جادو با اثرهای ویژه'
+  name: '&aویژگی جادو'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lتبری از آئوروم'
+  name: '&f&lتبر آئوروم'
   type:
   - '&7&oابزارها'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lچکمه‌ای از آئوروم'
+  name: '&f&lچکمهٔ آئوروم'
   type:
   - '&7&oزره'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9خازن آئوروم'
+  stats:
+  - '&6خازن پیشرفته'
+  - '&8⇨ &e⚡ &7ظرفیت 1,000,000.00 J'
   type:
   - '&7&oماشین'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lسینه‌پوشی از آئوروم'
+  name: '&f&lسینه‌پوش آئوروم'
   type:
   - '&7&oزره'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lکلاه‌خودی از آئوروم'
+  name: '&f&lکلاه‌خود آئوروم'
   type:
   - '&7&oزره'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lساق‌پوشی از آئوروم'
+  name: '&f&lساق‌پوش آئوروم'
   type:
   - '&7&oزره'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lکلنگی از آئوروم'
+  name: '&f&lکلنگ آئوروم'
   type:
   - '&7&oابزارها'
 SUPREME_AURUM_PLATE:
+  name: '&aصفحهٔ آئوروم'
   type:
   - '&7&oقطعات'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lبیلی از آئوروم'
+  name: '&f&lبیل آئوروم'
   type:
   - '&7&oابزارها'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lشمشیری از آئوروم'
+  name: '&f&lشمشیر آئوروم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lتبر حماسی از تورنیوم'
+  name: '&d&lتبر حماسی'
   type:
   - '&7&oابزارها'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lتبر افسانه‌ای از تورنیوم'
+  name: '&6&lتبر افسانه‌ای'
   type:
   - '&7&oابزارها'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lتبر جادویی از تورنیوم'
+  name: '&a&lتبر جادویی'
   type:
   - '&7&oابزارها'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lتبر کمیاب از تورنیوم'
+  name: '&b&lتبر کمیاب'
   type:
   - '&7&oابزارها'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lتبر برتر از تورنیوم'
+  name: '&4&lتبر برتر'
   type:
   - '&7&oابزارها'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lتبری از تورنیوم'
+  name: '&f&lتبر تورنیوم'
   type:
   - '&7&oابزارها'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9مولد پایهٔ آکوا'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9مولد پایهٔ ایگنیس'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9مولد پایهٔ لومیوم'
+  stats:
+  - '&6مولد پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9مولد پایهٔ لوکس'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9مولد پایهٔ ونتوس'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_BLEND_MACHINE:
+  name: '&aماشین مخلوط‌کن'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lچکمهٔ حماسی از تورنیوم'
+  name: '&d&lچکمهٔ حماسی'
   type:
   - '&7&oزره'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lچکمهٔ افسانه‌ای از تورنیوم'
+  name: '&6&lچکمهٔ افسانه‌ای'
   type:
   - '&7&oزره'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lچکمهٔ جادویی از تورنیوم'
+  name: '&a&lچکمهٔ جادویی'
   type:
   - '&7&oزره'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lچکمهٔ کمیاب از تورنیوم'
+  name: '&b&lچکمهٔ کمیاب'
   type:
   - '&7&oزره'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lچکمهٔ برتر از تورنیوم'
+  name: '&4&lچکمهٔ برتر'
   type:
   - '&7&oزره'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lچکمه‌ای از تورنیوم'
+  name: '&f&lچکمهٔ تورنیوم'
   type:
   - '&7&oزره'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lکمان حماسی از تورنیوم'
+  name: '&d&lکمان حماسی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lکمان افسانه‌ای از تورنیوم'
+  name: '&6&lکمان افسانه‌ای'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lکمان جادویی از تورنیوم'
+  name: '&a&lکمان جادویی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lکمان کمیاب از تورنیوم'
+  name: '&b&lکمان کمیاب'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lکمان برتر از تورنیوم'
+  name: '&4&lکمان برتر'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lکمانی از تورنیوم'
+  name: '&f&lکمان تورنیوم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fتغییر به تولید شمش برنج آلومینیومی'
+  name: '&bکارت ماشین: شمش برنج آلومینیومی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fتغییر به تولید شمش برنز آلومینیومی'
+  name: '&bکارت ماشین: شمش برنز آلومینیومی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fتغییر به تولید گرد آلومینیوم'
+  name: '&bکارت ماشین: گرد آلومینیوم'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fتغییر به تولید آمتیست'
+  name: '&bکارت ماشین: آمتیست'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fتغییر به تولید آندزیت'
+  name: '&bکارت ماشین: آندزیت'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fتغییر به تولید سیب'
+  name: '&bکارت ماشین: سیب'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fتغییر به تولید باتری'
+  name: '&bکارت ماشین: باتری'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fتغییر به تولید شمش بیلون'
+  name: '&bکارت ماشین: شمش بیلون'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fتغییر به تولید میلهٔ بلیز'
+  name: '&bکارت ماشین: میلهٔ بلیز'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fتغییر به تولید شمش برنج'
+  name: '&bکارت ماشین: شمش برنج'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fتغییر به تولید شمش برنز'
+  name: '&bکارت ماشین: شمش برنز'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fتغییر به تولید کربن'
+  name: '&bکارت ماشین: کربن'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fتغییر به تولید کاربونادو'
+  name: '&bکارت ماشین: کاربونادو'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fتغییر به تولید کربن فشرده'
+  name: '&bکارت ماشین: کربن فشرده'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fتغییر به تولید خاک رس'
+  name: '&bکارت ماشین: خاک رس'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_COAL:
+  description:
+  - '&fتغییر به تولید زغال‌سنگ'
+  name: '&bکارت ماشین: زغال‌سنگ'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fتغییر به تولید کبالت'
+  name: '&bکارت ماشین: کبالت'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fتغییر به تولید مس'
+  name: '&bکارت ماشین: مس'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fتغییر به تولید گرد مس'
+  name: '&bکارت ماشین: گرد مس'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fتغییر به تولید شمش برنز کورینتی'
+  name: '&bکارت ماشین: شمش برنز کورینتی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fتغییر به تولید فولاد دمشقی'
+  name: '&bکارت ماشین: فولاد دمشقی'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fتغییر به تولید الماس'
+  name: '&bکارت ماشین: الماس'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fتغییر به تولید دیوریت'
+  name: '&bکارت ماشین: دیوریت'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fتغییر به تولید شمش دورالومین'
+  name: '&bکارت ماشین: شمش دورالومین'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fتغییر به تولید موتور برقی'
+  name: '&bکارت ماشین: موتور برقی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fتغییر به تولید آهن‌ربای برقی'
+  name: '&bکارت ماشین: آهن‌ربای برقی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fتغییر به تولید زمرد'
+  name: '&bکارت ماشین: زمرد'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fتغییر به تولید سنگ اند'
+  name: '&bکارت ماشین: سنگ اند'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fتغییر به تولید فروسیلیسیم'
+  name: '&bکارت ماشین: فروسیلیسیم'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fتغییر به تولید کیسهٔ جوهر درخشان'
+  name: '&bکارت ماشین: کیسهٔ جوهر درخشان'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fتغییر به تولید طلا'
+  name: '&bکارت ماشین: طلا'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&fتغییر به تولید طلای 24k'
+  name: '&bکارت ماشین: طلای 24k'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fتغییر به تولید گرد طلا'
+  name: '&bکارت ماشین: گرد طلا'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fتغییر به تولید گرانیت'
+  name: '&bکارت ماشین: گرانیت'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fتغییر به تولید سنگ‌ریزه'
+  name: '&bکارت ماشین: سنگ‌ریزه'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fتغییر به تولید شمش فلز سخت‌شده'
+  name: '&bکارت ماشین: شمش فلز سخت‌شده'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fتغییر به تولید سیم‌پیچ گرمایشی'
+  name: '&bکارت ماشین: سیم‌پیچ گرمایشی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fتغییر به تولید بطری عسل'
+  name: '&bکارت ماشین: بطری عسل'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fتغییر به تولید کیسهٔ جوهر'
+  name: '&bکارت ماشین: کیسهٔ جوهر'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_IRON:
+  description:
+  - '&fتغییر به تولید آهن'
+  name: '&bکارت ماشین: آهن'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fتغییر به تولید گرد آهن'
+  name: '&bکارت ماشین: گرد آهن'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fتغییر به تولید لاجورد'
+  name: '&bکارت ماشین: لاجورد'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fتغییر به تولید گرد سرب'
+  name: '&bکارت ماشین: گرد سرب'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fتغییر به تولید گرد منیزیم'
+  name: '&bکارت ماشین: گرد منیزیم'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fتغییر به تولید آهن‌ربا'
+  name: '&bکارت ماشین: آهن‌ربا'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fتغییر به تولید نترایت'
+  name: '&bکارت ماشین: نترایت'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fتغییر به تولید ستارهٔ نتر'
+  name: '&bکارت ماشین: ستارهٔ نتر'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fتغییر به تولید نیکل'
+  name: '&bکارت ماشین: نیکل'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fتغییر به تولید ورق پلاستیکی'
+  name: '&bکارت ماشین: ورق پلاستیکی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fتغییر به تولید کوارتز'
+  name: '&bکارت ماشین: کوارتز'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fتغییر به تولید بلوک کوارتز'
+  name: '&bکارت ماشین: بلوک کوارتز'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fتغییر به تولید ردستون'
+  name: '&bکارت ماشین: ردستون'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fتغییر به تولید آلیاژ ردستون'
+  name: '&bکارت ماشین: آلیاژ ردستون'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fتغییر به تولید شمش آلیاژ تقویت‌شده'
+  name: '&bکارت ماشین: شمش آلیاژ تقویت‌شده'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SAND:
+  description:
+  - '&fتغییر به تولید ماسه'
+  name: '&bکارت ماشین: ماسه'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fتغییر به تولید سیلیسیم'
+  name: '&bکارت ماشین: سیلیسیم'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fتغییر به تولید گرد نقره'
+  name: '&bکارت ماشین: گرد نقره'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fتغییر به تولید توپ اسلایم'
+  name: '&bکارت ماشین: توپ اسلایم'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fتغییر به تولید برف'
+  name: '&bکارت ماشین: برف'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fتغییر به تولید شمش لحیم'
+  name: '&bکارت ماشین: شمش لحیم'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fتغییر به تولید فولاد'
+  name: '&bکارت ماشین: فولاد'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_STONE:
+  description:
+  - '&fتغییر به تولید سنگ'
+  name: '&bکارت ماشین: سنگ'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fتغییر به تولید سولفات'
+  name: '&bکارت ماشین: سولفات'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fتغییر به تولید الماس مصنوعی'
+  name: '&bکارت ماشین: الماس مصنوعی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fتغییر به تولید زمرد مصنوعی'
+  name: '&bکارت ماشین: زمرد مصنوعی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fتغییر به تولید یاقوت کبود مصنوعی'
+  name: '&bکارت ماشین: یاقوت کبود مصنوعی'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fتغییر به تولید گرد قلع'
+  name: '&bکارت ماشین: گرد قلع'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fتغییر به تولید گل ویتر'
+  name: '&bکارت ماشین: گل ویتر'
+  stats:
+  - '&eماشین پایه'
   type:
   - '&7&oقطعه'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fتغییر به تولید گرد روی'
+  name: '&bکارت ماشین: گرد روی'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oقطعه'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aماشین حمل'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fقطعه برای ماشین جهت تولید آیتم‌ها'
+  name: '&aقطعهٔ پیشرفته برای کارت'
   type:
   - '&7&oقطعه'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fقطعه برای ماشین جهت تولید آیتم‌ها'
+  name: '&aقطعهٔ پایه برای کارت'
   type:
   - '&7&oقطعه'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fقطعه برای ماشین جهت تولید آیتم‌ها'
+  name: '&aقطعهٔ نهایی برای کارت'
   type:
   - '&7&oقطعه'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7یک عصای ابر‌آکوا'
+  name: '&aکتروس آکوا'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7یک عصای ابر‌ایگنیس'
+  name: '&aکتروس ایگنیس'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7یک عصای ابر‌لومیوم'
+  name: '&aکتروس لومیوم'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7یک عصای ابر‌لوکس'
+  name: '&aکتروس لوکس'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7یک عصای ابر‌ونتوس'
+  name: '&aکتروس ونتوس'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fبررسی می‌کند که آیا صندوق نزدیک آیتم فیلتر را دارد'
+  - '&fهمهٔ وجه‌ها در نظر گرفته می‌شوند (نخستین یافته)'
+  - '&fاگر یافت شود، این بلوک روشن می‌شود'
+  name: '&bبررسی موجودی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lسینه‌پوش حماسی از تورنیوم'
+  name: '&d&lسینه‌پوش حماسی'
   type:
   - '&7&oزره'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lسینه‌پوش افسانه‌ای از تورنیوم'
+  name: '&6&lسینه‌پوش افسانه‌ای'
   type:
   - '&7&oزره'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lسینه‌پوش جادویی از تورنیوم'
+  name: '&a&lسینه‌پوش جادویی'
   type:
   - '&7&oزره'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lسینه‌پوش کمیاب از تورنیوم'
+  name: '&b&lسینه‌پوش کمیاب'
   type:
   - '&7&oزره'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lسینه‌پوش برتر از تورنیوم'
+  name: '&4&lسینه‌پوش برتر'
   type:
   - '&7&oزره'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lسینه‌پوشی از تورنیوم'
+  name: '&f&lسینه‌پوش تورنیوم'
   type:
   - '&7&oزره'
 SUPREME_COAL_QUARRY:
+  name: '&eمعدن زغال‌سنگ'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aماشین انتقال'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7یک ابر‌اقاقیا'
+  name: '&aکندهٔ اقاقیای برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7یک ابر‌آندزیت'
+  name: '&aآندزیت برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7یک ابر‌سیب'
+  name: '&aسیب برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7یک ابر‌گوشت گاو'
+  name: '&aگوشت گاو برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7یک ابر‌چغندر'
+  name: '&aچغندر برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7یک ابر‌توس'
+  name: '&aکندهٔ توس برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7یک ابر‌مشکی'
+  name: '&aمشکی برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7یک ابر‌آبی'
+  name: '&aآبی برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7یک هویج برتر'
+  name: '&aهویج برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7یک ابر‌مرغ'
+  name: '&aمرغ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7یک ابر‌خاک رس'
+  name: '&aخاک رس برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_COAL:
+  description:
+  - '&7یک ابر‌زغال‌سنگ'
+  name: '&aزغال‌سنگ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_COD:
+  description:
+  - '&7یک ابر‌ماهی کاد'
+  name: '&aماهی کاد برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7یک ابر‌کریمزون'
+  name: '&aساقهٔ کریمزون برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7یک ابر‌فیروزه‌ای'
+  name: '&aفیروزه‌ای برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7یک ابر‌بلوط تیره'
+  name: '&aکندهٔ بلوط تیرهٔ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7یک ابر‌الماس'
+  name: '&aالماس برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7یک ابر‌دیوریت'
+  name: '&aدیوریت برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7یک ابر‌زمرد'
+  name: '&aزمرد برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7یک ابر‌سنگ اند'
+  name: '&aسنگ اند برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7یک ابر‌طلا'
+  name: '&aطلای برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7یک ابر‌گرانیت'
+  name: '&aگرانیت برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7یک ابر‌سنگ‌ریزه'
+  name: '&aسنگ‌ریزهٔ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7یک ابر‌خاکستری'
+  name: '&aخاکستری برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7یک ابر‌سبز'
+  name: '&aسبز برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_IRON:
+  description:
+  - '&7یک ابر‌آهن'
+  name: '&aآهن برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7یک ابر‌جنگل'
+  name: '&aکندهٔ جنگلی برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7یک ابر‌لاجورد'
+  name: '&aلاجورد برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_MELON:
+  description:
+  - '&7یک ابر‌هندوانه'
+  name: '&aهندوانهٔ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7یک ابر‌گوشت گوسفند'
+  name: '&aگوشت گوسفند برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7یک ابر‌نترایت'
+  name: '&aنترایت برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7یک ابر‌بلوط'
+  name: '&aکندهٔ بلوط برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7این هسته شامل چندین سنگ معدنی است'
+  - '&7که از گوشه‌وکنار جهان جمع‌آوری شده‌اند.'
+  name: '&aهستهٔ آلیاژ'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7این هسته شامل چندین بلوک است'
+  - '&7که از گوشه‌وکنار جهان جمع‌آوری شده‌اند.'
+  name: '&aهستهٔ بلوک'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7این هسته شامل چندین رنگ است'
+  - '&7که از گوشه‌وکنار جهان جمع‌آوری شده‌اند.'
+  name: '&aهستهٔ رنگ'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7این هسته شامل روح‌های '
+  - '&7موجودات گوناگونی است که از این جهان رفته‌اند.'
+  name: '&aهستهٔ مرگ'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7این هسته شامل تکه‌هایی از زندگی است'
+  - '&7که جهان آن‌ها را جمع‌آوری کرده است.'
+  name: '&aهستهٔ زندگی'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7این هسته شامل چندین عنصر طبیعی'
+  - '&7که از گوشه‌وکنار جهان جمع‌آوری شده‌اند.'
+  name: '&aهستهٔ طبیعت'
   type:
   - '&7&oقطعات جادویی'
 SUPREME_CORE_PINK:
+  description:
+  - '&7یک ابر‌صورتی'
+  name: '&aصورتی برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7یک ابر‌بیکن'
+  name: '&aبیکن برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7یک ابر‌سیب‌زمینی'
+  name: '&aسیب‌زمینی برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7یک ابر‌کدو تنبل'
+  name: '&aکدو تنبل برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7یک ابر‌بنفش'
+  name: '&aبنفش برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7یک ابر‌کوارتز'
+  name: '&aکوارتز برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_RED:
+  description:
+  - '&7یک ابر‌قرمز'
+  name: '&aقرمز برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7یک ابر‌ردستون'
+  name: '&aردستون برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7یک ابر‌ماهی سالمون'
+  name: '&aماهی سالمون برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SAND:
+  description:
+  - '&7یک ابر‌ماسه'
+  name: '&aماسهٔ برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7یک ابر‌برف'
+  name: '&aبرف برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7یک ابر‌چشم'
+  name: '&aچشم برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7یک ابر‌صنوبر'
+  name: '&aکندهٔ صنوبر برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_STONE:
+  description:
+  - '&7یک ابر‌سنگ‌فرش'
+  name: '&aسنگ‌فرش برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_STRING:
+  description:
+  - '&7یک ابر‌افسار'
+  name: '&aافسار برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7یک ابر‌نیشکر'
+  name: '&aنیشکر برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7یک ابر‌توت'
+  name: '&aتوت‌های شیرین برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7یک ابر‌اشک'
+  name: '&aاشک برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7یک ابر‌وارپد'
+  name: '&aساقهٔ وارپد برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7یک ابر‌گندم'
+  name: '&aگندم برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7یک ابر‌گل'
+  name: '&aگل ویتر برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7یک ابر‌زرد'
+  name: '&aزرد برتر'
   type:
   - '&7&oقطعات پایه'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aماشین کریستال‌ساز'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eمعدن الماس'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_DUST_AMETHYST:
+  name: '&aگرد آمتیست'
   type:
   - '&7&oقطعه'
 SUPREME_DUST_GLOW_INK:
+  name: '&aگرد جوهر درخشان'
   type:
   - '&7&oقطعه'
 SUPREME_DUST_NETHERITE:
+  name: '&aگرد نترایت'
   type:
   - '&7&oقطعه'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fمنبع ساخت هسته'
+  name: '&bماشین هستهٔ برقی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fمنبع ساخت پیشرفتهٔ هسته'
+  name: '&bماشین هستهٔ برقی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fمنبع ساخت پیشرفتهٔ هسته'
+  name: '&bماشین هستهٔ برقی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fساخت آیتم‌ها'
+  name: '&bسازندهٔ برقی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fساخت پیشرفتهٔ آیتم‌ها'
+  name: '&bسازندهٔ برقی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fساخت پیشرفتهٔ آیتم‌ها'
+  name: '&bسازندهٔ برقی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fساخت ردهٔ تجهیزات'
+  name: '&bماشین تجهیزات برقی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fساخت پیشرفتهٔ ردهٔ تجهیزات'
+  name: '&bماشین تجهیزات برقی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fساخت پیشرفتهٔ ردهٔ تجهیزات'
+  name: '&bماشین تجهیزات برقی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_ITEM:
+  name: آیتم برقی
   type:
   - '&7&oمتفرقه'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fمنبع ساخت جادویی'
+  name: '&bماشین جادویی برقی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fمنبع ساخت پیشرفتهٔ جادویی'
+  name: '&bماشین جادویی برقی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fمنبع ساخت پیشرفتهٔ جادویی'
+  name: '&bماشین جادویی برقی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aماب‌تک خالی'
   type:
   - '&7&oقطعه'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع شمش را آهنگری کنید.'
+  name: '&bشمش آهنگری'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع شمش را آهنگری کنید.'
+  name: '&bشمش آهنگری II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
+  - '&8⇨ &e⚡ &7بافر 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع شمش را آهنگری کنید.'
+  name: '&bشمش آهنگری III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
+  - '&8⇨ &e⚡ &7بافر 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع جادویی را آهنگری کنید.'
+  name: '&bآهنگری جادویی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع جادویی را آهنگری کنید.'
+  name: '&bآهنگری جادویی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
+  - '&8⇨ &e⚡ &7بافر 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fمنابع جادویی را آهنگری کنید.'
+  name: '&bآهنگری جادویی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
+  - '&8⇨ &e⚡ &7بافر 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oماشین'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fآیتم‌های ریخته‌گری و سنتز'
+  name: '&bریخته‌گری'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fآیتم‌های ریخته‌گری و سنتز پیشرفته'
+  name: '&bریخته‌گری II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fآیتم‌های ریخته‌گری و سنتز پیشرفته'
+  name: '&bریخته‌گری III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bتولیدکنندهٔ ماب پیشرفته'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bتولیدکنندهٔ ماب پایه'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bتولیدکنندهٔ ماب متوسط'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_GENE_BERSERK:
+  name: '&aژن خشم'
   type:
   - '&7&oقطعه'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fژن هوش'
   type:
   - '&7&oقطعه'
 SUPREME_GENE_LUCK:
+  name: '&aژن شانس'
   type:
   - '&7&oقطعه'
 SUPREME_GOLD_QUARRY:
+  name: '&eمعدن طلا'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lکلاه‌خود حماسی از تورنیوم'
+  name: '&d&lکلاه‌خود حماسی'
   type:
   - '&7&oزره'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lکلاه‌خود افسانه‌ای از تورنیوم'
+  name: '&6&lکلاه‌خود افسانه‌ای'
   type:
   - '&7&oزره'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lکلاه‌خود جادویی از تورنیوم'
+  name: '&a&lکلاه‌خود جادویی'
   type:
   - '&7&oزره'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lکلاه‌خود کمیاب از تورنیوم'
+  name: '&b&lکلاه‌خود کمیاب'
   type:
   - '&7&oزره'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lکلاه‌خود برتر از تورنیوم'
+  name: '&4&lکلاه‌خود برتر'
   type:
   - '&7&oزره'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lکلاه‌خودی از تورنیوم'
+  name: '&f&lکلاه‌خود تورنیوم'
   type:
   - '&7&oزره'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9مولد ایگنیس'
+  stats:
+  - '&6مولد پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aماشین القایی'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aماشین القاگر'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aصفحهٔ ایریدیوم'
   type:
   - '&7&oقطعات'
 SUPREME_IRON_QUARRY:
+  name: '&eمعدن آهن'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lساق‌پوش حماسی از تورنیوم'
+  name: '&d&lساق‌پوش حماسی'
   type:
   - '&7&oزره'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lساق‌پوش افسانه‌ای از تورنیوم'
+  name: '&6&lساق‌پوش افسانه‌ای'
   type:
   - '&7&oزره'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lساق‌پوش جادویی از تورنیوم'
+  name: '&a&lساق‌پوش جادویی'
   type:
   - '&7&oزره'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lساق‌پوش کمیاب از تورنیوم'
+  name: '&b&lساق‌پوش کمیاب'
   type:
   - '&7&oزره'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lساق‌پوش برتر از تورنیوم'
+  name: '&4&lساق‌پوش برتر'
   type:
   - '&7&oزره'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lساق‌پوشی از تورنیوم'
+  name: '&f&lساق‌پوش تورنیوم'
   type:
   - '&7&oزره'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9مولد لومیوم'
+  stats:
+  - '&6مولد پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_LUX_GENERATOR:
+  name: '&9مولد لوکس'
+  stats:
+  - '&6مولد پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fساخت رون و آیتم‌های جادویی'
+  name: '&bمحراب جادو'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
   type:
   - '&7&oماشین'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fساخت پیشرفتهٔ رون و آیتم‌های جادویی'
+  name: '&bمحراب جادو II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
   type:
   - '&7&oماشین'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fساخت پیشرفتهٔ رون و آیتم‌های جادویی'
+  name: '&bمحراب جادو III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
   type:
   - '&7&oماشین'
 SUPREME_MAIN_ITEM:
+  name: آیتم اصلی
   type:
   - '&7&oمتفرقه'
 SUPREME_MANGANESE_PLATE:
+  name: '&aصفحهٔ منگنز'
   type:
   - '&7&oقطعات'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید '
+  - '&fآیتم‌ها را از ماب‌های نزدیک. (4 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید'
+  - '&f آیتم‌ها را از ماب‌های نزدیک. (8 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
+  - '&8⇨ &e⚡ &7بافر 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oماشین'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید'
+  - '&f آیتم‌ها را از ماب‌های نزدیک. (16 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
+  - '&8⇨ &e⚡ &7بافر 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oماشین'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6جمع‌کنندهٔ ماب‌تک I'
+  stats:
+  - '&8⇨ &e⚡ &750 J در هر استفاده'
   type:
   - '&7&oابزارها'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6جمع‌کنندهٔ ماب‌تک II'
+  stats:
+  - '&8⇨ &e⚡ &750 J در هر استفاده'
   type:
   - '&7&oابزارها'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6جمع‌کنندهٔ ماب‌تک III'
+  stats:
+  - '&8⇨ &e⚡ &750 J در هر استفاده'
   type:
   - '&7&oابزارها'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید '
+  - '&fسر ماب‌تک از ماب‌های نزدیک. (6 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب‌تک II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید '
+  - '&fسر ماب‌تک از ماب‌های نزدیک. (9 بلوک)'
+  name: '&bجمع‌کنندهٔ ماب‌تک III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oاینجا می‌توانید هسته بسازید!'
+  - '&aماشین چندبلوکی'
+  name: '&eسازندهٔ هسته'
   type:
   - '&7&oماشین'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oاینجا می‌توانید سلاح، زره و ابزار بسازید!'
+  - '&aماشین چندبلوکی'
+  name: '&eسازندهٔ تجهیزات'
   type:
   - '&7&oماشین'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oاینجا می‌توانید اقلام جادویی بسازید!'
+  - '&aماشین چندبلوکی'
+  name: '&eسازندهٔ جادویی'
   type:
   - '&7&oماشین'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aماشین سنگ‌کننده'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lکلنگ حماسی از تورنیوم'
+  name: '&d&lکلنگ حماسی'
   type:
   - '&7&oابزارها'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lکلنگ افسانه‌ای از تورنیوم'
+  name: '&6&lکلنگ افسانه‌ای'
   type:
   - '&7&oابزارها'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lکلنگ جادویی از تورنیوم'
+  name: '&a&lکلنگ جادویی'
   type:
   - '&7&oابزارها'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lکلنگ کمیاب از تورنیوم'
+  name: '&b&lکلنگ کمیاب'
   type:
   - '&7&oابزارها'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lکلنگ برتر از تورنیوم'
+  name: '&4&lکلنگ برتر'
   type:
   - '&7&oابزارها'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lکلنگی از تورنیوم'
+  name: '&f&lکلنگ تورنیوم'
   type:
   - '&7&oابزارها'
 SUPREME_PLATINUM_PLATE:
+  name: '&aصفحهٔ پلاتین'
   type:
   - '&7&oقطعات'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aماشین زنگ‌نزن'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lسپر حماسی از تورنیوم'
+  name: '&d&lسپر حماسی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lسپر افسانه‌ای از تورنیوم'
+  name: '&6&lسپر افسانه‌ای'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lسپر جادویی از تورنیوم'
+  name: '&a&lسپر جادویی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lسپر کمیاب از تورنیوم'
+  name: '&b&lسپر کمیاب'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lسپر برتر از تورنیوم'
+  name: '&4&lسپر برتر'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lسپری از تورنیوم'
+  name: '&f&lسپر تورنیوم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lبیل حماسی از تورنیوم'
+  name: '&d&lبیل حماسی'
   type:
   - '&7&oابزارها'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lبیل افسانه‌ای از تورنیوم'
+  name: '&6&lبیل افسانه‌ای'
   type:
   - '&7&oابزارها'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lبیل جادویی از تورنیوم'
+  name: '&a&lبیل جادویی'
   type:
   - '&7&oابزارها'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lبیل کمیاب از تورنیوم'
+  name: '&b&lبیل کمیاب'
   type:
   - '&7&oابزارها'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lبیل برتر از تورنیوم'
+  name: '&4&lبیل برتر'
   type:
   - '&7&oابزارها'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lبیلی از تورنیوم'
+  name: '&f&lبیل تورنیوم'
   type:
   - '&7&oابزارها'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aماشین ضدزنگ'
   type:
   - '&7&oقطعات پیشرفته'
 SUPREME_STONE_QUARRY:
+  name: '&eمعدن سنگ'
+  stats:
+  - '&aماشین متوسط'
   type:
   - '&7&oماشین'
 SUPREME_SUPREME:
+  description:
+  - '&7برترین'
+  name: '&aبرتر'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9خازن برتر'
+  stats:
+  - '&4خازن پایان‌بازی'
+  - '&8⇨ &e⚡ &7ظرفیت بی‌نهایت J'
   type:
   - '&7&oماشین'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9مولد برتر'
+  stats:
+  - '&4مولد پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7از معدن قطعهٔ برتر'
+  name: '&aقطعهٔ برتر'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eقطعه‌های معدن برتر'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lشمشیر حماسی از تورنیوم'
+  name: '&d&lشمشیر حماسی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lشمشیر افسانه‌ای از تورنیوم'
+  name: '&6&lشمشیر افسانه‌ای'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lشمشیر جادویی از تورنیوم'
+  name: '&a&lشمشیر جادویی'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lشمشیر کمیاب از تورنیوم'
+  name: '&b&lشمشیر کمیاب'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lشمشیر برتر از تورنیوم'
+  name: '&4&lشمشیر برتر'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lشمشیری از تورنیوم'
+  name: '&f&lشمشیر تورنیوم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aآمتیست مصنوعی'
   type:
   - '&7&oقطعات'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aیاقوت مصنوعی'
   type:
   - '&7&oقطعات'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fبا استفاده از نیرو و زنبورها/گولم/زامبی، '
+  - '&fبه‌آرامی مواد تولید می‌کند.'
+  name: '&bتولیدکنندهٔ فناوری'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fاز جهش تولیدکننده استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  name: '&bجهش فناوری'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fاز جهش تولیدکننده استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  - '&fضریب شانس در 2x ضرب می‌شود'
+  name: '&bجهش فناوری II'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fاز جهش تولیدکننده استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  - '&fضریب شانس در 4x ضرب می‌شود'
+  name: '&bجهش فناوری III'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fاز ربات‌های سطح مبتدی استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  - '&fبرای ارتقا به 64x نیاز است'
+  name: '&bرباتیک فناوری'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fاز ربات‌های سطح مبتدی استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  - '&fبرای ارتقا به 32x نیاز است'
+  name: '&bرباتیک فناوری II'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fاز ربات‌های سطح مبتدی استفاده کنید '
+  - '&fبرای رسیدن به سطوح بالاتر'
+  - '&fبرای ارتقا به 16x نیاز است'
+  name: '&bرباتیک فناوری III'
+  stats:
+  - '&4ماشین پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_THORNERITE:
+  name: '&aتورنریت'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7از معدن تورنیوم'
+  name: '&aتکهٔ تورنیوم'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7از تکهٔ تورنیوم'
+  name: '&aتکهٔ تورنیوم مصنوعی'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9خازن تورنیوم'
+  stats:
+  - '&4خازن پایان‌بازی'
+  - '&8⇨ &e⚡ &7ظرفیت 100,000,000.00 J'
   type:
   - '&7&oماشین'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7از شمش تورنیوم'
+  name: '&aکاربونادوی تورنیوم'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7از تکهٔ تورنیوم'
+  name: '&aگرد تورنیوم'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7از گرد تورنیوم'
+  name: '&aگرد تورنیوم مصنوعی'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7از شمش تورنیوم'
+  name: '&aتورنیوم پرانرژی'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9مولد تورنیوم'
+  stats:
+  - '&4مولد پایان‌بازی'
   type:
   - '&7&oماشین'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7از گرد تورنیوم'
+  name: '&aشمش تورنیوم'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7از شمش تورنیوم'
+  name: '&aشمش تورنیوم مصنوعی'
   type:
   - '&7&oقطعات پایان بازی'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eمعدن تورنیوم'
+  stats:
+  - '&6ماشین پیشرفته'
   type:
   - '&7&oماشین'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lتبری از تیتانیوم'
+  name: '&f&lتبر تیتانیوم'
   type:
   - '&7&oابزارها'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lچکمه‌ای از تیتانیوم'
+  name: '&f&lچکمهٔ تیتانیوم'
   type:
   - '&7&oزره'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9خازن تیتانیوم'
+  stats:
+  - '&6خازن پیشرفته'
+  - '&8⇨ &e⚡ &7ظرفیت 4,000,000.00 J'
   type:
   - '&7&oماشین'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lسینه‌پوشی از تیتانیوم'
+  name: '&f&lسینه‌پوش تیتانیوم'
   type:
   - '&7&oزره'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lکلاه‌خودی از تیتانیوم'
+  name: '&f&lکلاه‌خود تیتانیوم'
   type:
   - '&7&oزره'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lساق‌پوشی از تیتانیوم'
+  name: '&f&lساق‌پوش تیتانیوم'
   type:
   - '&7&oزره'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lکلنگی از تیتانیوم'
+  name: '&f&lکلنگ تیتانیوم'
   type:
   - '&7&oابزارها'
 SUPREME_TITANIUM_PLATE:
+  name: '&aصفحهٔ تیتانیوم'
   type:
   - '&7&oقطعات'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lبیلی از تیتانیوم'
+  name: '&f&lبیل تیتانیوم'
   type:
   - '&7&oابزارها'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lشمشیری از تیتانیوم'
+  name: '&f&lشمشیر تیتانیوم'
   type:
   - '&7&oسلاح‌ها'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9مولد ونتوس'
+  stats:
+  - '&eمولد پایه'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید '
+  - '&f آیتم‌هایی که در دریا جمع‌آوری می‌شوند.'
+  name: '&bآکواریوم مجازی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید'
+  - '&f آیتم‌هایی که در دریا جمع‌آوری می‌شوند.'
+  name: '&bآکواریوم مجازی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
+  - '&8⇨ &e⚡ &7بافر 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد جمع‌آوری کنید'
+  - '&f آیتم‌هایی که در دریا جمع‌آوری می‌شوند.'
+  name: '&bآکواریوم مجازی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
+  - '&8⇨ &e⚡ &7بافر 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fبرخی منابع را پرورش دهید.'
+  name: '&bباغ مجازی'
+  stats:
+  - '&6ماشین پیشرفته'
+  - '&8⇨ &b⚡ &7سرعت: &b1.0x'
+  - '&8⇨ &e⚡ &7بافر 1000 J'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fبرخی منابع را پرورش دهید.'
+  name: '&bباغ مجازی II'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b5.0x'
+  - '&8⇨ &e⚡ &7بافر 5000 J'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oماشین'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fاین ماشین به شما اجازه می‌دهد'
+  - '&fبرخی منابع را پرورش دهید.'
+  name: '&bباغ مجازی III'
+  stats:
+  - '&4ماشین پایان‌بازی'
+  - '&8⇨ &b⚡ &7سرعت: &b15.0x'
+  - '&8⇨ &e⚡ &7بافر 15000 J'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oماشین'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aصفحهٔ زیرکونیوم'
   type:
   - '&7&oقطعات'
