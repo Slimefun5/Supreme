@@ -1,1041 +1,2352 @@
 MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fTämä kone mahdollistaa '
+  - '&fMobTech-päiden keräämisen lähellä olevista mobeista. (3 palikkaa)'
+  name: '&bMobTech-kerääjä I'
   type:
   - '&7&oKone'
 SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lAdamantiumista tehty kirves'
+  name: '&f&lAdamantium-kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lAdamantiumista tehdyt saappaat'
+  name: '&f&lAdamantium-saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9Adamantium-kondensaattori'
+  stats:
+  - '&6Kehittynyt kondensaattori'
+  - '&8⇨ &e⚡ &716,000,000.00 J kapasiteetti'
   type:
   - '&7&oKone'
 SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lAdamantiumista tehty rintapanssari'
+  name: '&f&lAdamantium-rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lAdamantiumista tehty kypärä'
+  name: '&f&lAdamantium-kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lAdamantiumista tehdyt housut'
+  name: '&f&lAdamantium-housut'
   type:
   - '&7&oPanssari'
 SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lAdamantiumista tehty hakku'
+  name: '&f&lAdamantium-hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_ADAMANTIUM_PLATE:
+  name: '&aAdamantium-levy'
   type:
   - '&7&oKomponentit'
 SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lAdamantiumista tehty lapio'
+  name: '&f&lAdamantium-lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lAdamantiumista tehty miekka'
+  name: '&f&lAdamantium-miekka'
   type:
   - '&7&oAseet'
 SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aAdamantium-metalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_AURUM:
+  name: '&aAurum-metalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_IRIDIUM:
+  name: '&aIridium-metalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_MANGANESE:
+  name: '&aMangaanimetalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_PLATINUM:
+  name: '&aPlatinametalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_TITANIUM:
+  name: '&aTitaanimetalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aZirkoniummetalliseos'
   type:
   - '&7&oKomponentit'
 SUPREME_AQUA_GENERATOR:
+  name: '&9Aqua-generaattori'
+  stats:
+  - '&6Kehittynyt generaattori'
   type:
   - '&7&oKone'
 SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7Superpommiominaisuus erikoisvaikutuksilla'
+  name: '&aOminaisuuspommi'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7Superrikkausominaisuus erikoisvaikutuksilla'
+  name: '&aRikkausominaisuus'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7Superimpetus-ominaisuus erikoisvaikutuksilla'
+  name: '&aImpetus-ominaisuus'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7Supertaikaominaisuus erikoisvaikutuksilla'
+  name: '&aTaikaominaisuus'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_AURUM_AXE:
+  description:
+  - '&f&lAurumista tehty kirves'
+  name: '&f&lAurum-kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lAurumista tehdyt saappaat'
+  name: '&f&lAurum-saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_AURUM_CAPACITOR:
+  name: '&9Aurum-kondensaattori'
+  stats:
+  - '&6Kehittynyt kondensaattori'
+  - '&8⇨ &e⚡ &71,000,000.00 J kapasiteetti'
   type:
   - '&7&oKone'
 SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lAurumista tehty rintapanssari'
+  name: '&f&lAurum-rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lAurumista tehty kypärä'
+  name: '&f&lAurum-kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lAurumista tehdyt housut'
+  name: '&f&lAurum-housut'
   type:
   - '&7&oPanssari'
 SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lAurumista tehty hakku'
+  name: '&f&lAurum-hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_AURUM_PLATE:
+  name: '&aAurum-levy'
   type:
   - '&7&oKomponentit'
 SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lAurumista tehty lapio'
+  name: '&f&lAurum-lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lAurumista tehty miekka'
+  name: '&f&lAurum-miekka'
   type:
   - '&7&oAseet'
 SUPREME_AXE_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen kirves'
+  name: '&d&lEeppinen kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen kirves'
+  name: '&6&lLegendaarinen kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikakirves'
+  name: '&a&lTaikakirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AXE_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen kirves'
+  name: '&b&lHarvinainen kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen kirves'
+  name: '&4&lYlivertainen kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty kirves'
+  name: '&f&lThornium-kirves'
   type:
   - '&7&oTyökalut'
 SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9Aqua-perusgeneraattori'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9Ignis-perusgeneraattori'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9Lumium-perusgeneraattori'
+  stats:
+  - '&6Kehittynyt generaattori'
   type:
   - '&7&oKone'
 SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9Lux-perusgeneraattori'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9Ventus-perusgeneraattori'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_BLEND_MACHINE:
+  name: '&aSekoituskone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lThorniumista tehdyt eeppiset saappaat'
+  name: '&d&lEeppiset saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehdyt legendaariset saappaat'
+  name: '&6&lLegendaariset saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lThorniumista tehdyt taikasaappaat'
+  name: '&a&lTaikasaappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lThorniumista tehdyt harvinaiset saappaat'
+  name: '&b&lHarvinaiset saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lThorniumista tehdyt ylivertaiset saappaat'
+  name: '&4&lYlivertaiset saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lThorniumista tehdyt saappaat'
+  name: '&f&lThornium-saappaat'
   type:
   - '&7&oPanssari'
 SUPREME_BOW_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen jousi'
+  name: '&d&lEeppinen jousi'
   type:
   - '&7&oAseet'
 SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen jousi'
+  name: '&6&lLegendaarinen jousi'
   type:
   - '&7&oAseet'
 SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikajousi'
+  name: '&a&lTaikajousi'
   type:
   - '&7&oAseet'
 SUPREME_BOW_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen jousi'
+  name: '&b&lHarvinainen jousi'
   type:
   - '&7&oAseet'
 SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen jousi'
+  name: '&4&lYlivertainen jousi'
   type:
   - '&7&oAseet'
 SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty jousi'
+  name: '&f&lThornium-jousi'
   type:
   - '&7&oAseet'
 SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&fVaihda tuotanto: alumiinimessinkiharkko'
+  name: '&bKonekortti: alumiinimessinkiharkko'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&fVaihda tuotanto: alumiinipronssiharkko'
+  name: '&bKonekortti: alumiinipronssiharkko'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&fVaihda tuotanto: alumiinipöly'
+  name: '&bKonekortti: alumiinipöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_AMETHYST:
+  description:
+  - '&fVaihda tuotanto: ametisti'
+  name: '&bKonekortti: ametisti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ANDESITE:
+  description:
+  - '&fVaihda tuotanto: andesiitti'
+  name: '&bKonekortti: andesiitti'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_APPLE:
+  description:
+  - '&fVaihda tuotanto: omena'
+  name: '&bKonekortti: omena'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_BATTERY:
+  description:
+  - '&fVaihda tuotanto: akku'
+  name: '&bKonekortti: akku'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_BILLON:
+  description:
+  - '&fVaihda tuotanto: billon-harkko'
+  name: '&bKonekortti: billon-harkko'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&fVaihda tuotanto: blaze-sauva'
+  name: '&bKonekortti: blaze-sauva'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_BRASS:
+  description:
+  - '&fVaihda tuotanto: messinkiharkko'
+  name: '&bKonekortti: messinkiharkko'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_BRONZE:
+  description:
+  - '&fVaihda tuotanto: pronssiharkko'
+  name: '&bKonekortti: pronssiharkko'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_CARBON:
+  description:
+  - '&fVaihda tuotanto: hiili'
+  name: '&bKonekortti: hiili'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_CARBONADO:
+  description:
+  - '&fVaihda tuotanto: carbonado'
+  name: '&bKonekortti: carbonado'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&fVaihda tuotanto: puristettu hiili'
+  name: '&bKonekortti: puristettu hiili'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_CLAY:
+  description:
+  - '&fVaihda tuotanto: savi'
+  name: '&bKonekortti: savi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_COAL:
+  description:
+  - '&fVaihda tuotanto: kivihiili'
+  name: '&bKonekortti: kivihiili'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_COBALT:
+  description:
+  - '&fVaihda tuotanto: koboltti'
+  name: '&bKonekortti: koboltti'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_COPPER:
+  description:
+  - '&fVaihda tuotanto: kupari'
+  name: '&bKonekortti: kupari'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&fVaihda tuotanto: kuparipöly'
+  name: '&bKonekortti: kuparipöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&fVaihda tuotanto: korinttilainen pronssiharkko'
+  name: '&bKonekortti: korinttilainen pronssiharkko'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_DAMASCUS:
+  description:
+  - '&fVaihda tuotanto: damaskos'
+  name: '&bKonekortti: damaskos'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_DIAMOND:
+  description:
+  - '&fVaihda tuotanto: timantti'
+  name: '&bKonekortti: timantti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_DIORITE:
+  description:
+  - '&fVaihda tuotanto: dioriitti'
+  name: '&bKonekortti: dioriitti'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_DURALUMIN:
+  description:
+  - '&fVaihda tuotanto: duralumiiniharkko'
+  name: '&bKonekortti: duralumiiniharkko'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&fVaihda tuotanto: sähkömoottori'
+  name: '&bKonekortti: sähkömoottori'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&fVaihda tuotanto: sähkömagneetti'
+  name: '&bKonekortti: sähkömagneetti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_EMERALD:
+  description:
+  - '&fVaihda tuotanto: smaragdi'
+  name: '&bKonekortti: smaragdi'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ENDSTONE:
+  description:
+  - '&fVaihda tuotanto: endkivi'
+  name: '&bKonekortti: endkivi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_FERROSILICON:
+  description:
+  - '&fVaihda tuotanto: ferrosilisium'
+  name: '&bKonekortti: ferrosilisium'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&fVaihda tuotanto: hohtomustepussi'
+  name: '&bKonekortti: hohtomustepussi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GOLD:
+  description:
+  - '&fVaihda tuotanto: kulta'
+  name: '&bKonekortti: kulta'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GOLD24K:
+  description:
+  - '&fVaihda tuotanto: kulta 24k'
+  name: '&bKonekortti: kulta 24k'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&fVaihda tuotanto: kultapöly'
+  name: '&bKonekortti: kultapöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GRANITE:
+  description:
+  - '&fVaihda tuotanto: graniitti'
+  name: '&bKonekortti: graniitti'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_GRAVEL:
+  description:
+  - '&fVaihda tuotanto: sora'
+  name: '&bKonekortti: sora'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&fVaihda tuotanto: karkaistu metalliharkko'
+  name: '&bKonekortti: karkaistu metalliharkko'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&fVaihda tuotanto: lämmityskela'
+  name: '&bKonekortti: lämmityskela'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&fVaihda tuotanto: hunajapullo'
+  name: '&bKonekortti: hunajapullo'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_INK_SAC:
+  description:
+  - '&fVaihda tuotanto: mustepussi'
+  name: '&bKonekortti: mustepussi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_IRON:
+  description:
+  - '&fVaihda tuotanto: rauta'
+  name: '&bKonekortti: rauta'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_IRON_DUST:
+  description:
+  - '&fVaihda tuotanto: rautapöly'
+  name: '&bKonekortti: rautapöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_LAPIS:
+  description:
+  - '&fVaihda tuotanto: lapis'
+  name: '&bKonekortti: lapis'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&fVaihda tuotanto: lyijypöly'
+  name: '&bKonekortti: lyijypöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&fVaihda tuotanto: magnesiumpöly'
+  name: '&bKonekortti: magnesiumpöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_MAGNET:
+  description:
+  - '&fVaihda tuotanto: magneetti'
+  name: '&bKonekortti: magneetti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_NETHERITE:
+  description:
+  - '&fVaihda tuotanto: netheriitti'
+  name: '&bKonekortti: netheriitti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&fVaihda tuotanto: Netherin tähti'
+  name: '&bKonekortti: Netherin tähti'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_NICKEL:
+  description:
+  - '&fVaihda tuotanto: nikkeli'
+  name: '&bKonekortti: nikkeli'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&fVaihda tuotanto: muovilevy'
+  name: '&bKonekortti: muovilevy'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_QUARTZ:
+  description:
+  - '&fVaihda tuotanto: kvartsi'
+  name: '&bKonekortti: kvartsi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&fVaihda tuotanto: kvartsipalikka'
+  name: '&bKonekortti: kvartsipalikka'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_REDSTONE:
+  description:
+  - '&fVaihda tuotanto: punakivi'
+  name: '&bKonekortti: punakivi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&fVaihda tuotanto: punakivimetalliseos'
+  name: '&bKonekortti: punakivimetalliseos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&fVaihda tuotanto: vahvistettu metalliseosharkko'
+  name: '&bKonekortti: vahvistettu metalliseosharkko'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SAND:
+  description:
+  - '&fVaihda tuotanto: hiekka'
+  name: '&bKonekortti: hiekka'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SILICON:
+  description:
+  - '&fVaihda tuotanto: pii'
+  name: '&bKonekortti: pii'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&fVaihda tuotanto: hopeapöly'
+  name: '&bKonekortti: hopeapöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&fVaihda tuotanto: limapallo'
+  name: '&bKonekortti: limapallo'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SNOW:
+  description:
+  - '&fVaihda tuotanto: lumi'
+  name: '&bKonekortti: lumi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SOLDER:
+  description:
+  - '&fVaihda tuotanto: juoteharkko'
+  name: '&bKonekortti: juoteharkko'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_STEEL:
+  description:
+  - '&fVaihda tuotanto: teräs'
+  name: '&bKonekortti: teräs'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_STONE:
+  description:
+  - '&fVaihda tuotanto: kivi'
+  name: '&bKonekortti: kivi'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SULFATE:
+  description:
+  - '&fVaihda tuotanto: sulfaatti'
+  name: '&bKonekortti: sulfaatti'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&fVaihda tuotanto: synteettinen timantti'
+  name: '&bKonekortti: synteettinen timantti'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&fVaihda tuotanto: synteettinen smaragdi'
+  name: '&bKonekortti: synteettinen smaragdi'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&fVaihda tuotanto: synteettinen safiiri'
+  name: '&bKonekortti: synteettinen safiiri'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_TIN_DUST:
+  description:
+  - '&fVaihda tuotanto: tinapöly'
+  name: '&bKonekortti: tinapöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&fVaihda tuotanto: Witherin ruusu'
+  name: '&bKonekortti: Witherin ruusu'
+  stats:
+  - '&ePeruskone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&fVaihda tuotanto: sinkkipöly'
+  name: '&bKonekortti: sinkkipöly'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKomponentti'
 SUPREME_CARRIAGE_MACHINE:
+  name: '&aVaunukone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fKoneen komponentti esineiden tuottamiseen'
+  name: '&aKehittynyt komponentti kortille'
   type:
   - '&7&oKomponentti'
 SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fKoneen komponentti esineiden tuottamiseen'
+  name: '&aPeruskomponentti kortille'
   type:
   - '&7&oKomponentti'
 SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fKoneen komponentti esineiden tuottamiseen'
+  name: '&aHuippukomponentti kortille'
   type:
   - '&7&oKomponentti'
 SUPREME_CETRUS_AQUA:
+  description:
+  - '&7Aqua-supervaltikka'
+  name: '&aCetrus Aqua'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7Ignis-supervaltikka'
+  name: '&aCetrus Ignis'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7Lumium-supervaltikka'
+  name: '&aCetrus Lumium'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CETRUS_LUX:
+  description:
+  - '&7Lux-supervaltikka'
+  name: '&aCetrus Lux'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7Ventus-supervaltikka'
+  name: '&aCetrus Ventus'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CHECK_INVENTORY:
+  description:
+  - '&fTarkistaa, onko lähellä olevassa arkussa suodatinesine'
+  - '&fkaikki sivut tarkistetaan (ensimmäinen löytö ratkaisee)'
+  - '&fjos se löytyy, tämä palikka syttyy'
+  name: '&bInventaarion tarkistin'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen rintapanssari'
+  name: '&d&lEeppinen rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen rintapanssari'
+  name: '&6&lLegendaarinen rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikarintapanssari'
+  name: '&a&lTaikarintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen rintapanssari'
+  name: '&b&lHarvinainen rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen rintapanssari'
+  name: '&4&lYlivertainen rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty rintapanssari'
+  name: '&f&lThornium-rintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_COAL_QUARRY:
+  name: '&eKivihiililouhos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_CONVEYANCE_MACHINE:
+  name: '&aKuljetuskone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7Superakaasia'
+  name: '&aYlivertainen akaasiatukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_ANDESITE:
+  description:
+  - '&7Superandesiitti'
+  name: '&aYlivertainen andesiitti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_APPLE:
+  description:
+  - '&7Superomena'
+  name: '&aYlivertainen omena'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_BEEF:
+  description:
+  - '&7Supernaudanliha'
+  name: '&aYlivertainen naudanliha'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_BEETROOT:
+  description:
+  - '&7Superpunajuuri'
+  name: '&aYlivertainen punajuuri'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7Superkoivu'
+  name: '&aYlivertainen koivutukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_BLACK:
+  description:
+  - '&7Supermusta'
+  name: '&aYlivertainen musta'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_BLUE:
+  description:
+  - '&7Supersininen'
+  name: '&aYlivertainen sininen'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_CARROT:
+  description:
+  - '&7Ylivertainen porkkana'
+  name: '&aYlivertainen porkkana'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_CHICKEN:
+  description:
+  - '&7Superkana'
+  name: '&aYlivertainen kana'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_CLAY:
+  description:
+  - '&7Supersavi'
+  name: '&aYlivertainen savi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_COAL:
+  description:
+  - '&7Superkivihiili'
+  name: '&aYlivertainen kivihiili'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_COD:
+  description:
+  - '&7Superturska'
+  name: '&aYlivertainen turska'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7Superkarmiininpunainen'
+  name: '&aYlivertainen karmiininpunainen runko'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_CYAN:
+  description:
+  - '&7Supersyaani'
+  name: '&aYlivertainen syaani'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7Supertumma'
+  name: '&aYlivertainen tummatammitukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_DIAMOND:
+  description:
+  - '&7Supertimantti'
+  name: '&aYlivertainen timantti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_DIORITE:
+  description:
+  - '&7Superdioriitti'
+  name: '&aYlivertainen dioriitti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_EMERALD:
+  description:
+  - '&7Supersmaragdi'
+  name: '&aYlivertainen smaragdi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7Superendkivi'
+  name: '&aYlivertainen endkivi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_GOLD:
+  description:
+  - '&7Superkulta'
+  name: '&aYlivertainen kulta'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_GRANITE:
+  description:
+  - '&7Supergraniitti'
+  name: '&aYlivertainen graniitti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_GRAVEL:
+  description:
+  - '&7Supersora'
+  name: '&aYlivertainen sora'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_GRAY:
+  description:
+  - '&7Superharmaa'
+  name: '&aYlivertainen harmaa'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_GREEN:
+  description:
+  - '&7Supervihreä'
+  name: '&aYlivertainen vihreä'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_IRON:
+  description:
+  - '&7Superrauta'
+  name: '&aYlivertainen rauta'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7Superviidakko'
+  name: '&aYlivertainen viidakkotukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_LAPIS:
+  description:
+  - '&7Superlapis'
+  name: '&aYlivertainen lapis'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_MELON:
+  description:
+  - '&7Supermeloni'
+  name: '&aYlivertainen meloni'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_MUTTON:
+  description:
+  - '&7Superlampaanliha'
+  name: '&aYlivertainen lampaanliha'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_NETHERITE:
+  description:
+  - '&7Supernetheriitti'
+  name: '&aYlivertainen netheriitti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7Supertammi'
+  name: '&aYlivertainen tammitukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7Tämä ydin sisältää useita malmeja,'
+  - '&7jotka on kerätty ympäri maailmaa.'
+  name: '&aMetalliseosydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7Tämä ydin sisältää useita palikoita,'
+  - '&7jotka on kerätty ympäri maailmaa.'
+  name: '&aPalikkaydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7Tämä ydin sisältää useita värejä,'
+  - '&7jotka on kerätty ympäri maailmaa.'
+  name: '&aVäriydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7Tämä ydin sisältää sieluja '
+  - '&7useista olennoista, jotka ovat siirtyneet tuonpuoleiseen.'
+  name: '&aKuolemanydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7Tämä ydin sisältää elämän sirpaleita,'
+  - '&7jotka maailma on kerännyt.'
+  name: '&aElämänydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7Tämä ydin sisältää useita luonnonaineksia'
+  - '&7jotka on kerätty ympäri maailmaa.'
+  name: '&aLuonnonydin'
   type:
   - '&7&oMaagiset komponentit'
 SUPREME_CORE_PINK:
+  description:
+  - '&7Superpinkki'
+  name: '&aYlivertainen pinkki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7Superpekoni'
+  name: '&aYlivertainen pekoni'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_POTATO:
+  description:
+  - '&7Superperuna'
+  name: '&aYlivertainen peruna'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7Superkurpitsa'
+  name: '&aYlivertainen kurpitsa'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_PURPLE:
+  description:
+  - '&7Supervioletti'
+  name: '&aYlivertainen violetti'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_QUARTZ:
+  description:
+  - '&7Superkvartsi'
+  name: '&aYlivertainen kvartsi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_RED:
+  description:
+  - '&7Superpunainen'
+  name: '&aYlivertainen punainen'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_REDSTONE:
+  description:
+  - '&7Superpunakivi'
+  name: '&aYlivertainen punakivi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SALMON:
+  description:
+  - '&7Superlohi'
+  name: '&aYlivertainen lohi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SAND:
+  description:
+  - '&7Superhiekka'
+  name: '&aYlivertainen hiekka'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SNOW:
+  description:
+  - '&7Superlumi'
+  name: '&aYlivertainen lumi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7Supersilmä'
+  name: '&aYlivertainen silmä'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7Superkuusi'
+  name: '&aYlivertainen kuusitukki'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_STONE:
+  description:
+  - '&7Supermukulakivi'
+  name: '&aYlivertainen mukulakivi'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_STRING:
+  description:
+  - '&7Supertalutusnaru'
+  name: '&aYlivertainen talutusnaru'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7Supersokeriruoko'
+  name: '&aYlivertainen sokeriruoko'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7Supermarjat'
+  name: '&aYlivertaiset makeat marjat'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_TEAR:
+  description:
+  - '&7Superkyynel'
+  name: '&aYlivertainen kyynel'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7Supervääntynyt'
+  name: '&aYlivertainen vääntynyt runko'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_WHEAT:
+  description:
+  - '&7Supervehnä'
+  name: '&aYlivertainen vehnä'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7Superruusu'
+  name: '&aYlivertainen Witherin ruusu'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CORE_YELLOW:
+  description:
+  - '&7Superkeltainen'
+  name: '&aYlivertainen keltainen'
   type:
   - '&7&oPeruskomponentit'
 SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aKristallisointikone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_DIAMOND_QUARRY:
+  name: '&eTimanttilouhos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_DUST_AMETHYST:
+  name: '&aAmetistipöly'
   type:
   - '&7&oKomponentti'
 SUPREME_DUST_GLOW_INK:
+  name: '&aHohtomustepöly'
   type:
   - '&7&oKomponentti'
 SUPREME_DUST_NETHERITE:
+  name: '&aNetheriittipöly'
   type:
   - '&7&oKomponentti'
 SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fYtimen valmistusresurssi'
+  name: '&bSähköinen ydinkone'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&fYtimen kehittynyt valmistusresurssi'
+  name: '&bSähköinen ydinkone II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&fYtimen kehittynyt valmistusresurssi'
+  name: '&bSähköinen ydinkone III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fEsineiden valmistus'
+  name: '&bSähköinen valmistin'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&fKehittynyt esineiden valmistus'
+  name: '&bSähköinen valmistin II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&fKehittynyt esineiden valmistus'
+  name: '&bSähköinen valmistin III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&fVarusteiden tason valmistus'
+  name: '&bSähköinen varustekone'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&fVarusteiden tason kehittynyt valmistus'
+  name: '&bSähköinen varustekone II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&fVarusteiden tason kehittynyt valmistus'
+  name: '&bSähköinen varustekone III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_ITEM:
+  name: Sähköinen esine
   type:
   - '&7&oSekalainen'
 SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&fTaian valmistusresurssi'
+  name: '&bSähköinen taikakone'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&fTaian kehittynyt valmistusresurssi'
+  name: '&bSähköinen taikakone II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&fTaian kehittynyt valmistusresurssi'
+  name: '&bSähköinen taikakone III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_EMPTY_MOBTECH:
+  name: '&aTyhjä MobTech'
   type:
   - '&7&oKomponentti'
 SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fharkkoresurssien takomisen.'
+  name: '&bHarkkopaja'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fharkkoresurssien takomisen.'
+  name: '&bHarkkopaja II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J puskuri'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oKone'
 SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fharkkoresurssien takomisen.'
+  name: '&bHarkkopaja III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J puskuri'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oKone'
 SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&ftaikaresurssien takomisen.'
+  name: '&bTaikapaja'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&ftaikaresurssien takomisen.'
+  name: '&bTaikapaja II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J puskuri'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oKone'
 SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&ftaikaresurssien takomisen.'
+  name: '&bTaikapaja III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J puskuri'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oKone'
 SUPREME_FOUNDRY_I:
+  description:
+  - '&fValimo- ja syntetisaattoriesineet'
+  name: '&bValimo'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_FOUNDRY_II:
+  description:
+  - '&fKehittyneet valimo- ja syntetisaattoriesineet'
+  name: '&bValimo II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_FOUNDRY_III:
+  description:
+  - '&fKehittyneet valimo- ja syntetisaattoriesineet'
+  name: '&bValimo III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bKehittynyt mobituottaja'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bPerus mobituottaja'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bKeskikokoinen mobituottaja'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_GENE_BERSERK:
+  name: '&aRaivogeeni'
   type:
   - '&7&oKomponentti'
 SUPREME_GENE_INTELLIGENCE:
+  name: '&fÄlykkyysgeeni'
   type:
   - '&7&oKomponentti'
 SUPREME_GENE_LUCK:
+  name: '&aOnnengeeni'
   type:
   - '&7&oKomponentti'
 SUPREME_GOLD_QUARRY:
+  name: '&eKultalouhos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen kypärä'
+  name: '&d&lEeppinen kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen kypärä'
+  name: '&6&lLegendaarinen kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikakypärä'
+  name: '&a&lTaikakypärä'
   type:
   - '&7&oPanssari'
 SUPREME_HELMET_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen kypärä'
+  name: '&b&lHarvinainen kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen kypärä'
+  name: '&4&lYlivertainen kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty kypärä'
+  name: '&f&lThornium-kypärä'
   type:
   - '&7&oPanssari'
 SUPREME_IGNIS_GENERATOR:
+  name: '&9Ignis-generaattori'
+  stats:
+  - '&6Kehittynyt generaattori'
   type:
   - '&7&oKone'
 SUPREME_INDUCTIVE_MACHINE:
+  name: '&aInduktiivinen kone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_INDUCTOR_MACHINE:
+  name: '&aInduktorikone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_IRIDIUM_PLATE:
+  name: '&aIridium-levy'
   type:
   - '&7&oKomponentit'
 SUPREME_IRON_QUARRY:
+  name: '&eRautalouhos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lThorniumista tehdyt eeppiset housut'
+  name: '&d&lEeppiset housut'
   type:
   - '&7&oPanssari'
 SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehdyt legendaariset housut'
+  name: '&6&lLegendaariset housut'
   type:
   - '&7&oPanssari'
 SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lThorniumista tehdyt taikahousut'
+  name: '&a&lTaikahousut'
   type:
   - '&7&oPanssari'
 SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lThorniumista tehdyt harvinaiset housut'
+  name: '&b&lHarvinaiset housut'
   type:
   - '&7&oPanssari'
 SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lThorniumista tehdyt ylivertaiset housut'
+  name: '&4&lYlivertaiset housut'
   type:
   - '&7&oPanssari'
 SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lThorniumista tehdyt housut'
+  name: '&f&lThornium-housut'
   type:
   - '&7&oPanssari'
 SUPREME_LUMIUM_GENERATOR:
+  name: '&9Lumium-generaattori'
+  stats:
+  - '&6Kehittynyt generaattori'
   type:
   - '&7&oKone'
 SUPREME_LUX_GENERATOR:
+  name: '&9Lux-generaattori'
+  stats:
+  - '&6Kehittynyt generaattori'
   type:
   - '&7&oKone'
 SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fRiimujen ja maagisten esineiden valmistus'
+  name: '&bTaika-alttari'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
   type:
   - '&7&oKone'
 SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&fRiimujen ja maagisten esineiden kehittynyt valmistus'
+  name: '&bTaika-alttari II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
   type:
   - '&7&oKone'
 SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&fRiimujen ja maagisten esineiden kehittynyt valmistus'
+  name: '&bTaika-alttari III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
   type:
   - '&7&oKone'
 SUPREME_MAIN_ITEM:
+  name: Pääesine
   type:
   - '&7&oSekalainen'
 SUPREME_MANGANESE_PLATE:
+  name: '&aMangaanilevy'
   type:
   - '&7&oKomponentit'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fTämä kone mahdollistaa '
+  - '&fesineiden keräämisen lähellä olevista mobeista. (4 palikkaa)'
+  name: '&bMobikerääjä'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&f esineiden keräämisen lähellä olevista mobeista. (8 palikkaa)'
+  name: '&bMobikerääjä II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J puskuri'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oKone'
 SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&f esineiden keräämisen lähellä olevista mobeista. (16 palikkaa)'
+  name: '&bMobikerääjä III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J puskuri'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oKone'
 SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6MobTech-kerääjä I'
+  stats:
+  - '&8⇨ &e⚡ &750 J per käyttö'
   type:
   - '&7&oTyökalut'
 SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6MobTech-kerääjä II'
+  stats:
+  - '&8⇨ &e⚡ &750 J per käyttö'
   type:
   - '&7&oTyökalut'
 SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6MobTech-kerääjä III'
+  stats:
+  - '&8⇨ &e⚡ &750 J per käyttö'
   type:
   - '&7&oTyökalut'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fTämä kone mahdollistaa '
+  - '&fMobTech-päiden keräämisen lähellä olevista mobeista. (6 palikkaa)'
+  name: '&bMobTech-kerääjä II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fTämä kone mahdollistaa '
+  - '&fMobTech-päiden keräämisen lähellä olevista mobeista. (9 palikkaa)'
+  name: '&bMobTech-kerääjä III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oTäällä voit valmistaa ytimiä!'
+  - '&aMonipalikkakone'
+  name: '&eYdinvalmistin'
   type:
   - '&7&oKone'
 SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oTäällä voit valmistaa aseita, haarniskoita ja työkaluja!'
+  - '&aMonipalikkakone'
+  name: '&eVarustevalmistin'
   type:
   - '&7&oKone'
 SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oTäällä voit valmistaa taikaesineitä!'
+  - '&aMonipalikkakone'
+  name: '&eTaikavalmistin'
   type:
   - '&7&oKone'
 SUPREME_PETRIFIER_MACHINE:
+  name: '&aKivettäjäkone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen hakku'
+  name: '&d&lEeppinen hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen hakku'
+  name: '&6&lLegendaarinen hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikahakku'
+  name: '&a&lTaikahakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen hakku'
+  name: '&b&lHarvinainen hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen hakku'
+  name: '&4&lYlivertainen hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty hakku'
+  name: '&f&lThornium-hakku'
   type:
   - '&7&oTyökalut'
 SUPREME_PLATINUM_PLATE:
+  name: '&aPlatinalevy'
   type:
   - '&7&oKomponentit'
 SUPREME_RUSTLESS_MACHINE:
+  name: '&aRuosteeton kone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen kilpi'
+  name: '&d&lEeppinen kilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen kilpi'
+  name: '&6&lLegendaarinen kilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikakilpi'
+  name: '&a&lTaikakilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen kilpi'
+  name: '&b&lHarvinainen kilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen kilpi'
+  name: '&4&lYlivertainen kilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty kilpi'
+  name: '&f&lThornium-kilpi'
   type:
   - '&7&oAseet'
 SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen lapio'
+  name: '&d&lEeppinen lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen lapio'
+  name: '&6&lLegendaarinen lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikalapio'
+  name: '&a&lTaikalapio'
   type:
   - '&7&oTyökalut'
 SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen lapio'
+  name: '&b&lHarvinainen lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen lapio'
+  name: '&4&lYlivertainen lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty lapio'
+  name: '&f&lThornium-lapio'
   type:
   - '&7&oTyökalut'
 SUPREME_STAINLESS_MACHINE:
+  name: '&aRuostumaton kone'
   type:
   - '&7&oEdistyneet komponentit'
 SUPREME_STONE_QUARRY:
+  name: '&eKivilouhos'
+  stats:
+  - '&aKeskikokoinen kone'
   type:
   - '&7&oKone'
 SUPREME_SUPREME:
+  description:
+  - '&7Ylivertainen'
+  name: '&aYlivertainen'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_SUPREME_CAPACITOR:
+  name: '&9Ylivertainen kondensaattori'
+  stats:
+  - '&4Loppupelin kondensaattori'
+  - '&8⇨ &e⚡ &7Ääretön J-kapasiteetti'
   type:
   - '&7&oKone'
 SUPREME_SUPREME_GENERATOR:
+  name: '&9Ylivertainen generaattori'
+  stats:
+  - '&4Loppupelin generaattori'
   type:
   - '&7&oKone'
 SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7Ylivertaisten murujen louhoksesta'
+  name: '&aYlivertainen muru'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eYlivertaisen louhoksen murut'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lThorniumista tehty eeppinen miekka'
+  name: '&d&lEeppinen miekka'
   type:
   - '&7&oAseet'
 SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lThorniumista tehty legendaarinen miekka'
+  name: '&6&lLegendaarinen miekka'
   type:
   - '&7&oAseet'
 SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lThorniumista tehty taikamiekka'
+  name: '&a&lTaikamiekka'
   type:
   - '&7&oAseet'
 SUPREME_SWORD_RARE:
+  description:
+  - '&f&lThorniumista tehty harvinainen miekka'
+  name: '&b&lHarvinainen miekka'
   type:
   - '&7&oAseet'
 SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lThorniumista tehty ylivertainen miekka'
+  name: '&4&lYlivertainen miekka'
   type:
   - '&7&oAseet'
 SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lThorniumista tehty miekka'
+  name: '&f&lThornium-miekka'
   type:
   - '&7&oAseet'
 SUPREME_SYNTHETIC_AMETHYST:
+  name: '&aSynteettinen ametisti'
   type:
   - '&7&oKomponentit'
 SUPREME_SYNTHETIC_RUBY:
+  name: '&aSynteettinen rubiini'
   type:
   - '&7&oKomponentit'
 SUPREME_TECH_GENERATOR:
+  description:
+  - '&fKäyttäen virtaa ja mehiläisiä/golemeja/zombeja, '
+  - '&ftuottaa hitaasti materiaaleja.'
+  name: '&bTeknotuottaja'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_MUTATION_I:
+  description:
+  - '&fKäytä tuottajan mutaatiota '
+  - '&fedistyäksesi korkeammille tasoille'
+  name: '&bTeknomutaatio'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_MUTATION_II:
+  description:
+  - '&fKäytä tuottajan mutaatiota '
+  - '&fedistyäksesi korkeammille tasoille'
+  - '&fMahdollisuuskerroin kerrotaan 2x'
+  name: '&bTeknomutaatio II'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_MUTATION_III:
+  description:
+  - '&fKäytä tuottajan mutaatiota '
+  - '&fedistyäksesi korkeammille tasoille'
+  - '&fMahdollisuuskerroin kerrotaan 4x'
+  name: '&bTeknomutaatio III'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_ROBOTIC:
+  description:
+  - '&fKäytä aloittelijatason robotteja '
+  - '&fedistyäksesi korkeammille tasoille'
+  - '&fpäivitykseen tarvitaan 64x'
+  name: '&bTeknorobotiikka'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&fKäytä aloittelijatason robotteja '
+  - '&fedistyäksesi korkeammille tasoille'
+  - '&fpäivitykseen tarvitaan 32x'
+  name: '&bTeknorobotiikka II'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&fKäytä aloittelijatason robotteja '
+  - '&fedistyäksesi korkeammille tasoille'
+  - '&fpäivitykseen tarvitaan 16x'
+  name: '&bTeknorobotiikka III'
+  stats:
+  - '&4Loppupelin kone'
   type:
   - '&7&oKone'
 SUPREME_THORNERITE:
+  name: '&aThornerite'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_BIT:
+  description:
+  - '&7Thornium-louhoksesta'
+  name: '&aThornium-palanen'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7Thornium-palasesta'
+  name: '&aSynteettinen Thornium-palanen'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_CAPACITOR:
+  name: '&9Thornium-kondensaattori'
+  stats:
+  - '&4Loppupelin kondensaattori'
+  - '&8⇨ &e⚡ &7100,000,000.00 J kapasiteetti'
   type:
   - '&7&oKone'
 SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7Thornium-harkosta'
+  name: '&aThornium-carbonado'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_DUST:
+  description:
+  - '&7Thornium-palasesta'
+  name: '&aThornium-pöly'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7Thornium-pölystä'
+  name: '&aSynteettinen Thornium-pöly'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7Thornium-harkosta'
+  name: '&aEnergisoitu Thornium'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_GENERATOR:
+  name: '&9Thornium-generaattori'
+  stats:
+  - '&4Loppupelin generaattori'
   type:
   - '&7&oKone'
 SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7Thornium-pölystä'
+  name: '&aThornium-harkko'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7Thornium-harkosta'
+  name: '&aSynteettinen Thornium-harkko'
   type:
   - '&7&oLoppupelin komponentit'
 SUPREME_THORNIUM_QUARRY:
+  name: '&eThornium-louhos'
+  stats:
+  - '&6Kehittynyt kone'
   type:
   - '&7&oKone'
 SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lTitaanista tehty kirves'
+  name: '&f&lTitaanikirves'
   type:
   - '&7&oTyökalut'
 SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lTitaanista tehdyt saappaat'
+  name: '&f&lTitaanisaappaat'
   type:
   - '&7&oPanssari'
 SUPREME_TITANIUM_CAPACITOR:
+  name: '&9Titaanikondensaattori'
+  stats:
+  - '&6Kehittynyt kondensaattori'
+  - '&8⇨ &e⚡ &74,000,000.00 J kapasiteetti'
   type:
   - '&7&oKone'
 SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lTitaanista tehty rintapanssari'
+  name: '&f&lTitaanirintapanssari'
   type:
   - '&7&oPanssari'
 SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lTitaanista tehty kypärä'
+  name: '&f&lTitaanikypärä'
   type:
   - '&7&oPanssari'
 SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lTitaanista tehdyt housut'
+  name: '&f&lTitaanihousut'
   type:
   - '&7&oPanssari'
 SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lTitaanista tehty hakku'
+  name: '&f&lTitaanihakku'
   type:
   - '&7&oTyökalut'
 SUPREME_TITANIUM_PLATE:
+  name: '&aTitaanilevy'
   type:
   - '&7&oKomponentit'
 SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lTitaanista tehty lapio'
+  name: '&f&lTitaanilapio'
   type:
   - '&7&oTyökalut'
 SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lTitaanista tehty miekka'
+  name: '&f&lTitaanimiekka'
   type:
   - '&7&oAseet'
 SUPREME_VENTUS_GENERATOR:
+  name: '&9Ventus-generaattori'
+  stats:
+  - '&ePerusgeneraattori'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fTämä kone mahdollistaa '
+  - '&f merestä saatavien esineiden keräämisen.'
+  name: '&bVirtuaalinen akvaario'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&f merestä saatavien esineiden keräämisen.'
+  name: '&bVirtuaalinen akvaario II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J puskuri'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&f merestä saatavien esineiden keräämisen.'
+  name: '&bVirtuaalinen akvaario III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J puskuri'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fjoidenkin resurssien kasvattamisen.'
+  name: '&bVirtuaalinen puutarha'
+  stats:
+  - '&6Kehittynyt kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b1.0x'
+  - '&8⇨ &e⚡ &71000 J puskuri'
+  - '&8⇨ &e⚡ &720 J/s'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fjoidenkin resurssien kasvattamisen.'
+  name: '&bVirtuaalinen puutarha II'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b5.0x'
+  - '&8⇨ &e⚡ &75000 J puskuri'
+  - '&8⇨ &e⚡ &7100 J/s'
   type:
   - '&7&oKone'
 SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fTämä kone mahdollistaa'
+  - '&fjoidenkin resurssien kasvattamisen.'
+  name: '&bVirtuaalinen puutarha III'
+  stats:
+  - '&4Loppupelin kone'
+  - '&8⇨ &b⚡ &7Nopeus: &b15.0x'
+  - '&8⇨ &e⚡ &715000 J puskuri'
+  - '&8⇨ &e⚡ &7300 J/s'
   type:
   - '&7&oKone'
 SUPREME_ZIRCONIUM_PLATE:
+  name: '&aZirkoniumlevy'
   type:
   - '&7&oKomponentit'
