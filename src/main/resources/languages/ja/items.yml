@@ -1,0 +1,2352 @@
+MOB_TECH_COLLECTOR_MACHINE:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fMobTechの頭を回収できる。(3ブロック)'
+  name: '&bMobTechコレクター I'
+  type:
+  - '&7&o機械'
+SUPREME_ADAMANTIUM_AXE:
+  description:
+  - '&f&lアダマンティウム製の斧'
+  name: '&f&lアダマンティウムの斧'
+  type:
+  - '&7&oツール'
+SUPREME_ADAMANTIUM_BOOTS:
+  description:
+  - '&f&lアダマンティウム製のブーツ'
+  name: '&f&lアダマンティウムのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_ADAMANTIUM_CAPACITOR:
+  name: '&9アダマンティウムコンデンサー'
+  stats:
+  - '&6上級コンデンサー'
+  - '&8⇨ &e⚡ &716,000,000.00 J容量'
+  type:
+  - '&7&o機械'
+SUPREME_ADAMANTIUM_CHESTPLATE:
+  description:
+  - '&f&lアダマンティウム製のチェストプレート'
+  name: '&f&lアダマンティウムのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_ADAMANTIUM_HELMET:
+  description:
+  - '&f&lアダマンティウム製のヘルメット'
+  name: '&f&lアダマンティウムのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_ADAMANTIUM_LEGGINGS:
+  description:
+  - '&f&lアダマンティウム製のレギンス'
+  name: '&f&lアダマンティウムのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_ADAMANTIUM_PICKAXE:
+  description:
+  - '&f&lアダマンティウム製のツルハシ'
+  name: '&f&lアダマンティウムのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_ADAMANTIUM_PLATE:
+  name: '&aアダマンティウムプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ADAMANTIUM_SHOVEL:
+  description:
+  - '&f&lアダマンティウム製のシャベル'
+  name: '&f&lアダマンティウムのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_ADAMANTIUM_SWORD:
+  description:
+  - '&f&lアダマンティウム製の剣'
+  name: '&f&lアダマンティウムの剣'
+  type:
+  - '&7&o武器'
+SUPREME_ALLOY_ADAMANTIUM:
+  name: '&aアダマンティウム合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_AURUM:
+  name: '&aオーラム合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_IRIDIUM:
+  name: '&aイリジウム合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_MANGANESE:
+  name: '&aマンガン合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_PLATINUM:
+  name: '&aプラチナ合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_TITANIUM:
+  name: '&aチタニウム合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ALLOY_ZIRCONIUM:
+  name: '&aジルコニウム合金'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_AQUA_GENERATOR:
+  name: '&9アクア発電機'
+  stats:
+  - '&6上級発電機'
+  type:
+  - '&7&o機械'
+SUPREME_ATTRIBUTE_BOMB:
+  description:
+  - '&7特殊効果を持つ超爆弾属性'
+  name: '&a爆弾属性'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_ATTRIBUTE_FORTUNE:
+  description:
+  - '&7特殊効果を持つ超幸運属性'
+  name: '&a幸運属性'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_ATTRIBUTE_IMPETUS:
+  description:
+  - '&7特殊効果を持つ超推進属性'
+  name: '&a推進属性'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_ATTRIBUTE_MAGIC:
+  description:
+  - '&7特殊効果を持つ超魔法属性'
+  name: '&a魔法属性'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_AURUM_AXE:
+  description:
+  - '&f&lオーラム製の斧'
+  name: '&f&lオーラムの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AURUM_BOOTS:
+  description:
+  - '&f&lオーラム製のブーツ'
+  name: '&f&lオーラムのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_AURUM_CAPACITOR:
+  name: '&9オーラムコンデンサー'
+  stats:
+  - '&6上級コンデンサー'
+  - '&8⇨ &e⚡ &71,000,000.00 J容量'
+  type:
+  - '&7&o機械'
+SUPREME_AURUM_CHESTPLATE:
+  description:
+  - '&f&lオーラム製のチェストプレート'
+  name: '&f&lオーラムのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_AURUM_HELMET:
+  description:
+  - '&f&lオーラム製のヘルメット'
+  name: '&f&lオーラムのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_AURUM_LEGGINGS:
+  description:
+  - '&f&lオーラム製のレギンス'
+  name: '&f&lオーラムのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_AURUM_PICKAXE:
+  description:
+  - '&f&lオーラム製のツルハシ'
+  name: '&f&lオーラムのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_AURUM_PLATE:
+  name: '&aオーラムプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_AURUM_SHOVEL:
+  description:
+  - '&f&lオーラム製のシャベル'
+  name: '&f&lオーラムのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_AURUM_SWORD:
+  description:
+  - '&f&lオーラム製の剣'
+  name: '&f&lオーラムの剣'
+  type:
+  - '&7&o武器'
+SUPREME_AXE_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックの斧'
+  name: '&d&lエピックの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AXE_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーの斧'
+  name: '&6&lレジェンダリーの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AXE_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックの斧'
+  name: '&a&lマジックの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AXE_RARE:
+  description:
+  - '&f&lソーニウム製のレアの斧'
+  name: '&b&lレアの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AXE_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームの斧'
+  name: '&4&lシュプリームの斧'
+  type:
+  - '&7&oツール'
+SUPREME_AXE_THORNIUM:
+  description:
+  - '&f&lソーニウム製の斧'
+  name: '&f&lソーニウムの斧'
+  type:
+  - '&7&oツール'
+SUPREME_BASIC_AQUA_GENERATOR:
+  name: '&9基本アクア発電機'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_BASIC_IGNIS_GENERATOR:
+  name: '&9基本イグニス発電機'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_BASIC_LUMIUM_GENERATOR:
+  name: '&9基本ルミウム発電機'
+  stats:
+  - '&6上級発電機'
+  type:
+  - '&7&o機械'
+SUPREME_BASIC_LUX_GENERATOR:
+  name: '&9基本ルクス発電機'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_BASIC_VENTUS_GENERATOR:
+  name: '&9基本ヴェントゥス発電機'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_BLEND_MACHINE:
+  name: '&aブレンドマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_BOOTS_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのブーツ'
+  name: '&d&lエピックのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOOTS_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのブーツ'
+  name: '&6&lレジェンダリーのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOOTS_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのブーツ'
+  name: '&a&lマジックのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOOTS_RARE:
+  description:
+  - '&f&lソーニウム製のレアのブーツ'
+  name: '&b&lレアのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOOTS_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのブーツ'
+  name: '&4&lシュプリームのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOOTS_THORNIUM:
+  description:
+  - '&f&lソーニウム製のブーツ'
+  name: '&f&lソーニウムのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_BOW_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックの弓'
+  name: '&d&lエピックの弓'
+  type:
+  - '&7&o武器'
+SUPREME_BOW_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーの弓'
+  name: '&6&lレジェンダリーの弓'
+  type:
+  - '&7&o武器'
+SUPREME_BOW_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックの弓'
+  name: '&a&lマジックの弓'
+  type:
+  - '&7&o武器'
+SUPREME_BOW_RARE:
+  description:
+  - '&f&lソーニウム製のレアの弓'
+  name: '&b&lレアの弓'
+  type:
+  - '&7&o武器'
+SUPREME_BOW_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームの弓'
+  name: '&4&lシュプリームの弓'
+  type:
+  - '&7&o武器'
+SUPREME_BOW_THORNIUM:
+  description:
+  - '&f&lソーニウム製の弓'
+  name: '&f&lソーニウムの弓'
+  type:
+  - '&7&o武器'
+SUPREME_CARD_ALUMINUM_BRASS:
+  description:
+  - '&f生産をアルミニウム真鍮インゴットに変更'
+  name: '&bカードマシン アルミニウム真鍮インゴット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ALUMINUM_BRONZE:
+  description:
+  - '&f生産をアルミニウム青銅インゴットに変更'
+  name: '&bカードマシン アルミニウム青銅インゴット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ALUMINUM_DUST:
+  description:
+  - '&f生産をアルミニウム粉に変更'
+  name: '&bカードマシン アルミニウム粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_AMETHYST:
+  description:
+  - '&f生産をアメジストに変更'
+  name: '&bカードマシン アメジスト'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ANDESITE:
+  description:
+  - '&f生産を安山岩に変更'
+  name: '&bカードマシン 安山岩'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_APPLE:
+  description:
+  - '&f生産をリンゴに変更'
+  name: '&bカードマシン リンゴ'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_BATTERY:
+  description:
+  - '&f生産をバッテリーに変更'
+  name: '&bカードマシン バッテリー'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_BILLON:
+  description:
+  - '&f生産をビロンインゴットに変更'
+  name: '&bカードマシン ビロンインゴット'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_BLAZE_ROD:
+  description:
+  - '&f生産をブレイズロッドに変更'
+  name: '&bカードマシン ブレイズロッド'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_BRASS:
+  description:
+  - '&f生産を真鍮インゴットに変更'
+  name: '&bカードマシン 真鍮インゴット'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_BRONZE:
+  description:
+  - '&f生産を青銅インゴットに変更'
+  name: '&bカードマシン 青銅インゴット'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_CARBON:
+  description:
+  - '&f生産を炭素に変更'
+  name: '&bカードマシン 炭素'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_CARBONADO:
+  description:
+  - '&f生産をカルボナードに変更'
+  name: '&bカードマシン カルボナード'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_CARBON_PRESS:
+  description:
+  - '&f生産を圧縮炭素に変更'
+  name: '&bカードマシン 圧縮炭素'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_CLAY:
+  description:
+  - '&f生産を粘土に変更'
+  name: '&bカードマシン 粘土'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_COAL:
+  description:
+  - '&f生産を石炭に変更'
+  name: '&bカードマシン 石炭'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_COBALT:
+  description:
+  - '&f生産をコバルトに変更'
+  name: '&bカードマシン コバルト'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_COPPER:
+  description:
+  - '&f生産を銅に変更'
+  name: '&bカードマシン 銅'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_COPPER_DUST:
+  description:
+  - '&f生産を銅粉に変更'
+  name: '&bカードマシン 銅粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_CORINTHIAN_BRONZE:
+  description:
+  - '&f生産をコリンティアンブロンズインゴットに変更'
+  name: '&bカードマシン コリンティアンブロンズインゴット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_DAMASCUS:
+  description:
+  - '&f生産をダマスカス鋼に変更'
+  name: '&bカードマシン ダマスカス鋼'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_DIAMOND:
+  description:
+  - '&f生産をダイヤモンドに変更'
+  name: '&bカードマシン ダイヤモンド'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_DIORITE:
+  description:
+  - '&f生産を閃緑岩に変更'
+  name: '&bカードマシン 閃緑岩'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_DURALUMIN:
+  description:
+  - '&f生産をジュラルミンインゴットに変更'
+  name: '&bカードマシン ジュラルミンインゴット'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ELECTRIC_MOTOR:
+  description:
+  - '&f生産を電動モーターに変更'
+  name: '&bカードマシン 電動モーター'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ELECTRO_MAGNET:
+  description:
+  - '&f生産を電磁石に変更'
+  name: '&bカードマシン 電磁石'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_EMERALD:
+  description:
+  - '&f生産をエメラルドに変更'
+  name: '&bカードマシン エメラルド'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ENDSTONE:
+  description:
+  - '&f生産をエンドストーンに変更'
+  name: '&bカードマシン エンドストーン'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_FERROSILICON:
+  description:
+  - '&f生産をフェロシリコンに変更'
+  name: '&bカードマシン フェロシリコン'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GLOW_INK_SAC:
+  description:
+  - '&f生産を発光インクの袋に変更'
+  name: '&bカードマシン 発光インクの袋'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GOLD:
+  description:
+  - '&f生産を金に変更'
+  name: '&bカードマシン 金'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GOLD24K:
+  description:
+  - '&f生産を24金に変更'
+  name: '&bカードマシン 24金'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GOLD_DUST:
+  description:
+  - '&f生産を金粉に変更'
+  name: '&bカードマシン 金粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GRANITE:
+  description:
+  - '&f生産を花崗岩に変更'
+  name: '&bカードマシン 花崗岩'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_GRAVEL:
+  description:
+  - '&f生産を砂利に変更'
+  name: '&bカードマシン 砂利'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_HARDENED_METAL:
+  description:
+  - '&f生産を強化金属インゴットに変更'
+  name: '&bカードマシン 強化金属インゴット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_HEATING_COIL:
+  description:
+  - '&f生産を発熱コイルに変更'
+  name: '&bカードマシン 発熱コイル'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_HONEY_BOTTLE:
+  description:
+  - '&f生産をはちみつ入りの瓶に変更'
+  name: '&bカードマシン はちみつ入りの瓶'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_INK_SAC:
+  description:
+  - '&f生産をイカスミの袋に変更'
+  name: '&bカードマシン イカスミの袋'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_IRON:
+  description:
+  - '&f生産を鉄に変更'
+  name: '&bカードマシン 鉄'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_IRON_DUST:
+  description:
+  - '&f生産を鉄粉に変更'
+  name: '&bカードマシン 鉄粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_LAPIS:
+  description:
+  - '&f生産をラピスラズリに変更'
+  name: '&bカードマシン ラピスラズリ'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_LEAD_DUST:
+  description:
+  - '&f生産を鉛粉に変更'
+  name: '&bカードマシン 鉛粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_MAGNESIUM_DUST:
+  description:
+  - '&f生産をマグネシウム粉に変更'
+  name: '&bカードマシン マグネシウム粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_MAGNET:
+  description:
+  - '&f生産を磁石に変更'
+  name: '&bカードマシン 磁石'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_NETHERITE:
+  description:
+  - '&f生産をネザライトに変更'
+  name: '&bカードマシン ネザライト'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_NETHER_STAR:
+  description:
+  - '&f生産をネザースターに変更'
+  name: '&bカードマシン ネザースター'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_NICKEL:
+  description:
+  - '&f生産をニッケルに変更'
+  name: '&bカードマシン ニッケル'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_PLASTIC_SHEET:
+  description:
+  - '&f生産をプラスチックシートに変更'
+  name: '&bカードマシン プラスチックシート'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_QUARTZ:
+  description:
+  - '&f生産をクォーツに変更'
+  name: '&bカードマシン クォーツ'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_QUARTZ_BLOCK:
+  description:
+  - '&f生産をクォーツブロックに変更'
+  name: '&bカードマシン クォーツブロック'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_REDSTONE:
+  description:
+  - '&f生産をレッドストーンに変更'
+  name: '&bカードマシン レッドストーン'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_REDSTONE_ALLOY:
+  description:
+  - '&f生産をレッドストーン合金に変更'
+  name: '&bカードマシン レッドストーン合金'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_REINFORCED_ALLOY:
+  description:
+  - '&f生産を強化合金インゴットに変更'
+  name: '&bカードマシン 強化合金インゴット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SAND:
+  description:
+  - '&f生産を砂に変更'
+  name: '&bカードマシン 砂'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SILICON:
+  description:
+  - '&f生産をシリコンに変更'
+  name: '&bカードマシン シリコン'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SILVER_DUST:
+  description:
+  - '&f生産を銀粉に変更'
+  name: '&bカードマシン 銀粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SLIME_BALL:
+  description:
+  - '&f生産をスライムボールに変更'
+  name: '&bカードマシン スライムボール'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SNOW:
+  description:
+  - '&f生産を雪に変更'
+  name: '&bカードマシン 雪'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SOLDER:
+  description:
+  - '&f生産をはんだインゴットに変更'
+  name: '&bカードマシン はんだインゴット'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_STEEL:
+  description:
+  - '&f生産を鋼鉄に変更'
+  name: '&bカードマシン 鋼鉄'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_STONE:
+  description:
+  - '&f生産を石に変更'
+  name: '&bカードマシン 石'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SULFATE:
+  description:
+  - '&f生産を硫酸塩に変更'
+  name: '&bカードマシン 硫酸塩'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SYNTHETIC_DIAMOND:
+  description:
+  - '&f生産を合成ダイヤモンドに変更'
+  name: '&bカードマシン 合成ダイヤモンド'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SYNTHETIC_EMERALD:
+  description:
+  - '&f生産を合成エメラルドに変更'
+  name: '&bカードマシン 合成エメラルド'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+  description:
+  - '&f生産を合成サファイアに変更'
+  name: '&bカードマシン 合成サファイア'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_TIN_DUST:
+  description:
+  - '&f生産をスズ粉に変更'
+  name: '&bカードマシン スズ粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_WITHER_ROSE:
+  description:
+  - '&f生産をウィザーローズに変更'
+  name: '&bカードマシン ウィザーローズ'
+  stats:
+  - '&e基本機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARD_ZINC_DUST:
+  description:
+  - '&f生産を亜鉛粉に変更'
+  name: '&bカードマシン 亜鉛粉'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CARRIAGE_MACHINE:
+  name: '&aキャリッジマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_CENTER_CARD_ADVANCED:
+  description:
+  - '&fアイテムを生産する機械用コンポーネント'
+  name: '&aカード用上級コンポーネント'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CENTER_CARD_SIMPLE:
+  description:
+  - '&fアイテムを生産する機械用コンポーネント'
+  name: '&aカード用基本コンポーネント'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CENTER_CARD_ULTIMATE:
+  description:
+  - '&fアイテムを生産する機械用コンポーネント'
+  name: '&aカード用究極コンポーネント'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_CETRUS_AQUA:
+  description:
+  - '&7超アクアの杖'
+  name: '&aケトルス・アクア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CETRUS_IGNIS:
+  description:
+  - '&7超イグニスの杖'
+  name: '&aケトルス・イグニス'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CETRUS_LUMIUM:
+  description:
+  - '&7超ルミウムの杖'
+  name: '&aケトルス・ルミウム'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CETRUS_LUX:
+  description:
+  - '&7超ルクスの杖'
+  name: '&aケトルス・ルクス'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CETRUS_VENTUS:
+  description:
+  - '&7超ヴェントゥスの杖'
+  name: '&aケトルス・ヴェントゥス'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CHECK_INVENTORY:
+  description:
+  - '&f近くのチェストにフィルターアイテムがあるか確認する'
+  - '&fすべての面を対象とする(最初の一致を採用)'
+  - '&f見つかった場合、このブロックが点灯する'
+  name: '&bインベントリチェック'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_CHESTPLATE_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのチェストプレート'
+  name: '&d&lエピックのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_CHESTPLATE_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのチェストプレート'
+  name: '&6&lレジェンダリーのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_CHESTPLATE_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのチェストプレート'
+  name: '&a&lマジックのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_CHESTPLATE_RARE:
+  description:
+  - '&f&lソーニウム製のレアのチェストプレート'
+  name: '&b&lレアのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_CHESTPLATE_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのチェストプレート'
+  name: '&4&lシュプリームのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_CHESTPLATE_THORNIUM:
+  description:
+  - '&f&lソーニウム製のチェストプレート'
+  name: '&f&lソーニウムのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_COAL_QUARRY:
+  name: '&e石炭採掘場'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_CONVEYANCE_MACHINE:
+  name: '&aコンベヤンスマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_CORE_ACACIA_LOG:
+  description:
+  - '&7超アカシア'
+  name: '&aシュプリームアカシア'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_ANDESITE:
+  description:
+  - '&7超安山岩'
+  name: '&aシュプリーム安山岩'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_APPLE:
+  description:
+  - '&7超リンゴ'
+  name: '&aシュプリームリンゴ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_BEEF:
+  description:
+  - '&7超牛肉'
+  name: '&aシュプリーム牛肉'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_BEETROOT:
+  description:
+  - '&7超ビートルート'
+  name: '&aシュプリームビートルート'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_BIRCH_LOG:
+  description:
+  - '&7超シラカバ'
+  name: '&aシュプリームシラカバ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_BLACK:
+  description:
+  - '&7超黒'
+  name: '&aシュプリーム黒'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_BLUE:
+  description:
+  - '&7超青'
+  name: '&aシュプリーム青'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_CARROT:
+  description:
+  - '&7超ニンジン'
+  name: '&aシュプリームニンジン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_CHICKEN:
+  description:
+  - '&7超鶏肉'
+  name: '&aシュプリーム鶏肉'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_CLAY:
+  description:
+  - '&7超粘土'
+  name: '&aシュプリーム粘土'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_COAL:
+  description:
+  - '&7超石炭'
+  name: '&aシュプリーム石炭'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_COD:
+  description:
+  - '&7超タラ'
+  name: '&aシュプリームタラ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_CRIMSON_STEM:
+  description:
+  - '&7超クリムゾン'
+  name: '&aシュプリームクリムゾン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_CYAN:
+  description:
+  - '&7超シアン'
+  name: '&aシュプリームシアン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_DARK_OAK_LOG:
+  description:
+  - '&7超ダークオーク'
+  name: '&aシュプリームダークオーク'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_DIAMOND:
+  description:
+  - '&7超ダイヤモンド'
+  name: '&aシュプリームダイヤモンド'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_DIORITE:
+  description:
+  - '&7超閃緑岩'
+  name: '&aシュプリーム閃緑岩'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_EMERALD:
+  description:
+  - '&7超エメラルド'
+  name: '&aシュプリームエメラルド'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_ENDSTONE:
+  description:
+  - '&7超エンドストーン'
+  name: '&aシュプリームエンドストーン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_GOLD:
+  description:
+  - '&7超金'
+  name: '&aシュプリーム金'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_GRANITE:
+  description:
+  - '&7超花崗岩'
+  name: '&aシュプリーム花崗岩'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_GRAVEL:
+  description:
+  - '&7超砂利'
+  name: '&aシュプリーム砂利'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_GRAY:
+  description:
+  - '&7超灰'
+  name: '&aシュプリーム灰'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_GREEN:
+  description:
+  - '&7超緑'
+  name: '&aシュプリーム緑'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_IRON:
+  description:
+  - '&7超鉄'
+  name: '&aシュプリーム鉄'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_JUNGLE_LOG:
+  description:
+  - '&7超ジャングル'
+  name: '&aシュプリームジャングル'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_LAPIS:
+  description:
+  - '&7超ラピスラズリ'
+  name: '&aシュプリームラピスラズリ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_MELON:
+  description:
+  - '&7超メロン'
+  name: '&aシュプリームメロン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_MUTTON:
+  description:
+  - '&7超マトン'
+  name: '&aシュプリームマトン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_NETHERITE:
+  description:
+  - '&7超ネザライト'
+  name: '&aシュプリームネザライト'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_OAK_LOG:
+  description:
+  - '&7超オーク'
+  name: '&aシュプリームオーク'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_OF_ALLOY:
+  description:
+  - '&7このコアには複数の鉱石が'
+  - '&7世界中から集められている。'
+  name: '&a合金のコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_OF_BLOCK:
+  description:
+  - '&7このコアには複数のブロックが'
+  - '&7世界中から集められている。'
+  name: '&aブロックのコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_OF_COLOR:
+  description:
+  - '&7このコアには複数の色が'
+  - '&7世界中から集められている。'
+  name: '&a色のコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_OF_DEATH:
+  description:
+  - '&7このコアには魂が宿っている、'
+  - '&7あの世へ旅立った様々な存在の。'
+  name: '&a死のコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_OF_LIFE:
+  description:
+  - '&7このコアには生命の断片が'
+  - '&7世界によって集められている。'
+  name: '&a生命のコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_OF_NATURE:
+  description:
+  - '&7このコアには複数の自然物が'
+  - '&7世界中から集められている。'
+  name: '&a自然のコア'
+  type:
+  - '&7&o魔法コンポーネント'
+SUPREME_CORE_PINK:
+  description:
+  - '&7超ピンク'
+  name: '&aシュプリームピンク'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_PORKCHOP:
+  description:
+  - '&7超ベーコン'
+  name: '&aシュプリームベーコン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_POTATO:
+  description:
+  - '&7超ジャガイモ'
+  name: '&aシュプリームジャガイモ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_PUMPKIN:
+  description:
+  - '&7超カボチャ'
+  name: '&aシュプリームカボチャ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_PURPLE:
+  description:
+  - '&7超紫'
+  name: '&aシュプリーム紫'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_QUARTZ:
+  description:
+  - '&7超クォーツ'
+  name: '&aシュプリームクォーツ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_RED:
+  description:
+  - '&7超赤'
+  name: '&aシュプリーム赤'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_REDSTONE:
+  description:
+  - '&7超レッドストーン'
+  name: '&aシュプリームレッドストーン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SALMON:
+  description:
+  - '&7超サーモン'
+  name: '&aシュプリームサーモン'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SAND:
+  description:
+  - '&7超砂'
+  name: '&aシュプリーム砂'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SNOW:
+  description:
+  - '&7超雪'
+  name: '&aシュプリーム雪'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SPIDER_EYE:
+  description:
+  - '&7超クモの目'
+  name: '&aシュプリームクモの目'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SPRUCE_LOG:
+  description:
+  - '&7超トウヒ'
+  name: '&aシュプリームトウヒ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_STONE:
+  description:
+  - '&7超丸石'
+  name: '&aシュプリーム丸石'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_STRING:
+  description:
+  - '&7超リード'
+  name: '&aシュプリームリード'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SUGAR_CANE:
+  description:
+  - '&7超サトウキビ'
+  name: '&aシュプリームサトウキビ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_SWEET_BERRIES:
+  description:
+  - '&7超スイートベリー'
+  name: '&aシュプリームスイートベリー'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_TEAR:
+  description:
+  - '&7超涙'
+  name: '&aシュプリーム涙'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_WARPED_STEM:
+  description:
+  - '&7超ワープド'
+  name: '&aシュプリームワープド'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_WHEAT:
+  description:
+  - '&7超小麦'
+  name: '&aシュプリーム小麦'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_WITHER_ROSE:
+  description:
+  - '&7超バラ'
+  name: '&aシュプリームバラ'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CORE_YELLOW:
+  description:
+  - '&7超黄'
+  name: '&aシュプリーム黄'
+  type:
+  - '&7&oコアコンポーネント'
+SUPREME_CRYSTALLIZER_MACHINE:
+  name: '&aクリスタライザーマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_DIAMOND_QUARRY:
+  name: '&eダイヤモンド採掘場'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_DUST_AMETHYST:
+  name: '&aアメジスト粉'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_DUST_GLOW_INK:
+  name: '&a発光インク粉'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_DUST_NETHERITE:
+  name: '&aネザライト粉'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_ELECTRIC_CORE_I:
+  description:
+  - '&fコアの素材をクラフトする'
+  name: '&b電気コアマシン'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_CORE_II:
+  description:
+  - '&f上級のコア素材をクラフトする'
+  name: '&b電気コアマシン II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_CORE_III:
+  description:
+  - '&f上級のコア素材をクラフトする'
+  name: '&b電気コアマシン III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_CRAFTER_I:
+  description:
+  - '&fアイテムをクラフトする'
+  name: '&b電気クラフター'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_CRAFTER_II:
+  description:
+  - '&f上級アイテムクラフト'
+  name: '&b電気クラフター II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_CRAFTER_III:
+  description:
+  - '&f上級アイテムクラフト'
+  name: '&b電気クラフター III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_GEAR_I:
+  description:
+  - '&f装備の階級をクラフトする'
+  name: '&b電気ギアマシン'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_GEAR_II:
+  description:
+  - '&f上級の装備階級をクラフトする'
+  name: '&b電気ギアマシン II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_GEAR_III:
+  description:
+  - '&f上級の装備階級をクラフトする'
+  name: '&b電気ギアマシン III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_ITEM:
+  name: 電気アイテム
+  type:
+  - '&7&oその他'
+SUPREME_ELECTRIC_MAGICAL_I:
+  description:
+  - '&f魔法素材をクラフトする'
+  name: '&b電気マジカルマシン'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_MAGICAL_II:
+  description:
+  - '&f上級の魔法素材をクラフトする'
+  name: '&b電気マジカルマシン II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_ELECTRIC_MAGICAL_III:
+  description:
+  - '&f上級の魔法素材をクラフトする'
+  name: '&b電気マジカルマシン III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_EMPTY_MOBTECH:
+  name: '&a空のMobTech'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_FORGE_INGOT_I:
+  description:
+  - '&fこの機械で'
+  - '&fインゴット素材を精錬できる。'
+  name: '&b精錬炉:インゴット'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FORGE_INGOT_II:
+  description:
+  - '&fこの機械で'
+  - '&fインゴット素材を精錬できる。'
+  name: '&b精錬炉:インゴット II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  - '&8⇨ &e⚡ &75000 Jバッファー'
+  - '&8⇨ &e⚡ &7100 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FORGE_INGOT_III:
+  description:
+  - '&fこの機械で'
+  - '&fインゴット素材を精錬できる。'
+  name: '&b精錬炉:インゴット III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  - '&8⇨ &e⚡ &715000 Jバッファー'
+  - '&8⇨ &e⚡ &7300 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FORGE_MAGICAL_I:
+  description:
+  - '&fこの機械で'
+  - '&f魔法素材を精錬できる。'
+  name: '&b精錬炉:魔法'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FORGE_MAGICAL_II:
+  description:
+  - '&fこの機械で'
+  - '&f魔法素材を精錬できる。'
+  name: '&b精錬炉:魔法 II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  - '&8⇨ &e⚡ &75000 Jバッファー'
+  - '&8⇨ &e⚡ &7100 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FORGE_MAGICAL_III:
+  description:
+  - '&fこの機械で'
+  - '&f魔法素材を精錬できる。'
+  name: '&b精錬炉:魔法 III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  - '&8⇨ &e⚡ &715000 Jバッファー'
+  - '&8⇨ &e⚡ &7300 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_FOUNDRY_I:
+  description:
+  - '&f鋳造・合成アイテム'
+  name: '&b鋳造炉'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_FOUNDRY_II:
+  description:
+  - '&f上級の鋳造・合成アイテム'
+  name: '&b鋳造炉 II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_FOUNDRY_III:
+  description:
+  - '&f上級の鋳造・合成アイテム'
+  name: '&b鋳造炉 III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_GENERATOR_MOB_ADVANCED:
+  name: '&bMob発電機:上級'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_GENERATOR_MOB_BASIC:
+  name: '&bMob発電機:基本'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_GENERATOR_MOB_MEDIUM:
+  name: '&bMob発電機:中級'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_GENE_BERSERK:
+  name: '&aバーサーク遺伝子'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_GENE_INTELLIGENCE:
+  name: '&f知能遺伝子'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_GENE_LUCK:
+  name: '&a幸運遺伝子'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_GOLD_QUARRY:
+  name: '&e金採掘場'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_HELMET_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのヘルメット'
+  name: '&d&lエピックのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_HELMET_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのヘルメット'
+  name: '&6&lレジェンダリーのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_HELMET_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのヘルメット'
+  name: '&a&lマジックのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_HELMET_RARE:
+  description:
+  - '&f&lソーニウム製のレアのヘルメット'
+  name: '&b&lレアのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_HELMET_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのヘルメット'
+  name: '&4&lシュプリームのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_HELMET_THORNIUM:
+  description:
+  - '&f&lソーニウム製のヘルメット'
+  name: '&f&lソーニウムのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_IGNIS_GENERATOR:
+  name: '&9イグニス発電機'
+  stats:
+  - '&6上級発電機'
+  type:
+  - '&7&o機械'
+SUPREME_INDUCTIVE_MACHINE:
+  name: '&aインダクティブマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_INDUCTOR_MACHINE:
+  name: '&aインダクターマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_IRIDIUM_PLATE:
+  name: '&aイリジウムプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_IRON_QUARRY:
+  name: '&e鉄採掘場'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_LEGGINGS_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのレギンス'
+  name: '&d&lエピックのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LEGGINGS_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのレギンス'
+  name: '&6&lレジェンダリーのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LEGGINGS_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのレギンス'
+  name: '&a&lマジックのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LEGGINGS_RARE:
+  description:
+  - '&f&lソーニウム製のレアのレギンス'
+  name: '&b&lレアのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LEGGINGS_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのレギンス'
+  name: '&4&lシュプリームのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LEGGINGS_THORNIUM:
+  description:
+  - '&f&lソーニウム製のレギンス'
+  name: '&f&lソーニウムのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_LUMIUM_GENERATOR:
+  name: '&9ルミウム発電機'
+  stats:
+  - '&6上級発電機'
+  type:
+  - '&7&o機械'
+SUPREME_LUX_GENERATOR:
+  name: '&9ルクス発電機'
+  stats:
+  - '&6上級発電機'
+  type:
+  - '&7&o機械'
+SUPREME_MAGIC_ALTAR_I:
+  description:
+  - '&fルーンと魔法アイテムをクラフトする'
+  name: '&b魔法の祭壇'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  type:
+  - '&7&o機械'
+SUPREME_MAGIC_ALTAR_II:
+  description:
+  - '&f上級のルーンと魔法アイテムをクラフトする'
+  name: '&b魔法の祭壇 II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  type:
+  - '&7&o機械'
+SUPREME_MAGIC_ALTAR_III:
+  description:
+  - '&f上級のルーンと魔法アイテムをクラフトする'
+  name: '&b魔法の祭壇 III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  type:
+  - '&7&o機械'
+SUPREME_MAIN_ITEM:
+  name: メインアイテム
+  type:
+  - '&7&oその他'
+SUPREME_MANGANESE_PLATE:
+  name: '&aマンガンプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_MOB_COLLECTOR_MACHINE_I:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fアイテムを回収できる。(4ブロック)'
+  name: '&bMobコレクター'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_MOB_COLLECTOR_MACHINE_II:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fアイテムを回収できる。(8ブロック)'
+  name: '&bMobコレクター II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  - '&8⇨ &e⚡ &75000 Jバッファー'
+  - '&8⇨ &e⚡ &7100 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_MOB_COLLECTOR_MACHINE_III:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fアイテムを回収できる。(16ブロック)'
+  name: '&bMobコレクター III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  - '&8⇨ &e⚡ &715000 Jバッファー'
+  - '&8⇨ &e⚡ &7300 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_MOB_COLLECTOR_TOOL_I:
+  name: '&6MobTechコレクター I'
+  stats:
+  - '&8⇨ &e⚡ &7使用ごとに50 J'
+  type:
+  - '&7&oツール'
+SUPREME_MOB_COLLECTOR_TOOL_II:
+  name: '&6MobTechコレクター II'
+  stats:
+  - '&8⇨ &e⚡ &7使用ごとに50 J'
+  type:
+  - '&7&oツール'
+SUPREME_MOB_COLLECTOR_TOOL_III:
+  name: '&6MobTechコレクター III'
+  stats:
+  - '&8⇨ &e⚡ &7使用ごとに50 J'
+  type:
+  - '&7&oツール'
+SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fMobTechの頭を回収できる。(6ブロック)'
+  name: '&bMobTechコレクター II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
+  description:
+  - '&fこの機械で近くのMobから'
+  - '&fMobTechの頭を回収できる。(9ブロック)'
+  name: '&bMobTechコレクター III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_MULTIBLOCK_CORE:
+  description:
+  - '&7&oここでコアをクラフトできる!'
+  - '&aマルチブロック機械'
+  name: '&eコア製造機'
+  type:
+  - '&7&o機械'
+SUPREME_MULTIBLOCK_GEAR:
+  description:
+  - '&7&oここで武器、防具、道具をクラフトできる!'
+  - '&aマルチブロック機械'
+  name: '&e装備製造機'
+  type:
+  - '&7&o機械'
+SUPREME_MULTIBLOCK_MAGICAL:
+  description:
+  - '&7&oここで魔法アイテムをクラフトできる!'
+  - '&aマルチブロック機械'
+  name: '&e魔法製造機'
+  type:
+  - '&7&o機械'
+SUPREME_PETRIFIER_MACHINE:
+  name: '&aペトリファイアーマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_PICKAXE_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのツルハシ'
+  name: '&d&lエピックのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PICKAXE_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのツルハシ'
+  name: '&6&lレジェンダリーのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PICKAXE_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのツルハシ'
+  name: '&a&lマジックのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PICKAXE_RARE:
+  description:
+  - '&f&lソーニウム製のレアのツルハシ'
+  name: '&b&lレアのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PICKAXE_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのツルハシ'
+  name: '&4&lシュプリームのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PICKAXE_THORNIUM:
+  description:
+  - '&f&lソーニウム製のツルハシ'
+  name: '&f&lソーニウムのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_PLATINUM_PLATE:
+  name: '&aプラチナプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_RUSTLESS_MACHINE:
+  name: '&aラストレスマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_SHIELD_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックの盾'
+  name: '&d&lエピックの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHIELD_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーの盾'
+  name: '&6&lレジェンダリーの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHIELD_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックの盾'
+  name: '&a&lマジックの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHIELD_RARE:
+  description:
+  - '&f&lソーニウム製のレアの盾'
+  name: '&b&lレアの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHIELD_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームの盾'
+  name: '&4&lシュプリームの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHIELD_THORNIUM:
+  description:
+  - '&f&lソーニウム製の盾'
+  name: '&f&lソーニウムの盾'
+  type:
+  - '&7&o武器'
+SUPREME_SHOVEL_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックのシャベル'
+  name: '&d&lエピックのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_SHOVEL_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーのシャベル'
+  name: '&6&lレジェンダリーのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_SHOVEL_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックのシャベル'
+  name: '&a&lマジックのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_SHOVEL_RARE:
+  description:
+  - '&f&lソーニウム製のレアのシャベル'
+  name: '&b&lレアのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_SHOVEL_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームのシャベル'
+  name: '&4&lシュプリームのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_SHOVEL_THORNIUM:
+  description:
+  - '&f&lソーニウム製のシャベル'
+  name: '&f&lソーニウムのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_STAINLESS_MACHINE:
+  name: '&aステンレスマシン'
+  type:
+  - '&7&o上級コンポーネント'
+SUPREME_STONE_QUARRY:
+  name: '&e石採掘場'
+  stats:
+  - '&a中級機械'
+  type:
+  - '&7&o機械'
+SUPREME_SUPREME:
+  description:
+  - '&7ザ・シュプリーム'
+  name: '&aシュプリーム'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_SUPREME_CAPACITOR:
+  name: '&9シュプリームコンデンサー'
+  stats:
+  - '&4エンドゲームコンデンサー'
+  - '&8⇨ &e⚡ &7無限のJ容量'
+  type:
+  - '&7&o機械'
+SUPREME_SUPREME_GENERATOR:
+  name: '&9シュプリーム発電機'
+  stats:
+  - '&4エンドゲーム発電機'
+  type:
+  - '&7&o機械'
+SUPREME_SUPREME_NUGGET:
+  description:
+  - '&7シュプリーム採掘場のナゲットから'
+  name: '&aシュプリームナゲット'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_SUPREME_NUGGETS_QUARRY:
+  name: '&eシュプリーム採掘場のナゲット'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_SWORD_EPIC:
+  description:
+  - '&f&lソーニウム製のエピックの剣'
+  name: '&d&lエピックの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SWORD_LEGENDARY:
+  description:
+  - '&f&lソーニウム製のレジェンダリーの剣'
+  name: '&6&lレジェンダリーの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SWORD_MAGIC:
+  description:
+  - '&f&lソーニウム製のマジックの剣'
+  name: '&a&lマジックの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SWORD_RARE:
+  description:
+  - '&f&lソーニウム製のレアの剣'
+  name: '&b&lレアの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SWORD_SUPREME:
+  description:
+  - '&f&lソーニウム製のシュプリームの剣'
+  name: '&4&lシュプリームの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SWORD_THORNIUM:
+  description:
+  - '&f&lソーニウム製の剣'
+  name: '&f&lソーニウムの剣'
+  type:
+  - '&7&o武器'
+SUPREME_SYNTHETIC_AMETHYST:
+  name: '&a合成アメジスト'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_SYNTHETIC_RUBY:
+  name: '&a合成ルビー'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_TECH_GENERATOR:
+  description:
+  - '&f電力とハチ/ゴーレム/ゾンビを使い、'
+  - '&fゆっくりと素材を生成する。'
+  name: '&bテック発電機'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_MUTATION_I:
+  description:
+  - '&f発電機の変異を使い、'
+  - '&fより高いレベルへ進化させる'
+  name: '&bテック変異'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_MUTATION_II:
+  description:
+  - '&f発電機の変異を使い、'
+  - '&fより高いレベルへ進化させる'
+  - '&f確率係数が2倍になる'
+  name: '&bテック変異 II'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_MUTATION_III:
+  description:
+  - '&f発電機の変異を使い、'
+  - '&fより高いレベルへ進化させる'
+  - '&f確率係数が4倍になる'
+  name: '&bテック変異 III'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_ROBOTIC:
+  description:
+  - '&f初級レベルのロボットを使い、'
+  - '&fより高いレベルへ進化させる'
+  - '&fアップグレードには64個必要'
+  name: '&bテックロボティック'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_ROBOTIC_II:
+  description:
+  - '&f初級レベルのロボットを使い、'
+  - '&fより高いレベルへ進化させる'
+  - '&fアップグレードには32個必要'
+  name: '&bテックロボティック II'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_TECH_ROBOTIC_III:
+  description:
+  - '&f初級レベルのロボットを使い、'
+  - '&fより高いレベルへ進化させる'
+  - '&fアップグレードには16個必要'
+  name: '&bテックロボティック III'
+  stats:
+  - '&4エンドゲーム機械'
+  type:
+  - '&7&o機械'
+SUPREME_THORNERITE:
+  name: '&aソーナライト'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_BIT:
+  description:
+  - '&7ソーニウム採掘場から'
+  name: '&aソーニウムビット'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_BIT_SYNTHETIC:
+  description:
+  - '&7ソーニウムビットから'
+  name: '&a合成ソーニウムビット'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_CAPACITOR:
+  name: '&9ソーニウムコンデンサー'
+  stats:
+  - '&4エンドゲームコンデンサー'
+  - '&8⇨ &e⚡ &7100,000,000.00 J容量'
+  type:
+  - '&7&o機械'
+SUPREME_THORNIUM_CARBONADO:
+  description:
+  - '&7ソーニウムインゴットから'
+  name: '&aソーニウムカルボナード'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_DUST:
+  description:
+  - '&7ソーニウムビットから'
+  name: '&aソーニウム粉'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_DUST_SYNTHETIC:
+  description:
+  - '&7ソーニウム粉から'
+  name: '&a合成ソーニウム粉'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_ENERGIZED:
+  description:
+  - '&7ソーニウムインゴットから'
+  name: '&aエナジャイズドソーニウム'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_GENERATOR:
+  name: '&9ソーニウム発電機'
+  stats:
+  - '&4エンドゲーム発電機'
+  type:
+  - '&7&o機械'
+SUPREME_THORNIUM_INGOT:
+  description:
+  - '&7ソーニウム粉から'
+  name: '&aソーニウムインゴット'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_INGOT_SYNTHETIC:
+  description:
+  - '&7ソーニウムインゴットから'
+  name: '&a合成ソーニウムインゴット'
+  type:
+  - '&7&oエンドゲームコンポーネント'
+SUPREME_THORNIUM_QUARRY:
+  name: '&eソーニウム採掘場'
+  stats:
+  - '&6上級機械'
+  type:
+  - '&7&o機械'
+SUPREME_TITANIUM_AXE:
+  description:
+  - '&f&lチタニウム製の斧'
+  name: '&f&lチタニウムの斧'
+  type:
+  - '&7&oツール'
+SUPREME_TITANIUM_BOOTS:
+  description:
+  - '&f&lチタニウム製のブーツ'
+  name: '&f&lチタニウムのブーツ'
+  type:
+  - '&7&o防具'
+SUPREME_TITANIUM_CAPACITOR:
+  name: '&9チタニウムコンデンサー'
+  stats:
+  - '&6上級コンデンサー'
+  - '&8⇨ &e⚡ &74,000,000.00 J容量'
+  type:
+  - '&7&o機械'
+SUPREME_TITANIUM_CHESTPLATE:
+  description:
+  - '&f&lチタニウム製のチェストプレート'
+  name: '&f&lチタニウムのチェストプレート'
+  type:
+  - '&7&o防具'
+SUPREME_TITANIUM_HELMET:
+  description:
+  - '&f&lチタニウム製のヘルメット'
+  name: '&f&lチタニウムのヘルメット'
+  type:
+  - '&7&o防具'
+SUPREME_TITANIUM_LEGGINGS:
+  description:
+  - '&f&lチタニウム製のレギンス'
+  name: '&f&lチタニウムのレギンス'
+  type:
+  - '&7&o防具'
+SUPREME_TITANIUM_PICKAXE:
+  description:
+  - '&f&lチタニウム製のツルハシ'
+  name: '&f&lチタニウムのツルハシ'
+  type:
+  - '&7&oツール'
+SUPREME_TITANIUM_PLATE:
+  name: '&aチタニウムプレート'
+  type:
+  - '&7&oコンポーネント'
+SUPREME_TITANIUM_SHOVEL:
+  description:
+  - '&f&lチタニウム製のシャベル'
+  name: '&f&lチタニウムのシャベル'
+  type:
+  - '&7&oツール'
+SUPREME_TITANIUM_SWORD:
+  description:
+  - '&f&lチタニウム製の剣'
+  name: '&f&lチタニウムの剣'
+  type:
+  - '&7&o武器'
+SUPREME_VENTUS_GENERATOR:
+  name: '&9ヴェントゥス発電機'
+  stats:
+  - '&e基本発電機'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_AQUARIUM_I:
+  description:
+  - '&fこの機械で海で採れる'
+  - '&fアイテムを回収できる。'
+  name: '&bバーチャル水族館'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_AQUARIUM_II:
+  description:
+  - '&fこの機械で海で採れる'
+  - '&fアイテムを回収できる。'
+  name: '&bバーチャル水族館 II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  - '&8⇨ &e⚡ &75000 Jバッファー'
+  - '&8⇨ &e⚡ &7100 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_AQUARIUM_III:
+  description:
+  - '&fこの機械で海で採れる'
+  - '&fアイテムを回収できる。'
+  name: '&bバーチャル水族館 III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  - '&8⇨ &e⚡ &715000 Jバッファー'
+  - '&8⇨ &e⚡ &7300 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_GARDEN_I:
+  description:
+  - '&fこの機械で'
+  - '&f素材を栽培できる。'
+  name: '&bバーチャルガーデン'
+  stats:
+  - '&6上級機械'
+  - '&8⇨ &b⚡ &7速度: &b1.0x'
+  - '&8⇨ &e⚡ &71000 Jバッファー'
+  - '&8⇨ &e⚡ &720 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_GARDEN_II:
+  description:
+  - '&fこの機械で'
+  - '&f素材を栽培できる。'
+  name: '&bバーチャルガーデン II'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b5.0x'
+  - '&8⇨ &e⚡ &75000 Jバッファー'
+  - '&8⇨ &e⚡ &7100 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_VIRTUAL_GARDEN_III:
+  description:
+  - '&fこの機械で'
+  - '&f素材を栽培できる。'
+  name: '&bバーチャルガーデン III'
+  stats:
+  - '&4エンドゲーム機械'
+  - '&8⇨ &b⚡ &7速度: &b15.0x'
+  - '&8⇨ &e⚡ &715000 Jバッファー'
+  - '&8⇨ &e⚡ &7300 J/s'
+  type:
+  - '&7&o機械'
+SUPREME_ZIRCONIUM_PLATE:
+  name: '&aジルコニウムプレート'
+  type:
+  - '&7&oコンポーネント'
