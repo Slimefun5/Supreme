@@ -188,7 +188,9 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
    */
   private void registerMobTechResolver() {
     io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService()
-        .registerResolver(new com.github.relativobr.supreme.util.SupremeMobTechResolver());
+        .registerResolver(new com.github.relativobr.supreme.util.SupremeMobTechResolver(
+            com.github.relativobr.supreme.util.ResolverTexts.load(this, "mobtech.yml"),
+            getSupremeOptions().getMaxAmountTechGenerator()));
   }
 
   @Override
