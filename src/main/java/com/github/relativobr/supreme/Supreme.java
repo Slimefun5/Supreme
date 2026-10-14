@@ -178,6 +178,7 @@ public class Supreme extends JavaPlugin implements SlimefunAddon {
    */
   private void registerItemTranslations() {
     io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getItemTranslationService().registerTranslations(this);
+    io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getLocalization().registerItemGroupTranslations(this);
   }
 
   /**
