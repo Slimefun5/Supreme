@@ -23,11 +23,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
@@ -492,9 +490,12 @@ public class GenericMachine extends AContainer implements NotHopperable, RecipeD
     return !consumeFailure;
   }
 
+  /**
+   * @implNote No set de-duplicates the recipe: hashing a skull item calls {@code CraftMetaSkull#equals}, which
+   *           throws on 1.17.1 for a skull without a serialized profile, and checking a repeat twice changes nothing.
+   */
   private boolean matchingRecipe(ItemStack[] recipe, BlockMenu inv) {
-    Set<ItemStack> uniqueItems = new HashSet<>(Arrays.asList(recipe));
-    return uniqueItems.stream().allMatch(item -> isItemPresentInSlots(item, inv));
+    return Arrays.stream(recipe).allMatch(item -> isItemPresentInSlots(item, inv));
   }
 
   private boolean isItemPresentInSlots(ItemStack item, BlockMenu inv) {
