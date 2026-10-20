@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&fتسمح لك هذه الآلة بجمع '
   - '&fرأس موبتِك من المخلوقات القريبة. (3 كتلة)'
-  name: '&bجامع موبتِك I'
+  name: 'جامع موبتِك I'
   type:
   - '&7&oآلة'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&lفأس من الأدامانتيوم'
-  name: '&f&lفأس الأدامانتيوم'
+  name: 'فأس الأدامانتيوم'
   type:
   - '&7&oأدوات'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&lحذاء من الأدامانتيوم'
-  name: '&f&lحذاء الأدامانتيوم'
+  name: 'حذاء الأدامانتيوم'
   type:
   - '&7&oدرع'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9مكثّف الأدامانتيوم'
+  name: 'مكثّف الأدامانتيوم'
   stats:
   - '&6مكثّف متقدّم'
   - '&8⇨ &e⚡ &7سعة 16,000,000.00 J'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&lصدرية من الأدامانتيوم'
-  name: '&f&lصدرية الأدامانتيوم'
+  name: 'صدرية الأدامانتيوم'
   type:
   - '&7&oدرع'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&lخوذة من الأدامانتيوم'
-  name: '&f&lخوذة الأدامانتيوم'
+  name: 'خوذة الأدامانتيوم'
   type:
   - '&7&oدرع'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&lبنطال من الأدامانتيوم'
-  name: '&f&lبنطال الأدامانتيوم'
+  name: 'بنطال الأدامانتيوم'
   type:
   - '&7&oدرع'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&lمعول من الأدامانتيوم'
-  name: '&f&lمعول الأدامانتيوم'
+  name: 'معول الأدامانتيوم'
   type:
   - '&7&oأدوات'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&aصفيحة أدامانتيوم'
+  name: 'صفيحة أدامانتيوم'
   type:
   - '&7&oمكونات'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&lمجرفة من الأدامانتيوم'
-  name: '&f&lمجرفة الأدامانتيوم'
+  name: 'مجرفة الأدامانتيوم'
   type:
   - '&7&oأدوات'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&lسيف من الأدامانتيوم'
-  name: '&f&lسيف الأدامانتيوم'
+  name: 'سيف الأدامانتيوم'
   type:
   - '&7&oأسلحة'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&aخليط الأدامانتيوم'
+  name: 'خليط الأدامانتيوم'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_AURUM:
-  name: '&aخليط الأوروم'
+  name: 'خليط الأوروم'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&aخليط الإيريديوم'
+  name: 'خليط الإيريديوم'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_MANGANESE:
-  name: '&aخليط المنغنيز'
+  name: 'خليط المنغنيز'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_PLATINUM:
-  name: '&aخليط البلاتين'
+  name: 'خليط البلاتين'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_TITANIUM:
-  name: '&aخليط التيتانيوم'
+  name: 'خليط التيتانيوم'
   type:
   - '&7&oمكونات'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&aخليط الزركونيوم'
+  name: 'خليط الزركونيوم'
   type:
   - '&7&oمكونات'
 SUPREME_AQUA_GENERATOR:
-  name: '&9مولّد أكوا'
+  name: 'مولّد أكوا'
   stats:
   - '&6مولّد متقدّم'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7سمة قنبلة فائقة بتأثيرات خاصة'
-  name: '&aسمة القنبلة'
+  name: 'سمة القنبلة'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7سمة حظ فائقة بتأثيرات خاصة'
-  name: '&aسمة الحظ'
+  name: 'سمة الحظ'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7سمة زخم فائقة بتأثيرات خاصة'
-  name: '&aسمة الزخم'
+  name: 'سمة الزخم'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7سمة سحر فائقة بتأثيرات خاصة'
-  name: '&aسمة السحر'
+  name: 'سمة السحر'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_AURUM_AXE:
   description:
   - '&f&lفأس من الأوروم'
-  name: '&f&lفأس الأوروم'
+  name: 'فأس الأوروم'
   type:
   - '&7&oأدوات'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&lحذاء من الأوروم'
-  name: '&f&lحذاء الأوروم'
+  name: 'حذاء الأوروم'
   type:
   - '&7&oدرع'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9مكثّف الأوروم'
+  name: 'مكثّف الأوروم'
   stats:
   - '&6مكثّف متقدّم'
   - '&8⇨ &e⚡ &7سعة 1,000,000.00 J'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&lصدرية من الأوروم'
-  name: '&f&lصدرية الأوروم'
+  name: 'صدرية الأوروم'
   type:
   - '&7&oدرع'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&lخوذة من الأوروم'
-  name: '&f&lخوذة الأوروم'
+  name: 'خوذة الأوروم'
   type:
   - '&7&oدرع'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&lبنطال من الأوروم'
-  name: '&f&lبنطال الأوروم'
+  name: 'بنطال الأوروم'
   type:
   - '&7&oدرع'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&lمعول من الأوروم'
-  name: '&f&lمعول الأوروم'
+  name: 'معول الأوروم'
   type:
   - '&7&oأدوات'
 SUPREME_AURUM_PLATE:
-  name: '&aصفيحة أوروم'
+  name: 'صفيحة أوروم'
   type:
   - '&7&oمكونات'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&lمجرفة من الأوروم'
-  name: '&f&lمجرفة الأوروم'
+  name: 'مجرفة الأوروم'
   type:
   - '&7&oأدوات'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&lسيف من الأوروم'
-  name: '&f&lسيف الأوروم'
+  name: 'سيف الأوروم'
   type:
   - '&7&oأسلحة'
 SUPREME_AXE_EPIC:
   description:
   - '&f&lفأس الثورنيوم الملحمية'
-  name: '&d&lالفأس الملحمية'
+  name: 'الفأس الملحمية'
   type:
   - '&7&oأدوات'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&lفأس الثورنيوم الأسطورية'
-  name: '&6&lالفأس الأسطورية'
+  name: 'الفأس الأسطورية'
   type:
   - '&7&oأدوات'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&lفأس الثورنيوم السحرية'
-  name: '&a&lالفأس السحرية'
+  name: 'الفأس السحرية'
   type:
   - '&7&oأدوات'
 SUPREME_AXE_RARE:
   description:
   - '&f&lفأس الثورنيوم النادرة'
-  name: '&b&lالفأس النادرة'
+  name: 'الفأس النادرة'
   type:
   - '&7&oأدوات'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&lفأس الثورنيوم العظمى'
-  name: '&4&lالفأس العظمى'
+  name: 'الفأس العظمى'
   type:
   - '&7&oأدوات'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&lفأس من الثورنيوم'
-  name: '&f&lفأس الثورنيوم'
+  name: 'فأس الثورنيوم'
   type:
   - '&7&oأدوات'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9مولّد أكوا أساسي'
+  name: 'مولّد أكوا أساسي'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9مولّد إغنيس أساسي'
+  name: 'مولّد إغنيس أساسي'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9مولّد لوميوم أساسي'
+  name: 'مولّد لوميوم أساسي'
   stats:
   - '&6مولّد متقدّم'
   type:
   - '&7&oآلة'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9مولّد لوكس أساسي'
+  name: 'مولّد لوكس أساسي'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9مولّد فينتوس أساسي'
+  name: 'مولّد فينتوس أساسي'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_BLEND_MACHINE:
-  name: '&aآلة الخلط'
+  name: 'آلة الخلط'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&lحذاء الثورنيوم الملحمي'
-  name: '&d&lالحذاء الملحمي'
+  name: 'الحذاء الملحمي'
   type:
   - '&7&oدرع'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&lحذاء الثورنيوم الأسطوري'
-  name: '&6&lالحذاء الأسطوري'
+  name: 'الحذاء الأسطوري'
   type:
   - '&7&oدرع'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&lحذاء الثورنيوم السحري'
-  name: '&a&lالحذاء السحري'
+  name: 'الحذاء السحري'
   type:
   - '&7&oدرع'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&lحذاء الثورنيوم النادر'
-  name: '&b&lالحذاء النادر'
+  name: 'الحذاء النادر'
   type:
   - '&7&oدرع'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&lحذاء الثورنيوم الأعظم'
-  name: '&4&lالحذاء الأعظم'
+  name: 'الحذاء الأعظم'
   type:
   - '&7&oدرع'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&lحذاء من الثورنيوم'
-  name: '&f&lحذاء الثورنيوم'
+  name: 'حذاء الثورنيوم'
   type:
   - '&7&oدرع'
 SUPREME_BOW_EPIC:
   description:
   - '&f&lقوس الثورنيوم الملحمي'
-  name: '&d&lالقوس الملحمي'
+  name: 'القوس الملحمي'
   type:
   - '&7&oأسلحة'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&lقوس الثورنيوم الأسطوري'
-  name: '&6&lالقوس الأسطوري'
+  name: 'القوس الأسطوري'
   type:
   - '&7&oأسلحة'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&lقوس الثورنيوم السحري'
-  name: '&a&lالقوس السحري'
+  name: 'القوس السحري'
   type:
   - '&7&oأسلحة'
 SUPREME_BOW_RARE:
   description:
   - '&f&lقوس الثورنيوم النادر'
-  name: '&b&lالقوس النادر'
+  name: 'القوس النادر'
   type:
   - '&7&oأسلحة'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&lقوس الثورنيوم الأعظم'
-  name: '&4&lالقوس الأعظم'
+  name: 'القوس الأعظم'
   type:
   - '&7&oأسلحة'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&lقوس من الثورنيوم'
-  name: '&f&lقوس الثورنيوم'
+  name: 'قوس الثورنيوم'
   type:
   - '&7&oأسلحة'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fغيّر إلى إنتاج سبيكة النحاس الأصفر الألومنيومي'
-  name: '&bبطاقة آلة: سبيكة النحاس الأصفر الألومنيومي'
+  name: "بطاقة آلة (سبيكة النحاس الأصفر الألومنيومي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fغيّر إلى إنتاج سبيكة البرونز الألومنيومي'
-  name: '&bبطاقة آلة: سبيكة البرونز الألومنيومي'
+  name: "بطاقة آلة (سبيكة البرونز الألومنيومي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الألومنيوم'
-  name: '&bبطاقة آلة: غبار الألومنيوم'
+  name: "بطاقة آلة (غبار الألومنيوم)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fغيّر إلى إنتاج الجمشت'
-  name: '&bبطاقة آلة: جمشت'
+  name: "بطاقة آلة (جمشت)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fغيّر إلى إنتاج الأنديسايت'
-  name: '&bبطاقة آلة: أنديسايت'
+  name: "بطاقة آلة (أنديسايت)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fغيّر إلى إنتاج التفاح'
-  name: '&bبطاقة آلة: تفاح'
+  name: "بطاقة آلة (تفاح)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fغيّر إلى إنتاج البطارية'
-  name: '&bبطاقة آلة: بطارية'
+  name: "بطاقة آلة (بطارية)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fغيّر إلى إنتاج سبيكة البيّون'
-  name: '&bبطاقة آلة: سبيكة بيّون'
+  name: "بطاقة آلة (سبيكة بيّون)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fغيّر إلى إنتاج عصا البليز'
-  name: '&bبطاقة آلة: عصا بليز'
+  name: "بطاقة آلة (عصا بليز)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fغيّر إلى إنتاج سبيكة النحاس الأصفر'
-  name: '&bبطاقة آلة: سبيكة نحاس أصفر'
+  name: "بطاقة آلة (سبيكة نحاس أصفر)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fغيّر إلى إنتاج سبيكة البرونز'
-  name: '&bبطاقة آلة: سبيكة برونز'
+  name: "بطاقة آلة (سبيكة برونز)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fغيّر إلى إنتاج الكربون'
-  name: '&bبطاقة آلة: كربون'
+  name: "بطاقة آلة (كربون)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fغيّر إلى إنتاج الكربونادو'
-  name: '&bبطاقة آلة: كربونادو'
+  name: "بطاقة آلة (كربونادو)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fغيّر إلى إنتاج الكربون المضغوط'
-  name: '&bبطاقة آلة: كربون مضغوط'
+  name: "بطاقة آلة (كربون مضغوط)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fغيّر إلى إنتاج الصلصال'
-  name: '&bبطاقة آلة: صلصال'
+  name: "بطاقة آلة (صلصال)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fغيّر إلى إنتاج الفحم'
-  name: '&bبطاقة آلة: فحم'
+  name: "بطاقة آلة (فحم)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fغيّر إلى إنتاج الكوبالت'
-  name: '&bبطاقة آلة: كوبالت'
+  name: "بطاقة آلة (كوبالت)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fغيّر إلى إنتاج النحاس'
-  name: '&bبطاقة آلة: نحاس'
+  name: "بطاقة آلة (نحاس)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار النحاس'
-  name: '&bبطاقة آلة: غبار النحاس'
+  name: "بطاقة آلة (غبار النحاس)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fغيّر إلى إنتاج سبيكة البرونز الكورنثي'
-  name: '&bبطاقة آلة: سبيكة البرونز الكورنثي'
+  name: "بطاقة آلة (سبيكة البرونز الكورنثي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fغيّر إلى إنتاج الفولاذ الدمشقي'
-  name: '&bبطاقة آلة: فولاذ دمشقي'
+  name: "بطاقة آلة (فولاذ دمشقي)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fغيّر إلى إنتاج الألماس'
-  name: '&bبطاقة آلة: ألماس'
+  name: "بطاقة آلة (ألماس)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fغيّر إلى إنتاج الديوريت'
-  name: '&bبطاقة آلة: ديوريت'
+  name: "بطاقة آلة (ديوريت)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fغيّر إلى إنتاج سبيكة الدورالومين'
-  name: '&bبطاقة آلة: سبيكة دورالومين'
+  name: "بطاقة آلة (سبيكة دورالومين)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fغيّر إلى إنتاج المحرّك الكهربائي'
-  name: '&bبطاقة آلة: محرّك كهربائي'
+  name: "بطاقة آلة (محرّك كهربائي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fغيّر إلى إنتاج المغناطيس الكهربائي'
-  name: '&bبطاقة آلة: مغناطيس كهربائي'
+  name: "بطاقة آلة (مغناطيس كهربائي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fغيّر إلى إنتاج الزمرد'
-  name: '&bبطاقة آلة: زمرد'
+  name: "بطاقة آلة (زمرد)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fغيّر إلى إنتاج حجر الإند'
-  name: '&bبطاقة آلة: حجر الإند'
+  name: "بطاقة آلة (حجر الإند)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fغيّر إلى إنتاج الفيروسيليكون'
-  name: '&bبطاقة آلة: فيروسيليكون'
+  name: "بطاقة آلة (فيروسيليكون)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fغيّر إلى إنتاج كيس الحبر المتوهّج'
-  name: '&bبطاقة آلة: كيس حبر متوهّج'
+  name: "بطاقة آلة (كيس حبر متوهّج)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fغيّر إلى إنتاج الذهب'
-  name: '&bبطاقة آلة: ذهب'
+  name: "بطاقة آلة (ذهب)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fغيّر إلى إنتاج الذهب 24k'
-  name: '&bبطاقة آلة: ذهب 24k'
+  name: "بطاقة آلة (ذهب 24k)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الذهب'
-  name: '&bبطاقة آلة: غبار الذهب'
+  name: "بطاقة آلة (غبار الذهب)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fغيّر إلى إنتاج الغرانيت'
-  name: '&bبطاقة آلة: غرانيت'
+  name: "بطاقة آلة (غرانيت)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fغيّر إلى إنتاج الحصى'
-  name: '&bبطاقة آلة: حصى'
+  name: "بطاقة آلة (حصى)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fغيّر إلى إنتاج سبيكة المعدن المقوّى'
-  name: '&bبطاقة آلة: سبيكة معدن مقوّى'
+  name: "بطاقة آلة (سبيكة معدن مقوّى)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fغيّر إلى إنتاج ملف التسخين'
-  name: '&bبطاقة آلة: ملف تسخين'
+  name: "بطاقة آلة (ملف تسخين)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fغيّر إلى إنتاج قارورة العسل'
-  name: '&bبطاقة آلة: قارورة عسل'
+  name: "بطاقة آلة (قارورة عسل)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fغيّر إلى إنتاج كيس الحبر'
-  name: '&bبطاقة آلة: كيس حبر'
+  name: "بطاقة آلة (كيس حبر)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fغيّر إلى إنتاج الحديد'
-  name: '&bبطاقة آلة: حديد'
+  name: "بطاقة آلة (حديد)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الحديد'
-  name: '&bبطاقة آلة: غبار الحديد'
+  name: "بطاقة آلة (غبار الحديد)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fغيّر إلى إنتاج اللازورد'
-  name: '&bبطاقة آلة: لازورد'
+  name: "بطاقة آلة (لازورد)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الرصاص'
-  name: '&bبطاقة آلة: غبار الرصاص'
+  name: "بطاقة آلة (غبار الرصاص)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار المغنيسيوم'
-  name: '&bبطاقة آلة: غبار المغنيسيوم'
+  name: "بطاقة آلة (غبار المغنيسيوم)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fغيّر إلى إنتاج المغناطيس'
-  name: '&bبطاقة آلة: مغناطيس'
+  name: "بطاقة آلة (مغناطيس)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fغيّر إلى إنتاج النيثرايت'
-  name: '&bبطاقة آلة: نيثرايت'
+  name: "بطاقة آلة (نيثرايت)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fغيّر إلى إنتاج نجمة النيثر'
-  name: '&bبطاقة آلة: نجمة نيثر'
+  name: "بطاقة آلة (نجمة نيثر)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fغيّر إلى إنتاج النيكل'
-  name: '&bبطاقة آلة: نيكل'
+  name: "بطاقة آلة (نيكل)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fغيّر إلى إنتاج صفيحة البلاستيك'
-  name: '&bبطاقة آلة: صفيحة بلاستيك'
+  name: "بطاقة آلة (صفيحة بلاستيك)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fغيّر إلى إنتاج الكوارتز'
-  name: '&bبطاقة آلة: كوارتز'
+  name: "بطاقة آلة (كوارتز)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fغيّر إلى إنتاج كتلة الكوارتز'
-  name: '&bبطاقة آلة: كتلة كوارتز'
+  name: "بطاقة آلة (كتلة كوارتز)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fغيّر إلى إنتاج الحجر الأحمر'
-  name: '&bبطاقة آلة: حجر أحمر'
+  name: "بطاقة آلة (حجر أحمر)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fغيّر إلى إنتاج خليط الحجر الأحمر'
-  name: '&bبطاقة آلة: خليط الحجر الأحمر'
+  name: "بطاقة آلة (خليط الحجر الأحمر)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fغيّر إلى إنتاج سبيكة الخليط المعزّز'
-  name: '&bبطاقة آلة: سبيكة خليط معزّز'
+  name: "بطاقة آلة (سبيكة خليط معزّز)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fغيّر إلى إنتاج الرمل'
-  name: '&bبطاقة آلة: رمل'
+  name: "بطاقة آلة (رمل)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fغيّر إلى إنتاج السيليكون'
-  name: '&bبطاقة آلة: سيليكون'
+  name: "بطاقة آلة (سيليكون)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الفضة'
-  name: '&bبطاقة آلة: غبار الفضة'
+  name: "بطاقة آلة (غبار الفضة)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fغيّر إلى إنتاج كرة الهلام'
-  name: '&bبطاقة آلة: كرة هلام'
+  name: "بطاقة آلة (كرة هلام)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fغيّر إلى إنتاج الثلج'
-  name: '&bبطاقة آلة: ثلج'
+  name: "بطاقة آلة (ثلج)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fغيّر إلى إنتاج سبيكة اللحام'
-  name: '&bبطاقة آلة: سبيكة لحام'
+  name: "بطاقة آلة (سبيكة لحام)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fغيّر إلى إنتاج الفولاذ'
-  name: '&bبطاقة آلة: فولاذ'
+  name: "بطاقة آلة (فولاذ)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fغيّر إلى إنتاج الحجر'
-  name: '&bبطاقة آلة: حجر'
+  name: "بطاقة آلة (حجر)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fغيّر إلى إنتاج الكبريتات'
-  name: '&bبطاقة آلة: كبريتات'
+  name: "بطاقة آلة (كبريتات)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fغيّر إلى إنتاج الألماس الصناعي'
-  name: '&bبطاقة آلة: ألماس صناعي'
+  name: "بطاقة آلة (ألماس صناعي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fغيّر إلى إنتاج الزمرد الصناعي'
-  name: '&bبطاقة آلة: زمرد صناعي'
+  name: "بطاقة آلة (زمرد صناعي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fغيّر إلى إنتاج الياقوت الأزرق الصناعي'
-  name: '&bبطاقة آلة: ياقوت أزرق صناعي'
+  name: "بطاقة آلة (ياقوت أزرق صناعي)"
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار القصدير'
-  name: '&bبطاقة آلة: غبار القصدير'
+  name: "بطاقة آلة (غبار القصدير)"
   stats:
   - '&aآلة متوسطة'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fغيّر إلى إنتاج وردة الويثر'
-  name: '&bبطاقة آلة: وردة الويثر'
+  name: "بطاقة آلة (وردة الويثر)"
   stats:
   - '&eآلة أساسية'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fغيّر إلى إنتاج غبار الزنك'
-  name: '&bبطاقة آلة: غبار الزنك'
+  name: "بطاقة آلة (غبار الزنك)"
   stats:
   - '&aآلة متوسطة'
   type:
   - '&7&oمكون'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&aآلة الحمل'
+  name: 'آلة الحمل'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&fمكوّن للآلة لتنتج العناصر'
-  name: '&aمكوّن متقدّم للبطاقة'
+  name: 'مكوّن متقدّم للبطاقة'
   type:
   - '&7&oمكون'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&fمكوّن للآلة لتنتج العناصر'
-  name: '&aمكوّن أساسي للبطاقة'
+  name: 'مكوّن أساسي للبطاقة'
   type:
   - '&7&oمكون'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&fمكوّن للآلة لتنتج العناصر'
-  name: '&aمكوّن نهائي للبطاقة'
+  name: 'مكوّن نهائي للبطاقة'
   type:
   - '&7&oمكون'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7صولجان أكوا فائق'
-  name: '&aسيتروس أكوا'
+  name: 'سيتروس أكوا'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7صولجان إغنيس فائق'
-  name: '&aسيتروس إغنيس'
+  name: 'سيتروس إغنيس'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7صولجان لوميوم فائق'
-  name: '&aسيتروس لوميوم'
+  name: 'سيتروس لوميوم'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CETRUS_LUX:
   description:
   - '&7صولجان لوكس فائق'
-  name: '&aسيتروس لوكس'
+  name: 'سيتروس لوكس'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7صولجان فينتوس فائق'
-  name: '&aسيتروس فينتوس'
+  name: 'سيتروس فينتوس'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&fيتحقّق إن كان الصندوق القريب يحوي عنصر التصفية'
   - '&fتُؤخذ كل الأوجه بالحسبان (أول ما يُعثر عليه)'
   - '&fإن وُجد، تضيء هذه الكتلة'
-  name: '&bفحص المخزون'
+  name: "فاحص المخزون"
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&lصدرية الثورنيوم الملحمية'
-  name: '&d&lالصدرية الملحمية'
+  name: 'الصدرية الملحمية'
   type:
   - '&7&oدرع'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&lصدرية الثورنيوم الأسطورية'
-  name: '&6&lالصدرية الأسطورية'
+  name: 'الصدرية الأسطورية'
   type:
   - '&7&oدرع'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&lصدرية الثورنيوم السحرية'
-  name: '&a&lالصدرية السحرية'
+  name: 'الصدرية السحرية'
   type:
   - '&7&oدرع'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&lصدرية الثورنيوم النادرة'
-  name: '&b&lالصدرية النادرة'
+  name: 'الصدرية النادرة'
   type:
   - '&7&oدرع'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&lصدرية الثورنيوم العظمى'
-  name: '&4&lالصدرية العظمى'
+  name: 'الصدرية العظمى'
   type:
   - '&7&oدرع'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&lصدرية من الثورنيوم'
-  name: '&f&lصدرية الثورنيوم'
+  name: 'صدرية الثورنيوم'
   type:
   - '&7&oدرع'
 SUPREME_COAL_QUARRY:
-  name: '&eمنجم الفحم'
+  name: 'منجم الفحم'
   stats:
   - '&6آلة متقدّمة'
   type:
   - '&7&oآلة'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&aآلة النقل'
+  name: 'آلة النقل'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7أكاسيا فائقة'
-  name: '&aجذع الأكاسيا الأعظم'
+  name: 'جذع الأكاسيا الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7أنديسايت فائق'
-  name: '&aالأنديسايت الأعظم'
+  name: 'الأنديسايت الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_APPLE:
   description:
   - '&7تفاح فائق'
-  name: '&aالتفاح الأعظم'
+  name: 'التفاح الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_BEEF:
   description:
   - '&7لحم بقر فائق'
-  name: '&aلحم البقر الأعظم'
+  name: 'لحم البقر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7شمندر فائق'
-  name: '&aالشمندر الأعظم'
+  name: 'الشمندر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7بتولا فائقة'
-  name: '&aجذع البتولا الأعظم'
+  name: 'جذع البتولا الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_BLACK:
   description:
   - '&7أسود فائق'
-  name: '&aالأسود الأعظم'
+  name: 'الأسود الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_BLUE:
   description:
   - '&7أزرق فائق'
-  name: '&aالأزرق الأعظم'
+  name: 'الأزرق الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_CARROT:
   description:
   - '&7الجزر الأعظم'
-  name: '&aالجزر الأعظم'
+  name: 'الجزر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7دجاج فائق'
-  name: '&aالدجاج الأعظم'
+  name: 'الدجاج الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_CLAY:
   description:
   - '&7صلصال فائق'
-  name: '&aالصلصال الأعظم'
+  name: 'الصلصال الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_COAL:
   description:
   - '&7فحم فائق'
-  name: '&aالفحم الأعظم'
+  name: 'الفحم الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_COD:
   description:
   - '&7سمك قد فائق'
-  name: '&aسمك القد الأعظم'
+  name: 'سمك القد الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7قرمزي فائق'
-  name: '&aالساق القرمزية العظمى'
+  name: 'الساق القرمزية العظمى'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_CYAN:
   description:
   - '&7سماوي فائق'
-  name: '&aالسماوي الأعظم'
+  name: 'السماوي الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7داكن فائق'
-  name: '&aجذع البلوط الداكن الأعظم'
+  name: 'جذع البلوط الداكن الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7ألماس فائق'
-  name: '&aالألماس الأعظم'
+  name: 'الألماس الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_DIORITE:
   description:
   - '&7ديوريت فائق'
-  name: '&aالديوريت الأعظم'
+  name: 'الديوريت الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_EMERALD:
   description:
   - '&7زمرد فائق'
-  name: '&aالزمرد الأعظم'
+  name: 'الزمرد الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7حجر إند فائق'
-  name: '&aحجر الإند الأعظم'
+  name: 'حجر الإند الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_GOLD:
   description:
   - '&7ذهب فائق'
-  name: '&aالذهب الأعظم'
+  name: 'الذهب الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_GRANITE:
   description:
   - '&7غرانيت فائق'
-  name: '&aالغرانيت الأعظم'
+  name: 'الغرانيت الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7حصى فائق'
-  name: '&aالحصى الأعظم'
+  name: 'الحصى الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_GRAY:
   description:
   - '&7رمادي فائق'
-  name: '&aالرمادي الأعظم'
+  name: 'الرمادي الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_GREEN:
   description:
   - '&7أخضر فائق'
-  name: '&aالأخضر الأعظم'
+  name: 'الأخضر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_IRON:
   description:
   - '&7حديد فائق'
-  name: '&aالحديد الأعظم'
+  name: 'الحديد الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7أدغال فائقة'
-  name: '&aجذع الأدغال الأعظم'
+  name: 'جذع الأدغال الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_LAPIS:
   description:
   - '&7لازورد فائق'
-  name: '&aاللازورد الأعظم'
+  name: 'اللازورد الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_MELON:
   description:
   - '&7بطيخ فائق'
-  name: '&aالبطيخ الأعظم'
+  name: 'البطيخ الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_MUTTON:
   description:
   - '&7لحم ضأن فائق'
-  name: '&aلحم الضأن الأعظم'
+  name: 'لحم الضأن الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7نيثرايت فائق'
-  name: '&aالنيثرايت الأعظم'
+  name: 'النيثرايت الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7بلوط فائق'
-  name: '&aجذع البلوط الأعظم'
+  name: 'جذع البلوط الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7تحتوي هذه النواة على عدة خامات'
   - '&7جُمعت من أنحاء العالم.'
-  name: '&aنواة الخليط'
+  name: 'نواة الخليط'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7تحتوي هذه النواة على عدة كتل'
   - '&7جُمعت من أنحاء العالم.'
-  name: '&aنواة الكتل'
+  name: 'نواة الكتل'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7تحتوي هذه النواة على عدة ألوان'
   - '&7جُمعت من أنحاء العالم.'
-  name: '&aنواة الألوان'
+  name: 'نواة الألوان'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7تحتوي هذه النواة على أرواح '
   - '&7كائنات مختلفة رحلت إلى ما بعد.'
-  name: '&aنواة الموت'
+  name: 'نواة الموت'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7تحتوي هذه النواة على شظايا حياة'
   - '&7جمعها العالم.'
-  name: '&aنواة الحياة'
+  name: 'نواة الحياة'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7تحتوي هذه النواة على عدة عناصر طبيعية'
   - '&7جُمعت من أنحاء العالم.'
-  name: '&aنواة الطبيعة'
+  name: 'نواة الطبيعة'
   type:
   - '&7&oمكونات سحرية'
 SUPREME_CORE_PINK:
   description:
   - '&7زهري فائق'
-  name: '&aالزهري الأعظم'
+  name: 'الزهري الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7لحم مقدد فائق'
-  name: '&aاللحم المقدد الأعظم'
+  name: "لحم الخنزير الأعظم"
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_POTATO:
   description:
   - '&7بطاطا فائقة'
-  name: '&aالبطاطا العظمى'
+  name: 'البطاطا العظمى'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7يقطين فائق'
-  name: '&aاليقطين الأعظم'
+  name: 'اليقطين الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_PURPLE:
   description:
   - '&7بنفسجي فائق'
-  name: '&aالبنفسجي الأعظم'
+  name: 'البنفسجي الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7كوارتز فائق'
-  name: '&aالكوارتز الأعظم'
+  name: 'الكوارتز الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_RED:
   description:
   - '&7أحمر فائق'
-  name: '&aالأحمر الأعظم'
+  name: 'الأحمر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7حجر أحمر فائق'
-  name: '&aالحجر الأحمر الأعظم'
+  name: 'الحجر الأحمر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SALMON:
   description:
   - '&7سمك سلمون فائق'
-  name: '&aسمك السلمون الأعظم'
+  name: 'سمك السلمون الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SAND:
   description:
   - '&7رمل فائق'
-  name: '&aالرمل الأعظم'
+  name: 'الرمل الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SNOW:
   description:
   - '&7ثلج فائق'
-  name: '&aالثلج الأعظم'
+  name: 'الثلج الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7عين فائقة'
-  name: '&aالعين العظمى'
+  name: "عين العنكبوت العظمى"
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7تنوب فائق'
-  name: '&aجذع التنوب الأعظم'
+  name: 'جذع التنوب الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_STONE:
   description:
   - '&7حجر مرصوف فائق'
-  name: '&aالحجر المرصوف الأعظم'
+  name: 'الحجر المرصوف الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_STRING:
   description:
   - '&7مقود فائق'
-  name: '&aالمقود الأعظم'
+  name: "الخيط الأعظم"
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7قصب سكر فائق'
-  name: '&aقصب السكر الأعظم'
+  name: 'قصب السكر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7توت فائق'
-  name: '&aالتوت الحلو الأعظم'
+  name: 'التوت الحلو الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_TEAR:
   description:
   - '&7دمعة فائقة'
-  name: '&aالدمعة العظمى'
+  name: "دمعة الغاست العظمى"
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7ملتوٍ فائق'
-  name: '&aالساق الملتوية العظمى'
+  name: 'الساق الملتوية العظمى'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_WHEAT:
   description:
   - '&7قمح فائق'
-  name: '&aالقمح الأعظم'
+  name: 'القمح الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7وردة فائقة'
-  name: '&aوردة الويثر العظمى'
+  name: 'وردة الويثر العظمى'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CORE_YELLOW:
   description:
   - '&7أصفر فائق'
-  name: '&aالأصفر الأعظم'
+  name: 'الأصفر الأعظم'
   type:
   - '&7&oمكونات أساسية'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&aآلة التبلور'
+  name: 'آلة التبلور'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_DIAMOND_QUARRY:
-  name: '&eمنجم الألماس'
+  name: 'منجم الألماس'
   stats:
   - '&6آلة متقدّمة'
   type:
   - '&7&oآلة'
 SUPREME_DUST_AMETHYST:
-  name: '&aغبار الجمشت'
+  name: 'غبار الجمشت'
   type:
   - '&7&oمكون'
 SUPREME_DUST_GLOW_INK:
-  name: '&aغبار الحبر المتوهّج'
+  name: 'غبار الحبر المتوهّج'
   type:
   - '&7&oمكون'
 SUPREME_DUST_NETHERITE:
-  name: '&aغبار النيثرايت'
+  name: 'غبار النيثرايت'
   type:
   - '&7&oمكون'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&fاصنع مورد النواة'
-  name: '&bآلة النواة الكهربائية'
+  name: 'آلة النواة الكهربائية'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&fصنع متقدّم لمورد النواة'
-  name: '&bآلة النواة الكهربائية II'
+  name: 'آلة النواة الكهربائية II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&fصنع متقدّم لمورد النواة'
-  name: '&bآلة النواة الكهربائية III'
+  name: 'آلة النواة الكهربائية III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&fاصنع العناصر'
-  name: '&bالصانع الكهربائي'
+  name: 'الصانع الكهربائي'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&fصنع متقدّم للعناصر'
-  name: '&bالصانع الكهربائي II'
+  name: 'الصانع الكهربائي II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&fصنع متقدّم للعناصر'
-  name: '&bالصانع الكهربائي III'
+  name: 'الصانع الكهربائي III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&fاصنع رتبة العتاد'
-  name: '&bآلة العتاد الكهربائية'
+  name: 'آلة العتاد الكهربائية'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&fصنع متقدّم لرتبة العتاد'
-  name: '&bآلة العتاد الكهربائية II'
+  name: 'آلة العتاد الكهربائية II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&fصنع متقدّم لرتبة العتاد'
-  name: '&bآلة العتاد الكهربائية III'
+  name: 'آلة العتاد الكهربائية III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
   type:
   - '&7&oآلة'
 SUPREME_ELECTRIC_ITEM:
-  name: عنصر كهربائي
+  name: "كهرباء"
   type:
   - '&7&oمتنوع'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&fاصنع المورد السحري'
-  name: '&bالآلة السحرية الكهربائية'
+  name: 'الآلة السحرية الكهربائية'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&fصنع متقدّم للمورد السحري'
-  name: '&bالآلة السحرية الكهربائية II'
+  name: 'الآلة السحرية الكهربائية II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&fصنع متقدّم للمورد السحري'
-  name: '&bالآلة السحرية الكهربائية III'
+  name: 'الآلة السحرية الكهربائية III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
   type:
   - '&7&oآلة'
 SUPREME_EMPTY_MOBTECH:
-  name: '&aموبتِك فارغ'
+  name: 'موبتِك فارغ'
   type:
   - '&7&oمكون'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر موارد السبائك.'
-  name: '&bمصهر السبيكة'
+  name: 'مصهر السبيكة'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر موارد السبائك.'
-  name: '&bمصهر السبيكة II'
+  name: 'مصهر السبيكة II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر موارد السبائك.'
-  name: '&bمصهر السبيكة III'
+  name: 'مصهر السبيكة III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر الموارد السحرية.'
-  name: '&bالمصهر السحري'
+  name: 'المصهر السحري'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر الموارد السحرية.'
-  name: '&bالمصهر السحري II'
+  name: 'المصهر السحري II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتصهر الموارد السحرية.'
-  name: '&bالمصهر السحري III'
+  name: 'المصهر السحري III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&fعناصر المَسبك والمُصنِّع'
-  name: '&bمَسبك'
+  name: 'مَسبك'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&fعناصر المَسبك والمُصنِّع المتقدّمة'
-  name: '&bمَسبك II'
+  name: 'مَسبك II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&fعناصر المَسبك والمُصنِّع المتقدّمة'
-  name: '&bمَسبك III'
+  name: 'مَسبك III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
   type:
   - '&7&oآلة'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&bمُنتِج المخلوقات المتقدّم'
+  name: 'مُنتِج المخلوقات المتقدّم'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&bمُنتِج المخلوقات الأساسي'
+  name: 'مُنتِج المخلوقات الأساسي'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&bمُنتِج المخلوقات المتوسّط'
+  name: 'مُنتِج المخلوقات المتوسّط'
   stats:
   - '&eمولّد أساسي'
   type:
   - '&7&oآلة'
 SUPREME_GENE_BERSERK:
-  name: '&aجين الاستشراس'
+  name: 'جين الاستشراس'
   type:
   - '&7&oمكون'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&fجين الذكاء'
+  name: 'جين الذكاء'
   type:
   - '&7&oمكون'
 SUPREME_GENE_LUCK:
-  name: '&aجين الحظ'
+  name: 'جين الحظ'
   type:
   - '&7&oمكون'
 SUPREME_GOLD_QUARRY:
-  name: '&eمنجم الذهب'
+  name: 'منجم الذهب'
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&lخوذة الثورنيوم الملحمية'
-  name: '&d&lالخوذة الملحمية'
+  name: 'الخوذة الملحمية'
   type:
   - '&7&oدرع'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&lخوذة الثورنيوم الأسطورية'
-  name: '&6&lالخوذة الأسطورية'
+  name: 'الخوذة الأسطورية'
   type:
   - '&7&oدرع'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&lخوذة الثورنيوم السحرية'
-  name: '&a&lالخوذة السحرية'
+  name: 'الخوذة السحرية'
   type:
   - '&7&oدرع'
 SUPREME_HELMET_RARE:
   description:
   - '&f&lخوذة الثورنيوم النادرة'
-  name: '&b&lالخوذة النادرة'
+  name: 'الخوذة النادرة'
   type:
   - '&7&oدرع'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&lخوذة الثورنيوم العظمى'
-  name: '&4&lالخوذة العظمى'
+  name: 'الخوذة العظمى'
   type:
   - '&7&oدرع'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&lخوذة من الثورنيوم'
-  name: '&f&lخوذة الثورنيوم'
+  name: 'خوذة الثورنيوم'
   type:
   - '&7&oدرع'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9مولّد إغنيس'
+  name: 'مولّد إغنيس'
   stats:
   - '&6مولّد متقدّم'
   type:
   - '&7&oآلة'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&aآلة الحثّ'
+  name: 'آلة الحثّ'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&aآلة المحثّ'
+  name: 'آلة المحثّ'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_IRIDIUM_PLATE:
-  name: '&aصفيحة إيريديوم'
+  name: 'صفيحة إيريديوم'
   type:
   - '&7&oمكونات'
 SUPREME_IRON_QUARRY:
-  name: '&eمنجم الحديد'
+  name: 'منجم الحديد'
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&lبنطال الثورنيوم الملحمي'
-  name: '&d&lالبنطال الملحمي'
+  name: 'البنطال الملحمي'
   type:
   - '&7&oدرع'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&lبنطال الثورنيوم الأسطوري'
-  name: '&6&lالبنطال الأسطوري'
+  name: 'البنطال الأسطوري'
   type:
   - '&7&oدرع'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&lبنطال الثورنيوم السحري'
-  name: '&a&lالبنطال السحري'
+  name: 'البنطال السحري'
   type:
   - '&7&oدرع'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&lبنطال الثورنيوم النادر'
-  name: '&b&lالبنطال النادر'
+  name: 'البنطال النادر'
   type:
   - '&7&oدرع'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&lبنطال الثورنيوم الأعظم'
-  name: '&4&lالبنطال الأعظم'
+  name: 'البنطال الأعظم'
   type:
   - '&7&oدرع'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&lبنطال من الثورنيوم'
-  name: '&f&lبنطال الثورنيوم'
+  name: 'بنطال الثورنيوم'
   type:
   - '&7&oدرع'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9مولّد لوميوم'
+  name: 'مولّد لوميوم'
   stats:
   - '&6مولّد متقدّم'
   type:
   - '&7&oآلة'
 SUPREME_LUX_GENERATOR:
-  name: '&9مولّد لوكس'
+  name: 'مولّد لوكس'
   stats:
   - '&6مولّد متقدّم'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&fاصنع الرونات والعناصر السحرية'
-  name: '&bمذبح السحر'
+  name: 'مذبح السحر'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&fصنع متقدّم للرونات والعناصر السحرية'
-  name: '&bمذبح السحر II'
+  name: 'مذبح السحر II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&fصنع متقدّم للرونات والعناصر السحرية'
-  name: '&bمذبح السحر III'
+  name: 'مذبح السحر III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
   type:
   - '&7&oآلة'
 SUPREME_MAIN_ITEM:
-  name: العنصر الرئيسي
+  name: "Supreme"
   type:
   - '&7&oمتنوع'
 SUPREME_MANGANESE_PLATE:
-  name: '&aصفيحة منغنيز'
+  name: 'صفيحة منغنيز'
   type:
   - '&7&oمكونات'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&fتسمح لك هذه الآلة بجمع '
   - '&fعناصر من المخلوقات القريبة. (4 كتلة)'
-  name: '&bجامع المخلوقات'
+  name: 'جامع المخلوقات'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&fتسمح لك هذه الآلة بجمع'
   - '&f عناصر من المخلوقات القريبة. (8 كتلة)'
-  name: '&bجامع المخلوقات II'
+  name: 'جامع المخلوقات II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&fتسمح لك هذه الآلة بجمع'
   - '&f عناصر من المخلوقات القريبة. (16 كتلة)'
-  name: '&bجامع المخلوقات III'
+  name: 'جامع المخلوقات III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&oآلة'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6جامع موبتِك I'
+  name: "جامع موبتِك I (أداة)"
   stats:
   - '&8⇨ &e⚡ &750 J للاستخدام'
   type:
   - '&7&oأدوات'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6جامع موبتِك II'
+  name: "جامع موبتِك II (أداة)"
   stats:
   - '&8⇨ &e⚡ &750 J للاستخدام'
   type:
   - '&7&oأدوات'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6جامع موبتِك III'
+  name: "جامع موبتِك III (أداة)"
   stats:
   - '&8⇨ &e⚡ &750 J للاستخدام'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&fتسمح لك هذه الآلة بجمع '
   - '&fرأس موبتِك من المخلوقات القريبة. (6 كتلة)'
-  name: '&bجامع موبتِك II'
+  name: 'جامع موبتِك II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&fتسمح لك هذه الآلة بجمع '
   - '&fرأس موبتِك من المخلوقات القريبة. (9 كتلة)'
-  name: '&bجامع موبتِك III'
+  name: 'جامع موبتِك III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&oيمكنك صنع النوى هنا!'
   - '&aآلة متعددة الكتل'
-  name: '&eمُصنّع النوى'
+  name: 'مُصنّع النوى'
   type:
   - '&7&oآلة'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&oيمكنك صنع الأسلحة والدروع والأدوات هنا!'
   - '&aآلة متعددة الكتل'
-  name: '&eمُصنّع العتاد'
+  name: 'مُصنّع العتاد'
   type:
   - '&7&oآلة'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&oيمكنك صنع السحريات هنا!'
   - '&aآلة متعددة الكتل'
-  name: '&eالمُصنّع السحري'
+  name: 'المُصنّع السحري'
   type:
   - '&7&oآلة'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&aآلة التحجير'
+  name: 'آلة التحجير'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&lمعول الثورنيوم الملحمي'
-  name: '&d&lالمعول الملحمي'
+  name: 'المعول الملحمي'
   type:
   - '&7&oأدوات'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&lمعول الثورنيوم الأسطوري'
-  name: '&6&lالمعول الأسطوري'
+  name: 'المعول الأسطوري'
   type:
   - '&7&oأدوات'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&lمعول الثورنيوم السحري'
-  name: '&a&lالمعول السحري'
+  name: 'المعول السحري'
   type:
   - '&7&oأدوات'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&lمعول الثورنيوم النادر'
-  name: '&b&lالمعول النادر'
+  name: 'المعول النادر'
   type:
   - '&7&oأدوات'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&lمعول الثورنيوم الأعظم'
-  name: '&4&lالمعول الأعظم'
+  name: 'المعول الأعظم'
   type:
   - '&7&oأدوات'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&lمعول من الثورنيوم'
-  name: '&f&lمعول الثورنيوم'
+  name: 'معول الثورنيوم'
   type:
   - '&7&oأدوات'
 SUPREME_PLATINUM_PLATE:
-  name: '&aصفيحة بلاتين'
+  name: 'صفيحة بلاتين'
   type:
   - '&7&oمكونات'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&aآلة مانعة للصدأ'
+  name: 'آلة مانعة للصدأ'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&lترس الثورنيوم الملحمي'
-  name: '&d&lالترس الملحمي'
+  name: 'الترس الملحمي'
   type:
   - '&7&oأسلحة'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&lترس الثورنيوم الأسطوري'
-  name: '&6&lالترس الأسطوري'
+  name: 'الترس الأسطوري'
   type:
   - '&7&oأسلحة'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&lترس الثورنيوم السحري'
-  name: '&a&lالترس السحري'
+  name: 'الترس السحري'
   type:
   - '&7&oأسلحة'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&lترس الثورنيوم النادر'
-  name: '&b&lالترس النادر'
+  name: 'الترس النادر'
   type:
   - '&7&oأسلحة'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&lترس الثورنيوم الأعظم'
-  name: '&4&lالترس الأعظم'
+  name: 'الترس الأعظم'
   type:
   - '&7&oأسلحة'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&lترس من الثورنيوم'
-  name: '&f&lترس الثورنيوم'
+  name: 'ترس الثورنيوم'
   type:
   - '&7&oأسلحة'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&lمجرفة الثورنيوم الملحمية'
-  name: '&d&lالمجرفة الملحمية'
+  name: 'المجرفة الملحمية'
   type:
   - '&7&oأدوات'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&lمجرفة الثورنيوم الأسطورية'
-  name: '&6&lالمجرفة الأسطورية'
+  name: 'المجرفة الأسطورية'
   type:
   - '&7&oأدوات'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&lمجرفة الثورنيوم السحرية'
-  name: '&a&lالمجرفة السحرية'
+  name: 'المجرفة السحرية'
   type:
   - '&7&oأدوات'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&lمجرفة الثورنيوم النادرة'
-  name: '&b&lالمجرفة النادرة'
+  name: 'المجرفة النادرة'
   type:
   - '&7&oأدوات'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&lمجرفة الثورنيوم العظمى'
-  name: '&4&lالمجرفة العظمى'
+  name: 'المجرفة العظمى'
   type:
   - '&7&oأدوات'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&lمجرفة من الثورنيوم'
-  name: '&f&lمجرفة الثورنيوم'
+  name: 'مجرفة الثورنيوم'
   type:
   - '&7&oأدوات'
 SUPREME_STAINLESS_MACHINE:
-  name: '&aآلة الفولاذ المقاوم للصدأ'
+  name: 'آلة الفولاذ المقاوم للصدأ'
   type:
   - '&7&oمكونات متقدمة'
 SUPREME_STONE_QUARRY:
-  name: '&eمنجم الحجر'
+  name: 'منجم الحجر'
   stats:
   - '&aآلة متوسطة'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7الأعظم'
-  name: '&aالأعظم'
+  name: 'الأعظم'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9المكثّف الأعظم'
+  name: 'المكثّف الأعظم'
   stats:
   - '&4مكثّف نهاية اللعبة'
   - '&8⇨ &e⚡ &7سعة J لانهائية'
   type:
   - '&7&oآلة'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9المولّد الأعظم'
+  name: 'المولّد الأعظم'
   stats:
   - '&4مولّد نهاية اللعبة'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7من منجم النُتفة العظمى'
-  name: '&aالنُتفة العظمى'
+  name: 'النُتفة العظمى'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&eمنجم النُتف العظمى'
+  name: 'منجم النُتف العظمى'
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&lسيف الثورنيوم الملحمي'
-  name: '&d&lالسيف الملحمي'
+  name: 'السيف الملحمي'
   type:
   - '&7&oأسلحة'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&lسيف الثورنيوم الأسطوري'
-  name: '&6&lالسيف الأسطوري'
+  name: 'السيف الأسطوري'
   type:
   - '&7&oأسلحة'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&lسيف الثورنيوم السحري'
-  name: '&a&lالسيف السحري'
+  name: 'السيف السحري'
   type:
   - '&7&oأسلحة'
 SUPREME_SWORD_RARE:
   description:
   - '&f&lسيف الثورنيوم النادر'
-  name: '&b&lالسيف النادر'
+  name: 'السيف النادر'
   type:
   - '&7&oأسلحة'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&lسيف الثورنيوم الأعظم'
-  name: '&4&lالسيف الأعظم'
+  name: 'السيف الأعظم'
   type:
   - '&7&oأسلحة'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&lسيف من الثورنيوم'
-  name: '&f&lسيف الثورنيوم'
+  name: 'سيف الثورنيوم'
   type:
   - '&7&oأسلحة'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&aجمشت صناعي'
+  name: 'جمشت صناعي'
   type:
   - '&7&oمكونات'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&aياقوت صناعي'
+  name: 'ياقوت صناعي'
   type:
   - '&7&oمكونات'
 SUPREME_TECH_GENERATOR:
   description:
   - '&fباستخدام الطاقة والنحل/الغولم/الزومبي، '
   - '&fيولّد المواد ببطء.'
-  name: '&bمُنتِج تقني'
+  name: 'مُنتِج تقني'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&fاستخدم مُنتِج التحوّل '
   - '&fللتقدّم إلى مستويات أعلى'
-  name: '&bالتحوّل التقني'
+  name: 'التحوّل التقني'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&fاستخدم مُنتِج التحوّل '
   - '&fللتقدّم إلى مستويات أعلى'
   - '&fعامل الفرصة مضروب في 2x'
-  name: '&bالتحوّل التقني II'
+  name: 'التحوّل التقني II'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&fاستخدم مُنتِج التحوّل '
   - '&fللتقدّم إلى مستويات أعلى'
   - '&fعامل الفرصة مضروب في 4x'
-  name: '&bالتحوّل التقني III'
+  name: 'التحوّل التقني III'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&fاستخدم روبوتات المستوى المبتدئ '
   - '&fللتقدّم إلى مستويات أعلى'
   - '&fتحتاج 64x للترقية'
-  name: '&bالروبوت التقني'
+  name: 'الروبوت التقني'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&fاستخدم روبوتات المستوى المبتدئ '
   - '&fللتقدّم إلى مستويات أعلى'
   - '&fتحتاج 32x للترقية'
-  name: '&bالروبوت التقني II'
+  name: 'الروبوت التقني II'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&fاستخدم روبوتات المستوى المبتدئ '
   - '&fللتقدّم إلى مستويات أعلى'
   - '&fتحتاج 16x للترقية'
-  name: '&bالروبوت التقني III'
+  name: 'الروبوت التقني III'
   stats:
   - '&4آلة نهاية اللعبة'
   type:
   - '&7&oآلة'
 SUPREME_THORNERITE:
-  name: '&aثورنيرايت'
+  name: 'ثورنيرايت'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7من منجم الثورنيوم'
-  name: '&aشذرة ثورنيوم'
+  name: 'شذرة ثورنيوم'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7من شذرة الثورنيوم'
-  name: '&aشذرة ثورنيوم صناعية'
+  name: 'شذرة ثورنيوم صناعية'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9مكثّف الثورنيوم'
+  name: 'مكثّف الثورنيوم'
   stats:
   - '&4مكثّف نهاية اللعبة'
   - '&8⇨ &e⚡ &7سعة 100,000,000.00 J'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7من سبيكة الثورنيوم'
-  name: '&aكربونادو الثورنيوم'
+  name: 'كربونادو الثورنيوم'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7من شذرة الثورنيوم'
-  name: '&aغبار الثورنيوم'
+  name: 'غبار الثورنيوم'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7من غبار الثورنيوم'
-  name: '&aغبار ثورنيوم صناعي'
+  name: 'غبار ثورنيوم صناعي'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7من سبيكة الثورنيوم'
-  name: '&aثورنيوم مُشحون'
+  name: 'ثورنيوم مُشحون'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9مولّد الثورنيوم'
+  name: 'مولّد الثورنيوم'
   stats:
   - '&4مولّد نهاية اللعبة'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7من غبار الثورنيوم'
-  name: '&aسبيكة ثورنيوم'
+  name: 'سبيكة ثورنيوم'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7من سبيكة الثورنيوم'
-  name: '&aسبيكة ثورنيوم صناعية'
+  name: 'سبيكة ثورنيوم صناعية'
   type:
   - '&7&oمكونات نهاية اللعبة'
 SUPREME_THORNIUM_QUARRY:
-  name: '&eمنجم الثورنيوم'
+  name: 'منجم الثورنيوم'
   stats:
   - '&6آلة متقدّمة'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&lفأس من التيتانيوم'
-  name: '&f&lفأس التيتانيوم'
+  name: 'فأس التيتانيوم'
   type:
   - '&7&oأدوات'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&lحذاء من التيتانيوم'
-  name: '&f&lحذاء التيتانيوم'
+  name: 'حذاء التيتانيوم'
   type:
   - '&7&oدرع'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9مكثّف التيتانيوم'
+  name: 'مكثّف التيتانيوم'
   stats:
   - '&6مكثّف متقدّم'
   - '&8⇨ &e⚡ &7سعة 4,000,000.00 J'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&lصدرية من التيتانيوم'
-  name: '&f&lصدرية التيتانيوم'
+  name: 'صدرية التيتانيوم'
   type:
   - '&7&oدرع'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&lخوذة من التيتانيوم'
-  name: '&f&lخوذة التيتانيوم'
+  name: 'خوذة التيتانيوم'
   type:
   - '&7&oدرع'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&lبنطال من التيتانيوم'
-  name: '&f&lبنطال التيتانيوم'
+  name: 'بنطال التيتانيوم'
   type:
   - '&7&oدرع'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&lمعول من التيتانيوم'
-  name: '&f&lمعول التيتانيوم'
+  name: 'معول التيتانيوم'
   type:
   - '&7&oأدوات'
 SUPREME_TITANIUM_PLATE:
-  name: '&aصفيحة تيتانيوم'
+  name: 'صفيحة تيتانيوم'
   type:
   - '&7&oمكونات'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&lمجرفة من التيتانيوم'
-  name: '&f&lمجرفة التيتانيوم'
+  name: 'مجرفة التيتانيوم'
   type:
   - '&7&oأدوات'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&lسيف من التيتانيوم'
-  name: '&f&lسيف التيتانيوم'
+  name: 'سيف التيتانيوم'
   type:
   - '&7&oأسلحة'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9مولّد فينتوس'
+  name: 'مولّد فينتوس'
   stats:
   - '&eمولّد أساسي'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&fتسمح لك هذه الآلة بجمع '
   - '&f عناصر تُجمع من البحر.'
-  name: '&bحوض سمك افتراضي'
+  name: 'حوض سمك افتراضي'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&fتسمح لك هذه الآلة بجمع'
   - '&f عناصر تُجمع من البحر.'
-  name: '&bحوض سمك افتراضي II'
+  name: 'حوض سمك افتراضي II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&fتسمح لك هذه الآلة بجمع'
   - '&f عناصر تُجمع من البحر.'
-  name: '&bحوض سمك افتراضي III'
+  name: 'حوض سمك افتراضي III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتزرع بعض الموارد.'
-  name: '&bحديقة افتراضية'
+  name: 'حديقة افتراضية'
   stats:
   - '&6آلة متقدّمة'
   - '&8⇨ &b⚡ &7السرعة: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتزرع بعض الموارد.'
-  name: '&bحديقة افتراضية II'
+  name: 'حديقة افتراضية II'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&fتسمح لك هذه الآلة بأن'
   - '&fتزرع بعض الموارد.'
-  name: '&bحديقة افتراضية III'
+  name: 'حديقة افتراضية III'
   stats:
   - '&4آلة نهاية اللعبة'
   - '&8⇨ &b⚡ &7السرعة: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&oآلة'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&aصفيحة زركونيوم'
+  name: 'صفيحة زركونيوم'
   type:
   - '&7&oمكونات'

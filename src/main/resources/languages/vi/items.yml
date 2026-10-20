@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&fMáy này cho phép bạn thu gom '
   - '&fđầu MobTech từ sinh vật gần đó. (3 khối)'
-  name: '&bBộ thu gom MobTech I'
+  name: 'Bộ thu gom MobTech I'
   type:
   - '&7&oMáy Móc'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&lMột chiếc rìu bằng Adamantium'
-  name: '&f&lRìu Adamantium'
+  name: 'Rìu Adamantium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&lMột đôi giày bằng Adamantium'
-  name: '&f&lGiày Adamantium'
+  name: 'Giày Adamantium'
   type:
   - '&7&oGiáp'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9Tụ điện Adamantium'
+  name: 'Tụ điện Adamantium'
   stats:
   - '&6Tụ điện Nâng cao'
   - '&8⇨ &e⚡ &7Dung lượng 16,000,000.00 J'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&lMột chiếc áo giáp bằng Adamantium'
-  name: '&f&lÁo giáp Adamantium'
+  name: 'Áo giáp Adamantium'
   type:
   - '&7&oGiáp'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&lMột chiếc mũ bằng Adamantium'
-  name: '&f&lMũ Adamantium'
+  name: 'Mũ Adamantium'
   type:
   - '&7&oGiáp'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&lMột chiếc quần giáp bằng Adamantium'
-  name: '&f&lQuần giáp Adamantium'
+  name: 'Quần giáp Adamantium'
   type:
   - '&7&oGiáp'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&lMột chiếc cúp bằng Adamantium'
-  name: '&f&lCúp Adamantium'
+  name: 'Cúp Adamantium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&aTấm Adamantium'
+  name: 'Tấm Adamantium'
   type:
   - '&7&oThành Phần'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&lMột chiếc xẻng bằng Adamantium'
-  name: '&f&lXẻng Adamantium'
+  name: 'Xẻng Adamantium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&lMột thanh kiếm bằng Adamantium'
-  name: '&f&lKiếm Adamantium'
+  name: 'Kiếm Adamantium'
   type:
   - '&7&oVũ Khí'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&aHợp kim Adamantium'
+  name: 'Hợp kim Adamantium'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_AURUM:
-  name: '&aHợp kim Aurum'
+  name: 'Hợp kim Aurum'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&aHợp kim Iridi'
+  name: 'Hợp kim Iridi'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_MANGANESE:
-  name: '&aHợp kim Mangan'
+  name: 'Hợp kim Mangan'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_PLATINUM:
-  name: '&aHợp kim Bạch kim'
+  name: 'Hợp kim Bạch kim'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_TITANIUM:
-  name: '&aHợp kim Titan'
+  name: 'Hợp kim Titan'
   type:
   - '&7&oThành Phần'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&aHợp kim Zirconi'
+  name: 'Hợp kim Zirconi'
   type:
   - '&7&oThành Phần'
 SUPREME_AQUA_GENERATOR:
-  name: '&9Máy phát điện Aqua'
+  name: 'Máy phát điện Aqua'
   stats:
   - '&6Máy phát điện Nâng cao'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7Thuộc tính bom siêu cấp với hiệu ứng đặc biệt'
-  name: '&aThuộc tính Bom'
+  name: 'Thuộc tính Bom'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7Thuộc tính may mắn siêu cấp với hiệu ứng đặc biệt'
-  name: '&aThuộc tính May mắn'
+  name: 'Thuộc tính May mắn'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7Thuộc tính xung lực siêu cấp với hiệu ứng đặc biệt'
-  name: '&aThuộc tính Xung lực'
+  name: 'Thuộc tính Xung lực'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7Thuộc tính ma thuật siêu cấp với hiệu ứng đặc biệt'
-  name: '&aThuộc tính Ma thuật'
+  name: 'Thuộc tính Ma thuật'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_AURUM_AXE:
   description:
   - '&f&lMột chiếc rìu bằng Aurum'
-  name: '&f&lRìu Aurum'
+  name: 'Rìu Aurum'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&lMột đôi giày bằng Aurum'
-  name: '&f&lGiày Aurum'
+  name: 'Giày Aurum'
   type:
   - '&7&oGiáp'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9Tụ điện Aurum'
+  name: 'Tụ điện Aurum'
   stats:
   - '&6Tụ điện Nâng cao'
   - '&8⇨ &e⚡ &7Dung lượng 1,000,000.00 J'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&lMột chiếc áo giáp bằng Aurum'
-  name: '&f&lÁo giáp Aurum'
+  name: 'Áo giáp Aurum'
   type:
   - '&7&oGiáp'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&lMột chiếc mũ bằng Aurum'
-  name: '&f&lMũ Aurum'
+  name: 'Mũ Aurum'
   type:
   - '&7&oGiáp'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&lMột chiếc quần giáp bằng Aurum'
-  name: '&f&lQuần giáp Aurum'
+  name: 'Quần giáp Aurum'
   type:
   - '&7&oGiáp'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&lMột chiếc cúp bằng Aurum'
-  name: '&f&lCúp Aurum'
+  name: 'Cúp Aurum'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AURUM_PLATE:
-  name: '&aTấm Aurum'
+  name: 'Tấm Aurum'
   type:
   - '&7&oThành Phần'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&lMột chiếc xẻng bằng Aurum'
-  name: '&f&lXẻng Aurum'
+  name: 'Xẻng Aurum'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&lMột thanh kiếm bằng Aurum'
-  name: '&f&lKiếm Aurum'
+  name: 'Kiếm Aurum'
   type:
   - '&7&oVũ Khí'
 SUPREME_AXE_EPIC:
   description:
   - '&f&lMột chiếc rìu Sử thi bằng Thornium'
-  name: '&d&lRìu Sử thi'
+  name: 'Rìu Sử thi'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&lMột chiếc rìu Huyền thoại bằng Thornium'
-  name: '&6&lRìu Huyền thoại'
+  name: 'Rìu Huyền thoại'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&lMột chiếc rìu Ma thuật bằng Thornium'
-  name: '&a&lRìu Ma thuật'
+  name: 'Rìu Ma thuật'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AXE_RARE:
   description:
   - '&f&lMột chiếc rìu Hiếm bằng Thornium'
-  name: '&b&lRìu Hiếm'
+  name: 'Rìu Hiếm'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&lMột chiếc rìu Tối thượng bằng Thornium'
-  name: '&4&lRìu Tối thượng'
+  name: 'Rìu Tối thượng'
   type:
   - '&7&oDụng Cụ'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&lMột chiếc rìu bằng Thornium'
-  name: '&f&lRìu Thornium'
+  name: 'Rìu Thornium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9Máy phát điện Aqua Cơ bản'
+  name: 'Máy phát điện Aqua Cơ bản'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9Máy phát điện Ignis Cơ bản'
+  name: 'Máy phát điện Ignis Cơ bản'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9Máy phát điện Lumium Cơ bản'
+  name: 'Máy phát điện Lumium Cơ bản'
   stats:
   - '&6Máy phát điện Nâng cao'
   type:
   - '&7&oMáy Móc'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9Máy phát điện Lux Cơ bản'
+  name: 'Máy phát điện Lux Cơ bản'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9Máy phát điện Ventus Cơ bản'
+  name: 'Máy phát điện Ventus Cơ bản'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_BLEND_MACHINE:
-  name: '&aMáy Trộn'
+  name: 'Máy Trộn'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&lMột đôi giày Sử thi bằng Thornium'
-  name: '&d&lGiày Sử thi'
+  name: 'Giày Sử thi'
   type:
   - '&7&oGiáp'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&lMột đôi giày Huyền thoại bằng Thornium'
-  name: '&6&lGiày Huyền thoại'
+  name: 'Giày Huyền thoại'
   type:
   - '&7&oGiáp'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&lMột đôi giày Ma thuật bằng Thornium'
-  name: '&a&lGiày Ma thuật'
+  name: 'Giày Ma thuật'
   type:
   - '&7&oGiáp'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&lMột đôi giày Hiếm bằng Thornium'
-  name: '&b&lGiày Hiếm'
+  name: 'Giày Hiếm'
   type:
   - '&7&oGiáp'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&lMột đôi giày Tối thượng bằng Thornium'
-  name: '&4&lGiày Tối thượng'
+  name: 'Giày Tối thượng'
   type:
   - '&7&oGiáp'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&lMột đôi giày bằng Thornium'
-  name: '&f&lGiày Thornium'
+  name: 'Giày Thornium'
   type:
   - '&7&oGiáp'
 SUPREME_BOW_EPIC:
   description:
   - '&f&lMột cây cung Sử thi bằng Thornium'
-  name: '&d&lCung Sử thi'
+  name: 'Cung Sử thi'
   type:
   - '&7&oVũ Khí'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&lMột cây cung Huyền thoại bằng Thornium'
-  name: '&6&lCung Huyền thoại'
+  name: 'Cung Huyền thoại'
   type:
   - '&7&oVũ Khí'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&lMột cây cung Ma thuật bằng Thornium'
-  name: '&a&lCung Ma thuật'
+  name: 'Cung Ma thuật'
   type:
   - '&7&oVũ Khí'
 SUPREME_BOW_RARE:
   description:
   - '&f&lMột cây cung Hiếm bằng Thornium'
-  name: '&b&lCung Hiếm'
+  name: 'Cung Hiếm'
   type:
   - '&7&oVũ Khí'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&lMột cây cung Tối thượng bằng Thornium'
-  name: '&4&lCung Tối thượng'
+  name: 'Cung Tối thượng'
   type:
   - '&7&oVũ Khí'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&lMột cây cung bằng Thornium'
-  name: '&f&lCung Thornium'
+  name: 'Cung Thornium'
   type:
   - '&7&oVũ Khí'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fThay đổi sang sản xuất Thỏi Đồng thau Nhôm'
-  name: '&bThẻ Máy: Thỏi Đồng thau Nhôm'
+  name: "Thẻ Máy (Thỏi Đồng thau Nhôm)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fThay đổi sang sản xuất Thỏi Đồng thiếc Nhôm'
-  name: '&bThẻ Máy: Thỏi Đồng thiếc Nhôm'
+  name: "Thẻ Máy (Thỏi Đồng thiếc Nhôm)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Nhôm'
-  name: '&bThẻ Máy: Bột Nhôm'
+  name: "Thẻ Máy (Bột Nhôm)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fThay đổi sang sản xuất Thạch anh tím'
-  name: '&bThẻ Máy: Thạch anh tím'
+  name: "Thẻ Máy (Thạch anh tím)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fThay đổi sang sản xuất Đá Andesit'
-  name: '&bThẻ Máy: Đá Andesit'
+  name: "Thẻ Máy (Đá Andesit)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fThay đổi sang sản xuất Táo'
-  name: '&bThẻ Máy: Táo'
+  name: "Thẻ Máy (Táo)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fThay đổi sang sản xuất Pin'
-  name: '&bThẻ Máy: Pin'
+  name: "Thẻ Máy (Pin)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fThay đổi sang sản xuất Thỏi Billon'
-  name: '&bThẻ Máy: Thỏi Billon'
+  name: "Thẻ Máy (Thỏi Billon)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fThay đổi sang sản xuất Que Blaze'
-  name: '&bThẻ Máy: Que Blaze'
+  name: "Thẻ Máy (Que Blaze)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fThay đổi sang sản xuất Thỏi Đồng thau'
-  name: '&bThẻ Máy: Thỏi Đồng thau'
+  name: "Thẻ Máy (Thỏi Đồng thau)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fThay đổi sang sản xuất Thỏi Đồng thiếc'
-  name: '&bThẻ Máy: Thỏi Đồng thiếc'
+  name: "Thẻ Máy (Thỏi Đồng thiếc)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fThay đổi sang sản xuất Cacbon'
-  name: '&bThẻ Máy: Cacbon'
+  name: "Thẻ Máy (Cacbon)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fThay đổi sang sản xuất Carbonado'
-  name: '&bThẻ Máy: Carbonado'
+  name: "Thẻ Máy (Carbonado)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fThay đổi sang sản xuất Cacbon Nén'
-  name: '&bThẻ Máy: Cacbon Nén'
+  name: "Thẻ Máy (Cacbon Nén)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fThay đổi sang sản xuất Đất sét'
-  name: '&bThẻ Máy: Đất sét'
+  name: "Thẻ Máy (Đất sét)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fThay đổi sang sản xuất Than đá'
-  name: '&bThẻ Máy: Than đá'
+  name: "Thẻ Máy (Than đá)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fThay đổi sang sản xuất Coban'
-  name: '&bThẻ Máy: Coban'
+  name: "Thẻ Máy (Coban)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fThay đổi sang sản xuất Đồng'
-  name: '&bThẻ Máy: Đồng'
+  name: "Thẻ Máy (Đồng)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Đồng'
-  name: '&bThẻ Máy: Bột Đồng'
+  name: "Thẻ Máy (Bột Đồng)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fThay đổi sang sản xuất Thỏi Đồng thiếc Corinth'
-  name: '&bThẻ Máy: Thỏi Đồng thiếc Corinth'
+  name: "Thẻ Máy (Thỏi Đồng thiếc Corinth)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fThay đổi sang sản xuất Damascus'
-  name: '&bThẻ Máy: Damascus'
+  name: "Thẻ Máy (Damascus)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fThay đổi sang sản xuất Kim cương'
-  name: '&bThẻ Máy: Kim cương'
+  name: "Thẻ Máy (Kim cương)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fThay đổi sang sản xuất Đá Diorit'
-  name: '&bThẻ Máy: Đá Diorit'
+  name: "Thẻ Máy (Đá Diorit)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fThay đổi sang sản xuất Thỏi Duralumin'
-  name: '&bThẻ Máy: Thỏi Duralumin'
+  name: "Thẻ Máy (Thỏi Duralumin)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fThay đổi sang sản xuất Động cơ Điện'
-  name: '&bThẻ Máy: Động cơ Điện'
+  name: "Thẻ Máy (Động cơ Điện)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fThay đổi sang sản xuất Nam châm Điện'
-  name: '&bThẻ Máy: Nam châm Điện'
+  name: "Thẻ Máy (Nam châm Điện)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fThay đổi sang sản xuất Ngọc lục bảo'
-  name: '&bThẻ Máy: Ngọc lục bảo'
+  name: "Thẻ Máy (Ngọc lục bảo)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fThay đổi sang sản xuất Đá End'
-  name: '&bThẻ Máy: Đá End'
+  name: "Thẻ Máy (Đá End)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fThay đổi sang sản xuất Ferosilic'
-  name: '&bThẻ Máy: Ferosilic'
+  name: "Thẻ Máy (Ferosilic)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fThay đổi sang sản xuất Túi Mực phát sáng'
-  name: '&bThẻ Máy: Túi Mực phát sáng'
+  name: "Thẻ Máy (Túi Mực phát sáng)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fThay đổi sang sản xuất Vàng'
-  name: '&bThẻ Máy: Vàng'
+  name: "Thẻ Máy (Vàng)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fThay đổi sang sản xuất Vàng 24k'
-  name: '&bThẻ Máy: Vàng 24k'
+  name: "Thẻ Máy (Vàng 24k)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Vàng'
-  name: '&bThẻ Máy: Bột Vàng'
+  name: "Thẻ Máy (Bột Vàng)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fThay đổi sang sản xuất Đá Granit'
-  name: '&bThẻ Máy: Đá Granit'
+  name: "Thẻ Máy (Đá Granit)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fThay đổi sang sản xuất Sỏi'
-  name: '&bThẻ Máy: Sỏi'
+  name: "Thẻ Máy (Sỏi)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fThay đổi sang sản xuất Thỏi Kim loại Cứng hóa'
-  name: '&bThẻ Máy: Thỏi Kim loại Cứng hóa'
+  name: "Thẻ Máy (Thỏi Kim loại Cứng hóa)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fThay đổi sang sản xuất Cuộn Nhiệt'
-  name: '&bThẻ Máy: Cuộn Nhiệt'
+  name: "Thẻ Máy (Cuộn Nhiệt)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fThay đổi sang sản xuất Bình Mật ong'
-  name: '&bThẻ Máy: Bình Mật ong'
+  name: "Thẻ Máy (Bình Mật ong)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fThay đổi sang sản xuất Túi Mực'
-  name: '&bThẻ Máy: Túi Mực'
+  name: "Thẻ Máy (Túi Mực)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fThay đổi sang sản xuất Sắt'
-  name: '&bThẻ Máy: Sắt'
+  name: "Thẻ Máy (Sắt)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Sắt'
-  name: '&bThẻ Máy: Bột Sắt'
+  name: "Thẻ Máy (Bột Sắt)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fThay đổi sang sản xuất Lưu ly'
-  name: '&bThẻ Máy: Lưu ly'
+  name: "Thẻ Máy (Lưu ly)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Chì'
-  name: '&bThẻ Máy: Bột Chì'
+  name: "Thẻ Máy (Bột Chì)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Magie'
-  name: '&bThẻ Máy: Bột Magie'
+  name: "Thẻ Máy (Bột Magie)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fThay đổi sang sản xuất Nam châm'
-  name: '&bThẻ Máy: Nam châm'
+  name: "Thẻ Máy (Nam châm)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fThay đổi sang sản xuất Netherite'
-  name: '&bThẻ Máy: Netherite'
+  name: "Thẻ Máy (Netherite)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fThay đổi sang sản xuất Sao Nether'
-  name: '&bThẻ Máy: Sao Nether'
+  name: "Thẻ Máy (Sao Nether)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fThay đổi sang sản xuất Niken'
-  name: '&bThẻ Máy: Niken'
+  name: "Thẻ Máy (Niken)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fThay đổi sang sản xuất Tấm Nhựa'
-  name: '&bThẻ Máy: Tấm Nhựa'
+  name: "Thẻ Máy (Tấm Nhựa)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fThay đổi sang sản xuất Thạch anh'
-  name: '&bThẻ Máy: Thạch anh'
+  name: "Thẻ Máy (Thạch anh)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fThay đổi sang sản xuất Khối Thạch anh'
-  name: '&bThẻ Máy: Khối Thạch anh'
+  name: "Thẻ Máy (Khối Thạch anh)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fThay đổi sang sản xuất Đá đỏ'
-  name: '&bThẻ Máy: Đá đỏ'
+  name: "Thẻ Máy (Đá đỏ)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fThay đổi sang sản xuất Hợp kim Đá đỏ'
-  name: '&bThẻ Máy: Hợp kim Đá đỏ'
+  name: "Thẻ Máy (Hợp kim Đá đỏ)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fThay đổi sang sản xuất Thỏi Hợp kim Gia cố'
-  name: '&bThẻ Máy: Thỏi Hợp kim Gia cố'
+  name: "Thẻ Máy (Thỏi Hợp kim Gia cố)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fThay đổi sang sản xuất Cát'
-  name: '&bThẻ Máy: Cát'
+  name: "Thẻ Máy (Cát)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fThay đổi sang sản xuất Silic'
-  name: '&bThẻ Máy: Silic'
+  name: "Thẻ Máy (Silic)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Bạc'
-  name: '&bThẻ Máy: Bột Bạc'
+  name: "Thẻ Máy (Bột Bạc)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fThay đổi sang sản xuất Viên Slime'
-  name: '&bThẻ Máy: Viên Slime'
+  name: "Thẻ Máy (Viên Slime)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fThay đổi sang sản xuất Tuyết'
-  name: '&bThẻ Máy: Tuyết'
+  name: "Thẻ Máy (Tuyết)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fThay đổi sang sản xuất Thỏi Thiếc hàn'
-  name: '&bThẻ Máy: Thỏi Thiếc hàn'
+  name: "Thẻ Máy (Thỏi Thiếc hàn)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fThay đổi sang sản xuất Thép'
-  name: '&bThẻ Máy: Thép'
+  name: "Thẻ Máy (Thép)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fThay đổi sang sản xuất Đá'
-  name: '&bThẻ Máy: Đá'
+  name: "Thẻ Máy (Đá)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fThay đổi sang sản xuất Sunfat'
-  name: '&bThẻ Máy: Sunfat'
+  name: "Thẻ Máy (Sunfat)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fThay đổi sang sản xuất Kim cương Tổng hợp'
-  name: '&bThẻ Máy: Kim cương Tổng hợp'
+  name: "Thẻ Máy (Kim cương Tổng hợp)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fThay đổi sang sản xuất Ngọc lục bảo Tổng hợp'
-  name: '&bThẻ Máy: Ngọc lục bảo Tổng hợp'
+  name: "Thẻ Máy (Ngọc lục bảo Tổng hợp)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fThay đổi sang sản xuất Lam ngọc Tổng hợp'
-  name: '&bThẻ Máy: Lam ngọc Tổng hợp'
+  name: "Thẻ Máy (Lam ngọc Tổng hợp)"
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Thiếc'
-  name: '&bThẻ Máy: Bột Thiếc'
+  name: "Thẻ Máy (Bột Thiếc)"
   stats:
   - '&aMáy Trung bình'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fThay đổi sang sản xuất Hoa hồng Wither'
-  name: '&bThẻ Máy: Hoa hồng Wither'
+  name: "Thẻ Máy (Hoa hồng Wither)"
   stats:
   - '&eMáy Cơ bản'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fThay đổi sang sản xuất Bột Kẽm'
-  name: '&bThẻ Máy: Bột Kẽm'
+  name: "Thẻ Máy (Bột Kẽm)"
   stats:
   - '&aMáy Trung bình'
   type:
   - '&7&oThành Phần'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&aMáy Chuyên chở'
+  name: 'Máy Chuyên chở'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&fThành phần cho Máy để sản xuất vật phẩm'
-  name: '&aThành phần Nâng cao cho Thẻ'
+  name: 'Thành phần Nâng cao cho Thẻ'
   type:
   - '&7&oThành Phần'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&fThành phần cho Máy để sản xuất vật phẩm'
-  name: '&aThành phần Cơ bản cho Thẻ'
+  name: 'Thành phần Cơ bản cho Thẻ'
   type:
   - '&7&oThành Phần'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&fThành phần cho Máy để sản xuất vật phẩm'
-  name: '&aThành phần Tối hậu cho Thẻ'
+  name: 'Thành phần Tối hậu cho Thẻ'
   type:
   - '&7&oThành Phần'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7Trượng Aqua siêu cấp'
-  name: '&aCetrus Aqua'
+  name: 'Cetrus Aqua'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7Trượng Ignis siêu cấp'
-  name: '&aCetrus Ignis'
+  name: 'Cetrus Ignis'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7Trượng Lumium siêu cấp'
-  name: '&aCetrus Lumium'
+  name: 'Cetrus Lumium'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CETRUS_LUX:
   description:
   - '&7Trượng Lux siêu cấp'
-  name: '&aCetrus Lux'
+  name: 'Cetrus Lux'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7Trượng Ventus siêu cấp'
-  name: '&aCetrus Ventus'
+  name: 'Cetrus Ventus'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&fKiểm tra xem hòm gần đó có vật phẩm lọc hay không'
   - '&fmọi mặt đều được xét đến (tìm thấy cái đầu tiên)'
   - '&fnếu tìm thấy, khối này sẽ phát sáng'
-  name: '&bKiểm tra Túi đồ'
+  name: "Bộ Kiểm tra Túi đồ"
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&lMột chiếc áo giáp Sử thi bằng Thornium'
-  name: '&d&lÁo giáp Sử thi'
+  name: 'Áo giáp Sử thi'
   type:
   - '&7&oGiáp'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&lMột chiếc áo giáp Huyền thoại bằng Thornium'
-  name: '&6&lÁo giáp Huyền thoại'
+  name: 'Áo giáp Huyền thoại'
   type:
   - '&7&oGiáp'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&lMột chiếc áo giáp Ma thuật bằng Thornium'
-  name: '&a&lÁo giáp Ma thuật'
+  name: 'Áo giáp Ma thuật'
   type:
   - '&7&oGiáp'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&lMột chiếc áo giáp Hiếm bằng Thornium'
-  name: '&b&lÁo giáp Hiếm'
+  name: 'Áo giáp Hiếm'
   type:
   - '&7&oGiáp'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&lMột chiếc áo giáp Tối thượng bằng Thornium'
-  name: '&4&lÁo giáp Tối thượng'
+  name: 'Áo giáp Tối thượng'
   type:
   - '&7&oGiáp'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&lMột chiếc áo giáp bằng Thornium'
-  name: '&f&lÁo giáp Thornium'
+  name: 'Áo giáp Thornium'
   type:
   - '&7&oGiáp'
 SUPREME_COAL_QUARRY:
-  name: '&eMỏ Than đá'
+  name: 'Mỏ Than đá'
   stats:
   - '&6Máy Nâng cao'
   type:
   - '&7&oMáy Móc'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&aMáy Vận chuyển'
+  name: 'Máy Vận chuyển'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7Gỗ Keo siêu cấp'
-  name: '&aGỗ Keo Tối thượng'
+  name: 'Gỗ Keo Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7Đá Andesit siêu cấp'
-  name: '&aĐá Andesit Tối thượng'
+  name: 'Đá Andesit Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_APPLE:
   description:
   - '&7Táo siêu cấp'
-  name: '&aTáo Tối thượng'
+  name: 'Táo Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_BEEF:
   description:
   - '&7Thịt bò siêu cấp'
-  name: '&aThịt bò Tối thượng'
+  name: 'Thịt bò Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7Củ dền siêu cấp'
-  name: '&aCủ dền Tối thượng'
+  name: 'Củ dền Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7Gỗ Bạch dương siêu cấp'
-  name: '&aGỗ Bạch dương Tối thượng'
+  name: 'Gỗ Bạch dương Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_BLACK:
   description:
   - '&7Màu đen siêu cấp'
-  name: '&aMàu đen Tối thượng'
+  name: 'Màu đen Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_BLUE:
   description:
   - '&7Màu xanh dương siêu cấp'
-  name: '&aMàu xanh dương Tối thượng'
+  name: 'Màu xanh dương Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_CARROT:
   description:
   - '&7Một củ cà rốt Tối thượng'
-  name: '&aCà rốt Tối thượng'
+  name: 'Cà rốt Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7Thịt gà siêu cấp'
-  name: '&aThịt gà Tối thượng'
+  name: 'Thịt gà Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_CLAY:
   description:
   - '&7Đất sét siêu cấp'
-  name: '&aĐất sét Tối thượng'
+  name: 'Đất sét Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_COAL:
   description:
   - '&7Than đá siêu cấp'
-  name: '&aThan đá Tối thượng'
+  name: 'Than đá Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_COD:
   description:
   - '&7Cá tuyết siêu cấp'
-  name: '&aCá tuyết Tối thượng'
+  name: 'Cá tuyết Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7Gỗ Đỏ thẫm siêu cấp'
-  name: '&aThân Đỏ thẫm Tối thượng'
+  name: 'Thân Đỏ thẫm Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_CYAN:
   description:
   - '&7Màu xanh lơ siêu cấp'
-  name: '&aMàu xanh lơ Tối thượng'
+  name: 'Màu xanh lơ Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7Gỗ Sồi đen siêu cấp'
-  name: '&aGỗ Sồi đen Tối thượng'
+  name: 'Gỗ Sồi đen Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7Kim cương siêu cấp'
-  name: '&aKim cương Tối thượng'
+  name: 'Kim cương Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_DIORITE:
   description:
   - '&7Đá Diorit siêu cấp'
-  name: '&aĐá Diorit Tối thượng'
+  name: 'Đá Diorit Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_EMERALD:
   description:
   - '&7Ngọc lục bảo siêu cấp'
-  name: '&aNgọc lục bảo Tối thượng'
+  name: 'Ngọc lục bảo Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7Đá End siêu cấp'
-  name: '&aĐá End Tối thượng'
+  name: 'Đá End Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_GOLD:
   description:
   - '&7Vàng siêu cấp'
-  name: '&aVàng Tối thượng'
+  name: 'Vàng Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_GRANITE:
   description:
   - '&7Đá Granit siêu cấp'
-  name: '&aĐá Granit Tối thượng'
+  name: 'Đá Granit Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7Sỏi siêu cấp'
-  name: '&aSỏi Tối thượng'
+  name: 'Sỏi Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_GRAY:
   description:
   - '&7Màu xám siêu cấp'
-  name: '&aMàu xám Tối thượng'
+  name: 'Màu xám Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_GREEN:
   description:
   - '&7Màu xanh lá siêu cấp'
-  name: '&aMàu xanh lá Tối thượng'
+  name: 'Màu xanh lá Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_IRON:
   description:
   - '&7Sắt siêu cấp'
-  name: '&aSắt Tối thượng'
+  name: 'Sắt Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7Gỗ Rừng rậm siêu cấp'
-  name: '&aGỗ Rừng rậm Tối thượng'
+  name: 'Gỗ Rừng rậm Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_LAPIS:
   description:
   - '&7Lưu ly siêu cấp'
-  name: '&aLưu ly Tối thượng'
+  name: 'Lưu ly Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_MELON:
   description:
   - '&7Dưa hấu siêu cấp'
-  name: '&aDưa hấu Tối thượng'
+  name: 'Dưa hấu Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_MUTTON:
   description:
   - '&7Thịt cừu siêu cấp'
-  name: '&aThịt cừu Tối thượng'
+  name: 'Thịt cừu Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7Netherite siêu cấp'
-  name: '&aNetherite Tối thượng'
+  name: 'Netherite Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7Gỗ Sồi siêu cấp'
-  name: '&aGỗ Sồi Tối thượng'
+  name: 'Gỗ Sồi Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7Lõi này chứa nhiều loại quặng'
   - '&7đã được thu thập khắp thế giới.'
-  name: '&aLõi Hợp kim'
+  name: 'Lõi Hợp kim'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7Lõi này chứa nhiều loại khối'
   - '&7đã được thu thập khắp thế giới.'
-  name: '&aLõi Khối'
+  name: 'Lõi Khối'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7Lõi này chứa nhiều màu sắc'
   - '&7đã được thu thập khắp thế giới.'
-  name: '&aLõi Màu sắc'
+  name: 'Lõi Màu sắc'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7Lõi này chứa linh hồn của '
   - '&7nhiều thực thể đã sang thế giới bên kia.'
-  name: '&aLõi Tử thần'
+  name: 'Lõi Tử thần'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7Lõi này chứa những mảnh sinh mệnh'
   - '&7đã được thế giới thu thập.'
-  name: '&aLõi Sinh mệnh'
+  name: 'Lõi Sinh mệnh'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7Lõi này chứa nhiều thứ thuộc tự nhiên'
   - '&7đã được thu thập khắp thế giới.'
-  name: '&aLõi Tự nhiên'
+  name: 'Lõi Tự nhiên'
   type:
   - '&7&oThành Phần Ma Thuật'
 SUPREME_CORE_PINK:
   description:
   - '&7Màu hồng siêu cấp'
-  name: '&aMàu hồng Tối thượng'
+  name: 'Màu hồng Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7Thịt xông khói siêu cấp'
-  name: '&aThịt xông khói Tối thượng'
+  name: "Sườn Heo Tối thượng"
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_POTATO:
   description:
   - '&7Khoai tây siêu cấp'
-  name: '&aKhoai tây Tối thượng'
+  name: 'Khoai tây Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7Bí ngô siêu cấp'
-  name: '&aBí ngô Tối thượng'
+  name: 'Bí ngô Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_PURPLE:
   description:
   - '&7Màu tím siêu cấp'
-  name: '&aMàu tím Tối thượng'
+  name: 'Màu tím Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7Thạch anh siêu cấp'
-  name: '&aThạch anh Tối thượng'
+  name: 'Thạch anh Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_RED:
   description:
   - '&7Màu đỏ siêu cấp'
-  name: '&aMàu đỏ Tối thượng'
+  name: 'Màu đỏ Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7Đá đỏ siêu cấp'
-  name: '&aĐá đỏ Tối thượng'
+  name: 'Đá đỏ Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SALMON:
   description:
   - '&7Cá hồi siêu cấp'
-  name: '&aCá hồi Tối thượng'
+  name: 'Cá hồi Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SAND:
   description:
   - '&7Cát siêu cấp'
-  name: '&aCát Tối thượng'
+  name: 'Cát Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SNOW:
   description:
   - '&7Tuyết siêu cấp'
-  name: '&aTuyết Tối thượng'
+  name: 'Tuyết Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7Mắt siêu cấp'
-  name: '&aMắt Tối thượng'
+  name: "Mắt Nhện Tối thượng"
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7Gỗ Thông siêu cấp'
-  name: '&aGỗ Thông Tối thượng'
+  name: 'Gỗ Thông Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_STONE:
   description:
   - '&7Đá cuội siêu cấp'
-  name: '&aĐá cuội Tối thượng'
+  name: 'Đá cuội Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_STRING:
   description:
   - '&7Dây dắt siêu cấp'
-  name: '&aDây dắt Tối thượng'
+  name: "Sợi Chỉ Tối thượng"
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7Mía siêu cấp'
-  name: '&aMía Tối thượng'
+  name: 'Mía Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7Quả mọng siêu cấp'
-  name: '&aQuả mọng ngọt Tối thượng'
+  name: 'Quả mọng ngọt Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_TEAR:
   description:
   - '&7Nước mắt siêu cấp'
-  name: '&aNước mắt Tối thượng'
+  name: "Nước mắt Ghast Tối thượng"
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7Gỗ Vẹo siêu cấp'
-  name: '&aThân Vẹo Tối thượng'
+  name: 'Thân Vẹo Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_WHEAT:
   description:
   - '&7Lúa mì siêu cấp'
-  name: '&aLúa mì Tối thượng'
+  name: 'Lúa mì Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7Hoa hồng siêu cấp'
-  name: '&aHoa hồng Wither Tối thượng'
+  name: 'Hoa hồng Wither Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CORE_YELLOW:
   description:
   - '&7Màu vàng siêu cấp'
-  name: '&aMàu vàng Tối thượng'
+  name: 'Màu vàng Tối thượng'
   type:
   - '&7&oThành Phần Cốt Lõi'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&aMáy Kết tinh'
+  name: 'Máy Kết tinh'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_DIAMOND_QUARRY:
-  name: '&eMỏ Kim cương'
+  name: 'Mỏ Kim cương'
   stats:
   - '&6Máy Nâng cao'
   type:
   - '&7&oMáy Móc'
 SUPREME_DUST_AMETHYST:
-  name: '&aBột Thạch anh tím'
+  name: 'Bột Thạch anh tím'
   type:
   - '&7&oThành Phần'
 SUPREME_DUST_GLOW_INK:
-  name: '&aBột Mực phát sáng'
+  name: 'Bột Mực phát sáng'
   type:
   - '&7&oThành Phần'
 SUPREME_DUST_NETHERITE:
-  name: '&aBột Netherite'
+  name: 'Bột Netherite'
   type:
   - '&7&oThành Phần'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&fChế tạo tài nguyên lõi'
-  name: '&bMáy Lõi Điện'
+  name: 'Máy Lõi Điện'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&fChế tạo tài nguyên lõi nâng cao'
-  name: '&bMáy Lõi Điện II'
+  name: 'Máy Lõi Điện II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&fChế tạo tài nguyên lõi nâng cao'
-  name: '&bMáy Lõi Điện III'
+  name: 'Máy Lõi Điện III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&fChế tạo Vật phẩm'
-  name: '&bMáy chế tạo Điện'
+  name: 'Máy chế tạo Điện'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&fChế tạo Vật phẩm Nâng cao'
-  name: '&bMáy chế tạo Điện II'
+  name: 'Máy chế tạo Điện II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&fChế tạo Vật phẩm Nâng cao'
-  name: '&bMáy chế tạo Điện III'
+  name: 'Máy chế tạo Điện III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&fChế tạo bậc trang bị'
-  name: '&bMáy Trang bị Điện'
+  name: 'Máy Trang bị Điện'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&fChế tạo bậc trang bị nâng cao'
-  name: '&bMáy Trang bị Điện II'
+  name: 'Máy Trang bị Điện II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&fChế tạo bậc trang bị nâng cao'
-  name: '&bMáy Trang bị Điện III'
+  name: 'Máy Trang bị Điện III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
   type:
   - '&7&oMáy Móc'
 SUPREME_ELECTRIC_ITEM:
-  name: Vật phẩm Điện
+  name: "Điện"
   type:
   - '&7&oLinh Tinh'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&fChế tạo tài nguyên phép thuật'
-  name: '&bMáy Phép thuật Điện'
+  name: 'Máy Phép thuật Điện'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&fChế tạo tài nguyên phép thuật nâng cao'
-  name: '&bMáy Phép thuật Điện II'
+  name: 'Máy Phép thuật Điện II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&fChế tạo tài nguyên phép thuật nâng cao'
-  name: '&bMáy Phép thuật Điện III'
+  name: 'Máy Phép thuật Điện III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
   type:
   - '&7&oMáy Móc'
 SUPREME_EMPTY_MOBTECH:
-  name: '&aMobTech Rỗng'
+  name: 'MobTech Rỗng'
   type:
   - '&7&oThành Phần'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên thỏi.'
-  name: '&bLò rèn Thỏi'
+  name: 'Lò rèn Thỏi'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên thỏi.'
-  name: '&bLò rèn Thỏi II'
+  name: 'Lò rèn Thỏi II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên thỏi.'
-  name: '&bLò rèn Thỏi III'
+  name: 'Lò rèn Thỏi III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên phép thuật.'
-  name: '&bLò rèn Phép thuật'
+  name: 'Lò rèn Phép thuật'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên phép thuật.'
-  name: '&bLò rèn Phép thuật II'
+  name: 'Lò rèn Phép thuật II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&fMáy này cho phép bạn'
   - '&frèn tài nguyên phép thuật.'
-  name: '&bLò rèn Phép thuật III'
+  name: 'Lò rèn Phép thuật III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&fVật phẩm Lò luyện và Máy tổng hợp'
-  name: '&bLò luyện'
+  name: 'Lò luyện'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&fVật phẩm Lò luyện và Máy tổng hợp Nâng cao'
-  name: '&bLò luyện II'
+  name: 'Lò luyện II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&fVật phẩm Lò luyện và Máy tổng hợp Nâng cao'
-  name: '&bLò luyện III'
+  name: 'Lò luyện III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
   type:
   - '&7&oMáy Móc'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&bMáy phát điện Sinh vật Nâng cao'
+  name: 'Máy phát điện Sinh vật Nâng cao'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&bMáy phát điện Sinh vật Cơ bản'
+  name: 'Máy phát điện Sinh vật Cơ bản'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&bMáy phát điện Sinh vật Trung bình'
+  name: 'Máy phát điện Sinh vật Trung bình'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
   - '&7&oMáy Móc'
 SUPREME_GENE_BERSERK:
-  name: '&aGen Điên loạn'
+  name: 'Gen Điên loạn'
   type:
   - '&7&oThành Phần'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&fGen Trí tuệ'
+  name: 'Gen Trí tuệ'
   type:
   - '&7&oThành Phần'
 SUPREME_GENE_LUCK:
-  name: '&aGen May mắn'
+  name: 'Gen May mắn'
   type:
   - '&7&oThành Phần'
 SUPREME_GOLD_QUARRY:
-  name: '&eMỏ Vàng'
+  name: 'Mỏ Vàng'
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&lMột chiếc mũ Sử thi bằng Thornium'
-  name: '&d&lMũ Sử thi'
+  name: 'Mũ Sử thi'
   type:
   - '&7&oGiáp'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&lMột chiếc mũ Huyền thoại bằng Thornium'
-  name: '&6&lMũ Huyền thoại'
+  name: 'Mũ Huyền thoại'
   type:
   - '&7&oGiáp'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&lMột chiếc mũ Ma thuật bằng Thornium'
-  name: '&a&lMũ Ma thuật'
+  name: 'Mũ Ma thuật'
   type:
   - '&7&oGiáp'
 SUPREME_HELMET_RARE:
   description:
   - '&f&lMột chiếc mũ Hiếm bằng Thornium'
-  name: '&b&lMũ Hiếm'
+  name: 'Mũ Hiếm'
   type:
   - '&7&oGiáp'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&lMột chiếc mũ Tối thượng bằng Thornium'
-  name: '&4&lMũ Tối thượng'
+  name: 'Mũ Tối thượng'
   type:
   - '&7&oGiáp'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&lMột chiếc mũ bằng Thornium'
-  name: '&f&lMũ Thornium'
+  name: 'Mũ Thornium'
   type:
   - '&7&oGiáp'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9Máy phát điện Ignis'
+  name: 'Máy phát điện Ignis'
   stats:
   - '&6Máy phát điện Nâng cao'
   type:
   - '&7&oMáy Móc'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&aMáy Cảm ứng'
+  name: 'Máy Cảm ứng'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&aMáy Cuộn cảm'
+  name: 'Máy Cuộn cảm'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_IRIDIUM_PLATE:
-  name: '&aTấm Iridi'
+  name: 'Tấm Iridi'
   type:
   - '&7&oThành Phần'
 SUPREME_IRON_QUARRY:
-  name: '&eMỏ Sắt'
+  name: 'Mỏ Sắt'
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&lMột chiếc quần giáp Sử thi bằng Thornium'
-  name: '&d&lQuần giáp Sử thi'
+  name: 'Quần giáp Sử thi'
   type:
   - '&7&oGiáp'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&lMột chiếc quần giáp Huyền thoại bằng Thornium'
-  name: '&6&lQuần giáp Huyền thoại'
+  name: 'Quần giáp Huyền thoại'
   type:
   - '&7&oGiáp'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&lMột chiếc quần giáp Ma thuật bằng Thornium'
-  name: '&a&lQuần giáp Ma thuật'
+  name: 'Quần giáp Ma thuật'
   type:
   - '&7&oGiáp'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&lMột chiếc quần giáp Hiếm bằng Thornium'
-  name: '&b&lQuần giáp Hiếm'
+  name: 'Quần giáp Hiếm'
   type:
   - '&7&oGiáp'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&lMột chiếc quần giáp Tối thượng bằng Thornium'
-  name: '&4&lQuần giáp Tối thượng'
+  name: 'Quần giáp Tối thượng'
   type:
   - '&7&oGiáp'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&lMột chiếc quần giáp bằng Thornium'
-  name: '&f&lQuần giáp Thornium'
+  name: 'Quần giáp Thornium'
   type:
   - '&7&oGiáp'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9Máy phát điện Lumium'
+  name: 'Máy phát điện Lumium'
   stats:
   - '&6Máy phát điện Nâng cao'
   type:
   - '&7&oMáy Móc'
 SUPREME_LUX_GENERATOR:
-  name: '&9Máy phát điện Lux'
+  name: 'Máy phát điện Lux'
   stats:
   - '&6Máy phát điện Nâng cao'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&fChế tạo Phù văn và Vật phẩm Phép thuật'
-  name: '&bBàn thờ Ma thuật'
+  name: 'Bàn thờ Ma thuật'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&fChế tạo Phù văn và Vật phẩm Phép thuật Nâng cao'
-  name: '&bBàn thờ Ma thuật II'
+  name: 'Bàn thờ Ma thuật II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&fChế tạo Phù văn và Vật phẩm Phép thuật Nâng cao'
-  name: '&bBàn thờ Ma thuật III'
+  name: 'Bàn thờ Ma thuật III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
   type:
   - '&7&oMáy Móc'
 SUPREME_MAIN_ITEM:
-  name: Vật phẩm chính
+  name: "Supreme"
   type:
   - '&7&oLinh Tinh'
 SUPREME_MANGANESE_PLATE:
-  name: '&aTấm Mangan'
+  name: 'Tấm Mangan'
   type:
   - '&7&oThành Phần'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&fMáy này cho phép bạn thu gom '
   - '&fvật phẩm từ sinh vật gần đó. (4 khối)'
-  name: '&bBộ thu gom Sinh vật'
+  name: 'Bộ thu gom Sinh vật'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&fMáy này cho phép bạn thu gom'
   - '&f vật phẩm từ sinh vật gần đó. (8 khối)'
-  name: '&bBộ thu gom Sinh vật II'
+  name: 'Bộ thu gom Sinh vật II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&fMáy này cho phép bạn thu gom'
   - '&f vật phẩm từ sinh vật gần đó. (16 khối)'
-  name: '&bBộ thu gom Sinh vật III'
+  name: 'Bộ thu gom Sinh vật III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&oMáy Móc'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6Bộ thu gom MobTech I'
+  name: "Bộ thu gom MobTech I (Công cụ)"
   stats:
   - '&8⇨ &e⚡ &750 J mỗi lần dùng'
   type:
   - '&7&oDụng Cụ'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6Bộ thu gom MobTech II'
+  name: "Bộ thu gom MobTech II (Công cụ)"
   stats:
   - '&8⇨ &e⚡ &750 J mỗi lần dùng'
   type:
   - '&7&oDụng Cụ'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6Bộ thu gom MobTech III'
+  name: "Bộ thu gom MobTech III (Công cụ)"
   stats:
   - '&8⇨ &e⚡ &750 J mỗi lần dùng'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&fMáy này cho phép bạn thu gom '
   - '&fđầu MobTech từ sinh vật gần đó. (6 khối)'
-  name: '&bBộ thu gom MobTech II'
+  name: 'Bộ thu gom MobTech II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&fMáy này cho phép bạn thu gom '
   - '&fđầu MobTech từ sinh vật gần đó. (9 khối)'
-  name: '&bBộ thu gom MobTech III'
+  name: 'Bộ thu gom MobTech III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&oBạn có thể chế tạo lõi ở đây!'
   - '&aMáy Đa khối'
-  name: '&eMáy chế tác Lõi'
+  name: 'Máy chế tác Lõi'
   type:
   - '&7&oMáy Móc'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&oBạn có thể chế tạo vũ khí, giáp và công cụ ở đây!'
   - '&aMáy Đa khối'
-  name: '&eMáy chế tác Trang bị'
+  name: 'Máy chế tác Trang bị'
   type:
   - '&7&oMáy Móc'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&oBạn có thể chế tạo đồ phép thuật ở đây!'
   - '&aMáy Đa khối'
-  name: '&eMáy chế tác Phép thuật'
+  name: 'Máy chế tác Phép thuật'
   type:
   - '&7&oMáy Móc'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&aMáy Hóa đá'
+  name: 'Máy Hóa đá'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&lMột chiếc cúp Sử thi bằng Thornium'
-  name: '&d&lCúp Sử thi'
+  name: 'Cúp Sử thi'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&lMột chiếc cúp Huyền thoại bằng Thornium'
-  name: '&6&lCúp Huyền thoại'
+  name: 'Cúp Huyền thoại'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&lMột chiếc cúp Ma thuật bằng Thornium'
-  name: '&a&lCúp Ma thuật'
+  name: 'Cúp Ma thuật'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&lMột chiếc cúp Hiếm bằng Thornium'
-  name: '&b&lCúp Hiếm'
+  name: 'Cúp Hiếm'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&lMột chiếc cúp Tối thượng bằng Thornium'
-  name: '&4&lCúp Tối thượng'
+  name: 'Cúp Tối thượng'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&lMột chiếc cúp bằng Thornium'
-  name: '&f&lCúp Thornium'
+  name: 'Cúp Thornium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_PLATINUM_PLATE:
-  name: '&aTấm Bạch kim'
+  name: 'Tấm Bạch kim'
   type:
   - '&7&oThành Phần'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&aMáy Khử gỉ'
+  name: 'Máy Khử gỉ'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&lMột chiếc khiên Sử thi bằng Thornium'
-  name: '&d&lKhiên Sử thi'
+  name: 'Khiên Sử thi'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&lMột chiếc khiên Huyền thoại bằng Thornium'
-  name: '&6&lKhiên Huyền thoại'
+  name: 'Khiên Huyền thoại'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&lMột chiếc khiên Ma thuật bằng Thornium'
-  name: '&a&lKhiên Ma thuật'
+  name: 'Khiên Ma thuật'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&lMột chiếc khiên Hiếm bằng Thornium'
-  name: '&b&lKhiên Hiếm'
+  name: 'Khiên Hiếm'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&lMột chiếc khiên Tối thượng bằng Thornium'
-  name: '&4&lKhiên Tối thượng'
+  name: 'Khiên Tối thượng'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&lMột chiếc khiên bằng Thornium'
-  name: '&f&lKhiên Thornium'
+  name: 'Khiên Thornium'
   type:
   - '&7&oVũ Khí'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&lMột chiếc xẻng Sử thi bằng Thornium'
-  name: '&d&lXẻng Sử thi'
+  name: 'Xẻng Sử thi'
   type:
   - '&7&oDụng Cụ'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&lMột chiếc xẻng Huyền thoại bằng Thornium'
-  name: '&6&lXẻng Huyền thoại'
+  name: 'Xẻng Huyền thoại'
   type:
   - '&7&oDụng Cụ'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&lMột chiếc xẻng Ma thuật bằng Thornium'
-  name: '&a&lXẻng Ma thuật'
+  name: 'Xẻng Ma thuật'
   type:
   - '&7&oDụng Cụ'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&lMột chiếc xẻng Hiếm bằng Thornium'
-  name: '&b&lXẻng Hiếm'
+  name: 'Xẻng Hiếm'
   type:
   - '&7&oDụng Cụ'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&lMột chiếc xẻng Tối thượng bằng Thornium'
-  name: '&4&lXẻng Tối thượng'
+  name: 'Xẻng Tối thượng'
   type:
   - '&7&oDụng Cụ'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&lMột chiếc xẻng bằng Thornium'
-  name: '&f&lXẻng Thornium'
+  name: 'Xẻng Thornium'
   type:
   - '&7&oDụng Cụ'
 SUPREME_STAINLESS_MACHINE:
-  name: '&aMáy Không gỉ'
+  name: 'Máy Không gỉ'
   type:
   - '&7&oThành Phần Nâng Cao'
 SUPREME_STONE_QUARRY:
-  name: '&eMỏ Đá'
+  name: 'Mỏ Đá'
   stats:
   - '&aMáy Trung bình'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7Vật Tối thượng'
-  name: '&aTối thượng'
+  name: 'Tối thượng'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9Tụ điện Tối thượng'
+  name: 'Tụ điện Tối thượng'
   stats:
   - '&4Tụ điện Hậu kỳ'
   - '&8⇨ &e⚡ &7Dung lượng vô hạn J'
   type:
   - '&7&oMáy Móc'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9Máy phát điện Tối thượng'
+  name: 'Máy phát điện Tối thượng'
   stats:
   - '&4Máy phát điện Hậu kỳ'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7Từ Mỏ Cục Tối thượng'
-  name: '&aCục Tối thượng'
+  name: 'Cục Tối thượng'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&eMỏ Cục Tối thượng'
+  name: 'Mỏ Cục Tối thượng'
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&lMột thanh kiếm Sử thi bằng Thornium'
-  name: '&d&lKiếm Sử thi'
+  name: 'Kiếm Sử thi'
   type:
   - '&7&oVũ Khí'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&lMột thanh kiếm Huyền thoại bằng Thornium'
-  name: '&6&lKiếm Huyền thoại'
+  name: 'Kiếm Huyền thoại'
   type:
   - '&7&oVũ Khí'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&lMột thanh kiếm Ma thuật bằng Thornium'
-  name: '&a&lKiếm Ma thuật'
+  name: 'Kiếm Ma thuật'
   type:
   - '&7&oVũ Khí'
 SUPREME_SWORD_RARE:
   description:
   - '&f&lMột thanh kiếm Hiếm bằng Thornium'
-  name: '&b&lKiếm Hiếm'
+  name: 'Kiếm Hiếm'
   type:
   - '&7&oVũ Khí'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&lMột thanh kiếm Tối thượng bằng Thornium'
-  name: '&4&lKiếm Tối thượng'
+  name: 'Kiếm Tối thượng'
   type:
   - '&7&oVũ Khí'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&lMột thanh kiếm bằng Thornium'
-  name: '&f&lKiếm Thornium'
+  name: 'Kiếm Thornium'
   type:
   - '&7&oVũ Khí'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&aThạch anh tím Tổng hợp'
+  name: 'Thạch anh tím Tổng hợp'
   type:
   - '&7&oThành Phần'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&aHồng ngọc Tổng hợp'
+  name: 'Hồng ngọc Tổng hợp'
   type:
   - '&7&oThành Phần'
 SUPREME_TECH_GENERATOR:
   description:
   - '&fSử dụng điện năng và ong/golem/zombie, '
   - '&ftừ từ tạo ra nguyên liệu.'
-  name: '&bMáy phát điện Công nghệ'
+  name: 'Máy phát điện Công nghệ'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&fDùng máy phát đột biến '
   - '&fđể tiến lên cấp cao hơn'
-  name: '&bĐột biến Công nghệ'
+  name: 'Đột biến Công nghệ'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&fDùng máy phát đột biến '
   - '&fđể tiến lên cấp cao hơn'
   - '&fHệ số cơ hội nhân 2x'
-  name: '&bĐột biến Công nghệ II'
+  name: 'Đột biến Công nghệ II'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&fDùng máy phát đột biến '
   - '&fđể tiến lên cấp cao hơn'
   - '&fHệ số cơ hội nhân 4x'
-  name: '&bĐột biến Công nghệ III'
+  name: 'Đột biến Công nghệ III'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&fDùng robot cấp sơ cấp '
   - '&fđể tiến lên cấp cao hơn'
   - '&fcần 64x để nâng cấp'
-  name: '&bRobot Công nghệ'
+  name: 'Robot Công nghệ'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&fDùng robot cấp sơ cấp '
   - '&fđể tiến lên cấp cao hơn'
   - '&fcần 32x để nâng cấp'
-  name: '&bRobot Công nghệ II'
+  name: 'Robot Công nghệ II'
   stats:
   - '&4Máy Hậu kỳ'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&fDùng robot cấp sơ cấp '
   - '&fđể tiến lên cấp cao hơn'
   - '&fcần 16x để nâng cấp'
-  name: '&bRobot Công nghệ III'
+  name: 'Robot Công nghệ III'
   stats:
   - '&4Máy Hậu kỳ'
   type:
   - '&7&oMáy Móc'
 SUPREME_THORNERITE:
-  name: '&aThornerite'
+  name: 'Thornerite'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7Từ Mỏ Thornium'
-  name: '&aMảnh Thornium'
+  name: 'Mảnh Thornium'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7Từ Mảnh Thornium'
-  name: '&aMảnh Thornium Tổng hợp'
+  name: 'Mảnh Thornium Tổng hợp'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9Tụ điện Thornium'
+  name: 'Tụ điện Thornium'
   stats:
   - '&4Tụ điện Hậu kỳ'
   - '&8⇨ &e⚡ &7Dung lượng 100,000,000.00 J'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7Từ Thỏi Thornium'
-  name: '&aCarbonado Thornium'
+  name: 'Carbonado Thornium'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7Từ Mảnh Thornium'
-  name: '&aBột Thornium'
+  name: 'Bột Thornium'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7Từ Bột Thornium'
-  name: '&aBột Thornium Tổng hợp'
+  name: 'Bột Thornium Tổng hợp'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7Từ Thỏi Thornium'
-  name: '&aThornium Tích điện'
+  name: 'Thornium Tích điện'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9Máy phát điện Thornium'
+  name: 'Máy phát điện Thornium'
   stats:
   - '&4Máy phát điện Hậu kỳ'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7Từ Bột Thornium'
-  name: '&aThỏi Thornium'
+  name: 'Thỏi Thornium'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7Từ Thỏi Thornium'
-  name: '&aThỏi Thornium Tổng hợp'
+  name: 'Thỏi Thornium Tổng hợp'
   type:
   - '&7&oThành Phần Cuối Game'
 SUPREME_THORNIUM_QUARRY:
-  name: '&eMỏ Thornium'
+  name: 'Mỏ Thornium'
   stats:
   - '&6Máy Nâng cao'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&lMột chiếc rìu bằng Titan'
-  name: '&f&lRìu Titan'
+  name: 'Rìu Titan'
   type:
   - '&7&oDụng Cụ'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&lMột đôi giày bằng Titan'
-  name: '&f&lGiày Titan'
+  name: 'Giày Titan'
   type:
   - '&7&oGiáp'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9Tụ điện Titan'
+  name: 'Tụ điện Titan'
   stats:
   - '&6Tụ điện Nâng cao'
   - '&8⇨ &e⚡ &7Dung lượng 4,000,000.00 J'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&lMột chiếc áo giáp bằng Titan'
-  name: '&f&lÁo giáp Titan'
+  name: 'Áo giáp Titan'
   type:
   - '&7&oGiáp'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&lMột chiếc mũ bằng Titan'
-  name: '&f&lMũ Titan'
+  name: 'Mũ Titan'
   type:
   - '&7&oGiáp'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&lMột chiếc quần giáp bằng Titan'
-  name: '&f&lQuần giáp Titan'
+  name: 'Quần giáp Titan'
   type:
   - '&7&oGiáp'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&lMột chiếc cúp bằng Titan'
-  name: '&f&lCúp Titan'
+  name: 'Cúp Titan'
   type:
   - '&7&oDụng Cụ'
 SUPREME_TITANIUM_PLATE:
-  name: '&aTấm Titan'
+  name: 'Tấm Titan'
   type:
   - '&7&oThành Phần'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&lMột chiếc xẻng bằng Titan'
-  name: '&f&lXẻng Titan'
+  name: 'Xẻng Titan'
   type:
   - '&7&oDụng Cụ'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&lMột thanh kiếm bằng Titan'
-  name: '&f&lKiếm Titan'
+  name: 'Kiếm Titan'
   type:
   - '&7&oVũ Khí'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9Máy phát điện Ventus'
+  name: 'Máy phát điện Ventus'
   stats:
   - '&eMáy phát điện Cơ bản'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&fMáy này cho phép bạn thu gom '
   - '&f vật phẩm được thu thập ngoài biển.'
-  name: '&bHồ cá Ảo'
+  name: 'Hồ cá Ảo'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&fMáy này cho phép bạn thu gom'
   - '&f vật phẩm được thu thập ngoài biển.'
-  name: '&bHồ cá Ảo II'
+  name: 'Hồ cá Ảo II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&fMáy này cho phép bạn thu gom'
   - '&f vật phẩm được thu thập ngoài biển.'
-  name: '&bHồ cá Ảo III'
+  name: 'Hồ cá Ảo III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&fMáy này cho phép bạn'
   - '&fcanh tác một số tài nguyên.'
-  name: '&bVườn Ảo'
+  name: 'Vườn Ảo'
   stats:
   - '&6Máy Nâng cao'
   - '&8⇨ &b⚡ &7Tốc độ: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&fMáy này cho phép bạn'
   - '&fcanh tác một số tài nguyên.'
-  name: '&bVườn Ảo II'
+  name: 'Vườn Ảo II'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&fMáy này cho phép bạn'
   - '&fcanh tác một số tài nguyên.'
-  name: '&bVườn Ảo III'
+  name: 'Vườn Ảo III'
   stats:
   - '&4Máy Hậu kỳ'
   - '&8⇨ &b⚡ &7Tốc độ: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&oMáy Móc'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&aTấm Zirconi'
+  name: 'Tấm Zirconi'
   type:
   - '&7&oThành Phần'

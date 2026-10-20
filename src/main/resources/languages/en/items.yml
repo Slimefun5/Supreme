@@ -3,21 +3,21 @@
 # Dynamic mob-tech family items (per mob x tier) keep their runtime names in Java.
 
 SUPREME_ADAMANTIUM_AXE:
-  name: "&f&lAdamantium Axe"
+  name: 'Adamantium Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Axe of Adamantium"
 
 SUPREME_ADAMANTIUM_BOOTS:
-  name: "&f&lAdamantium Boots"
+  name: 'Adamantium Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Boots of Adamantium"
 
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: "&9Adamantium Capacitor"
+  name: 'Adamantium Capacitor'
   type:
     - "&7&oMachine"
   stats:
@@ -25,138 +25,138 @@ SUPREME_ADAMANTIUM_CAPACITOR:
     - "&8⇨ &e⚡ &716,000,000.00 J Capacity"
 
 SUPREME_ADAMANTIUM_CHESTPLATE:
-  name: "&f&lAdamantium Chestplate"
+  name: 'Adamantium Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Chestplate of Adamantium"
 
 SUPREME_ADAMANTIUM_HELMET:
-  name: "&f&lAdamantium Helmet"
+  name: 'Adamantium Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Helmet of Adamantium"
 
 SUPREME_ADAMANTIUM_LEGGINGS:
-  name: "&f&lAdamantium Legging"
+  name: "Adamantium Leggings"
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legging of Adamantium"
 
 SUPREME_ADAMANTIUM_PICKAXE:
-  name: "&f&lAdamantium Pickaxe"
+  name: 'Adamantium Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Pickaxe of Adamantium"
 
 SUPREME_ADAMANTIUM_PLATE:
-  name: "&aAdamantium Plate"
+  name: 'Adamantium Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_ADAMANTIUM_SHOVEL:
-  name: "&f&lAdamantium Shovel"
+  name: 'Adamantium Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Shovel of Adamantium"
 
 SUPREME_ADAMANTIUM_SWORD:
-  name: "&f&lAdamantium Sword"
+  name: 'Adamantium Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Sword of Adamantium"
 
 SUPREME_ALLOY_ADAMANTIUM:
-  name: "&aAlloy Adamantium"
+  name: "Adamantium Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_AURUM:
-  name: "&aAlloy Aurum"
+  name: "Aurum Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_IRIDIUM:
-  name: "&aAlloy Iridium"
+  name: "Iridium Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_MANGANESE:
-  name: "&aAlloy Manganese"
+  name: "Manganese Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_PLATINUM:
-  name: "&aAlloy Platinum"
+  name: "Platinum Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_TITANIUM:
-  name: "&aAlloy Titanium"
+  name: "Titanium Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_ALLOY_ZIRCONIUM:
-  name: "&aAlloy Zirconium"
+  name: "Zirconium Alloy"
   type:
     - "&7&oComponents"
 
 SUPREME_AQUA_GENERATOR:
-  name: "&9Aqua Generator"
+  name: 'Aqua Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Generator"
 
 SUPREME_ATTRIBUTE_BOMB:
-  name: "&aAttribute Bomb"
+  name: "Bomb Attribute"
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super bomb attribute with special effects"
 
 SUPREME_ATTRIBUTE_FORTUNE:
-  name: "&aAttribute Fortune"
+  name: "Fortune Attribute"
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super fortune attribute with special effects"
 
 SUPREME_ATTRIBUTE_IMPETUS:
-  name: "&aAttribute Impetus"
+  name: "Impetus Attribute"
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super impetus attribute with special effects"
 
 SUPREME_ATTRIBUTE_MAGIC:
-  name: "&aAttribute Magic"
+  name: "Magic Attribute"
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super magic attribute with special effects"
 
 SUPREME_AURUM_AXE:
-  name: "&f&lAurum Axe"
+  name: 'Aurum Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Axe of Aurum"
 
 SUPREME_AURUM_BOOTS:
-  name: "&f&lAurum Boots"
+  name: 'Aurum Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Boots of Aurum"
 
 SUPREME_AURUM_CAPACITOR:
-  name: "&9Aurum Capacitor"
+  name: 'Aurum Capacitor'
   type:
     - "&7&oMachine"
   stats:
@@ -164,220 +164,220 @@ SUPREME_AURUM_CAPACITOR:
     - "&8⇨ &e⚡ &71,000,000.00 J Capacity"
 
 SUPREME_AURUM_CHESTPLATE:
-  name: "&f&lAurum Chestplate"
+  name: 'Aurum Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Chestplate of Aurum"
 
 SUPREME_AURUM_HELMET:
-  name: "&f&lAurum Helmet"
+  name: 'Aurum Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Helmet of Aurum"
 
 SUPREME_AURUM_LEGGINGS:
-  name: "&f&lAurum Legging"
+  name: "Aurum Leggings"
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legging of Aurum"
 
 SUPREME_AURUM_PICKAXE:
-  name: "&f&lAurum Pickaxe"
+  name: 'Aurum Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Pickaxe of Aurum"
 
 SUPREME_AURUM_PLATE:
-  name: "&aAurum Plate"
+  name: 'Aurum Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_AURUM_SHOVEL:
-  name: "&f&lAurum Shovel"
+  name: 'Aurum Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Shovel of Aurum"
 
 SUPREME_AURUM_SWORD:
-  name: "&f&lAurum Sword"
+  name: 'Aurum Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Sword of Aurum"
 
 SUPREME_AXE_EPIC:
-  name: "&d&lEpic Axe"
+  name: 'Epic Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Epic Axe of Thornium"
 
 SUPREME_AXE_LEGENDARY:
-  name: "&6&lLegendary Axe"
+  name: 'Legendary Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Legendary Axe of Thornium"
 
 SUPREME_AXE_MAGIC:
-  name: "&a&lMagic Axe"
+  name: 'Magic Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Magic Axe of Thornium"
 
 SUPREME_AXE_RARE:
-  name: "&b&lRare Axe"
+  name: 'Rare Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Rare Axe of Thornium"
 
 SUPREME_AXE_SUPREME:
-  name: "&4&lSupreme Axe"
+  name: 'Supreme Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Supreme Axe of Thornium"
 
 SUPREME_AXE_THORNIUM:
-  name: "&f&lThornium Axe"
+  name: 'Thornium Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Axe of Thornium"
 
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: "&9Basic Aqua Generator"
+  name: 'Basic Aqua Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: "&9Basic Ignis Generator"
+  name: 'Basic Ignis Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: "&9Basic Lumium Generator"
+  name: 'Basic Lumium Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Generator"
 
 SUPREME_BASIC_LUX_GENERATOR:
-  name: "&9Basic Lux Generator"
+  name: 'Basic Lux Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: "&9Basic Ventus Generator"
+  name: 'Basic Ventus Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_BLEND_MACHINE:
-  name: "&aBlend Machine"
+  name: 'Blend Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_BOOTS_EPIC:
-  name: "&d&lEpic Boots"
+  name: 'Epic Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Epic boots of Thornium"
 
 SUPREME_BOOTS_LEGENDARY:
-  name: "&6&lLegendary Boots"
+  name: 'Legendary Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legendary boots of Thornium"
 
 SUPREME_BOOTS_MAGIC:
-  name: "&a&lMagic Boots"
+  name: 'Magic Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Magic boots of Thornium"
 
 SUPREME_BOOTS_RARE:
-  name: "&b&lRare Boots"
+  name: 'Rare Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Rare boots of Thornium"
 
 SUPREME_BOOTS_SUPREME:
-  name: "&4&lSupreme Boots"
+  name: 'Supreme Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Supreme boots of Thornium"
 
 SUPREME_BOOTS_THORNIUM:
-  name: "&f&lThornium boots"
+  name: "Thornium Boots"
   type:
     - "&7&oArmor"
   description:
     - "&f&lA boots of Thornium"
 
 SUPREME_BOW_EPIC:
-  name: "&d&lEpic Bow"
+  name: 'Epic Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Epic Bow of Thornium"
 
 SUPREME_BOW_LEGENDARY:
-  name: "&6&lLegendary Bow"
+  name: 'Legendary Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Legendary Bow of Thornium"
 
 SUPREME_BOW_MAGIC:
-  name: "&a&lMagic Bow"
+  name: 'Magic Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Magic Bow of Thornium"
 
 SUPREME_BOW_RARE:
-  name: "&b&lRare Bow"
+  name: 'Rare Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Rare Bow of Thornium"
 
 SUPREME_BOW_SUPREME:
-  name: "&4&lSupreme Bow"
+  name: 'Supreme Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Supreme Bow of Thornium"
 
 SUPREME_BOW_THORNIUM:
-  name: "&f&lThornium Bow"
+  name: 'Thornium Bow'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Bow of Thornium"
 
 SUPREME_CARD_ALUMINUM_BRASS:
-  name: "&bMachine Card: Aluminum Brass Ingot"
+  name: "Machine Card (Aluminum Brass Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -386,7 +386,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ALUMINUM_BRONZE:
-  name: "&bMachine Card: Aluminum Bronze Ingot"
+  name: "Machine Card (Aluminum Bronze Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -395,7 +395,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ALUMINUM_DUST:
-  name: "&bMachine Card: Aluminum Dust"
+  name: "Machine Card (Aluminum Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -404,7 +404,7 @@ SUPREME_CARD_ALUMINUM_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_AMETHYST:
-  name: "&bMachine Card: Amethyst"
+  name: "Machine Card (Amethyst)"
   type:
     - "&7&oComponent"
   description:
@@ -413,7 +413,7 @@ SUPREME_CARD_AMETHYST:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ANDESITE:
-  name: "&bMachine Card: Andesite"
+  name: "Machine Card (Andesite)"
   type:
     - "&7&oComponent"
   description:
@@ -422,7 +422,7 @@ SUPREME_CARD_ANDESITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_APPLE:
-  name: "&bMachine Card: Apple"
+  name: "Machine Card (Apple)"
   type:
     - "&7&oComponent"
   description:
@@ -431,7 +431,7 @@ SUPREME_CARD_APPLE:
     - "&eBasic Machine"
 
 SUPREME_CARD_BATTERY:
-  name: "&bMachine Card: Battery"
+  name: "Machine Card (Battery)"
   type:
     - "&7&oComponent"
   description:
@@ -440,7 +440,7 @@ SUPREME_CARD_BATTERY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_BILLON:
-  name: "&bMachine Card: Billon Ingot"
+  name: "Machine Card (Billon Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -449,7 +449,7 @@ SUPREME_CARD_BILLON:
     - "&aMedium Machine"
 
 SUPREME_CARD_BLAZE_ROD:
-  name: "&bMachine Card: Blaze Rod"
+  name: "Machine Card (Blaze Rod)"
   type:
     - "&7&oComponent"
   description:
@@ -458,7 +458,7 @@ SUPREME_CARD_BLAZE_ROD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_BRASS:
-  name: "&bMachine Card: Brass Ingot"
+  name: "Machine Card (Brass Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -467,7 +467,7 @@ SUPREME_CARD_BRASS:
     - "&aMedium Machine"
 
 SUPREME_CARD_BRONZE:
-  name: "&bMachine Card: Bronze Ingot"
+  name: "Machine Card (Bronze Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -476,7 +476,7 @@ SUPREME_CARD_BRONZE:
     - "&aMedium Machine"
 
 SUPREME_CARD_CARBON:
-  name: "&bMachine Card: Carbon"
+  name: "Machine Card (Carbon)"
   type:
     - "&7&oComponent"
   description:
@@ -485,7 +485,7 @@ SUPREME_CARD_CARBON:
     - "&aMedium Machine"
 
 SUPREME_CARD_CARBONADO:
-  name: "&bMachine Card: Carbonado"
+  name: "Machine Card (Carbonado)"
   type:
     - "&7&oComponent"
   description:
@@ -494,7 +494,7 @@ SUPREME_CARD_CARBONADO:
     - "&6Advanced Machine"
 
 SUPREME_CARD_CARBON_PRESS:
-  name: "&bMachine Card: Compressed Carbon"
+  name: "Machine Card (Compressed Carbon)"
   type:
     - "&7&oComponent"
   description:
@@ -503,7 +503,7 @@ SUPREME_CARD_CARBON_PRESS:
     - "&aMedium Machine"
 
 SUPREME_CARD_CLAY:
-  name: "&bMachine Card: Clay"
+  name: "Machine Card (Clay)"
   type:
     - "&7&oComponent"
   description:
@@ -512,7 +512,7 @@ SUPREME_CARD_CLAY:
     - "&eBasic Machine"
 
 SUPREME_CARD_COAL:
-  name: "&bMachine Card: Coal"
+  name: "Machine Card (Coal)"
   type:
     - "&7&oComponent"
   description:
@@ -521,7 +521,7 @@ SUPREME_CARD_COAL:
     - "&eBasic Machine"
 
 SUPREME_CARD_COBALT:
-  name: "&bMachine Card: Cobalt"
+  name: "Machine Card (Cobalt)"
   type:
     - "&7&oComponent"
   description:
@@ -530,7 +530,7 @@ SUPREME_CARD_COBALT:
     - "&aMedium Machine"
 
 SUPREME_CARD_COPPER:
-  name: "&bMachine Card: Copper"
+  name: "Machine Card (Copper)"
   type:
     - "&7&oComponent"
   description:
@@ -539,7 +539,7 @@ SUPREME_CARD_COPPER:
     - "&eBasic Machine"
 
 SUPREME_CARD_COPPER_DUST:
-  name: "&bMachine Card: Copper Dust"
+  name: "Machine Card (Copper Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -548,7 +548,7 @@ SUPREME_CARD_COPPER_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_CORINTHIAN_BRONZE:
-  name: "&bMachine Card: Corinthian Bronze Ingot"
+  name: "Machine Card (Corinthian Bronze Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -557,7 +557,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_DAMASCUS:
-  name: "&bMachine Card: Damascus"
+  name: "Machine Card (Damascus)"
   type:
     - "&7&oComponent"
   description:
@@ -566,7 +566,7 @@ SUPREME_CARD_DAMASCUS:
     - "&aMedium Machine"
 
 SUPREME_CARD_DIAMOND:
-  name: "&bMachine Card: Diamond"
+  name: "Machine Card (Diamond)"
   type:
     - "&7&oComponent"
   description:
@@ -575,7 +575,7 @@ SUPREME_CARD_DIAMOND:
     - "&6Advanced Machine"
 
 SUPREME_CARD_DIORITE:
-  name: "&bMachine Card: Diorite"
+  name: "Machine Card (Diorite)"
   type:
     - "&7&oComponent"
   description:
@@ -584,7 +584,7 @@ SUPREME_CARD_DIORITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_DURALUMIN:
-  name: "&bMachine Card: Duralumin Ingot"
+  name: "Machine Card (Duralumin Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -593,7 +593,7 @@ SUPREME_CARD_DURALUMIN:
     - "&aMedium Machine"
 
 SUPREME_CARD_ELECTRIC_MOTOR:
-  name: "&bMachine Card: Electric Motor"
+  name: "Machine Card (Electric Motor)"
   type:
     - "&7&oComponent"
   description:
@@ -602,7 +602,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ELECTRO_MAGNET:
-  name: "&bMachine Card: Electro Magnet"
+  name: "Machine Card (Electro Magnet)"
   type:
     - "&7&oComponent"
   description:
@@ -611,7 +611,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_EMERALD:
-  name: "&bMachine Card: Emerald"
+  name: "Machine Card (Emerald)"
   type:
     - "&7&oComponent"
   description:
@@ -620,7 +620,7 @@ SUPREME_CARD_EMERALD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_ENDSTONE:
-  name: "&bMachine Card: Endstone"
+  name: "Machine Card (Endstone)"
   type:
     - "&7&oComponent"
   description:
@@ -629,7 +629,7 @@ SUPREME_CARD_ENDSTONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_FERROSILICON:
-  name: "&bMachine Card: Ferrosilicon"
+  name: "Machine Card (Ferrosilicon)"
   type:
     - "&7&oComponent"
   description:
@@ -638,7 +638,7 @@ SUPREME_CARD_FERROSILICON:
     - "&aMedium Machine"
 
 SUPREME_CARD_GLOW_INK_SAC:
-  name: "&bMachine Card: Glow Ink Sac"
+  name: "Machine Card (Glow Ink Sac)"
   type:
     - "&7&oComponent"
   description:
@@ -647,7 +647,7 @@ SUPREME_CARD_GLOW_INK_SAC:
     - "&eBasic Machine"
 
 SUPREME_CARD_GOLD:
-  name: "&bMachine Card: Gold"
+  name: "Machine Card (Gold)"
   type:
     - "&7&oComponent"
   description:
@@ -656,7 +656,7 @@ SUPREME_CARD_GOLD:
     - "&eBasic Machine"
 
 SUPREME_CARD_GOLD24K:
-  name: "&bMachine Card: Gold 24k"
+  name: "Machine Card (Gold 24k)"
   type:
     - "&7&oComponent"
   description:
@@ -665,7 +665,7 @@ SUPREME_CARD_GOLD24K:
     - "&6Advanced Machine"
 
 SUPREME_CARD_GOLD_DUST:
-  name: "&bMachine Card: Gold Dust"
+  name: "Machine Card (Gold Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -674,7 +674,7 @@ SUPREME_CARD_GOLD_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_GRANITE:
-  name: "&bMachine Card: Granite"
+  name: "Machine Card (Granite)"
   type:
     - "&7&oComponent"
   description:
@@ -683,7 +683,7 @@ SUPREME_CARD_GRANITE:
     - "&eBasic Machine"
 
 SUPREME_CARD_GRAVEL:
-  name: "&bMachine Card: Gravel"
+  name: "Machine Card (Gravel)"
   type:
     - "&7&oComponent"
   description:
@@ -692,7 +692,7 @@ SUPREME_CARD_GRAVEL:
     - "&eBasic Machine"
 
 SUPREME_CARD_HARDENED_METAL:
-  name: "&bMachine Card: Hardened Metal Ingot"
+  name: "Machine Card (Hardened Metal Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -701,7 +701,7 @@ SUPREME_CARD_HARDENED_METAL:
     - "&6Advanced Machine"
 
 SUPREME_CARD_HEATING_COIL:
-  name: "&bMachine Card: Heating Coil"
+  name: "Machine Card (Heating Coil)"
   type:
     - "&7&oComponent"
   description:
@@ -710,7 +710,7 @@ SUPREME_CARD_HEATING_COIL:
     - "&6Advanced Machine"
 
 SUPREME_CARD_HONEY_BOTTLE:
-  name: "&bMachine Card: Honey Bottle"
+  name: "Machine Card (Honey Bottle)"
   type:
     - "&7&oComponent"
   description:
@@ -719,7 +719,7 @@ SUPREME_CARD_HONEY_BOTTLE:
     - "&eBasic Machine"
 
 SUPREME_CARD_INK_SAC:
-  name: "&bMachine Card: Ink Sac"
+  name: "Machine Card (Ink Sac)"
   type:
     - "&7&oComponent"
   description:
@@ -728,7 +728,7 @@ SUPREME_CARD_INK_SAC:
     - "&eBasic Machine"
 
 SUPREME_CARD_IRON:
-  name: "&bMachine Card: Iron"
+  name: "Machine Card (Iron)"
   type:
     - "&7&oComponent"
   description:
@@ -737,7 +737,7 @@ SUPREME_CARD_IRON:
     - "&eBasic Machine"
 
 SUPREME_CARD_IRON_DUST:
-  name: "&bMachine Card: Iron Dust"
+  name: "Machine Card (Iron Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -746,7 +746,7 @@ SUPREME_CARD_IRON_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_LAPIS:
-  name: "&bMachine Card: Lapiz"
+  name: "Machine Card (Lapis Lazuli)"
   type:
     - "&7&oComponent"
   description:
@@ -755,7 +755,7 @@ SUPREME_CARD_LAPIS:
     - "&eBasic Machine"
 
 SUPREME_CARD_LEAD_DUST:
-  name: "&bMachine Card: Lead Dust"
+  name: "Machine Card (Lead Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -764,7 +764,7 @@ SUPREME_CARD_LEAD_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_MAGNESIUM_DUST:
-  name: "&bMachine Card: Magnesium Dust"
+  name: "Machine Card (Magnesium Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -773,7 +773,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_MAGNET:
-  name: "&bMachine Card: Magnet"
+  name: "Machine Card (Magnet)"
   type:
     - "&7&oComponent"
   description:
@@ -782,7 +782,7 @@ SUPREME_CARD_MAGNET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_NETHERITE:
-  name: "&bMachine Card: Netherite"
+  name: "Machine Card (Netherite)"
   type:
     - "&7&oComponent"
   description:
@@ -791,7 +791,7 @@ SUPREME_CARD_NETHERITE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_NETHER_STAR:
-  name: "&bMachine Card: Nether Star"
+  name: "Machine Card (Nether Star)"
   type:
     - "&7&oComponent"
   description:
@@ -800,7 +800,7 @@ SUPREME_CARD_NETHER_STAR:
     - "&eBasic Machine"
 
 SUPREME_CARD_NICKEL:
-  name: "&bMachine Card: Nickel"
+  name: "Machine Card (Nickel)"
   type:
     - "&7&oComponent"
   description:
@@ -809,7 +809,7 @@ SUPREME_CARD_NICKEL:
     - "&aMedium Machine"
 
 SUPREME_CARD_PLASTIC_SHEET:
-  name: "&bMachine Card: Plastic Sheet"
+  name: "Machine Card (Plastic Sheet)"
   type:
     - "&7&oComponent"
   description:
@@ -818,7 +818,7 @@ SUPREME_CARD_PLASTIC_SHEET:
     - "&6Advanced Machine"
 
 SUPREME_CARD_QUARTZ:
-  name: "&bMachine Card: Quartz"
+  name: "Machine Card (Quartz)"
   type:
     - "&7&oComponent"
   description:
@@ -827,7 +827,7 @@ SUPREME_CARD_QUARTZ:
     - "&eBasic Machine"
 
 SUPREME_CARD_QUARTZ_BLOCK:
-  name: "&bMachine Card: Quartz Block"
+  name: "Machine Card (Quartz Block)"
   type:
     - "&7&oComponent"
   description:
@@ -836,7 +836,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
     - "&eBasic Machine"
 
 SUPREME_CARD_REDSTONE:
-  name: "&bMachine Card: Redstone"
+  name: "Machine Card (Redstone)"
   type:
     - "&7&oComponent"
   description:
@@ -845,7 +845,7 @@ SUPREME_CARD_REDSTONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_REDSTONE_ALLOY:
-  name: "&bMachine Card: Redstone Alloy"
+  name: "Machine Card (Redstone Alloy)"
   type:
     - "&7&oComponent"
   description:
@@ -854,7 +854,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_REINFORCED_ALLOY:
-  name: "&bMachine Card: Reinforced Alloy Ingot"
+  name: "Machine Card (Reinforced Alloy Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -863,7 +863,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SAND:
-  name: "&bMachine Card: Sand"
+  name: "Machine Card (Sand)"
   type:
     - "&7&oComponent"
   description:
@@ -872,7 +872,7 @@ SUPREME_CARD_SAND:
     - "&eBasic Machine"
 
 SUPREME_CARD_SILICON:
-  name: "&bMachine Card: Silicon"
+  name: "Machine Card (Silicon)"
   type:
     - "&7&oComponent"
   description:
@@ -881,7 +881,7 @@ SUPREME_CARD_SILICON:
     - "&aMedium Machine"
 
 SUPREME_CARD_SILVER_DUST:
-  name: "&bMachine Card: Silver Dust"
+  name: "Machine Card (Silver Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -890,7 +890,7 @@ SUPREME_CARD_SILVER_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_SLIME_BALL:
-  name: "&bMachine Card: Slime Ball"
+  name: "Machine Card (Slime Ball)"
   type:
     - "&7&oComponent"
   description:
@@ -899,7 +899,7 @@ SUPREME_CARD_SLIME_BALL:
     - "&eBasic Machine"
 
 SUPREME_CARD_SNOW:
-  name: "&bMachine Card: Snow"
+  name: "Machine Card (Snow)"
   type:
     - "&7&oComponent"
   description:
@@ -908,7 +908,7 @@ SUPREME_CARD_SNOW:
     - "&eBasic Machine"
 
 SUPREME_CARD_SOLDER:
-  name: "&bMachine Card: Solder Ingot"
+  name: "Machine Card (Solder Ingot)"
   type:
     - "&7&oComponent"
   description:
@@ -917,7 +917,7 @@ SUPREME_CARD_SOLDER:
     - "&aMedium Machine"
 
 SUPREME_CARD_STEEL:
-  name: "&bMachine Card: Steel"
+  name: "Machine Card (Steel)"
   type:
     - "&7&oComponent"
   description:
@@ -926,7 +926,7 @@ SUPREME_CARD_STEEL:
     - "&aMedium Machine"
 
 SUPREME_CARD_STONE:
-  name: "&bMachine Card: Stone"
+  name: "Machine Card (Stone)"
   type:
     - "&7&oComponent"
   description:
@@ -935,7 +935,7 @@ SUPREME_CARD_STONE:
     - "&eBasic Machine"
 
 SUPREME_CARD_SULFATE:
-  name: "&bMachine Card: Sulfate"
+  name: "Machine Card (Sulfate)"
   type:
     - "&7&oComponent"
   description:
@@ -944,7 +944,7 @@ SUPREME_CARD_SULFATE:
     - "&aMedium Machine"
 
 SUPREME_CARD_SYNTHETIC_DIAMOND:
-  name: "&bMachine Card: Synthetic Diamond"
+  name: "Machine Card (Synthetic Diamond)"
   type:
     - "&7&oComponent"
   description:
@@ -953,7 +953,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SYNTHETIC_EMERALD:
-  name: "&bMachine Card: Synthetic Emerald"
+  name: "Machine Card (Synthetic Emerald)"
   type:
     - "&7&oComponent"
   description:
@@ -962,7 +962,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
     - "&6Advanced Machine"
 
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
-  name: "&bMachine Card: Synthetic Sapphire"
+  name: "Machine Card (Synthetic Sapphire)"
   type:
     - "&7&oComponent"
   description:
@@ -971,7 +971,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
     - "&6Advanced Machine"
 
 SUPREME_CARD_TIN_DUST:
-  name: "&bMachine Card: Tin Dust"
+  name: "Machine Card (Tin Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -980,7 +980,7 @@ SUPREME_CARD_TIN_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARD_WITHER_ROSE:
-  name: "&bMachine Card: Wither Rose"
+  name: "Machine Card (Wither Rose)"
   type:
     - "&7&oComponent"
   description:
@@ -989,7 +989,7 @@ SUPREME_CARD_WITHER_ROSE:
     - "&eBasic Machine"
 
 SUPREME_CARD_ZINC_DUST:
-  name: "&bMachine Card: Zinc Dust"
+  name: "Machine Card (Zinc Dust)"
   type:
     - "&7&oComponent"
   description:
@@ -998,68 +998,68 @@ SUPREME_CARD_ZINC_DUST:
     - "&aMedium Machine"
 
 SUPREME_CARRIAGE_MACHINE:
-  name: "&aCarriage Machine"
+  name: 'Carriage Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_CENTER_CARD_ADVANCED:
-  name: "&aAdvanced Component for Card"
+  name: "Advanced Card Component"
   type:
     - "&7&oComponent"
   description:
     - "&fComponent for Machine to produce items"
 
 SUPREME_CENTER_CARD_SIMPLE:
-  name: "&aBasic Component for Card"
+  name: "Basic Card Component"
   type:
     - "&7&oComponent"
   description:
     - "&fComponent for Machine to produce items"
 
 SUPREME_CENTER_CARD_ULTIMATE:
-  name: "&aUltimate Component for Card"
+  name: "Ultimate Card Component"
   type:
     - "&7&oComponent"
   description:
     - "&fComponent for Machine to produce items"
 
 SUPREME_CETRUS_AQUA:
-  name: "&aCetrus Aqua"
+  name: 'Cetrus Aqua'
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super aqua scepter"
 
 SUPREME_CETRUS_IGNIS:
-  name: "&aCetrus Ignis"
+  name: 'Cetrus Ignis'
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super ignis scepter"
 
 SUPREME_CETRUS_LUMIUM:
-  name: "&aCetrus Lumium"
+  name: 'Cetrus Lumium'
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super lumium scepter"
 
 SUPREME_CETRUS_LUX:
-  name: "&aCetrus Lux"
+  name: 'Cetrus Lux'
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super lux scepter"
 
 SUPREME_CETRUS_VENTUS:
-  name: "&aCetrus Ventus"
+  name: 'Cetrus Ventus'
   type:
     - "&7&oMagical Components"
   description:
     - "&7A super ventus scepter"
 
 SUPREME_CHECK_INVENTORY:
-  name: "&bCheckInventory"
+  name: "Inventory Checker"
   type:
     - "&7&oMachine"
   description:
@@ -1071,285 +1071,285 @@ SUPREME_CHECK_INVENTORY:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_CHESTPLATE_EPIC:
-  name: "&d&lEpic Chestplate"
+  name: 'Epic Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Epic chestplate of Thornium"
 
 SUPREME_CHESTPLATE_LEGENDARY:
-  name: "&6&lLegendary Chestplate"
+  name: 'Legendary Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legendary chestplate of Thornium"
 
 SUPREME_CHESTPLATE_MAGIC:
-  name: "&a&lMagic Chestplate"
+  name: 'Magic Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Magic chestplate of Thornium"
 
 SUPREME_CHESTPLATE_RARE:
-  name: "&b&lRare Chestplate"
+  name: 'Rare Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Rare chestplate of Thornium"
 
 SUPREME_CHESTPLATE_SUPREME:
-  name: "&4&lSupreme Chestplate"
+  name: 'Supreme Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Supreme chestplate of Thornium"
 
 SUPREME_CHESTPLATE_THORNIUM:
-  name: "&f&lThornium Chestplate"
+  name: 'Thornium Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA chestplate of Thornium"
 
 SUPREME_COAL_QUARRY:
-  name: "&eCoal Quarry"
+  name: 'Coal Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_CONVEYANCE_MACHINE:
-  name: "&aConveyance Machine"
+  name: 'Conveyance Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_CORE_ACACIA_LOG:
-  name: "&aSupreme Acacia Log"
+  name: 'Supreme Acacia Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super acacia"
 
 SUPREME_CORE_ANDESITE:
-  name: "&aSupreme andesite"
+  name: "Supreme Andesite"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super andesite"
 
 SUPREME_CORE_APPLE:
-  name: "&aSupreme Apple"
+  name: 'Supreme Apple'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super apple"
 
 SUPREME_CORE_BEEF:
-  name: "&aSupreme beef"
+  name: "Supreme Beef"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super beef"
 
 SUPREME_CORE_BEETROOT:
-  name: "&aSupreme Beetroot"
+  name: 'Supreme Beetroot'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super beetroot"
 
 SUPREME_CORE_BIRCH_LOG:
-  name: "&aSupreme Birch Log"
+  name: 'Supreme Birch Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super birch"
 
 SUPREME_CORE_BLACK:
-  name: "&aSupreme Black"
+  name: 'Supreme Black'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super black"
 
 SUPREME_CORE_BLUE:
-  name: "&aSupreme Blue"
+  name: 'Supreme Blue'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super blue"
 
 SUPREME_CORE_CARROT:
-  name: "&aSupreme Carrot"
+  name: 'Supreme Carrot'
   type:
     - "&7&oCore Components"
   description:
     - "&7A Supreme Carrot"
 
 SUPREME_CORE_CHICKEN:
-  name: "&aSupreme chicken"
+  name: "Supreme Chicken"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super chicken"
 
 SUPREME_CORE_CLAY:
-  name: "&aSupreme clay"
+  name: "Supreme Clay"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super clay"
 
 SUPREME_CORE_COAL:
-  name: "&aSupreme coal"
+  name: "Supreme Coal"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super coal"
 
 SUPREME_CORE_COD:
-  name: "&aSupreme cod"
+  name: "Supreme Cod"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super cod"
 
 SUPREME_CORE_CRIMSON_STEM:
-  name: "&aSupreme Crimson Stem"
+  name: 'Supreme Crimson Stem'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super crimson"
 
 SUPREME_CORE_CYAN:
-  name: "&aSupreme Cyan"
+  name: 'Supreme Cyan'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super cyan"
 
 SUPREME_CORE_DARK_OAK_LOG:
-  name: "&aSupreme Dark Oak Log"
+  name: 'Supreme Dark Oak Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super dark"
 
 SUPREME_CORE_DIAMOND:
-  name: "&aSupreme diamond"
+  name: "Supreme Diamond"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super diamond"
 
 SUPREME_CORE_DIORITE:
-  name: "&aSupreme diorite"
+  name: "Supreme Diorite"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super diorite"
 
 SUPREME_CORE_EMERALD:
-  name: "&aSupreme emerald"
+  name: "Supreme Emerald"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super emerald"
 
 SUPREME_CORE_ENDSTONE:
-  name: "&aSupreme endstone"
+  name: "Supreme Endstone"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super endstone"
 
 SUPREME_CORE_GOLD:
-  name: "&aSupreme gold"
+  name: "Supreme Gold"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super gold"
 
 SUPREME_CORE_GRANITE:
-  name: "&aSupreme granite"
+  name: "Supreme Granite"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super granite"
 
 SUPREME_CORE_GRAVEL:
-  name: "&aSupreme gravel"
+  name: "Supreme Gravel"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super gravel"
 
 SUPREME_CORE_GRAY:
-  name: "&aSupreme Gray"
+  name: 'Supreme Gray'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super gray"
 
 SUPREME_CORE_GREEN:
-  name: "&aSupreme Green"
+  name: 'Supreme Green'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super green"
 
 SUPREME_CORE_IRON:
-  name: "&aSupreme iron"
+  name: "Supreme Iron"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super iron"
 
 SUPREME_CORE_JUNGLE_LOG:
-  name: "&aSupreme Jungle Log"
+  name: 'Supreme Jungle Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super jungle"
 
 SUPREME_CORE_LAPIS:
-  name: "&aSupreme lapis"
+  name: "Supreme Lapis"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super lapis"
 
 SUPREME_CORE_MELON:
-  name: "&aSupreme Melon"
+  name: 'Supreme Melon'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super melon"
 
 SUPREME_CORE_MUTTON:
-  name: "&aSupreme mutton"
+  name: "Supreme Mutton"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super mutton"
 
 SUPREME_CORE_NETHERITE:
-  name: "&aSupreme netherite"
+  name: "Supreme Netherite"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super netherite"
 
 SUPREME_CORE_OAK_LOG:
-  name: "&aSupreme Oak Log"
+  name: 'Supreme Oak Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super oak"
 
 SUPREME_CORE_OF_ALLOY:
-  name: "&aCore of Alloy"
+  name: "Core Of Alloy"
   type:
     - "&7&oMagical Components"
   description:
@@ -1357,7 +1357,7 @@ SUPREME_CORE_OF_ALLOY:
     - "&7that have been collected around the world."
 
 SUPREME_CORE_OF_BLOCK:
-  name: "&aCore of Block"
+  name: "Core Of Block"
   type:
     - "&7&oMagical Components"
   description:
@@ -1365,7 +1365,7 @@ SUPREME_CORE_OF_BLOCK:
     - "&7that have been collected around the world."
 
 SUPREME_CORE_OF_COLOR:
-  name: "&aCore of Color"
+  name: "Core Of Color"
   type:
     - "&7&oMagical Components"
   description:
@@ -1373,7 +1373,7 @@ SUPREME_CORE_OF_COLOR:
     - "&7that have been collected around the world."
 
 SUPREME_CORE_OF_DEATH:
-  name: "&aCore of Death"
+  name: "Core Of Death"
   type:
     - "&7&oMagical Components"
   description:
@@ -1381,7 +1381,7 @@ SUPREME_CORE_OF_DEATH:
     - "&7various entities that have gone beyond."
 
 SUPREME_CORE_OF_LIFE:
-  name: "&aCore of Life"
+  name: "Core Of Life"
   type:
     - "&7&oMagical Components"
   description:
@@ -1389,7 +1389,7 @@ SUPREME_CORE_OF_LIFE:
     - "&7that have been collected by the world."
 
 SUPREME_CORE_OF_NATURE:
-  name: "&aCore of Nature"
+  name: "Core Of Nature"
   type:
     - "&7&oMagical Components"
   description:
@@ -1397,188 +1397,188 @@ SUPREME_CORE_OF_NATURE:
     - "&7that have been collected around the world."
 
 SUPREME_CORE_PINK:
-  name: "&aSupreme pink"
+  name: "Supreme Pink"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super pink"
 
 SUPREME_CORE_PORKCHOP:
-  name: "&aSupreme bacon"
+  name: "Supreme Porkchop"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super bacon"
 
 SUPREME_CORE_POTATO:
-  name: "&aSupreme Potato"
+  name: 'Supreme Potato'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super potato"
 
 SUPREME_CORE_PUMPKIN:
-  name: "&aSupreme Pumpkin"
+  name: 'Supreme Pumpkin'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super pumpkin"
 
 SUPREME_CORE_PURPLE:
-  name: "&aSupreme Purple"
+  name: 'Supreme Purple'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super purple"
 
 SUPREME_CORE_QUARTZ:
-  name: "&aSupreme quartz"
+  name: "Supreme Quartz"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super quartz"
 
 SUPREME_CORE_RED:
-  name: "&aSupreme Red"
+  name: 'Supreme Red'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super red"
 
 SUPREME_CORE_REDSTONE:
-  name: "&aSupreme redstone"
+  name: "Supreme Redstone"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super redstone"
 
 SUPREME_CORE_SALMON:
-  name: "&aSupreme salmon"
+  name: "Supreme Salmon"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super salmon"
 
 SUPREME_CORE_SAND:
-  name: "&aSupreme sand"
+  name: "Supreme Sand"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super sand"
 
 SUPREME_CORE_SNOW:
-  name: "&aSupreme snow"
+  name: "Supreme Snow"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super snow"
 
 SUPREME_CORE_SPIDER_EYE:
-  name: "&aSupreme eye"
+  name: "Supreme Spider Eye"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super eye"
 
 SUPREME_CORE_SPRUCE_LOG:
-  name: "&aSupreme Spruce Log"
+  name: 'Supreme Spruce Log'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super spruce"
 
 SUPREME_CORE_STONE:
-  name: "&aSupreme cobblestone"
+  name: "Supreme Cobblestone"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super cobblestone"
 
 SUPREME_CORE_STRING:
-  name: "&aSupreme lead"
+  name: "Supreme String"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super lead"
 
 SUPREME_CORE_SUGAR_CANE:
-  name: "&aSupreme Sugar Cane"
+  name: 'Supreme Sugar Cane'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super sugar cane"
 
 SUPREME_CORE_SWEET_BERRIES:
-  name: "&aSupreme Sweet Berries"
+  name: 'Supreme Sweet Berries'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super barries"
 
 SUPREME_CORE_TEAR:
-  name: "&aSupreme tear"
+  name: "Supreme Ghast Tear"
   type:
     - "&7&oCore Components"
   description:
     - "&7A super tear"
 
 SUPREME_CORE_WARPED_STEM:
-  name: "&aSupreme Warped Stem"
+  name: 'Supreme Warped Stem'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super warped"
 
 SUPREME_CORE_WHEAT:
-  name: "&aSupreme Wheat"
+  name: 'Supreme Wheat'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super wheat"
 
 SUPREME_CORE_WITHER_ROSE:
-  name: "&aSupreme Wither Rose"
+  name: 'Supreme Wither Rose'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super rose"
 
 SUPREME_CORE_YELLOW:
-  name: "&aSupreme Yellow"
+  name: 'Supreme Yellow'
   type:
     - "&7&oCore Components"
   description:
     - "&7A super yellow"
 
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: "&aCrystallizer Machine"
+  name: 'Crystallizer Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_DIAMOND_QUARRY:
-  name: "&eDiamond Quarry"
+  name: 'Diamond Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_DUST_AMETHYST:
-  name: "&aAmethyst Dust"
+  name: 'Amethyst Dust'
   type:
     - "&7&oComponent"
 
 SUPREME_DUST_GLOW_INK:
-  name: "&aGlow Ink Dust"
+  name: 'Glow Ink Dust'
   type:
     - "&7&oComponent"
 
 SUPREME_DUST_NETHERITE:
-  name: "&aNetherite Dust"
+  name: 'Netherite Dust'
   type:
     - "&7&oComponent"
 
 SUPREME_ELECTRIC_CORE_I:
-  name: "&bElectric Core Machine"
+  name: 'Electric Core Machine'
   type:
     - "&7&oMachine"
   description:
@@ -1588,7 +1588,7 @@ SUPREME_ELECTRIC_CORE_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_ELECTRIC_CORE_II:
-  name: "&bElectric Core Machine II"
+  name: 'Electric Core Machine II'
   type:
     - "&7&oMachine"
   description:
@@ -1598,7 +1598,7 @@ SUPREME_ELECTRIC_CORE_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_ELECTRIC_CORE_III:
-  name: "&bElectric Core Machine III"
+  name: 'Electric Core Machine III'
   type:
     - "&7&oMachine"
   description:
@@ -1608,7 +1608,7 @@ SUPREME_ELECTRIC_CORE_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_ELECTRIC_CRAFTER_I:
-  name: "&bElectric Crafter"
+  name: 'Electric Crafter'
   type:
     - "&7&oMachine"
   description:
@@ -1618,7 +1618,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_ELECTRIC_CRAFTER_II:
-  name: "&bElectric Crafter II"
+  name: 'Electric Crafter II'
   type:
     - "&7&oMachine"
   description:
@@ -1628,7 +1628,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_ELECTRIC_CRAFTER_III:
-  name: "&bElectric Crafter III"
+  name: 'Electric Crafter III'
   type:
     - "&7&oMachine"
   description:
@@ -1638,7 +1638,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_ELECTRIC_GEAR_I:
-  name: "&bElectric Gear Machine"
+  name: 'Electric Gear Machine'
   type:
     - "&7&oMachine"
   description:
@@ -1648,7 +1648,7 @@ SUPREME_ELECTRIC_GEAR_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_ELECTRIC_GEAR_II:
-  name: "&bElectric Gear Machine II"
+  name: 'Electric Gear Machine II'
   type:
     - "&7&oMachine"
   description:
@@ -1658,7 +1658,7 @@ SUPREME_ELECTRIC_GEAR_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_ELECTRIC_GEAR_III:
-  name: "&bElectric Gear Machine III"
+  name: 'Electric Gear Machine III'
   type:
     - "&7&oMachine"
   description:
@@ -1668,12 +1668,12 @@ SUPREME_ELECTRIC_GEAR_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_ELECTRIC_ITEM:
-  name: "Eletric Item"
+  name: "Electric"
   type:
     - "&7&oMisc"
 
 SUPREME_ELECTRIC_MAGICAL_I:
-  name: "&bElectric Magical Machine"
+  name: 'Electric Magical Machine'
   type:
     - "&7&oMachine"
   description:
@@ -1683,7 +1683,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_ELECTRIC_MAGICAL_II:
-  name: "&bElectric Magical Machine II"
+  name: 'Electric Magical Machine II'
   type:
     - "&7&oMachine"
   description:
@@ -1693,7 +1693,7 @@ SUPREME_ELECTRIC_MAGICAL_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_ELECTRIC_MAGICAL_III:
-  name: "&bElectric Magical Machine III"
+  name: 'Electric Magical Machine III'
   type:
     - "&7&oMachine"
   description:
@@ -1703,12 +1703,12 @@ SUPREME_ELECTRIC_MAGICAL_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_EMPTY_MOBTECH:
-  name: "&aEmpty MobTech"
+  name: 'Empty MobTech'
   type:
     - "&7&oComponent"
 
 SUPREME_FORGE_INGOT_I:
-  name: "&bForge Ingot"
+  name: 'Forge Ingot'
   type:
     - "&7&oMachine"
   description:
@@ -1721,7 +1721,7 @@ SUPREME_FORGE_INGOT_I:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_FORGE_INGOT_II:
-  name: "&bForge Ingot II"
+  name: 'Forge Ingot II'
   type:
     - "&7&oMachine"
   description:
@@ -1734,7 +1734,7 @@ SUPREME_FORGE_INGOT_II:
     - "&8⇨ &e⚡ &7100 J/s"
 
 SUPREME_FORGE_INGOT_III:
-  name: "&bForge Ingot III"
+  name: 'Forge Ingot III'
   type:
     - "&7&oMachine"
   description:
@@ -1747,7 +1747,7 @@ SUPREME_FORGE_INGOT_III:
     - "&8⇨ &e⚡ &7300 J/s"
 
 SUPREME_FORGE_MAGICAL_I:
-  name: "&bForge Magical"
+  name: "Magical Forge"
   type:
     - "&7&oMachine"
   description:
@@ -1760,7 +1760,7 @@ SUPREME_FORGE_MAGICAL_I:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_FORGE_MAGICAL_II:
-  name: "&bForge Magical II"
+  name: "Magical Forge II"
   type:
     - "&7&oMachine"
   description:
@@ -1773,7 +1773,7 @@ SUPREME_FORGE_MAGICAL_II:
     - "&8⇨ &e⚡ &7100 J/s"
 
 SUPREME_FORGE_MAGICAL_III:
-  name: "&bForge Magical III"
+  name: "Magical Forge III"
   type:
     - "&7&oMachine"
   description:
@@ -1786,7 +1786,7 @@ SUPREME_FORGE_MAGICAL_III:
     - "&8⇨ &e⚡ &7300 J/s"
 
 SUPREME_FOUNDRY_I:
-  name: "&bFoundry"
+  name: 'Foundry'
   type:
     - "&7&oMachine"
   description:
@@ -1796,7 +1796,7 @@ SUPREME_FOUNDRY_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_FOUNDRY_II:
-  name: "&bFoundry II"
+  name: 'Foundry II'
   type:
     - "&7&oMachine"
   description:
@@ -1806,7 +1806,7 @@ SUPREME_FOUNDRY_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_FOUNDRY_III:
-  name: "&bFoundry III"
+  name: 'Foundry III'
   type:
     - "&7&oMachine"
   description:
@@ -1816,177 +1816,177 @@ SUPREME_FOUNDRY_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: "&bGenerator Mob Advanced"
+  name: "Advanced Mob Generator"
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_GENERATOR_MOB_BASIC:
-  name: "&bGenerator Mob Basic"
+  name: "Basic Mob Generator"
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: "&bGenerator Mob Medium"
+  name: "Medium Mob Generator"
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_GENE_BERSERK:
-  name: "&aBerserk Gene"
+  name: 'Berserk Gene'
   type:
     - "&7&oComponent"
 
 SUPREME_GENE_INTELLIGENCE:
-  name: "&fIntelligence Gene"
+  name: 'Intelligence Gene'
   type:
     - "&7&oComponent"
 
 SUPREME_GENE_LUCK:
-  name: "&aLuck Gene"
+  name: 'Luck Gene'
   type:
     - "&7&oComponent"
 
 SUPREME_GOLD_QUARRY:
-  name: "&eGold Quarry"
+  name: 'Gold Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_HELMET_EPIC:
-  name: "&d&lEpic Helmet"
+  name: 'Epic Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Epic helmet of Thornium"
 
 SUPREME_HELMET_LEGENDARY:
-  name: "&6&lLegendary Helmet"
+  name: 'Legendary Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legendary helmet of Thornium"
 
 SUPREME_HELMET_MAGIC:
-  name: "&a&lMagic Helmet"
+  name: 'Magic Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Magic helmet of Thornium"
 
 SUPREME_HELMET_RARE:
-  name: "&b&lRare Helmet"
+  name: 'Rare Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Rare helmet of Thornium"
 
 SUPREME_HELMET_SUPREME:
-  name: "&4&lSupreme Helmet"
+  name: 'Supreme Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Supreme helmet of Thornium"
 
 SUPREME_HELMET_THORNIUM:
-  name: "&f&lThornium Helmet"
+  name: 'Thornium Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA helmet of Thornium"
 
 SUPREME_IGNIS_GENERATOR:
-  name: "&9Ignis Generator"
+  name: 'Ignis Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Generator"
 
 SUPREME_INDUCTIVE_MACHINE:
-  name: "&aInductive Machine"
+  name: 'Inductive Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_INDUCTOR_MACHINE:
-  name: "&aInductor Machine"
+  name: 'Inductor Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_IRIDIUM_PLATE:
-  name: "&aIridium Plate"
+  name: 'Iridium Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_IRON_QUARRY:
-  name: "&eIron Quarry"
+  name: 'Iron Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_LEGGINGS_EPIC:
-  name: "&d&lEpic Leggings"
+  name: 'Epic Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Epic leggings of Thornium"
 
 SUPREME_LEGGINGS_LEGENDARY:
-  name: "&6&lLegendary Leggings"
+  name: 'Legendary Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legendary leggings of Thornium"
 
 SUPREME_LEGGINGS_MAGIC:
-  name: "&a&lMagic Leggings"
+  name: 'Magic Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Magic leggings of Thornium"
 
 SUPREME_LEGGINGS_RARE:
-  name: "&b&lRare Leggings"
+  name: 'Rare Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Rare leggings of Thornium"
 
 SUPREME_LEGGINGS_SUPREME:
-  name: "&4&lSupreme Leggings"
+  name: 'Supreme Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Supreme leggings of Thornium"
 
 SUPREME_LEGGINGS_THORNIUM:
-  name: "&f&lThornium Leggings"
+  name: 'Thornium Leggings'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA leggings of Thornium"
 
 SUPREME_LUMIUM_GENERATOR:
-  name: "&9Lumium Generator"
+  name: 'Lumium Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Generator"
 
 SUPREME_LUX_GENERATOR:
-  name: "&9Lux Generator"
+  name: 'Lux Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Generator"
 
 SUPREME_MAGIC_ALTAR_I:
-  name: "&bMagic Altar"
+  name: 'Magic Altar'
   type:
     - "&7&oMachine"
   description:
@@ -1996,7 +1996,7 @@ SUPREME_MAGIC_ALTAR_I:
     - "&8⇨ &b⚡ &7Speed: &b1.0x"
 
 SUPREME_MAGIC_ALTAR_II:
-  name: "&bMagic Altar II"
+  name: 'Magic Altar II'
   type:
     - "&7&oMachine"
   description:
@@ -2006,7 +2006,7 @@ SUPREME_MAGIC_ALTAR_II:
     - "&8⇨ &b⚡ &7Speed: &b5.0x"
 
 SUPREME_MAGIC_ALTAR_III:
-  name: "&bMagic Altar III"
+  name: 'Magic Altar III'
   type:
     - "&7&oMachine"
   description:
@@ -2016,17 +2016,17 @@ SUPREME_MAGIC_ALTAR_III:
     - "&8⇨ &b⚡ &7Speed: &b15.0x"
 
 SUPREME_MAIN_ITEM:
-  name: "Main item"
+  name: "Supreme"
   type:
     - "&7&oMisc"
 
 SUPREME_MANGANESE_PLATE:
-  name: "&aManganese Plate"
+  name: 'Manganese Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_MOB_COLLECTOR_MACHINE_I:
-  name: "&bMob Collector"
+  name: 'Mob Collector'
   type:
     - "&7&oMachine"
   description:
@@ -2039,7 +2039,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_I:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_MOB_COLLECTOR_MACHINE_II:
-  name: "&bMob Collector II"
+  name: 'Mob Collector II'
   type:
     - "&7&oMachine"
   description:
@@ -2052,7 +2052,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
     - "&8⇨ &e⚡ &7100 J/s"
 
 SUPREME_MOB_COLLECTOR_MACHINE_III:
-  name: "&bMob Collector III"
+  name: 'Mob Collector III'
   type:
     - "&7&oMachine"
   description:
@@ -2065,28 +2065,28 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
     - "&8⇨ &e⚡ &7300 J/s"
 
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: "&6MobTech Collector I"
+  name: "MobTech Collector I (Tool)"
   type:
     - "&7&oTools"
   stats:
     - "&8⇨ &e⚡ &750 J per use"
 
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: "&6MobTech Collector II"
+  name: "MobTech Collector II (Tool)"
   type:
     - "&7&oTools"
   stats:
     - "&8⇨ &e⚡ &750 J per use"
 
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: "&6MobTech Collector III"
+  name: "MobTech Collector III (Tool)"
   type:
     - "&7&oTools"
   stats:
     - "&8⇨ &e⚡ &750 J per use"
 
 MOB_TECH_COLLECTOR_MACHINE:
-  name: "&bMobTech Collector I"
+  name: 'MobTech Collector I'
   type:
     - "&7&oMachine"
   description:
@@ -2094,7 +2094,7 @@ MOB_TECH_COLLECTOR_MACHINE:
     - "&fMobTech head nearby mobs. (3 block)"
 
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
-  name: "&bMobTech Collector II"
+  name: 'MobTech Collector II'
   type:
     - "&7&oMachine"
   description:
@@ -2107,7 +2107,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
-  name: "&bMobTech Collector III"
+  name: 'MobTech Collector III'
   type:
     - "&7&oMachine"
   description:
@@ -2120,7 +2120,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_MULTIBLOCK_CORE:
-  name: "&eCore Fabricator"
+  name: 'Core Fabricator'
   type:
     - "&7&oMachine"
   description:
@@ -2128,7 +2128,7 @@ SUPREME_MULTIBLOCK_CORE:
     - "&aMultiBlock Machine"
 
 SUPREME_MULTIBLOCK_GEAR:
-  name: "&eGear Fabricator"
+  name: 'Gear Fabricator'
   type:
     - "&7&oMachine"
   description:
@@ -2136,7 +2136,7 @@ SUPREME_MULTIBLOCK_GEAR:
     - "&aMultiBlock Machine"
 
 SUPREME_MULTIBLOCK_MAGICAL:
-  name: "&eMagical Fabricator"
+  name: 'Magical Fabricator'
   type:
     - "&7&oMachine"
   description:
@@ -2144,167 +2144,167 @@ SUPREME_MULTIBLOCK_MAGICAL:
     - "&aMultiBlock Machine"
 
 SUPREME_PETRIFIER_MACHINE:
-  name: "&aPetrifier Machine"
+  name: 'Petrifier Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_PICKAXE_EPIC:
-  name: "&d&lEpic Pickaxe"
+  name: 'Epic Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Epic Pickaxe of Thornium"
 
 SUPREME_PICKAXE_LEGENDARY:
-  name: "&6&lLegendary Pickaxe"
+  name: 'Legendary Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Legendary Pickaxe of Thornium"
 
 SUPREME_PICKAXE_MAGIC:
-  name: "&a&lMagic Pickaxe"
+  name: 'Magic Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Magic Pickaxe of Thornium"
 
 SUPREME_PICKAXE_RARE:
-  name: "&b&lRare Pickaxe"
+  name: 'Rare Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Rare Pickaxe of Thornium"
 
 SUPREME_PICKAXE_SUPREME:
-  name: "&4&lSupreme Pickaxe"
+  name: 'Supreme Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Supreme Pickaxe of Thornium"
 
 SUPREME_PICKAXE_THORNIUM:
-  name: "&f&lThornium Pickaxe"
+  name: 'Thornium Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Pickaxe of Thornium"
 
 SUPREME_PLATINUM_PLATE:
-  name: "&aPlatinum Plate"
+  name: 'Platinum Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_RUSTLESS_MACHINE:
-  name: "&aRustless Machine"
+  name: 'Rustless Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_SHIELD_EPIC:
-  name: "&d&lEpic Shield"
+  name: 'Epic Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Epic Shield of Thornium"
 
 SUPREME_SHIELD_LEGENDARY:
-  name: "&6&lLegendary Shield"
+  name: 'Legendary Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Legendary Shield of Thornium"
 
 SUPREME_SHIELD_MAGIC:
-  name: "&a&lMagic Shield"
+  name: 'Magic Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Magic Shield of Thornium"
 
 SUPREME_SHIELD_RARE:
-  name: "&b&lRare Shield"
+  name: 'Rare Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Rare Shield of Thornium"
 
 SUPREME_SHIELD_SUPREME:
-  name: "&4&lSupreme Shield"
+  name: 'Supreme Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Supreme Shield of Thornium"
 
 SUPREME_SHIELD_THORNIUM:
-  name: "&f&lThornium Shield"
+  name: 'Thornium Shield'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Shield of Thornium"
 
 SUPREME_SHOVEL_EPIC:
-  name: "&d&lEpic Shovel"
+  name: 'Epic Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Epic Shovel of Thornium"
 
 SUPREME_SHOVEL_LEGENDARY:
-  name: "&6&lLegendary Shovel"
+  name: 'Legendary Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Legendary Shovel of Thornium"
 
 SUPREME_SHOVEL_MAGIC:
-  name: "&a&lMagic Shovel"
+  name: 'Magic Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Magic Shovel of Thornium"
 
 SUPREME_SHOVEL_RARE:
-  name: "&b&lRare Shovel"
+  name: 'Rare Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Rare Shovel of Thornium"
 
 SUPREME_SHOVEL_SUPREME:
-  name: "&4&lSupreme Shovel"
+  name: 'Supreme Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Supreme Shovel of Thornium"
 
 SUPREME_SHOVEL_THORNIUM:
-  name: "&f&lThornium Shovel"
+  name: 'Thornium Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Shovel of Thornium"
 
 SUPREME_STAINLESS_MACHINE:
-  name: "&aStainless Machine"
+  name: 'Stainless Machine'
   type:
     - "&7&oAdvanced Components"
 
 SUPREME_STONE_QUARRY:
-  name: "&eStone Quarry"
+  name: 'Stone Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&aMedium Machine"
 
 SUPREME_SUPREME:
-  name: "&aSupreme"
+  name: 'Supreme'
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7The Supreme"
 
 SUPREME_SUPREME_CAPACITOR:
-  name: "&9Supreme Capacitor"
+  name: 'Supreme Capacitor'
   type:
     - "&7&oMachine"
   stats:
@@ -2312,80 +2312,80 @@ SUPREME_SUPREME_CAPACITOR:
     - "&8⇨ &e⚡ &7Infinite J Capacity"
 
 SUPREME_SUPREME_GENERATOR:
-  name: "&9Supreme Generator"
+  name: 'Supreme Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&4End-Game Generator"
 
 SUPREME_SUPREME_NUGGET:
-  name: "&aNugget Supreme"
+  name: "Supreme Nugget"
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Quarry Nugget Supreme"
 
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: "&eNuggets of Supreme Quarry"
+  name: "Supreme Nugget Quarry"
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_SWORD_EPIC:
-  name: "&d&lEpic Sword"
+  name: 'Epic Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Epic Sword of Thornium"
 
 SUPREME_SWORD_LEGENDARY:
-  name: "&6&lLegendary Sword"
+  name: 'Legendary Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Legendary Sword of Thornium"
 
 SUPREME_SWORD_MAGIC:
-  name: "&a&lMagic Sword"
+  name: 'Magic Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Magic Sword of Thornium"
 
 SUPREME_SWORD_RARE:
-  name: "&b&lRare Sword"
+  name: 'Rare Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Rare Sword of Thornium"
 
 SUPREME_SWORD_SUPREME:
-  name: "&4&lSupreme Sword"
+  name: 'Supreme Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Supreme Sword of Thornium"
 
 SUPREME_SWORD_THORNIUM:
-  name: "&f&lThornium Sword"
+  name: 'Thornium Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Sword of Thornium"
 
 SUPREME_SYNTHETIC_AMETHYST:
-  name: "&aSynthetic Amethyst"
+  name: 'Synthetic Amethyst'
   type:
     - "&7&oComponents"
 
 SUPREME_SYNTHETIC_RUBY:
-  name: "&aSynthetic Ruby"
+  name: 'Synthetic Ruby'
   type:
     - "&7&oComponents"
 
 SUPREME_TECH_GENERATOR:
-  name: "&bTech Generator"
+  name: 'Tech Generator'
   type:
     - "&7&oMachine"
   description:
@@ -2395,7 +2395,7 @@ SUPREME_TECH_GENERATOR:
     - "&4End-Game Machine"
 
 SUPREME_TECH_MUTATION_I:
-  name: "&bTech Mutation"
+  name: 'Tech Mutation'
   type:
     - "&7&oMachine"
   description:
@@ -2405,7 +2405,7 @@ SUPREME_TECH_MUTATION_I:
     - "&4End-Game Machine"
 
 SUPREME_TECH_MUTATION_II:
-  name: "&bTech Mutation II"
+  name: 'Tech Mutation II'
   type:
     - "&7&oMachine"
   description:
@@ -2416,7 +2416,7 @@ SUPREME_TECH_MUTATION_II:
     - "&4End-Game Machine"
 
 SUPREME_TECH_MUTATION_III:
-  name: "&bTech Mutation III"
+  name: 'Tech Mutation III'
   type:
     - "&7&oMachine"
   description:
@@ -2427,7 +2427,7 @@ SUPREME_TECH_MUTATION_III:
     - "&4End-Game Machine"
 
 SUPREME_TECH_ROBOTIC:
-  name: "&bTech Robotic"
+  name: 'Tech Robotic'
   type:
     - "&7&oMachine"
   description:
@@ -2438,7 +2438,7 @@ SUPREME_TECH_ROBOTIC:
     - "&4End-Game Machine"
 
 SUPREME_TECH_ROBOTIC_II:
-  name: "&bTech Robotic II"
+  name: 'Tech Robotic II'
   type:
     - "&7&oMachine"
   description:
@@ -2449,7 +2449,7 @@ SUPREME_TECH_ROBOTIC_II:
     - "&4End-Game Machine"
 
 SUPREME_TECH_ROBOTIC_III:
-  name: "&bTech Robotic III"
+  name: 'Tech Robotic III'
   type:
     - "&7&oMachine"
   description:
@@ -2460,26 +2460,26 @@ SUPREME_TECH_ROBOTIC_III:
     - "&4End-Game Machine"
 
 SUPREME_THORNERITE:
-  name: "&aThornerite"
+  name: 'Thornerite'
   type:
     - "&7&oEnd-Game Components"
 
 SUPREME_THORNIUM_BIT:
-  name: "&aThornium Bit"
+  name: 'Thornium Bit'
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Quarry Thornium"
 
 SUPREME_THORNIUM_BIT_SYNTHETIC:
-  name: "&aThornium Bit Synthetic"
+  name: "Synthetic Thornium Bit"
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Bit"
 
 SUPREME_THORNIUM_CAPACITOR:
-  name: "&9Thornium Capacitor"
+  name: 'Thornium Capacitor'
   type:
     - "&7&oMachine"
   stats:
@@ -2487,77 +2487,77 @@ SUPREME_THORNIUM_CAPACITOR:
     - "&8⇨ &e⚡ &7100,000,000.00 J Capacity"
 
 SUPREME_THORNIUM_CARBONADO:
-  name: "&aThornium Carbonado"
+  name: 'Thornium Carbonado'
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Ingot"
 
 SUPREME_THORNIUM_DUST:
-  name: "&aThornium Dust"
+  name: 'Thornium Dust'
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Bit"
 
 SUPREME_THORNIUM_DUST_SYNTHETIC:
-  name: "&aThornium Dust Synthetic"
+  name: "Synthetic Thornium Dust"
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Dust"
 
 SUPREME_THORNIUM_ENERGIZED:
-  name: "&aThornium Energized"
+  name: "Energized Thornium"
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Ingot"
 
 SUPREME_THORNIUM_GENERATOR:
-  name: "&9Thornium Generator"
+  name: 'Thornium Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&4End-Game Generator"
 
 SUPREME_THORNIUM_INGOT:
-  name: "&aThornium Ingot"
+  name: 'Thornium Ingot'
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Dust"
 
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
-  name: "&aThornium Ingot Synthetic"
+  name: "Synthetic Thornium Ingot"
   type:
     - "&7&oEnd-Game Components"
   description:
     - "&7From the Thornium Ingot"
 
 SUPREME_THORNIUM_QUARRY:
-  name: "&eThornium Quarry"
+  name: 'Thornium Quarry'
   type:
     - "&7&oMachine"
   stats:
     - "&6Advanced Machine"
 
 SUPREME_TITANIUM_AXE:
-  name: "&f&lTitanium Axe"
+  name: 'Titanium Axe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Axe of Titanium"
 
 SUPREME_TITANIUM_BOOTS:
-  name: "&f&lTitanium Boots"
+  name: 'Titanium Boots'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Boots of Titanium"
 
 SUPREME_TITANIUM_CAPACITOR:
-  name: "&9Titanium Capacitor"
+  name: 'Titanium Capacitor'
   type:
     - "&7&oMachine"
   stats:
@@ -2565,61 +2565,61 @@ SUPREME_TITANIUM_CAPACITOR:
     - "&8⇨ &e⚡ &74,000,000.00 J Capacity"
 
 SUPREME_TITANIUM_CHESTPLATE:
-  name: "&f&lTitanium Chestplate"
+  name: 'Titanium Chestplate'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Chestplate of Titanium"
 
 SUPREME_TITANIUM_HELMET:
-  name: "&f&lTitanium Helmet"
+  name: 'Titanium Helmet'
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Helmet of Titanium"
 
 SUPREME_TITANIUM_LEGGINGS:
-  name: "&f&lTitanium Legging"
+  name: "Titanium Leggings"
   type:
     - "&7&oArmor"
   description:
     - "&f&lA Legging of Titanium"
 
 SUPREME_TITANIUM_PICKAXE:
-  name: "&f&lTitanium Pickaxe"
+  name: 'Titanium Pickaxe'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Pickaxe of Titanium"
 
 SUPREME_TITANIUM_PLATE:
-  name: "&aTitanium Plate"
+  name: 'Titanium Plate'
   type:
     - "&7&oComponents"
 
 SUPREME_TITANIUM_SHOVEL:
-  name: "&f&lTitanium Shovel"
+  name: 'Titanium Shovel'
   type:
     - "&7&oTools"
   description:
     - "&f&lA Shovel of Titanium"
 
 SUPREME_TITANIUM_SWORD:
-  name: "&f&lTitanium Sword"
+  name: 'Titanium Sword'
   type:
     - "&7&oWeapons"
   description:
     - "&f&lA Sword of Titanium"
 
 SUPREME_VENTUS_GENERATOR:
-  name: "&9Ventus Generator"
+  name: 'Ventus Generator'
   type:
     - "&7&oMachine"
   stats:
     - "&eBasic Generator"
 
 SUPREME_VIRTUAL_AQUARIUM_I:
-  name: "&bVirtual Aquarium"
+  name: 'Virtual Aquarium'
   type:
     - "&7&oMachine"
   description:
@@ -2632,7 +2632,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_VIRTUAL_AQUARIUM_II:
-  name: "&bVirtual Aquarium II"
+  name: 'Virtual Aquarium II'
   type:
     - "&7&oMachine"
   description:
@@ -2645,7 +2645,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
     - "&8⇨ &e⚡ &7100 J/s"
 
 SUPREME_VIRTUAL_AQUARIUM_III:
-  name: "&bVirtual Aquarium III"
+  name: 'Virtual Aquarium III'
   type:
     - "&7&oMachine"
   description:
@@ -2658,7 +2658,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
     - "&8⇨ &e⚡ &7300 J/s"
 
 SUPREME_VIRTUAL_GARDEN_I:
-  name: "&bVirtual Garden"
+  name: 'Virtual Garden'
   type:
     - "&7&oMachine"
   description:
@@ -2671,7 +2671,7 @@ SUPREME_VIRTUAL_GARDEN_I:
     - "&8⇨ &e⚡ &720 J/s"
 
 SUPREME_VIRTUAL_GARDEN_II:
-  name: "&bVirtual Garden II"
+  name: 'Virtual Garden II'
   type:
     - "&7&oMachine"
   description:
@@ -2684,7 +2684,7 @@ SUPREME_VIRTUAL_GARDEN_II:
     - "&8⇨ &e⚡ &7100 J/s"
 
 SUPREME_VIRTUAL_GARDEN_III:
-  name: "&bVirtual Garden III"
+  name: 'Virtual Garden III'
   type:
     - "&7&oMachine"
   description:
@@ -2697,6 +2697,6 @@ SUPREME_VIRTUAL_GARDEN_III:
     - "&8⇨ &e⚡ &7300 J/s"
 
 SUPREME_ZIRCONIUM_PLATE:
-  name: "&aZirconium Plate"
+  name: 'Zirconium Plate'
   type:
     - "&7&oComponents"

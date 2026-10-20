@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&fŠī mašīna ļauj tev savākt '
   - '&fMobTech galvas no tuvumā esošajiem mobiem. (3 bloki)'
-  name: '&bMobTech savācējs I'
+  name: 'MobTech savācējs I'
   type:
   - '&7&oMašīna'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&lCirvis no Adamantium'
-  name: '&f&lAdamantium cirvis'
+  name: 'Adamantium cirvis'
   type:
   - '&7&oRīki'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&lZābaki no Adamantium'
-  name: '&f&lAdamantium zābaki'
+  name: 'Adamantium zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9Adamantium kondensators'
+  name: 'Adamantium kondensators'
   stats:
   - '&6Progresīvs kondensators'
   - '&8⇨ &e⚡ &716,000,000.00 J ietilpība'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&lKrūšu bruņas no Adamantium'
-  name: '&f&lAdamantium krūšu bruņas'
+  name: 'Adamantium krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&lĶivere no Adamantium'
-  name: '&f&lAdamantium ķivere'
+  name: 'Adamantium ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&lBikses no Adamantium'
-  name: '&f&lAdamantium bikses'
+  name: 'Adamantium bikses'
   type:
   - '&7&oBruņas'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&lCērte no Adamantium'
-  name: '&f&lAdamantium cērte'
+  name: 'Adamantium cērte'
   type:
   - '&7&oRīki'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&aAdamantium plāksne'
+  name: 'Adamantium plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&lLāpsta no Adamantium'
-  name: '&f&lAdamantium lāpsta'
+  name: 'Adamantium lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&lZobens no Adamantium'
-  name: '&f&lAdamantium zobens'
+  name: 'Adamantium zobens'
   type:
   - '&7&oIeroči'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&aAdamantium sakausējums'
+  name: 'Adamantium sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_AURUM:
-  name: '&aAurum sakausējums'
+  name: 'Aurum sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&aIrīdija sakausējums'
+  name: 'Irīdija sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_MANGANESE:
-  name: '&aMangāna sakausējums'
+  name: 'Mangāna sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_PLATINUM:
-  name: '&aPlatīna sakausējums'
+  name: 'Platīna sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_TITANIUM:
-  name: '&aTitāna sakausējums'
+  name: 'Titāna sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&aCirkonija sakausējums'
+  name: 'Cirkonija sakausējums'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_AQUA_GENERATOR:
-  name: '&9Aqua ģenerators'
+  name: 'Aqua ģenerators'
   stats:
   - '&6Progresīvs ģenerators'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7Super bumbas atribūts ar īpašiem efektiem'
-  name: '&aBumbas atribūts'
+  name: 'Bumbas atribūts'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7Super veiksmes atribūts ar īpašiem efektiem'
-  name: '&aVeiksmes atribūts'
+  name: 'Veiksmes atribūts'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7Super impetus atribūts ar īpašiem efektiem'
-  name: '&aImpetus atribūts'
+  name: 'Impetus atribūts'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7Super maģijas atribūts ar īpašiem efektiem'
-  name: '&aMaģijas atribūts'
+  name: 'Maģijas atribūts'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_AURUM_AXE:
   description:
   - '&f&lCirvis no Aurum'
-  name: '&f&lAurum cirvis'
+  name: 'Aurum cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&lZābaki no Aurum'
-  name: '&f&lAurum zābaki'
+  name: 'Aurum zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9Aurum kondensators'
+  name: 'Aurum kondensators'
   stats:
   - '&6Progresīvs kondensators'
   - '&8⇨ &e⚡ &71,000,000.00 J ietilpība'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&lKrūšu bruņas no Aurum'
-  name: '&f&lAurum krūšu bruņas'
+  name: 'Aurum krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&lĶivere no Aurum'
-  name: '&f&lAurum ķivere'
+  name: 'Aurum ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&lBikses no Aurum'
-  name: '&f&lAurum bikses'
+  name: 'Aurum bikses'
   type:
   - '&7&oBruņas'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&lCērte no Aurum'
-  name: '&f&lAurum cērte'
+  name: 'Aurum cērte'
   type:
   - '&7&oRīki'
 SUPREME_AURUM_PLATE:
-  name: '&aAurum plāksne'
+  name: 'Aurum plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&lLāpsta no Aurum'
-  name: '&f&lAurum lāpsta'
+  name: 'Aurum lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&lZobens no Aurum'
-  name: '&f&lAurum zobens'
+  name: 'Aurum zobens'
   type:
   - '&7&oIeroči'
 SUPREME_AXE_EPIC:
   description:
   - '&f&lEpisks cirvis no Thornium'
-  name: '&d&lEpiskais cirvis'
+  name: 'Episkais cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&lLeģendārs cirvis no Thornium'
-  name: '&6&lLeģendārais cirvis'
+  name: 'Leģendārais cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&lMaģisks cirvis no Thornium'
-  name: '&a&lMaģiskais cirvis'
+  name: 'Maģiskais cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AXE_RARE:
   description:
   - '&f&lRets cirvis no Thornium'
-  name: '&b&lRetais cirvis'
+  name: 'Retais cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&lAugstākais cirvis no Thornium'
-  name: '&4&lAugstākais cirvis'
+  name: 'Augstākais cirvis'
   type:
   - '&7&oRīki'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&lCirvis no Thornium'
-  name: '&f&lThornium cirvis'
+  name: 'Thornium cirvis'
   type:
   - '&7&oRīki'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9Pamata Aqua ģenerators'
+  name: 'Pamata Aqua ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9Pamata Ignis ģenerators'
+  name: 'Pamata Ignis ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9Pamata Lumium ģenerators'
+  name: 'Pamata Lumium ģenerators'
   stats:
   - '&6Progresīvs ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9Pamata Lux ģenerators'
+  name: 'Pamata Lux ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9Pamata Ventus ģenerators'
+  name: 'Pamata Ventus ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_BLEND_MACHINE:
-  name: '&aJaukšanas mašīna'
+  name: 'Jaukšanas mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&lEpiski zābaki no Thornium'
-  name: '&d&lEpiskie zābaki'
+  name: 'Episkie zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&lLeģendāri zābaki no Thornium'
-  name: '&6&lLeģendārie zābaki'
+  name: 'Leģendārie zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&lMaģiski zābaki no Thornium'
-  name: '&a&lMaģiskie zābaki'
+  name: 'Maģiskie zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&lReti zābaki no Thornium'
-  name: '&b&lRetie zābaki'
+  name: 'Retie zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&lAugstākie zābaki no Thornium'
-  name: '&4&lAugstākie zābaki'
+  name: 'Augstākie zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&lZābaki no Thornium'
-  name: '&f&lThornium zābaki'
+  name: 'Thornium zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_BOW_EPIC:
   description:
   - '&f&lEpisks loks no Thornium'
-  name: '&d&lEpiskais loks'
+  name: 'Episkais loks'
   type:
   - '&7&oIeroči'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&lLeģendārs loks no Thornium'
-  name: '&6&lLeģendārais loks'
+  name: 'Leģendārais loks'
   type:
   - '&7&oIeroči'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&lMaģisks loks no Thornium'
-  name: '&a&lMaģiskais loks'
+  name: 'Maģiskais loks'
   type:
   - '&7&oIeroči'
 SUPREME_BOW_RARE:
   description:
   - '&f&lRets loks no Thornium'
-  name: '&b&lRetais loks'
+  name: 'Retais loks'
   type:
   - '&7&oIeroči'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&lAugstākais loks no Thornium'
-  name: '&4&lAugstākais loks'
+  name: 'Augstākais loks'
   type:
   - '&7&oIeroči'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&lLoks no Thornium'
-  name: '&f&lThornium loks'
+  name: 'Thornium loks'
   type:
   - '&7&oIeroči'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fMainīt ražošanu uz alumīnija misiņa lietni'
-  name: '&bMašīnas karte: alumīnija misiņa lietnis'
+  name: "Mašīnas karte (alumīnija misiņa lietnis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fMainīt ražošanu uz alumīnija bronzas lietni'
-  name: '&bMašīnas karte: alumīnija bronzas lietnis'
+  name: "Mašīnas karte (alumīnija bronzas lietnis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fMainīt ražošanu uz alumīnija putekļus'
-  name: '&bMašīnas karte: alumīnija putekļi'
+  name: "Mašīnas karte (alumīnija putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fMainīt ražošanu uz ametistu'
-  name: '&bMašīnas karte: ametists'
+  name: "Mašīnas karte (ametists)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fMainīt ražošanu uz andezītu'
-  name: '&bMašīnas karte: andezīts'
+  name: "Mašīnas karte (andezīts)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fMainīt ražošanu uz ābolu'
-  name: '&bMašīnas karte: ābols'
+  name: "Mašīnas karte (ābols)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fMainīt ražošanu uz bateriju'
-  name: '&bMašīnas karte: baterija'
+  name: "Mašīnas karte (baterija)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fMainīt ražošanu uz biljona lietni'
-  name: '&bMašīnas karte: biljona lietnis'
+  name: "Mašīnas karte (biljona lietnis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fMainīt ražošanu uz Blaze stieni'
-  name: '&bMašīnas karte: Blaze stienis'
+  name: "Mašīnas karte (Blaze stienis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fMainīt ražošanu uz misiņa lietni'
-  name: '&bMašīnas karte: misiņa lietnis'
+  name: "Mašīnas karte (misiņa lietnis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fMainīt ražošanu uz bronzas lietni'
-  name: '&bMašīnas karte: bronzas lietnis'
+  name: "Mašīnas karte (bronzas lietnis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fMainīt ražošanu uz oglekli'
-  name: '&bMašīnas karte: ogleklis'
+  name: "Mašīnas karte (ogleklis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fMainīt ražošanu uz karbonado'
-  name: '&bMašīnas karte: karbonado'
+  name: "Mašīnas karte (karbonado)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fMainīt ražošanu uz saspiestu oglekli'
-  name: '&bMašīnas karte: saspiests ogleklis'
+  name: "Mašīnas karte (saspiests ogleklis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fMainīt ražošanu uz mālu'
-  name: '&bMašīnas karte: māls'
+  name: "Mašīnas karte (māls)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fMainīt ražošanu uz oglēm'
-  name: '&bMašīnas karte: ogles'
+  name: "Mašīnas karte (ogles)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fMainīt ražošanu uz kobaltu'
-  name: '&bMašīnas karte: kobalts'
+  name: "Mašīnas karte (kobalts)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fMainīt ražošanu uz varu'
-  name: '&bMašīnas karte: varš'
+  name: "Mašīnas karte (varš)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fMainīt ražošanu uz vara putekļus'
-  name: '&bMašīnas karte: vara putekļi'
+  name: "Mašīnas karte (vara putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fMainīt ražošanu uz korintiešu bronzas lietni'
-  name: '&bMašīnas karte: korintiešu bronzas lietnis'
+  name: "Mašīnas karte (korintiešu bronzas lietnis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fMainīt ražošanu uz damasku'
-  name: '&bMašīnas karte: damasks'
+  name: "Mašīnas karte (damasks)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fMainīt ražošanu uz dimantu'
-  name: '&bMašīnas karte: dimants'
+  name: "Mašīnas karte (dimants)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fMainīt ražošanu uz diorītu'
-  name: '&bMašīnas karte: diorīts'
+  name: "Mašīnas karte (diorīts)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fMainīt ražošanu uz duralumīnija lietni'
-  name: '&bMašīnas karte: duralumīnija lietnis'
+  name: "Mašīnas karte (duralumīnija lietnis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fMainīt ražošanu uz elektromotoru'
-  name: '&bMašīnas karte: elektromotors'
+  name: "Mašīnas karte (elektromotors)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fMainīt ražošanu uz elektromagnētu'
-  name: '&bMašīnas karte: elektromagnēts'
+  name: "Mašīnas karte (elektromagnēts)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fMainīt ražošanu uz smaragdu'
-  name: '&bMašīnas karte: smaragds'
+  name: "Mašīnas karte (smaragds)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fMainīt ražošanu uz Enda akmeni'
-  name: '&bMašīnas karte: Enda akmens'
+  name: "Mašīnas karte (Enda akmens)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fMainīt ražošanu uz ferosilīciju'
-  name: '&bMašīnas karte: ferosilīcijs'
+  name: "Mašīnas karte (ferosilīcijs)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fMainīt ražošanu uz mirdzošo tintes maisiņu'
-  name: '&bMašīnas karte: mirdzošais tintes maisiņš'
+  name: "Mašīnas karte (mirdzošais tintes maisiņš)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fMainīt ražošanu uz zeltu'
-  name: '&bMašīnas karte: zelts'
+  name: "Mašīnas karte (zelts)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fMainīt ražošanu uz 24k zeltu'
-  name: '&bMašīnas karte: 24k zelts'
+  name: "Mašīnas karte (24k zelts)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fMainīt ražošanu uz zelta putekļus'
-  name: '&bMašīnas karte: zelta putekļi'
+  name: "Mašīnas karte (zelta putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fMainīt ražošanu uz granītu'
-  name: '&bMašīnas karte: granīts'
+  name: "Mašīnas karte (granīts)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fMainīt ražošanu uz granti'
-  name: '&bMašīnas karte: grants'
+  name: "Mašīnas karte (grants)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fMainīt ražošanu uz rūdīta metāla lietni'
-  name: '&bMašīnas karte: rūdīta metāla lietnis'
+  name: "Mašīnas karte (rūdīta metāla lietnis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fMainīt ražošanu uz sildspirāli'
-  name: '&bMašīnas karte: sildspirāle'
+  name: "Mašīnas karte (sildspirāle)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fMainīt ražošanu uz medus pudeli'
-  name: '&bMašīnas karte: medus pudele'
+  name: "Mašīnas karte (medus pudele)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fMainīt ražošanu uz tintes maisiņu'
-  name: '&bMašīnas karte: tintes maisiņš'
+  name: "Mašīnas karte (tintes maisiņš)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fMainīt ražošanu uz dzelzi'
-  name: '&bMašīnas karte: dzelzs'
+  name: "Mašīnas karte (dzelzs)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fMainīt ražošanu uz dzelzs putekļus'
-  name: '&bMašīnas karte: dzelzs putekļi'
+  name: "Mašīnas karte (dzelzs putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fMainīt ražošanu uz lazurītu'
-  name: '&bMašīnas karte: lazurīts'
+  name: "Mašīnas karte (lazurīts)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fMainīt ražošanu uz svina putekļus'
-  name: '&bMašīnas karte: svina putekļi'
+  name: "Mašīnas karte (svina putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fMainīt ražošanu uz magnija putekļus'
-  name: '&bMašīnas karte: magnija putekļi'
+  name: "Mašīnas karte (magnija putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fMainīt ražošanu uz magnētu'
-  name: '&bMašīnas karte: magnēts'
+  name: "Mašīnas karte (magnēts)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fMainīt ražošanu uz netherītu'
-  name: '&bMašīnas karte: netherīts'
+  name: "Mašīnas karte (netherīts)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fMainīt ražošanu uz Nether zvaigzni'
-  name: '&bMašīnas karte: Nether zvaigzne'
+  name: "Mašīnas karte (Nether zvaigzne)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fMainīt ražošanu uz niķeli'
-  name: '&bMašīnas karte: niķelis'
+  name: "Mašīnas karte (niķelis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fMainīt ražošanu uz plastmasas loksni'
-  name: '&bMašīnas karte: plastmasas loksne'
+  name: "Mašīnas karte (plastmasas loksne)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fMainīt ražošanu uz kvarcu'
-  name: '&bMašīnas karte: kvarcs'
+  name: "Mašīnas karte (kvarcs)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fMainīt ražošanu uz kvarca bloku'
-  name: '&bMašīnas karte: kvarca bloks'
+  name: "Mašīnas karte (kvarca bloks)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fMainīt ražošanu uz sarkanakmeni'
-  name: '&bMašīnas karte: sarkanakmens'
+  name: "Mašīnas karte (sarkanakmens)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fMainīt ražošanu uz sarkanakmens sakausējumu'
-  name: '&bMašīnas karte: sarkanakmens sakausējums'
+  name: "Mašīnas karte (sarkanakmens sakausējums)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fMainīt ražošanu uz pastiprināta sakausējuma lietni'
-  name: '&bMašīnas karte: pastiprināta sakausējuma lietnis'
+  name: "Mašīnas karte (pastiprināta sakausējuma lietnis)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fMainīt ražošanu uz smiltīm'
-  name: '&bMašīnas karte: smiltis'
+  name: "Mašīnas karte (smiltis)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fMainīt ražošanu uz silīciju'
-  name: '&bMašīnas karte: silīcijs'
+  name: "Mašīnas karte (silīcijs)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fMainīt ražošanu uz sudraba putekļus'
-  name: '&bMašīnas karte: sudraba putekļi'
+  name: "Mašīnas karte (sudraba putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fMainīt ražošanu uz gļotu bumbu'
-  name: '&bMašīnas karte: gļotu bumba'
+  name: "Mašīnas karte (gļotu bumba)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fMainīt ražošanu uz sniegu'
-  name: '&bMašīnas karte: sniegs'
+  name: "Mašīnas karte (sniegs)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fMainīt ražošanu uz lodmetāla lietni'
-  name: '&bMašīnas karte: lodmetāla lietnis'
+  name: "Mašīnas karte (lodmetāla lietnis)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fMainīt ražošanu uz tēraudu'
-  name: '&bMašīnas karte: tērauds'
+  name: "Mašīnas karte (tērauds)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fMainīt ražošanu uz akmeni'
-  name: '&bMašīnas karte: akmens'
+  name: "Mašīnas karte (akmens)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fMainīt ražošanu uz sulfātu'
-  name: '&bMašīnas karte: sulfāts'
+  name: "Mašīnas karte (sulfāts)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fMainīt ražošanu uz sintētisku dimantu'
-  name: '&bMašīnas karte: sintētisks dimants'
+  name: "Mašīnas karte (sintētisks dimants)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fMainīt ražošanu uz sintētisku smaragdu'
-  name: '&bMašīnas karte: sintētisks smaragds'
+  name: "Mašīnas karte (sintētisks smaragds)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fMainīt ražošanu uz sintētisku safīru'
-  name: '&bMašīnas karte: sintētisks safīrs'
+  name: "Mašīnas karte (sintētisks safīrs)"
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fMainīt ražošanu uz alvas putekļus'
-  name: '&bMašīnas karte: alvas putekļi'
+  name: "Mašīnas karte (alvas putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fMainīt ražošanu uz Wither rozi'
-  name: '&bMašīnas karte: Wither roze'
+  name: "Mašīnas karte (Wither roze)"
   stats:
   - '&ePamata mašīna'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fMainīt ražošanu uz cinka putekļus'
-  name: '&bMašīnas karte: cinka putekļi'
+  name: "Mašīnas karte (cinka putekļi)"
   stats:
   - '&aVidēja mašīna'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&aPārvadāšanas mašīna'
+  name: 'Pārvadāšanas mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&fMašīnas komponents priekšmetu ražošanai'
-  name: '&aProgresīvs kartes komponents'
+  name: 'Progresīvs kartes komponents'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&fMašīnas komponents priekšmetu ražošanai'
-  name: '&aPamata kartes komponents'
+  name: 'Pamata kartes komponents'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&fMašīnas komponents priekšmetu ražošanai'
-  name: '&aGalējais kartes komponents'
+  name: 'Galējais kartes komponents'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7Super aqua scepteris'
-  name: '&aCetrus Aqua'
+  name: 'Cetrus Aqua'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7Super ignis scepteris'
-  name: '&aCetrus Ignis'
+  name: 'Cetrus Ignis'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7Super lumium scepteris'
-  name: '&aCetrus Lumium'
+  name: 'Cetrus Lumium'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CETRUS_LUX:
   description:
   - '&7Super lux scepteris'
-  name: '&aCetrus Lux'
+  name: 'Cetrus Lux'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7Super ventus scepteris'
-  name: '&aCetrus Ventus'
+  name: 'Cetrus Ventus'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&fPārbauda, vai tuvumā esošajā lādē ir filtra priekšmets'
   - '&fvērā tiek ņemtas visas puses (atrod pirmo)'
   - '&fja atrasts, šis bloks iedegsies'
-  name: '&bInventāraPārbaude'
+  name: "Inventāra pārbaudītājs"
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&lEpiskas krūšu bruņas no Thornium'
-  name: '&d&lEpiskās krūšu bruņas'
+  name: 'Episkās krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&lLeģendāras krūšu bruņas no Thornium'
-  name: '&6&lLeģendārās krūšu bruņas'
+  name: 'Leģendārās krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&lMaģiskas krūšu bruņas no Thornium'
-  name: '&a&lMaģiskās krūšu bruņas'
+  name: 'Maģiskās krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&lRetas krūšu bruņas no Thornium'
-  name: '&b&lRetās krūšu bruņas'
+  name: 'Retās krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&lAugstākās krūšu bruņas no Thornium'
-  name: '&4&lAugstākās krūšu bruņas'
+  name: 'Augstākās krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&lKrūšu bruņas no Thornium'
-  name: '&f&lThornium krūšu bruņas'
+  name: 'Thornium krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_COAL_QUARRY:
-  name: '&eOgļu karjers'
+  name: 'Ogļu karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
   - '&7&oMašīna'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&aTransportēšanas mašīna'
+  name: 'Transportēšanas mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7Super akācija'
-  name: '&aAugstākais akācijas baļķis'
+  name: 'Augstākais akācijas baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7Super andezīts'
-  name: '&aAugstākais andezīts'
+  name: 'Augstākais andezīts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_APPLE:
   description:
   - '&7Super ābols'
-  name: '&aAugstākais ābols'
+  name: 'Augstākais ābols'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_BEEF:
   description:
   - '&7Super liellopa gaļa'
-  name: '&aAugstākā liellopa gaļa'
+  name: 'Augstākā liellopa gaļa'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7Super biete'
-  name: '&aAugstākā biete'
+  name: 'Augstākā biete'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7Super bērzs'
-  name: '&aAugstākais bērza baļķis'
+  name: 'Augstākais bērza baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_BLACK:
   description:
   - '&7Super melnais'
-  name: '&aAugstākais melnais'
+  name: 'Augstākais melnais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_BLUE:
   description:
   - '&7Super zilais'
-  name: '&aAugstākais zilais'
+  name: 'Augstākais zilais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_CARROT:
   description:
   - '&7Augstākais burkāns'
-  name: '&aAugstākais burkāns'
+  name: 'Augstākais burkāns'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7Super vista'
-  name: '&aAugstākā vista'
+  name: 'Augstākā vista'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_CLAY:
   description:
   - '&7Super māls'
-  name: '&aAugstākais māls'
+  name: 'Augstākais māls'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_COAL:
   description:
   - '&7Super ogles'
-  name: '&aAugstākās ogles'
+  name: 'Augstākās ogles'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_COD:
   description:
   - '&7Super menca'
-  name: '&aAugstākā menca'
+  name: 'Augstākā menca'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7Super sārtais'
-  name: '&aAugstākais sārtais stumbrs'
+  name: 'Augstākais sārtais stumbrs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_CYAN:
   description:
   - '&7Super zilganais'
-  name: '&aAugstākais zilganais'
+  name: 'Augstākais zilganais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7Super tumšais'
-  name: '&aAugstākais tumšā ozola baļķis'
+  name: 'Augstākais tumšā ozola baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7Super dimants'
-  name: '&aAugstākais dimants'
+  name: 'Augstākais dimants'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_DIORITE:
   description:
   - '&7Super diorīts'
-  name: '&aAugstākais diorīts'
+  name: 'Augstākais diorīts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_EMERALD:
   description:
   - '&7Super smaragds'
-  name: '&aAugstākais smaragds'
+  name: 'Augstākais smaragds'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7Super Enda akmens'
-  name: '&aAugstākais Enda akmens'
+  name: 'Augstākais Enda akmens'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_GOLD:
   description:
   - '&7Super zelts'
-  name: '&aAugstākais zelts'
+  name: 'Augstākais zelts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_GRANITE:
   description:
   - '&7Super granīts'
-  name: '&aAugstākais granīts'
+  name: 'Augstākais granīts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7Super grants'
-  name: '&aAugstākā grants'
+  name: 'Augstākā grants'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_GRAY:
   description:
   - '&7Super pelēkais'
-  name: '&aAugstākais pelēkais'
+  name: 'Augstākais pelēkais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_GREEN:
   description:
   - '&7Super zaļais'
-  name: '&aAugstākais zaļais'
+  name: 'Augstākais zaļais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_IRON:
   description:
   - '&7Super dzelzs'
-  name: '&aAugstākā dzelzs'
+  name: 'Augstākā dzelzs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7Super džungļi'
-  name: '&aAugstākais džungļu baļķis'
+  name: 'Augstākais džungļu baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_LAPIS:
   description:
   - '&7Super lazurīts'
-  name: '&aAugstākais lazurīts'
+  name: 'Augstākais lazurīts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_MELON:
   description:
   - '&7Super arbūzs'
-  name: '&aAugstākais arbūzs'
+  name: 'Augstākais arbūzs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_MUTTON:
   description:
   - '&7Super aitas gaļa'
-  name: '&aAugstākā aitas gaļa'
+  name: 'Augstākā aitas gaļa'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7Super netherīts'
-  name: '&aAugstākais netherīts'
+  name: 'Augstākais netherīts'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7Super ozols'
-  name: '&aAugstākais ozola baļķis'
+  name: 'Augstākais ozola baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7Šis kodols satur vairākas rūdas,'
   - '&7kas savāktas visā pasaulē.'
-  name: '&aSakausējuma kodols'
+  name: 'Sakausējuma kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7Šis kodols satur vairākus blokus,'
   - '&7kas savāktas visā pasaulē.'
-  name: '&aBloku kodols'
+  name: 'Bloku kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7Šis kodols satur vairākas krāsas,'
   - '&7kas savāktas visā pasaulē.'
-  name: '&aKrāsu kodols'
+  name: 'Krāsu kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7Šis kodols satur dvēseles no '
   - '&7dažādām būtnēm, kas aizgājušas viņsaulē.'
-  name: '&aNāves kodols'
+  name: 'Nāves kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7Šis kodols satur dzīvības fragmentus,'
   - '&7kurus savākusi pasaule.'
-  name: '&aDzīvības kodols'
+  name: 'Dzīvības kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7Šis kodols satur vairākas dabiskas'
   - '&7kas savāktas visā pasaulē.'
-  name: '&aDabas kodols'
+  name: 'Dabas kodols'
   type:
   - '&7&oMaģiskās sastāvdaļas'
 SUPREME_CORE_PINK:
   description:
   - '&7Super rozā'
-  name: '&aAugstākais rozā'
+  name: 'Augstākais rozā'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7Super bekons'
-  name: '&aAugstākais bekons'
+  name: "Augstākā cūkgaļas karbonāde"
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_POTATO:
   description:
   - '&7Super kartupelis'
-  name: '&aAugstākais kartupelis'
+  name: 'Augstākais kartupelis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7Super ķirbis'
-  name: '&aAugstākais ķirbis'
+  name: 'Augstākais ķirbis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_PURPLE:
   description:
   - '&7Super violetais'
-  name: '&aAugstākais violetais'
+  name: 'Augstākais violetais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7Super kvarcs'
-  name: '&aAugstākais kvarcs'
+  name: 'Augstākais kvarcs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_RED:
   description:
   - '&7Super sarkanais'
-  name: '&aAugstākais sarkanais'
+  name: 'Augstākais sarkanais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7Super sarkanakmens'
-  name: '&aAugstākais sarkanakmens'
+  name: 'Augstākais sarkanakmens'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SALMON:
   description:
   - '&7Super lasis'
-  name: '&aAugstākais lasis'
+  name: 'Augstākais lasis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SAND:
   description:
   - '&7Super smiltis'
-  name: '&aAugstākās smiltis'
+  name: 'Augstākās smiltis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SNOW:
   description:
   - '&7Super sniegs'
-  name: '&aAugstākais sniegs'
+  name: 'Augstākais sniegs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7Super acs'
-  name: '&aAugstākā acs'
+  name: "Augstākā zirnekļa acs"
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7Super egle'
-  name: '&aAugstākais egles baļķis'
+  name: 'Augstākais egles baļķis'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_STONE:
   description:
   - '&7Super bruģakmens'
-  name: '&aAugstākais bruģakmens'
+  name: 'Augstākais bruģakmens'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_STRING:
   description:
   - '&7Super pavada'
-  name: '&aAugstākā pavada'
+  name: "Augstākais diegs"
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7Super cukurniedre'
-  name: '&aAugstākā cukurniedre'
+  name: 'Augstākā cukurniedre'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7Super ogas'
-  name: '&aAugstākās saldās ogas'
+  name: 'Augstākās saldās ogas'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_TEAR:
   description:
   - '&7Super asara'
-  name: '&aAugstākā asara'
+  name: "Augstākā gasta asara"
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7Super savītais'
-  name: '&aAugstākais savītais stumbrs'
+  name: 'Augstākais savītais stumbrs'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_WHEAT:
   description:
   - '&7Super kvieši'
-  name: '&aAugstākie kvieši'
+  name: 'Augstākie kvieši'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7Super roze'
-  name: '&aAugstākā Wither roze'
+  name: 'Augstākā Wither roze'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CORE_YELLOW:
   description:
   - '&7Super dzeltenais'
-  name: '&aAugstākais dzeltenais'
+  name: 'Augstākais dzeltenais'
   type:
   - '&7&oPamata sastāvdaļas'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&aKristalizācijas mašīna'
+  name: 'Kristalizācijas mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_DIAMOND_QUARRY:
-  name: '&eDimantu karjers'
+  name: 'Dimantu karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
   - '&7&oMašīna'
 SUPREME_DUST_AMETHYST:
-  name: '&aAmetista putekļi'
+  name: 'Ametista putekļi'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_DUST_GLOW_INK:
-  name: '&aMirdzošās tintes putekļi'
+  name: 'Mirdzošās tintes putekļi'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_DUST_NETHERITE:
-  name: '&aNetherīta putekļi'
+  name: 'Netherīta putekļi'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&fKodolu izgatavošanas resurss'
-  name: '&bElektriskā kodolu mašīna'
+  name: 'Elektriskā kodolu mašīna'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&fProgresīvs kodolu izgatavošanas resurss'
-  name: '&bElektriskā kodolu mašīna II'
+  name: 'Elektriskā kodolu mašīna II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&fProgresīvs kodolu izgatavošanas resurss'
-  name: '&bElektriskā kodolu mašīna III'
+  name: 'Elektriskā kodolu mašīna III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&fIzgatavo priekšmetus'
-  name: '&bElektriskais izgatavotājs'
+  name: 'Elektriskais izgatavotājs'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&fProgresīvi izgatavo priekšmetus'
-  name: '&bElektriskais izgatavotājs II'
+  name: 'Elektriskais izgatavotājs II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&fProgresīvi izgatavo priekšmetus'
-  name: '&bElektriskais izgatavotājs III'
+  name: 'Elektriskais izgatavotājs III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&fIzgatavo ekipējuma līmeni'
-  name: '&bElektriskā ekipējuma mašīna'
+  name: 'Elektriskā ekipējuma mašīna'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&fProgresīvi izgatavo ekipējuma līmeni'
-  name: '&bElektriskā ekipējuma mašīna II'
+  name: 'Elektriskā ekipējuma mašīna II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&fProgresīvi izgatavo ekipējuma līmeni'
-  name: '&bElektriskā ekipējuma mašīna III'
+  name: 'Elektriskā ekipējuma mašīna III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
   type:
   - '&7&oMašīna'
 SUPREME_ELECTRIC_ITEM:
-  name: Elektrisks priekšmets
+  name: "Elektrība"
   type:
   - '&7&oDažādi'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&fMaģijas izgatavošanas resurss'
-  name: '&bElektriskā maģiskā mašīna'
+  name: 'Elektriskā maģiskā mašīna'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&fProgresīvs maģijas izgatavošanas resurss'
-  name: '&bElektriskā maģiskā mašīna II'
+  name: 'Elektriskā maģiskā mašīna II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&fProgresīvs maģijas izgatavošanas resurss'
-  name: '&bElektriskā maģiskā mašīna III'
+  name: 'Elektriskā maģiskā mašīna III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
   type:
   - '&7&oMašīna'
 SUPREME_EMPTY_MOBTECH:
-  name: '&aTukšs MobTech'
+  name: 'Tukšs MobTech'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt lietņu resursus.'
-  name: '&bLietņu kalve'
+  name: 'Lietņu kalve'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt lietņu resursus.'
-  name: '&bLietņu kalve II'
+  name: 'Lietņu kalve II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt lietņu resursus.'
-  name: '&bLietņu kalve III'
+  name: 'Lietņu kalve III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt maģiskos resursus.'
-  name: '&bMaģiskā kalve'
+  name: 'Maģiskā kalve'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt maģiskos resursus.'
-  name: '&bMaģiskā kalve II'
+  name: 'Maģiskā kalve II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&fkalt maģiskos resursus.'
-  name: '&bMaģiskā kalve III'
+  name: 'Maģiskā kalve III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&fLietuves un sintezatora priekšmeti'
-  name: '&bLietuve'
+  name: 'Lietuve'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&fProgresīvi lietuves un sintezatora priekšmeti'
-  name: '&bLietuve II'
+  name: 'Lietuve II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&fProgresīvi lietuves un sintezatora priekšmeti'
-  name: '&bLietuve III'
+  name: 'Lietuve III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
   type:
   - '&7&oMašīna'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&bProgresīvs mobu ģenerators'
+  name: 'Progresīvs mobu ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&bPamata mobu ģenerators'
+  name: 'Pamata mobu ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&bVidējs mobu ģenerators'
+  name: 'Vidējs mobu ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_GENE_BERSERK:
-  name: '&aBerserka gēns'
+  name: 'Berserka gēns'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&fInteliģences gēns'
+  name: 'Inteliģences gēns'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_GENE_LUCK:
-  name: '&aVeiksmes gēns'
+  name: 'Veiksmes gēns'
   type:
   - '&7&oSastāvdaļa'
 SUPREME_GOLD_QUARRY:
-  name: '&eZelta karjers'
+  name: 'Zelta karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&lEpiska ķivere no Thornium'
-  name: '&d&lEpiskā ķivere'
+  name: 'Episkā ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&lLeģendāra ķivere no Thornium'
-  name: '&6&lLeģendārā ķivere'
+  name: 'Leģendārā ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&lMaģiska ķivere no Thornium'
-  name: '&a&lMaģiskā ķivere'
+  name: 'Maģiskā ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_HELMET_RARE:
   description:
   - '&f&lReta ķivere no Thornium'
-  name: '&b&lRetā ķivere'
+  name: 'Retā ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&lAugstākā ķivere no Thornium'
-  name: '&4&lAugstākā ķivere'
+  name: 'Augstākā ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&lĶivere no Thornium'
-  name: '&f&lThornium ķivere'
+  name: 'Thornium ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9Ignis ģenerators'
+  name: 'Ignis ģenerators'
   stats:
   - '&6Progresīvs ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&aInduktīvā mašīna'
+  name: 'Induktīvā mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&aInduktora mašīna'
+  name: 'Induktora mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_IRIDIUM_PLATE:
-  name: '&aIrīdija plāksne'
+  name: 'Irīdija plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_IRON_QUARRY:
-  name: '&eDzelzs karjers'
+  name: 'Dzelzs karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&lEpiskas bikses no Thornium'
-  name: '&d&lEpiskās bikses'
+  name: 'Episkās bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&lLeģendāras bikses no Thornium'
-  name: '&6&lLeģendārās bikses'
+  name: 'Leģendārās bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&lMaģiskas bikses no Thornium'
-  name: '&a&lMaģiskās bikses'
+  name: 'Maģiskās bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&lRetas bikses no Thornium'
-  name: '&b&lRetās bikses'
+  name: 'Retās bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&lAugstākās bikses no Thornium'
-  name: '&4&lAugstākās bikses'
+  name: 'Augstākās bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&lBikses no Thornium'
-  name: '&f&lThornium bikses'
+  name: 'Thornium bikses'
   type:
   - '&7&oBruņas'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9Lumium ģenerators'
+  name: 'Lumium ģenerators'
   stats:
   - '&6Progresīvs ģenerators'
   type:
   - '&7&oMašīna'
 SUPREME_LUX_GENERATOR:
-  name: '&9Lux ģenerators'
+  name: 'Lux ģenerators'
   stats:
   - '&6Progresīvs ģenerators'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&fIzgatavo rūnas un maģiskos priekšmetus'
-  name: '&bMaģiskais altāris'
+  name: 'Maģiskais altāris'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&fProgresīvi izgatavo rūnas un maģiskos priekšmetus'
-  name: '&bMaģiskais altāris II'
+  name: 'Maģiskais altāris II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&fProgresīvi izgatavo rūnas un maģiskos priekšmetus'
-  name: '&bMaģiskais altāris III'
+  name: 'Maģiskais altāris III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
   type:
   - '&7&oMašīna'
 SUPREME_MAIN_ITEM:
-  name: Galvenais priekšmets
+  name: "Supreme"
   type:
   - '&7&oDažādi'
 SUPREME_MANGANESE_PLATE:
-  name: '&aMangāna plāksne'
+  name: 'Mangāna plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&fŠī mašīna ļauj tev savākt '
   - '&fpriekšmetus no tuvumā esošajiem mobiem. (4 bloki)'
-  name: '&bMobu savācējs'
+  name: 'Mobu savācējs'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&fŠī mašīna ļauj tev savākt'
   - '&f priekšmetus no tuvumā esošajiem mobiem. (8 bloki)'
-  name: '&bMobu savācējs II'
+  name: 'Mobu savācējs II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&fŠī mašīna ļauj tev savākt'
   - '&f priekšmetus no tuvumā esošajiem mobiem. (16 bloki)'
-  name: '&bMobu savācējs III'
+  name: 'Mobu savācējs III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&oMašīna'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6MobTech savācējs I'
+  name: "MobTech savācējs I (Rīks)"
   stats:
   - '&8⇨ &e⚡ &750 J par lietojumu'
   type:
   - '&7&oRīki'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6MobTech savācējs II'
+  name: "MobTech savācējs II (Rīks)"
   stats:
   - '&8⇨ &e⚡ &750 J par lietojumu'
   type:
   - '&7&oRīki'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6MobTech savācējs III'
+  name: "MobTech savācējs III (Rīks)"
   stats:
   - '&8⇨ &e⚡ &750 J par lietojumu'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&fŠī mašīna ļauj tev savākt '
   - '&fMobTech galvas no tuvumā esošajiem mobiem. (6 bloki)'
-  name: '&bMobTech savācējs II'
+  name: 'MobTech savācējs II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&fŠī mašīna ļauj tev savākt '
   - '&fMobTech galvas no tuvumā esošajiem mobiem. (9 bloki)'
-  name: '&bMobTech savācējs III'
+  name: 'MobTech savācējs III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&oŠeit vari izgatavot kodolus!'
   - '&aMultibloka mašīna'
-  name: '&eKodolu ražotne'
+  name: 'Kodolu ražotne'
   type:
   - '&7&oMašīna'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&oŠeit vari izgatavot ieročus, bruņas un rīkus!'
   - '&aMultibloka mašīna'
-  name: '&eEkipējuma ražotne'
+  name: 'Ekipējuma ražotne'
   type:
   - '&7&oMašīna'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&oŠeit vari izgatavot maģiskos priekšmetus!'
   - '&aMultibloka mašīna'
-  name: '&eMaģijas ražotne'
+  name: 'Maģijas ražotne'
   type:
   - '&7&oMašīna'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&aPārakmeņošanas mašīna'
+  name: 'Pārakmeņošanas mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&lEpiska cērte no Thornium'
-  name: '&d&lEpiskā cērte'
+  name: 'Episkā cērte'
   type:
   - '&7&oRīki'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&lLeģendāra cērte no Thornium'
-  name: '&6&lLeģendārā cērte'
+  name: 'Leģendārā cērte'
   type:
   - '&7&oRīki'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&lMaģiska cērte no Thornium'
-  name: '&a&lMaģiskā cērte'
+  name: 'Maģiskā cērte'
   type:
   - '&7&oRīki'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&lReta cērte no Thornium'
-  name: '&b&lRetā cērte'
+  name: 'Retā cērte'
   type:
   - '&7&oRīki'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&lAugstākā cērte no Thornium'
-  name: '&4&lAugstākā cērte'
+  name: 'Augstākā cērte'
   type:
   - '&7&oRīki'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&lCērte no Thornium'
-  name: '&f&lThornium cērte'
+  name: 'Thornium cērte'
   type:
   - '&7&oRīki'
 SUPREME_PLATINUM_PLATE:
-  name: '&aPlatīna plāksne'
+  name: 'Platīna plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&aNerūsošā mašīna'
+  name: 'Nerūsošā mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&lEpisks vairogs no Thornium'
-  name: '&d&lEpiskais vairogs'
+  name: 'Episkais vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&lLeģendārs vairogs no Thornium'
-  name: '&6&lLeģendārais vairogs'
+  name: 'Leģendārais vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&lMaģisks vairogs no Thornium'
-  name: '&a&lMaģiskais vairogs'
+  name: 'Maģiskais vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&lRets vairogs no Thornium'
-  name: '&b&lRetais vairogs'
+  name: 'Retais vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&lAugstākais vairogs no Thornium'
-  name: '&4&lAugstākais vairogs'
+  name: 'Augstākais vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&lVairogs no Thornium'
-  name: '&f&lThornium vairogs'
+  name: 'Thornium vairogs'
   type:
   - '&7&oIeroči'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&lEpiska lāpsta no Thornium'
-  name: '&d&lEpiskā lāpsta'
+  name: 'Episkā lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&lLeģendāra lāpsta no Thornium'
-  name: '&6&lLeģendārā lāpsta'
+  name: 'Leģendārā lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&lMaģiska lāpsta no Thornium'
-  name: '&a&lMaģiskā lāpsta'
+  name: 'Maģiskā lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&lReta lāpsta no Thornium'
-  name: '&b&lRetā lāpsta'
+  name: 'Retā lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&lAugstākā lāpsta no Thornium'
-  name: '&4&lAugstākā lāpsta'
+  name: 'Augstākā lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&lLāpsta no Thornium'
-  name: '&f&lThornium lāpsta'
+  name: 'Thornium lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_STAINLESS_MACHINE:
-  name: '&aNerūsējošā mašīna'
+  name: 'Nerūsējošā mašīna'
   type:
   - '&7&oUzlabotas sastāvdaļas'
 SUPREME_STONE_QUARRY:
-  name: '&eAkmens karjers'
+  name: 'Akmens karjers'
   stats:
   - '&aVidēja mašīna'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7Augstākais'
-  name: '&aAugstākais'
+  name: 'Augstākais'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9Augstākais kondensators'
+  name: 'Augstākais kondensators'
   stats:
   - '&4Beigu spēles kondensators'
   - '&8⇨ &e⚡ &7Bezgalīga J ietilpība'
   type:
   - '&7&oMašīna'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9Augstākais ģenerators'
+  name: 'Augstākais ģenerators'
   stats:
   - '&4Beigu spēles ģenerators'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7No augstāko tīrradņu karjera'
-  name: '&aAugstākais tīrradnis'
+  name: 'Augstākais tīrradnis'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&eAugstāko tīrradņu karjers'
+  name: 'Augstāko tīrradņu karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&lEpisks zobens no Thornium'
-  name: '&d&lEpiskais zobens'
+  name: 'Episkais zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&lLeģendārs zobens no Thornium'
-  name: '&6&lLeģendārais zobens'
+  name: 'Leģendārais zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&lMaģisks zobens no Thornium'
-  name: '&a&lMaģiskais zobens'
+  name: 'Maģiskais zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SWORD_RARE:
   description:
   - '&f&lRets zobens no Thornium'
-  name: '&b&lRetais zobens'
+  name: 'Retais zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&lAugstākais zobens no Thornium'
-  name: '&4&lAugstākais zobens'
+  name: 'Augstākais zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&lZobens no Thornium'
-  name: '&f&lThornium zobens'
+  name: 'Thornium zobens'
   type:
   - '&7&oIeroči'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&aSintētisks ametists'
+  name: 'Sintētisks ametists'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&aSintētisks rubīns'
+  name: 'Sintētisks rubīns'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_TECH_GENERATOR:
   description:
   - '&fIzmantojot enerģiju un bites/golemu/zombiju, '
   - '&flēni ģenerē materiālus.'
-  name: '&bTehnoloģiskais ģenerators'
+  name: 'Tehnoloģiskais ģenerators'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&fIzmanto ģeneratora mutāciju '
   - '&flai virzītos uz augstākiem līmeņiem'
-  name: '&bTehnoloģiskā mutācija'
+  name: 'Tehnoloģiskā mutācija'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&fIzmanto ģeneratora mutāciju '
   - '&flai virzītos uz augstākiem līmeņiem'
   - '&fIespējas faktors reizināts ar 2x'
-  name: '&bTehnoloģiskā mutācija II'
+  name: 'Tehnoloģiskā mutācija II'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&fIzmanto ģeneratora mutāciju '
   - '&flai virzītos uz augstākiem līmeņiem'
   - '&fIespējas faktors reizināts ar 4x'
-  name: '&bTehnoloģiskā mutācija III'
+  name: 'Tehnoloģiskā mutācija III'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&fIzmanto iesācēju līmeņa robotus '
   - '&flai virzītos uz augstākiem līmeņiem'
   - '&fnepieciešams 64x, lai uzlabotu'
-  name: '&bTehnoloģiskais robots'
+  name: 'Tehnoloģiskais robots'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&fIzmanto iesācēju līmeņa robotus '
   - '&flai virzītos uz augstākiem līmeņiem'
   - '&fnepieciešams 32x, lai uzlabotu'
-  name: '&bTehnoloģiskais robots II'
+  name: 'Tehnoloģiskais robots II'
   stats:
   - '&4Beigu spēles mašīna'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&fIzmanto iesācēju līmeņa robotus '
   - '&flai virzītos uz augstākiem līmeņiem'
   - '&fnepieciešams 16x, lai uzlabotu'
-  name: '&bTehnoloģiskais robots III'
+  name: 'Tehnoloģiskais robots III'
   stats:
   - '&4Beigu spēles mašīna'
   type:
   - '&7&oMašīna'
 SUPREME_THORNERITE:
-  name: '&aThornerite'
+  name: 'Thornerite'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7No Thornium karjera'
-  name: '&aThornium gabaliņš'
+  name: 'Thornium gabaliņš'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7No Thornium gabaliņa'
-  name: '&aSintētisks Thornium gabaliņš'
+  name: 'Sintētisks Thornium gabaliņš'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9Thornium kondensators'
+  name: 'Thornium kondensators'
   stats:
   - '&4Beigu spēles kondensators'
   - '&8⇨ &e⚡ &7100,000,000.00 J ietilpība'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7No Thornium lietņa'
-  name: '&aThornium karbonado'
+  name: 'Thornium karbonado'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7No Thornium gabaliņa'
-  name: '&aThornium putekļi'
+  name: 'Thornium putekļi'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7No Thornium putekļiem'
-  name: '&aSintētiski Thornium putekļi'
+  name: 'Sintētiski Thornium putekļi'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7No Thornium lietņa'
-  name: '&aEnerģizēts Thornium'
+  name: 'Enerģizēts Thornium'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9Thornium ģenerators'
+  name: 'Thornium ģenerators'
   stats:
   - '&4Beigu spēles ģenerators'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7No Thornium putekļiem'
-  name: '&aThornium lietnis'
+  name: 'Thornium lietnis'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7No Thornium lietņa'
-  name: '&aSintētisks Thornium lietnis'
+  name: 'Sintētisks Thornium lietnis'
   type:
   - '&7&oSpēles beigu sastāvdaļas'
 SUPREME_THORNIUM_QUARRY:
-  name: '&eThornium karjers'
+  name: 'Thornium karjers'
   stats:
   - '&6Progresīva mašīna'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&lCirvis no titāna'
-  name: '&f&lTitāna cirvis'
+  name: 'Titāna cirvis'
   type:
   - '&7&oRīki'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&lZābaki no titāna'
-  name: '&f&lTitāna zābaki'
+  name: 'Titāna zābaki'
   type:
   - '&7&oBruņas'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9Titāna kondensators'
+  name: 'Titāna kondensators'
   stats:
   - '&6Progresīvs kondensators'
   - '&8⇨ &e⚡ &74,000,000.00 J ietilpība'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&lKrūšu bruņas no titāna'
-  name: '&f&lTitāna krūšu bruņas'
+  name: 'Titāna krūšu bruņas'
   type:
   - '&7&oBruņas'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&lĶivere no titāna'
-  name: '&f&lTitāna ķivere'
+  name: 'Titāna ķivere'
   type:
   - '&7&oBruņas'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&lBikses no titāna'
-  name: '&f&lTitāna bikses'
+  name: 'Titāna bikses'
   type:
   - '&7&oBruņas'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&lCērte no titāna'
-  name: '&f&lTitāna cērte'
+  name: 'Titāna cērte'
   type:
   - '&7&oRīki'
 SUPREME_TITANIUM_PLATE:
-  name: '&aTitāna plāksne'
+  name: 'Titāna plāksne'
   type:
   - '&7&oSastāvdaļas'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&lLāpsta no titāna'
-  name: '&f&lTitāna lāpsta'
+  name: 'Titāna lāpsta'
   type:
   - '&7&oRīki'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&lZobens no titāna'
-  name: '&f&lTitāna zobens'
+  name: 'Titāna zobens'
   type:
   - '&7&oIeroči'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9Ventus ģenerators'
+  name: 'Ventus ģenerators'
   stats:
   - '&ePamata ģenerators'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&fŠī mašīna ļauj tev savākt '
   - '&f priekšmetus, kas savākti jūrā.'
-  name: '&bVirtuālais akvārijs'
+  name: 'Virtuālais akvārijs'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&fŠī mašīna ļauj tev savākt'
   - '&f priekšmetus, kas savākti jūrā.'
-  name: '&bVirtuālais akvārijs II'
+  name: 'Virtuālais akvārijs II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&fŠī mašīna ļauj tev savākt'
   - '&f priekšmetus, kas savākti jūrā.'
-  name: '&bVirtuālais akvārijs III'
+  name: 'Virtuālais akvārijs III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&faudzēt dažus resursus.'
-  name: '&bVirtuālais dārzs'
+  name: 'Virtuālais dārzs'
   stats:
   - '&6Progresīva mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&faudzēt dažus resursus.'
-  name: '&bVirtuālais dārzs II'
+  name: 'Virtuālais dārzs II'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&fŠī mašīna ļauj tev'
   - '&faudzēt dažus resursus.'
-  name: '&bVirtuālais dārzs III'
+  name: 'Virtuālais dārzs III'
   stats:
   - '&4Beigu spēles mašīna'
   - '&8⇨ &b⚡ &7Ātrums: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&oMašīna'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&aCirkonija plāksne'
+  name: 'Cirkonija plāksne'
   type:
   - '&7&oSastāvdaļas'

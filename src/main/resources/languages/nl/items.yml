@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&fDeze machine stelt je in staat om '
   - '&fMobTech-hoofden van nabijgelegen mobs. (3 blok)'
-  name: '&bMobTech-verzamelaar I'
+  name: 'MobTech-verzamelaar I'
   type:
   - '&7&oMachine'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&lEen bijl van Adamantium'
-  name: '&f&lAdamantiumbijl'
+  name: 'Adamantiumbijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&lLaarzen van Adamantium'
-  name: '&f&lAdamantiumlaarzen'
+  name: 'Adamantiumlaarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9Adamantiumcondensator'
+  name: 'Adamantiumcondensator'
   stats:
   - '&6Geavanceerde condensator'
   - '&8⇨ &e⚡ &716,000,000.00 J Capaciteit'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&lEen borstplaat van Adamantium'
-  name: '&f&lAdamantiumborstplaat'
+  name: 'Adamantiumborstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&lEen helm van Adamantium'
-  name: '&f&lAdamantiumhelm'
+  name: 'Adamantiumhelm'
   type:
   - '&7&oWapenrusting'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&lEen broek van Adamantium'
-  name: '&f&lAdamantiumbroek'
+  name: 'Adamantiumbroek'
   type:
   - '&7&oWapenrusting'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&lEen houweel van Adamantium'
-  name: '&f&lAdamantiumhouweel'
+  name: 'Adamantiumhouweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&aAdamantiumplaat'
+  name: 'Adamantiumplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&lEen schep van Adamantium'
-  name: '&f&lAdamantiumschep'
+  name: 'Adamantiumschep'
   type:
   - '&7&oGereedschappen'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&lEen zwaard van Adamantium'
-  name: '&f&lAdamantiumzwaard'
+  name: 'Adamantiumzwaard'
   type:
   - '&7&oWapens'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&aAdamantiumlegering'
+  name: 'Adamantiumlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_AURUM:
-  name: '&aAurumlegering'
+  name: 'Aurumlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&aIridiumlegering'
+  name: 'Iridiumlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_MANGANESE:
-  name: '&aMangaanlegering'
+  name: 'Mangaanlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_PLATINUM:
-  name: '&aPlatinalegering'
+  name: 'Platinalegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_TITANIUM:
-  name: '&aTitaniumlegering'
+  name: 'Titaniumlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&aZirkoniumlegering'
+  name: 'Zirkoniumlegering'
   type:
   - '&7&oOnderdelen'
 SUPREME_AQUA_GENERATOR:
-  name: '&9Aquagenerator'
+  name: 'Aquagenerator'
   stats:
   - '&6Geavanceerde generator'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7Een superbomattribuut met speciale effecten'
-  name: '&aBomattribuut'
+  name: 'Bomattribuut'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7Een superfortuinattribuut met speciale effecten'
-  name: '&aFortuinattribuut'
+  name: 'Fortuinattribuut'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7Een superimpetusattribuut met speciale effecten'
-  name: '&aImpetusattribuut'
+  name: 'Impetusattribuut'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7Een supermagieattribuut met speciale effecten'
-  name: '&aMagieattribuut'
+  name: 'Magieattribuut'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_AURUM_AXE:
   description:
   - '&f&lEen bijl van Aurum'
-  name: '&f&lAurumbijl'
+  name: 'Aurumbijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&lLaarzen van Aurum'
-  name: '&f&lAurumlaarzen'
+  name: 'Aurumlaarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9Aurumcondensator'
+  name: 'Aurumcondensator'
   stats:
   - '&6Geavanceerde condensator'
   - '&8⇨ &e⚡ &71,000,000.00 J Capaciteit'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&lEen borstplaat van Aurum'
-  name: '&f&lAurumborstplaat'
+  name: 'Aurumborstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&lEen helm van Aurum'
-  name: '&f&lAurumhelm'
+  name: 'Aurumhelm'
   type:
   - '&7&oWapenrusting'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&lEen broek van Aurum'
-  name: '&f&lAurumbroek'
+  name: 'Aurumbroek'
   type:
   - '&7&oWapenrusting'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&lEen houweel van Aurum'
-  name: '&f&lAurumhouweel'
+  name: 'Aurumhouweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_AURUM_PLATE:
-  name: '&aAurumplaat'
+  name: 'Aurumplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&lEen schep van Aurum'
-  name: '&f&lAurumschep'
+  name: 'Aurumschep'
   type:
   - '&7&oGereedschappen'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&lEen zwaard van Aurum'
-  name: '&f&lAurumzwaard'
+  name: 'Aurumzwaard'
   type:
   - '&7&oWapens'
 SUPREME_AXE_EPIC:
   description:
   - '&f&lEen epische bijl van Thornium'
-  name: '&d&lEpische bijl'
+  name: 'Epische bijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&lEen legendarische bijl van Thornium'
-  name: '&6&lLegendarische bijl'
+  name: 'Legendarische bijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&lEen magische bijl van Thornium'
-  name: '&a&lMagische bijl'
+  name: 'Magische bijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AXE_RARE:
   description:
   - '&f&lEen zeldzame bijl van Thornium'
-  name: '&b&lZeldzame bijl'
+  name: 'Zeldzame bijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&lEen superieure bijl van Thornium'
-  name: '&4&lSuperieure bijl'
+  name: 'Superieure bijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&lEen bijl van Thornium'
-  name: '&f&lThorniumbijl'
+  name: 'Thorniumbijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9Basis-Aquagenerator'
+  name: 'Basis-Aquagenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9Basis-Ignisgenerator'
+  name: 'Basis-Ignisgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9Basis-Lumiumgenerator'
+  name: 'Basis-Lumiumgenerator'
   stats:
   - '&6Geavanceerde generator'
   type:
   - '&7&oMachine'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9Basis-Luxgenerator'
+  name: 'Basis-Luxgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9Basis-Ventusgenerator'
+  name: 'Basis-Ventusgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_BLEND_MACHINE:
-  name: '&aMengmachine'
+  name: 'Mengmachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&lEpische laarzen van Thornium'
-  name: '&d&lEpische laarzen'
+  name: 'Epische laarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&lLegendarische laarzen van Thornium'
-  name: '&6&lLegendarische laarzen'
+  name: 'Legendarische laarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&lMagische laarzen van Thornium'
-  name: '&a&lMagische laarzen'
+  name: 'Magische laarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&lZeldzame laarzen van Thornium'
-  name: '&b&lZeldzame laarzen'
+  name: 'Zeldzame laarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&lSuperieure laarzen van Thornium'
-  name: '&4&lSuperieure laarzen'
+  name: 'Superieure laarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&lLaarzen van Thornium'
-  name: '&f&lThorniumlaarzen'
+  name: 'Thorniumlaarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_BOW_EPIC:
   description:
   - '&f&lEen epische boog van Thornium'
-  name: '&d&lEpische boog'
+  name: 'Epische boog'
   type:
   - '&7&oWapens'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&lEen legendarische boog van Thornium'
-  name: '&6&lLegendarische boog'
+  name: 'Legendarische boog'
   type:
   - '&7&oWapens'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&lEen magische boog van Thornium'
-  name: '&a&lMagische boog'
+  name: 'Magische boog'
   type:
   - '&7&oWapens'
 SUPREME_BOW_RARE:
   description:
   - '&f&lEen zeldzame boog van Thornium'
-  name: '&b&lZeldzame boog'
+  name: 'Zeldzame boog'
   type:
   - '&7&oWapens'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&lEen superieure boog van Thornium'
-  name: '&4&lSuperieure boog'
+  name: 'Superieure boog'
   type:
   - '&7&oWapens'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&lEen boog van Thornium'
-  name: '&f&lThorniumboog'
+  name: 'Thorniumboog'
   type:
   - '&7&oWapens'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fVerandert de productie naar aluminium messingstaaf'
-  name: '&bMachinekaart: Aluminium messingstaaf'
+  name: "Machinekaart (Aluminium messingstaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fVerandert de productie naar aluminium bronsstaaf'
-  name: '&bMachinekaart: Aluminium bronsstaaf'
+  name: "Machinekaart (Aluminium bronsstaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fVerandert de productie naar aluminiumpoeder'
-  name: '&bMachinekaart: Aluminiumpoeder'
+  name: "Machinekaart (Aluminiumpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fVerandert de productie naar amethist'
-  name: '&bMachinekaart: Amethist'
+  name: "Machinekaart (Amethist)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fVerandert de productie naar andesiet'
-  name: '&bMachinekaart: Andesiet'
+  name: "Machinekaart (Andesiet)"
   stats:
   - '&eBasismachine'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fVerandert de productie naar appel'
-  name: '&bMachinekaart: Appel'
+  name: "Machinekaart (Appel)"
   stats:
   - '&eBasismachine'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fVerandert de productie naar batterij'
-  name: '&bMachinekaart: Batterij'
+  name: "Machinekaart (Batterij)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fVerandert de productie naar billonstaaf'
-  name: '&bMachinekaart: Billonstaaf'
+  name: "Machinekaart (Billonstaaf)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fVerandert de productie naar blazestaaf'
-  name: '&bMachinekaart: Blazestaaf'
+  name: "Machinekaart (Blazestaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fVerandert de productie naar messingstaaf'
-  name: '&bMachinekaart: Messingstaaf'
+  name: "Machinekaart (Messingstaaf)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fVerandert de productie naar bronsstaaf'
-  name: '&bMachinekaart: Bronsstaaf'
+  name: "Machinekaart (Bronsstaaf)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fVerandert de productie naar koolstof'
-  name: '&bMachinekaart: Koolstof'
+  name: "Machinekaart (Koolstof)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fVerandert de productie naar carbonado'
-  name: '&bMachinekaart: Carbonado'
+  name: "Machinekaart (Carbonado)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fVerandert de productie naar samengeperste koolstof'
-  name: '&bMachinekaart: Samengeperste koolstof'
+  name: "Machinekaart (Samengeperste koolstof)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fVerandert de productie naar klei'
-  name: '&bMachinekaart: Klei'
+  name: "Machinekaart (Klei)"
   stats:
   - '&eBasismachine'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fVerandert de productie naar steenkool'
-  name: '&bMachinekaart: Steenkool'
+  name: "Machinekaart (Steenkool)"
   stats:
   - '&eBasismachine'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fVerandert de productie naar kobalt'
-  name: '&bMachinekaart: Kobalt'
+  name: "Machinekaart (Kobalt)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fVerandert de productie naar koper'
-  name: '&bMachinekaart: Koper'
+  name: "Machinekaart (Koper)"
   stats:
   - '&eBasismachine'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fVerandert de productie naar koperpoeder'
-  name: '&bMachinekaart: Koperpoeder'
+  name: "Machinekaart (Koperpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fVerandert de productie naar Korinthische bronsstaaf'
-  name: '&bMachinekaart: Korinthische bronsstaaf'
+  name: "Machinekaart (Korinthische bronsstaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fVerandert de productie naar Damascus'
-  name: '&bMachinekaart: Damascus'
+  name: "Machinekaart (Damascus)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fVerandert de productie naar diamant'
-  name: '&bMachinekaart: Diamant'
+  name: "Machinekaart (Diamant)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fVerandert de productie naar dioriet'
-  name: '&bMachinekaart: Dioriet'
+  name: "Machinekaart (Dioriet)"
   stats:
   - '&eBasismachine'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fVerandert de productie naar duraluminstaaf'
-  name: '&bMachinekaart: Duraluminstaaf'
+  name: "Machinekaart (Duraluminstaaf)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fVerandert de productie naar elektromotor'
-  name: '&bMachinekaart: Elektromotor'
+  name: "Machinekaart (Elektromotor)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fVerandert de productie naar elektromagneet'
-  name: '&bMachinekaart: Elektromagneet'
+  name: "Machinekaart (Elektromagneet)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fVerandert de productie naar smaragd'
-  name: '&bMachinekaart: Smaragd'
+  name: "Machinekaart (Smaragd)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fVerandert de productie naar endsteen'
-  name: '&bMachinekaart: Endsteen'
+  name: "Machinekaart (Endsteen)"
   stats:
   - '&eBasismachine'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fVerandert de productie naar ferrosilicium'
-  name: '&bMachinekaart: Ferrosilicium'
+  name: "Machinekaart (Ferrosilicium)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fVerandert de productie naar gloeiende inktzak'
-  name: '&bMachinekaart: Gloeiende inktzak'
+  name: "Machinekaart (Gloeiende inktzak)"
   stats:
   - '&eBasismachine'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fVerandert de productie naar goud'
-  name: '&bMachinekaart: Goud'
+  name: "Machinekaart (Goud)"
   stats:
   - '&eBasismachine'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fVerandert de productie naar goud 24k'
-  name: '&bMachinekaart: Goud 24k'
+  name: "Machinekaart (Goud 24k)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fVerandert de productie naar goudpoeder'
-  name: '&bMachinekaart: Goudpoeder'
+  name: "Machinekaart (Goudpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fVerandert de productie naar graniet'
-  name: '&bMachinekaart: Graniet'
+  name: "Machinekaart (Graniet)"
   stats:
   - '&eBasismachine'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fVerandert de productie naar grind'
-  name: '&bMachinekaart: Grind'
+  name: "Machinekaart (Grind)"
   stats:
   - '&eBasismachine'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fVerandert de productie naar geharde metaalstaaf'
-  name: '&bMachinekaart: Geharde metaalstaaf'
+  name: "Machinekaart (Geharde metaalstaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fVerandert de productie naar verwarmingsspoel'
-  name: '&bMachinekaart: Verwarmingsspoel'
+  name: "Machinekaart (Verwarmingsspoel)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fVerandert de productie naar honingfles'
-  name: '&bMachinekaart: Honingfles'
+  name: "Machinekaart (Honingfles)"
   stats:
   - '&eBasismachine'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fVerandert de productie naar inktzak'
-  name: '&bMachinekaart: Inktzak'
+  name: "Machinekaart (Inktzak)"
   stats:
   - '&eBasismachine'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fVerandert de productie naar ijzer'
-  name: '&bMachinekaart: IJzer'
+  name: "Machinekaart (IJzer)"
   stats:
   - '&eBasismachine'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fVerandert de productie naar ijzerpoeder'
-  name: '&bMachinekaart: IJzerpoeder'
+  name: "Machinekaart (IJzerpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fVerandert de productie naar lapis'
-  name: '&bMachinekaart: Lapis'
+  name: "Machinekaart (Lapis)"
   stats:
   - '&eBasismachine'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fVerandert de productie naar loodpoeder'
-  name: '&bMachinekaart: Loodpoeder'
+  name: "Machinekaart (Loodpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fVerandert de productie naar magnesiumpoeder'
-  name: '&bMachinekaart: Magnesiumpoeder'
+  name: "Machinekaart (Magnesiumpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fVerandert de productie naar magneet'
-  name: '&bMachinekaart: Magneet'
+  name: "Machinekaart (Magneet)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fVerandert de productie naar netheriet'
-  name: '&bMachinekaart: Netheriet'
+  name: "Machinekaart (Netheriet)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fVerandert de productie naar netherster'
-  name: '&bMachinekaart: Netherster'
+  name: "Machinekaart (Netherster)"
   stats:
   - '&eBasismachine'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fVerandert de productie naar nikkel'
-  name: '&bMachinekaart: Nikkel'
+  name: "Machinekaart (Nikkel)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fVerandert de productie naar plastic plaat'
-  name: '&bMachinekaart: Plastic plaat'
+  name: "Machinekaart (Plastic plaat)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fVerandert de productie naar kwarts'
-  name: '&bMachinekaart: Kwarts'
+  name: "Machinekaart (Kwarts)"
   stats:
   - '&eBasismachine'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fVerandert de productie naar kwartsblok'
-  name: '&bMachinekaart: Kwartsblok'
+  name: "Machinekaart (Kwartsblok)"
   stats:
   - '&eBasismachine'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fVerandert de productie naar redstone'
-  name: '&bMachinekaart: Redstone'
+  name: "Machinekaart (Redstone)"
   stats:
   - '&eBasismachine'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fVerandert de productie naar redstonelegering'
-  name: '&bMachinekaart: Redstonelegering'
+  name: "Machinekaart (Redstonelegering)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fVerandert de productie naar versterkte legeringsstaaf'
-  name: '&bMachinekaart: Versterkte legeringsstaaf'
+  name: "Machinekaart (Versterkte legeringsstaaf)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fVerandert de productie naar zand'
-  name: '&bMachinekaart: Zand'
+  name: "Machinekaart (Zand)"
   stats:
   - '&eBasismachine'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fVerandert de productie naar silicium'
-  name: '&bMachinekaart: Silicium'
+  name: "Machinekaart (Silicium)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fVerandert de productie naar zilverpoeder'
-  name: '&bMachinekaart: Zilverpoeder'
+  name: "Machinekaart (Zilverpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fVerandert de productie naar slijmbal'
-  name: '&bMachinekaart: Slijmbal'
+  name: "Machinekaart (Slijmbal)"
   stats:
   - '&eBasismachine'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fVerandert de productie naar sneeuw'
-  name: '&bMachinekaart: Sneeuw'
+  name: "Machinekaart (Sneeuw)"
   stats:
   - '&eBasismachine'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fVerandert de productie naar soldeerstaaf'
-  name: '&bMachinekaart: Soldeerstaaf'
+  name: "Machinekaart (Soldeerstaaf)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fVerandert de productie naar staal'
-  name: '&bMachinekaart: Staal'
+  name: "Machinekaart (Staal)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fVerandert de productie naar steen'
-  name: '&bMachinekaart: Steen'
+  name: "Machinekaart (Steen)"
   stats:
   - '&eBasismachine'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fVerandert de productie naar sulfaat'
-  name: '&bMachinekaart: Sulfaat'
+  name: "Machinekaart (Sulfaat)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fVerandert de productie naar synthetische diamant'
-  name: '&bMachinekaart: Synthetische diamant'
+  name: "Machinekaart (Synthetische diamant)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fVerandert de productie naar synthetische smaragd'
-  name: '&bMachinekaart: Synthetische smaragd'
+  name: "Machinekaart (Synthetische smaragd)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fVerandert de productie naar synthetische saffier'
-  name: '&bMachinekaart: Synthetische saffier'
+  name: "Machinekaart (Synthetische saffier)"
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fVerandert de productie naar tinpoeder'
-  name: '&bMachinekaart: Tinpoeder'
+  name: "Machinekaart (Tinpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fVerandert de productie naar witherroos'
-  name: '&bMachinekaart: Witherroos'
+  name: "Machinekaart (Witherroos)"
   stats:
   - '&eBasismachine'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fVerandert de productie naar zinkpoeder'
-  name: '&bMachinekaart: Zinkpoeder'
+  name: "Machinekaart (Zinkpoeder)"
   stats:
   - '&aMiddelgrote machine'
   type:
   - '&7&oOnderdeel'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&aWagenmachine'
+  name: 'Wagenmachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&fComponent voor machine om items te produceren'
-  name: '&aGeavanceerd component voor kaart'
+  name: 'Geavanceerd component voor kaart'
   type:
   - '&7&oOnderdeel'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&fComponent voor machine om items te produceren'
-  name: '&aBasiscomponent voor kaart'
+  name: 'Basiscomponent voor kaart'
   type:
   - '&7&oOnderdeel'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&fComponent voor machine om items te produceren'
-  name: '&aUltiem component voor kaart'
+  name: 'Ultiem component voor kaart'
   type:
   - '&7&oOnderdeel'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7Een superaquascepter'
-  name: '&aCetrus Aqua'
+  name: 'Cetrus Aqua'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7Een superignis-scepter'
-  name: '&aCetrus Ignis'
+  name: 'Cetrus Ignis'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7Een superlumiumscepter'
-  name: '&aCetrus Lumium'
+  name: 'Cetrus Lumium'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CETRUS_LUX:
   description:
   - '&7Een superluxscepter'
-  name: '&aCetrus Lux'
+  name: 'Cetrus Lux'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7Een superventusscepter'
-  name: '&aCetrus Ventus'
+  name: 'Cetrus Ventus'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&fControleert of de nabijgelegen kist het filteritem heeft'
   - '&falle zijden worden bekeken (eerste treffer telt)'
   - '&findien gevonden, licht dit blok op'
-  name: '&bInventariscontrole'
+  name: "Inventariscontroleur"
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&lEen epische borstplaat van Thornium'
-  name: '&d&lEpische borstplaat'
+  name: 'Epische borstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&lEen legendarische borstplaat van Thornium'
-  name: '&6&lLegendarische borstplaat'
+  name: 'Legendarische borstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&lEen magische borstplaat van Thornium'
-  name: '&a&lMagische borstplaat'
+  name: 'Magische borstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&lEen zeldzame borstplaat van Thornium'
-  name: '&b&lZeldzame borstplaat'
+  name: 'Zeldzame borstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&lEen superieure borstplaat van Thornium'
-  name: '&4&lSuperieure borstplaat'
+  name: 'Superieure borstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&lEen borstplaat van Thornium'
-  name: '&f&lThorniumborstplaat'
+  name: 'Thorniumborstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_COAL_QUARRY:
-  name: '&eSteenkoolgroeve'
+  name: 'Steenkoolgroeve'
   stats:
   - '&6Geavanceerde machine'
   type:
   - '&7&oMachine'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&aTransportmachine'
+  name: 'Transportmachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7Een superacacia'
-  name: '&aSuperieure acaciastam'
+  name: 'Superieure acaciastam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7Een superandesiet'
-  name: '&aSuperieur andesiet'
+  name: 'Superieur andesiet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_APPLE:
   description:
   - '&7Een superappel'
-  name: '&aSuperieure appel'
+  name: 'Superieure appel'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_BEEF:
   description:
   - '&7Een superrundvlees'
-  name: '&aSuperieur rundvlees'
+  name: 'Superieur rundvlees'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7Een superbiet'
-  name: '&aSuperieure biet'
+  name: 'Superieure biet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7Een superberk'
-  name: '&aSuperieure berkenstam'
+  name: 'Superieure berkenstam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_BLACK:
   description:
   - '&7Een superzwart'
-  name: '&aSuperieur zwart'
+  name: 'Superieur zwart'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_BLUE:
   description:
   - '&7Een superblauw'
-  name: '&aSuperieur blauw'
+  name: 'Superieur blauw'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_CARROT:
   description:
   - '&7Een superieure wortel'
-  name: '&aSuperieure wortel'
+  name: 'Superieure wortel'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7Een superkip'
-  name: '&aSuperieure kip'
+  name: 'Superieure kip'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_CLAY:
   description:
   - '&7Een superklei'
-  name: '&aSuperieure klei'
+  name: 'Superieure klei'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_COAL:
   description:
   - '&7Een supersteenkool'
-  name: '&aSuperieure steenkool'
+  name: 'Superieure steenkool'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_COD:
   description:
   - '&7Een superkabeljauw'
-  name: '&aSuperieure kabeljauw'
+  name: 'Superieure kabeljauw'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7Een superkarmozijn'
-  name: '&aSuperieure karmozijnstam'
+  name: 'Superieure karmozijnstam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_CYAN:
   description:
   - '&7Een supercyaan'
-  name: '&aSuperieur cyaan'
+  name: 'Superieur cyaan'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7Een superdonker'
-  name: '&aSuperieure donkereikenstam'
+  name: 'Superieure donkereikenstam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7Een superdiamant'
-  name: '&aSuperieure diamant'
+  name: 'Superieure diamant'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_DIORITE:
   description:
   - '&7Een superdioriet'
-  name: '&aSuperieur dioriet'
+  name: 'Superieur dioriet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_EMERALD:
   description:
   - '&7Een supersmaragd'
-  name: '&aSuperieure smaragd'
+  name: 'Superieure smaragd'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7Een superendsteen'
-  name: '&aSuperieure endsteen'
+  name: 'Superieure endsteen'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_GOLD:
   description:
   - '&7Een supergoud'
-  name: '&aSuperieur goud'
+  name: 'Superieur goud'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_GRANITE:
   description:
   - '&7Een supergraniet'
-  name: '&aSuperieur graniet'
+  name: 'Superieur graniet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7Een supergrind'
-  name: '&aSuperieur grind'
+  name: 'Superieur grind'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_GRAY:
   description:
   - '&7Een supergrijs'
-  name: '&aSuperieur grijs'
+  name: 'Superieur grijs'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_GREEN:
   description:
   - '&7Een supergroen'
-  name: '&aSuperieur groen'
+  name: 'Superieur groen'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_IRON:
   description:
   - '&7Een superijzer'
-  name: '&aSuperieur ijzer'
+  name: 'Superieur ijzer'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7Een superjungle'
-  name: '&aSuperieure junglestam'
+  name: 'Superieure junglestam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_LAPIS:
   description:
   - '&7Een superlapis'
-  name: '&aSuperieur lapis'
+  name: 'Superieur lapis'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_MELON:
   description:
   - '&7Een supermeloen'
-  name: '&aSuperieure meloen'
+  name: 'Superieure meloen'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_MUTTON:
   description:
   - '&7Een superschapenvlees'
-  name: '&aSuperieur schapenvlees'
+  name: 'Superieur schapenvlees'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7Een supernetheriet'
-  name: '&aSuperieur netheriet'
+  name: 'Superieur netheriet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7Een supereik'
-  name: '&aSuperieure eikenstam'
+  name: 'Superieure eikenstam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7Deze kern bevat verschillende ertsen'
   - '&7die over de hele wereld zijn verzameld.'
-  name: '&aLegeringskern'
+  name: 'Legeringskern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7Deze kern bevat verschillende blokken'
   - '&7die over de hele wereld zijn verzameld.'
-  name: '&aBlokkenkern'
+  name: 'Blokkenkern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7Deze kern bevat verschillende kleuren'
   - '&7die over de hele wereld zijn verzameld.'
-  name: '&aKleurenkern'
+  name: 'Kleurenkern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7Deze kern bevat de zielen van '
   - '&7diverse wezens die zijn heengegaan.'
-  name: '&aDoodskern'
+  name: 'Doodskern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7Deze kern bevat fragmenten van leven'
   - '&7die door de wereld zijn verzameld.'
-  name: '&aLevenskern'
+  name: 'Levenskern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7Deze kern bevat verschillende natuurlijke'
   - '&7die over de hele wereld zijn verzameld.'
-  name: '&aNatuurkern'
+  name: 'Natuurkern'
   type:
   - '&7&oMagische onderdelen'
 SUPREME_CORE_PINK:
   description:
   - '&7Een superroze'
-  name: '&aSuperieur roze'
+  name: 'Superieur roze'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7Een superspek'
-  name: '&aSuperieur spek'
+  name: "Superieure karbonade"
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_POTATO:
   description:
   - '&7Een superaardappel'
-  name: '&aSuperieure aardappel'
+  name: 'Superieure aardappel'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7Een superpompoen'
-  name: '&aSuperieure pompoen'
+  name: 'Superieure pompoen'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_PURPLE:
   description:
   - '&7Een superpaars'
-  name: '&aSuperieur paars'
+  name: 'Superieur paars'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7Een superkwarts'
-  name: '&aSuperieur kwarts'
+  name: 'Superieur kwarts'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_RED:
   description:
   - '&7Een superrood'
-  name: '&aSuperieur rood'
+  name: 'Superieur rood'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7Een superredstone'
-  name: '&aSuperieure redstone'
+  name: 'Superieure redstone'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SALMON:
   description:
   - '&7Een superzalm'
-  name: '&aSuperieure zalm'
+  name: 'Superieure zalm'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SAND:
   description:
   - '&7Een superzand'
-  name: '&aSuperieur zand'
+  name: 'Superieur zand'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SNOW:
   description:
   - '&7Een supersneeuw'
-  name: '&aSuperieure sneeuw'
+  name: 'Superieure sneeuw'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7Een superoog'
-  name: '&aSuperieur oog'
+  name: "Superieur spinnenoog"
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7Een superspar'
-  name: '&aSuperieure sparrenstam'
+  name: 'Superieure sparrenstam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_STONE:
   description:
   - '&7Een superrotsblok'
-  name: '&aSuperieur rotsblok'
+  name: 'Superieur rotsblok'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_STRING:
   description:
   - '&7Een superleiband'
-  name: '&aSuperieure leiband'
+  name: "Superieure draad"
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7Een supersuikerriet'
-  name: '&aSuperieur suikerriet'
+  name: 'Superieur suikerriet'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7Superbessen'
-  name: '&aSuperieure zoete bessen'
+  name: 'Superieure zoete bessen'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_TEAR:
   description:
   - '&7Een supertraan'
-  name: '&aSuperieure traan'
+  name: "Superieure ghasttraan"
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7Een superkromme'
-  name: '&aSuperieure kromme stam'
+  name: 'Superieure kromme stam'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_WHEAT:
   description:
   - '&7Een supertarwe'
-  name: '&aSuperieure tarwe'
+  name: 'Superieure tarwe'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7Een superroos'
-  name: '&aSuperieure witherroos'
+  name: 'Superieure witherroos'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CORE_YELLOW:
   description:
   - '&7Een supergeel'
-  name: '&aSuperieur geel'
+  name: 'Superieur geel'
   type:
   - '&7&oKernonderdelen'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&aKristallisatormachine'
+  name: 'Kristallisatormachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_DIAMOND_QUARRY:
-  name: '&eDiamantgroeve'
+  name: 'Diamantgroeve'
   stats:
   - '&6Geavanceerde machine'
   type:
   - '&7&oMachine'
 SUPREME_DUST_AMETHYST:
-  name: '&aAmethistpoeder'
+  name: 'Amethistpoeder'
   type:
   - '&7&oOnderdeel'
 SUPREME_DUST_GLOW_INK:
-  name: '&aGloei-inktpoeder'
+  name: 'Gloei-inktpoeder'
   type:
   - '&7&oOnderdeel'
 SUPREME_DUST_NETHERITE:
-  name: '&aNetherietpoeder'
+  name: 'Netherietpoeder'
   type:
   - '&7&oOnderdeel'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&fVervaardigingsgrondstof voor kern'
-  name: '&bElektrische kernmachine'
+  name: 'Elektrische kernmachine'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&fGeavanceerde vervaardigingsgrondstof voor kern'
-  name: '&bElektrische kernmachine II'
+  name: 'Elektrische kernmachine II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&fGeavanceerde vervaardigingsgrondstof voor kern'
-  name: '&bElektrische kernmachine III'
+  name: 'Elektrische kernmachine III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&fVervaardig items'
-  name: '&bElektrische vervaardiger'
+  name: 'Elektrische vervaardiger'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&fGeavanceerd items vervaardigen'
-  name: '&bElektrische vervaardiger II'
+  name: 'Elektrische vervaardiger II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&fGeavanceerd items vervaardigen'
-  name: '&bElektrische vervaardiger III'
+  name: 'Elektrische vervaardiger III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&fVervaardigt uitrustingsrangen'
-  name: '&bElektrische uitrustingsmachine'
+  name: 'Elektrische uitrustingsmachine'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&fGeavanceerde vervaardiging van uitrustingsrangen'
-  name: '&bElektrische uitrustingsmachine II'
+  name: 'Elektrische uitrustingsmachine II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&fGeavanceerde vervaardiging van uitrustingsrangen'
-  name: '&bElektrische uitrustingsmachine III'
+  name: 'Elektrische uitrustingsmachine III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
   type:
   - '&7&oMachine'
 SUPREME_ELECTRIC_ITEM:
-  name: Elektrisch item
+  name: "Elektrisch"
   type:
   - '&7&oOverig'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&fVervaardigingsgrondstof voor magie'
-  name: '&bElektrische magische machine'
+  name: 'Elektrische magische machine'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&fGeavanceerde vervaardigingsgrondstof voor magie'
-  name: '&bElektrische magische machine II'
+  name: 'Elektrische magische machine II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&fGeavanceerde vervaardigingsgrondstof voor magie'
-  name: '&bElektrische magische machine III'
+  name: 'Elektrische magische machine III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
   type:
   - '&7&oMachine'
 SUPREME_EMPTY_MOBTECH:
-  name: '&aLege MobTech'
+  name: 'Lege MobTech'
   type:
   - '&7&oOnderdeel'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fstaafgrondstoffen te smeden.'
-  name: '&bStaafsmederij'
+  name: 'Staafsmederij'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fstaafgrondstoffen te smeden.'
-  name: '&bStaafsmederij II'
+  name: 'Staafsmederij II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fstaafgrondstoffen te smeden.'
-  name: '&bStaafsmederij III'
+  name: 'Staafsmederij III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fmagische grondstoffen te smeden.'
-  name: '&bMagiesmederij'
+  name: 'Magiesmederij'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fmagische grondstoffen te smeden.'
-  name: '&bMagiesmederij II'
+  name: 'Magiesmederij II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fmagische grondstoffen te smeden.'
-  name: '&bMagiesmederij III'
+  name: 'Magiesmederij III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&fGieterij- en synthesizeritems'
-  name: '&bGieterij'
+  name: 'Gieterij'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&fGeavanceerde gieterij- en synthesizeritems'
-  name: '&bGieterij II'
+  name: 'Gieterij II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&fGeavanceerde gieterij- en synthesizeritems'
-  name: '&bGieterij III'
+  name: 'Gieterij III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
   type:
   - '&7&oMachine'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&bGeavanceerde mobgenerator'
+  name: 'Geavanceerde mobgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&bBasismobgenerator'
+  name: 'Basismobgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&bMiddelgrote mobgenerator'
+  name: 'Middelgrote mobgenerator'
   stats:
   - '&eBasisgenerator'
   type:
   - '&7&oMachine'
 SUPREME_GENE_BERSERK:
-  name: '&aBerserkgen'
+  name: 'Berserkgen'
   type:
   - '&7&oOnderdeel'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&fIntelligentiegen'
+  name: 'Intelligentiegen'
   type:
   - '&7&oOnderdeel'
 SUPREME_GENE_LUCK:
-  name: '&aGeluksgen'
+  name: 'Geluksgen'
   type:
   - '&7&oOnderdeel'
 SUPREME_GOLD_QUARRY:
-  name: '&eGoudgroeve'
+  name: 'Goudgroeve'
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&lEen epische helm van Thornium'
-  name: '&d&lEpische helm'
+  name: 'Epische helm'
   type:
   - '&7&oWapenrusting'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&lEen legendarische helm van Thornium'
-  name: '&6&lLegendarische helm'
+  name: 'Legendarische helm'
   type:
   - '&7&oWapenrusting'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&lEen magische helm van Thornium'
-  name: '&a&lMagische helm'
+  name: 'Magische helm'
   type:
   - '&7&oWapenrusting'
 SUPREME_HELMET_RARE:
   description:
   - '&f&lEen zeldzame helm van Thornium'
-  name: '&b&lZeldzame helm'
+  name: 'Zeldzame helm'
   type:
   - '&7&oWapenrusting'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&lEen superieure helm van Thornium'
-  name: '&4&lSuperieure helm'
+  name: 'Superieure helm'
   type:
   - '&7&oWapenrusting'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&lEen helm van Thornium'
-  name: '&f&lThorniumhelm'
+  name: 'Thorniumhelm'
   type:
   - '&7&oWapenrusting'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9Ignisgenerator'
+  name: 'Ignisgenerator'
   stats:
   - '&6Geavanceerde generator'
   type:
   - '&7&oMachine'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&aInductieve machine'
+  name: 'Inductieve machine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&aInductormachine'
+  name: 'Inductormachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_IRIDIUM_PLATE:
-  name: '&aIridiumplaat'
+  name: 'Iridiumplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_IRON_QUARRY:
-  name: '&eIJzergroeve'
+  name: 'IJzergroeve'
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&lEen epische broek van Thornium'
-  name: '&d&lEpische broek'
+  name: 'Epische broek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&lEen legendarische broek van Thornium'
-  name: '&6&lLegendarische broek'
+  name: 'Legendarische broek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&lEen magische broek van Thornium'
-  name: '&a&lMagische broek'
+  name: 'Magische broek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&lEen zeldzame broek van Thornium'
-  name: '&b&lZeldzame broek'
+  name: 'Zeldzame broek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&lEen superieure broek van Thornium'
-  name: '&4&lSuperieure broek'
+  name: 'Superieure broek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&lEen broek van Thornium'
-  name: '&f&lThorniumbroek'
+  name: 'Thorniumbroek'
   type:
   - '&7&oWapenrusting'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9Lumiumgenerator'
+  name: 'Lumiumgenerator'
   stats:
   - '&6Geavanceerde generator'
   type:
   - '&7&oMachine'
 SUPREME_LUX_GENERATOR:
-  name: '&9Luxgenerator'
+  name: 'Luxgenerator'
   stats:
   - '&6Geavanceerde generator'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&fVervaardig runen en magische items'
-  name: '&bMagisch altaar'
+  name: 'Magisch altaar'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&fGeavanceerd runen en magische items vervaardigen'
-  name: '&bMagisch altaar II'
+  name: 'Magisch altaar II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&fGeavanceerd runen en magische items vervaardigen'
-  name: '&bMagisch altaar III'
+  name: 'Magisch altaar III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
   type:
   - '&7&oMachine'
 SUPREME_MAIN_ITEM:
-  name: Hoofditem
+  name: "Supreme"
   type:
   - '&7&oOverig'
 SUPREME_MANGANESE_PLATE:
-  name: '&aMangaanplaat'
+  name: 'Mangaanplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&fDeze machine stelt je in staat om '
   - '&fitems van nabijgelegen mobs te verzamelen. (4 blok)'
-  name: '&bMobverzamelaar'
+  name: 'Mobverzamelaar'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&f items van nabijgelegen mobs te verzamelen. (8 blok)'
-  name: '&bMobverzamelaar II'
+  name: 'Mobverzamelaar II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&f items van nabijgelegen mobs te verzamelen. (16 blok)'
-  name: '&bMobverzamelaar III'
+  name: 'Mobverzamelaar III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&oMachine'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6MobTech-verzamelaar I'
+  name: "MobTech-verzamelaar I (Gereedschap)"
   stats:
   - '&8⇨ &e⚡ &750 J per gebruik'
   type:
   - '&7&oGereedschappen'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6MobTech-verzamelaar II'
+  name: "MobTech-verzamelaar II (Gereedschap)"
   stats:
   - '&8⇨ &e⚡ &750 J per gebruik'
   type:
   - '&7&oGereedschappen'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6MobTech-verzamelaar III'
+  name: "MobTech-verzamelaar III (Gereedschap)"
   stats:
   - '&8⇨ &e⚡ &750 J per gebruik'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&fDeze machine stelt je in staat om '
   - '&fMobTech-hoofden van nabijgelegen mobs. (6 blok)'
-  name: '&bMobTech-verzamelaar II'
+  name: 'MobTech-verzamelaar II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&fDeze machine stelt je in staat om '
   - '&fMobTech-hoofden van nabijgelegen mobs. (9 blok)'
-  name: '&bMobTech-verzamelaar III'
+  name: 'MobTech-verzamelaar III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&oHier kun je kernen vervaardigen!'
   - '&aMultiblockmachine'
-  name: '&eKernfabricator'
+  name: 'Kernfabricator'
   type:
   - '&7&oMachine'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&oHier kun je wapens, harnassen en gereedschap vervaardigen!'
   - '&aMultiblockmachine'
-  name: '&eUitrustingsfabricator'
+  name: 'Uitrustingsfabricator'
   type:
   - '&7&oMachine'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&oHier kun je magie vervaardigen!'
   - '&aMultiblockmachine'
-  name: '&eMagische fabricator'
+  name: 'Magische fabricator'
   type:
   - '&7&oMachine'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&aVersteningsmachine'
+  name: 'Versteningsmachine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&lEen episch houweel van Thornium'
-  name: '&d&lEpisch houweel'
+  name: 'Episch houweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&lEen legendarisch houweel van Thornium'
-  name: '&6&lLegendarisch houweel'
+  name: 'Legendarisch houweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&lEen magisch houweel van Thornium'
-  name: '&a&lMagisch houweel'
+  name: 'Magisch houweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&lEen zeldzaam houweel van Thornium'
-  name: '&b&lZeldzaam houweel'
+  name: 'Zeldzaam houweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&lEen superieur houweel van Thornium'
-  name: '&4&lSuperieur houweel'
+  name: 'Superieur houweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&lEen houweel van Thornium'
-  name: '&f&lThorniumhouweel'
+  name: 'Thorniumhouweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_PLATINUM_PLATE:
-  name: '&aPlatinaplaat'
+  name: 'Platinaplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&aRoestloze machine'
+  name: 'Roestloze machine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&lEen episch schild van Thornium'
-  name: '&d&lEpisch schild'
+  name: 'Episch schild'
   type:
   - '&7&oWapens'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&lEen legendarisch schild van Thornium'
-  name: '&6&lLegendarisch schild'
+  name: 'Legendarisch schild'
   type:
   - '&7&oWapens'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&lEen magisch schild van Thornium'
-  name: '&a&lMagisch schild'
+  name: 'Magisch schild'
   type:
   - '&7&oWapens'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&lEen zeldzaam schild van Thornium'
-  name: '&b&lZeldzaam schild'
+  name: 'Zeldzaam schild'
   type:
   - '&7&oWapens'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&lEen superieur schild van Thornium'
-  name: '&4&lSuperieur schild'
+  name: 'Superieur schild'
   type:
   - '&7&oWapens'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&lEen schild van Thornium'
-  name: '&f&lThorniumschild'
+  name: 'Thorniumschild'
   type:
   - '&7&oWapens'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&lEen epische schep van Thornium'
-  name: '&d&lEpische schep'
+  name: 'Epische schep'
   type:
   - '&7&oGereedschappen'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&lEen legendarische schep van Thornium'
-  name: '&6&lLegendarische schep'
+  name: 'Legendarische schep'
   type:
   - '&7&oGereedschappen'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&lEen magische schep van Thornium'
-  name: '&a&lMagische schep'
+  name: 'Magische schep'
   type:
   - '&7&oGereedschappen'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&lEen zeldzame schep van Thornium'
-  name: '&b&lZeldzame schep'
+  name: 'Zeldzame schep'
   type:
   - '&7&oGereedschappen'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&lEen superieure schep van Thornium'
-  name: '&4&lSuperieure schep'
+  name: 'Superieure schep'
   type:
   - '&7&oGereedschappen'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&lEen schep van Thornium'
-  name: '&f&lThorniumschep'
+  name: 'Thorniumschep'
   type:
   - '&7&oGereedschappen'
 SUPREME_STAINLESS_MACHINE:
-  name: '&aRoestvrije machine'
+  name: 'Roestvrije machine'
   type:
   - '&7&oGeavanceerde onderdelen'
 SUPREME_STONE_QUARRY:
-  name: '&eSteengroeve'
+  name: 'Steengroeve'
   stats:
   - '&aMiddelgrote machine'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7De Superieur'
-  name: '&aSuperieur'
+  name: 'Superieur'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9Superieure condensator'
+  name: 'Superieure condensator'
   stats:
   - '&4Eindspelcondensator'
   - '&8⇨ &e⚡ &7Oneindige J Capaciteit'
   type:
   - '&7&oMachine'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9Superieure generator'
+  name: 'Superieure generator'
   stats:
   - '&4Eindspelgenerator'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7Uit de superieure klompjesgroeve'
-  name: '&aSuperieur klompje'
+  name: 'Superieur klompje'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&eGroeve van superieure klompjes'
+  name: 'Groeve van superieure klompjes'
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&lEen episch zwaard van Thornium'
-  name: '&d&lEpisch zwaard'
+  name: 'Episch zwaard'
   type:
   - '&7&oWapens'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&lEen legendarisch zwaard van Thornium'
-  name: '&6&lLegendarisch zwaard'
+  name: 'Legendarisch zwaard'
   type:
   - '&7&oWapens'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&lEen magisch zwaard van Thornium'
-  name: '&a&lMagisch zwaard'
+  name: 'Magisch zwaard'
   type:
   - '&7&oWapens'
 SUPREME_SWORD_RARE:
   description:
   - '&f&lEen zeldzaam zwaard van Thornium'
-  name: '&b&lZeldzaam zwaard'
+  name: 'Zeldzaam zwaard'
   type:
   - '&7&oWapens'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&lEen superieur zwaard van Thornium'
-  name: '&4&lSuperieur zwaard'
+  name: 'Superieur zwaard'
   type:
   - '&7&oWapens'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&lEen zwaard van Thornium'
-  name: '&f&lThorniumzwaard'
+  name: 'Thorniumzwaard'
   type:
   - '&7&oWapens'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&aSynthetische amethist'
+  name: 'Synthetische amethist'
   type:
   - '&7&oOnderdelen'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&aSynthetische robijn'
+  name: 'Synthetische robijn'
   type:
   - '&7&oOnderdelen'
 SUPREME_TECH_GENERATOR:
   description:
   - '&fMet behulp van stroom en bijen/golem/zombie, '
   - '&fgenereert langzaam materialen.'
-  name: '&bTechgenerator'
+  name: 'Techgenerator'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&fGebruik generatormutatie '
   - '&fom naar hogere niveaus te gaan'
-  name: '&bTechmutatie'
+  name: 'Techmutatie'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&fGebruik generatormutatie '
   - '&fom naar hogere niveaus te gaan'
   - '&fKansfactor vermenigvuldigd met 2x'
-  name: '&bTechmutatie II'
+  name: 'Techmutatie II'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&fGebruik generatormutatie '
   - '&fom naar hogere niveaus te gaan'
   - '&fKansfactor vermenigvuldigd met 4x'
-  name: '&bTechmutatie III'
+  name: 'Techmutatie III'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&fGebruik robots op beginnersniveau '
   - '&fom naar hogere niveaus te gaan'
   - '&f64x nodig om te upgraden'
-  name: '&bTechrobotica'
+  name: 'Techrobotica'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&fGebruik robots op beginnersniveau '
   - '&fom naar hogere niveaus te gaan'
   - '&f32x nodig om te upgraden'
-  name: '&bTechrobotica II'
+  name: 'Techrobotica II'
   stats:
   - '&4Eindspelmachine'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&fGebruik robots op beginnersniveau '
   - '&fom naar hogere niveaus te gaan'
   - '&f16x nodig om te upgraden'
-  name: '&bTechrobotica III'
+  name: 'Techrobotica III'
   stats:
   - '&4Eindspelmachine'
   type:
   - '&7&oMachine'
 SUPREME_THORNERITE:
-  name: '&aThornerite'
+  name: 'Thornerite'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7Uit de Thorniumgroeve'
-  name: '&aThorniumstukje'
+  name: 'Thorniumstukje'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7Uit het Thorniumstukje'
-  name: '&aSynthetisch Thorniumstukje'
+  name: 'Synthetisch Thorniumstukje'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9Thorniumcondensator'
+  name: 'Thorniumcondensator'
   stats:
   - '&4Eindspelcondensator'
   - '&8⇨ &e⚡ &7100,000,000.00 J Capaciteit'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7Uit de Thorniumstaaf'
-  name: '&aThorniumcarbonado'
+  name: 'Thorniumcarbonado'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7Uit het Thorniumstukje'
-  name: '&aThorniumpoeder'
+  name: 'Thorniumpoeder'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7Uit het Thorniumpoeder'
-  name: '&aSynthetisch Thorniumpoeder'
+  name: 'Synthetisch Thorniumpoeder'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7Uit de Thorniumstaaf'
-  name: '&aGeënergiseerd Thornium'
+  name: 'Geënergiseerd Thornium'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9Thorniumgenerator'
+  name: 'Thorniumgenerator'
   stats:
   - '&4Eindspelgenerator'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7Uit het Thorniumpoeder'
-  name: '&aThorniumstaaf'
+  name: 'Thorniumstaaf'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7Uit de Thorniumstaaf'
-  name: '&aSynthetische Thorniumstaaf'
+  name: 'Synthetische Thorniumstaaf'
   type:
   - '&7&oEindspelonderdelen'
 SUPREME_THORNIUM_QUARRY:
-  name: '&eThorniumgroeve'
+  name: 'Thorniumgroeve'
   stats:
   - '&6Geavanceerde machine'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&lEen bijl van Titanium'
-  name: '&f&lTitaniumbijl'
+  name: 'Titaniumbijl'
   type:
   - '&7&oGereedschappen'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&lLaarzen van Titanium'
-  name: '&f&lTitaniumlaarzen'
+  name: 'Titaniumlaarzen'
   type:
   - '&7&oWapenrusting'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9Titaniumcondensator'
+  name: 'Titaniumcondensator'
   stats:
   - '&6Geavanceerde condensator'
   - '&8⇨ &e⚡ &74,000,000.00 J Capaciteit'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&lEen borstplaat van Titanium'
-  name: '&f&lTitaniumborstplaat'
+  name: 'Titaniumborstplaat'
   type:
   - '&7&oWapenrusting'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&lEen helm van Titanium'
-  name: '&f&lTitaniumhelm'
+  name: 'Titaniumhelm'
   type:
   - '&7&oWapenrusting'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&lEen broek van Titanium'
-  name: '&f&lTitaniumbroek'
+  name: 'Titaniumbroek'
   type:
   - '&7&oWapenrusting'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&lEen houweel van Titanium'
-  name: '&f&lTitaniumhouweel'
+  name: 'Titaniumhouweel'
   type:
   - '&7&oGereedschappen'
 SUPREME_TITANIUM_PLATE:
-  name: '&aTitaniumplaat'
+  name: 'Titaniumplaat'
   type:
   - '&7&oOnderdelen'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&lEen schep van Titanium'
-  name: '&f&lTitaniumschep'
+  name: 'Titaniumschep'
   type:
   - '&7&oGereedschappen'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&lEen zwaard van Titanium'
-  name: '&f&lTitaniumzwaard'
+  name: 'Titaniumzwaard'
   type:
   - '&7&oWapens'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9Ventusgenerator'
+  name: 'Ventusgenerator'
   stats:
   - '&eBasisgenerator'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&fDeze machine stelt je in staat om '
   - '&f items te verzamelen die op zee vergaard worden.'
-  name: '&bVirtueel aquarium'
+  name: 'Virtueel aquarium'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&f items te verzamelen die op zee vergaard worden.'
-  name: '&bVirtueel aquarium II'
+  name: 'Virtueel aquarium II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&f items te verzamelen die op zee vergaard worden.'
-  name: '&bVirtueel aquarium III'
+  name: 'Virtueel aquarium III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fwat grondstoffen te kweken.'
-  name: '&bVirtuele tuin'
+  name: 'Virtuele tuin'
   stats:
   - '&6Geavanceerde machine'
   - '&8⇨ &b⚡ &7Snelheid: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fwat grondstoffen te kweken.'
-  name: '&bVirtuele tuin II'
+  name: 'Virtuele tuin II'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&fDeze machine stelt je in staat om'
   - '&fwat grondstoffen te kweken.'
-  name: '&bVirtuele tuin III'
+  name: 'Virtuele tuin III'
   stats:
   - '&4Eindspelmachine'
   - '&8⇨ &b⚡ &7Snelheid: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&oMachine'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&aZirkoniumplaat'
+  name: 'Zirkoniumplaat'
   type:
   - '&7&oOnderdelen'

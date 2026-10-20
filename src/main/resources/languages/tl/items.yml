@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin '
   - '&fang ulo ng MobTech mula sa malapit na mga nilalang. (3 bloke)'
-  name: '&bTagakolekta ng MobTech I'
+  name: 'Tagakolekta ng MobTech I'
   type:
   - '&7&oMakina'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&lIsang palakol na Adamantium'
-  name: '&f&lPalakol na Adamantium'
+  name: 'Palakol na Adamantium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&lIsang botang Adamantium'
-  name: '&f&lBotang Adamantium'
+  name: 'Botang Adamantium'
   type:
   - '&7&oBaluti'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9Kapasitor na Adamantium'
+  name: 'Kapasitor na Adamantium'
   stats:
   - '&6Abanseng Kapasitor'
   - '&8⇨ &e⚡ &716,000,000.00 J na Kapasidad'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&lIsang baluting dibdib na Adamantium'
-  name: '&f&lBaluting Dibdib na Adamantium'
+  name: 'Baluting Dibdib na Adamantium'
   type:
   - '&7&oBaluti'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&lIsang helmet na Adamantium'
-  name: '&f&lHelmet na Adamantium'
+  name: 'Helmet na Adamantium'
   type:
   - '&7&oBaluti'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&lIsang baluting binti na Adamantium'
-  name: '&f&lBaluting Binti na Adamantium'
+  name: 'Baluting Binti na Adamantium'
   type:
   - '&7&oBaluti'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&lIsang pikong Adamantium'
-  name: '&f&lPikong Adamantium'
+  name: 'Pikong Adamantium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&aPlakang Adamantium'
+  name: 'Plakang Adamantium'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&lIsang palang Adamantium'
-  name: '&f&lPalang Adamantium'
+  name: 'Palang Adamantium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&lIsang espadang Adamantium'
-  name: '&f&lEspadang Adamantium'
+  name: 'Espadang Adamantium'
   type:
   - '&7&oMga Sandata'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&aHaluang Metal na Adamantium'
+  name: 'Haluang Metal na Adamantium'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_AURUM:
-  name: '&aHaluang Metal na Aurum'
+  name: 'Haluang Metal na Aurum'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&aHaluang Metal na Iridyo'
+  name: 'Haluang Metal na Iridyo'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_MANGANESE:
-  name: '&aHaluang Metal na Mangganeso'
+  name: 'Haluang Metal na Mangganeso'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_PLATINUM:
-  name: '&aHaluang Metal na Platino'
+  name: 'Haluang Metal na Platino'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_TITANIUM:
-  name: '&aHaluang Metal na Titanyo'
+  name: 'Haluang Metal na Titanyo'
   type:
   - '&7&oMga Bahagi'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&aHaluang Metal na Zirkonyo'
+  name: 'Haluang Metal na Zirkonyo'
   type:
   - '&7&oMga Bahagi'
 SUPREME_AQUA_GENERATOR:
-  name: '&9Generador na Aqua'
+  name: 'Generador na Aqua'
   stats:
   - '&6Abanseng Generador'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7Isang super na atributong bomba na may mga espesyal na epekto'
-  name: '&aAtributong Bomba'
+  name: 'Atributong Bomba'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7Isang super na atributong suwerte na may mga espesyal na epekto'
-  name: '&aAtributong Suwerte'
+  name: 'Atributong Suwerte'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7Isang super na atributong Impetus na may mga espesyal na epekto'
-  name: '&aAtributong Impetus'
+  name: 'Atributong Impetus'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7Isang super na atributong mahika na may mga espesyal na epekto'
-  name: '&aAtributong Mahika'
+  name: 'Atributong Mahika'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_AURUM_AXE:
   description:
   - '&f&lIsang palakol na Aurum'
-  name: '&f&lPalakol na Aurum'
+  name: 'Palakol na Aurum'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&lIsang botang Aurum'
-  name: '&f&lBotang Aurum'
+  name: 'Botang Aurum'
   type:
   - '&7&oBaluti'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9Kapasitor na Aurum'
+  name: 'Kapasitor na Aurum'
   stats:
   - '&6Abanseng Kapasitor'
   - '&8⇨ &e⚡ &71,000,000.00 J na Kapasidad'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&lIsang baluting dibdib na Aurum'
-  name: '&f&lBaluting Dibdib na Aurum'
+  name: 'Baluting Dibdib na Aurum'
   type:
   - '&7&oBaluti'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&lIsang helmet na Aurum'
-  name: '&f&lHelmet na Aurum'
+  name: 'Helmet na Aurum'
   type:
   - '&7&oBaluti'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&lIsang baluting binti na Aurum'
-  name: '&f&lBaluting Binti na Aurum'
+  name: 'Baluting Binti na Aurum'
   type:
   - '&7&oBaluti'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&lIsang pikong Aurum'
-  name: '&f&lPikong Aurum'
+  name: 'Pikong Aurum'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AURUM_PLATE:
-  name: '&aPlakang Aurum'
+  name: 'Plakang Aurum'
   type:
   - '&7&oMga Bahagi'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&lIsang palang Aurum'
-  name: '&f&lPalang Aurum'
+  name: 'Palang Aurum'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&lIsang espadang Aurum'
-  name: '&f&lEspadang Aurum'
+  name: 'Espadang Aurum'
   type:
   - '&7&oMga Sandata'
 SUPREME_AXE_EPIC:
   description:
   - '&f&lIsang epikong palakol na Thornium'
-  name: '&d&lEpikong Palakol'
+  name: 'Epikong Palakol'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong palakol na Thornium'
-  name: '&6&lLehendaryong Palakol'
+  name: 'Lehendaryong Palakol'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&lIsang mahikang palakol na Thornium'
-  name: '&a&lMahikang Palakol'
+  name: 'Mahikang Palakol'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AXE_RARE:
   description:
   - '&f&lIsang bihirang palakol na Thornium'
-  name: '&b&lBihirang Palakol'
+  name: 'Bihirang Palakol'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&lIsang supremong palakol na Thornium'
-  name: '&4&lSupremong Palakol'
+  name: 'Supremong Palakol'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&lIsang palakol na Thornium'
-  name: '&f&lPalakol na Thornium'
+  name: 'Palakol na Thornium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9Basikong Generador na Aqua'
+  name: 'Basikong Generador na Aqua'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9Basikong Generador na Ignis'
+  name: 'Basikong Generador na Ignis'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9Basikong Generador na Lumium'
+  name: 'Basikong Generador na Lumium'
   stats:
   - '&6Abanseng Generador'
   type:
   - '&7&oMakina'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9Basikong Generador na Lux'
+  name: 'Basikong Generador na Lux'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9Basikong Generador na Ventus'
+  name: 'Basikong Generador na Ventus'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_BLEND_MACHINE:
-  name: '&aMakinang Panghalo'
+  name: 'Makinang Panghalo'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&lIsang epikong bota na Thornium'
-  name: '&d&lEpikong Bota'
+  name: 'Epikong Bota'
   type:
   - '&7&oBaluti'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong bota na Thornium'
-  name: '&6&lLehendaryong Bota'
+  name: 'Lehendaryong Bota'
   type:
   - '&7&oBaluti'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&lIsang mahikang bota na Thornium'
-  name: '&a&lMahikang Bota'
+  name: 'Mahikang Bota'
   type:
   - '&7&oBaluti'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&lIsang bihirang bota na Thornium'
-  name: '&b&lBihirang Bota'
+  name: 'Bihirang Bota'
   type:
   - '&7&oBaluti'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&lIsang supremong bota na Thornium'
-  name: '&4&lSupremong Bota'
+  name: 'Supremong Bota'
   type:
   - '&7&oBaluti'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&lIsang botang Thornium'
-  name: '&f&lBotang Thornium'
+  name: 'Botang Thornium'
   type:
   - '&7&oBaluti'
 SUPREME_BOW_EPIC:
   description:
   - '&f&lIsang epikong busog na Thornium'
-  name: '&d&lEpikong Busog'
+  name: 'Epikong Busog'
   type:
   - '&7&oMga Sandata'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong busog na Thornium'
-  name: '&6&lLehendaryong Busog'
+  name: 'Lehendaryong Busog'
   type:
   - '&7&oMga Sandata'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&lIsang mahikang busog na Thornium'
-  name: '&a&lMahikang Busog'
+  name: 'Mahikang Busog'
   type:
   - '&7&oMga Sandata'
 SUPREME_BOW_RARE:
   description:
   - '&f&lIsang bihirang busog na Thornium'
-  name: '&b&lBihirang Busog'
+  name: 'Bihirang Busog'
   type:
   - '&7&oMga Sandata'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&lIsang supremong busog na Thornium'
-  name: '&4&lSupremong Busog'
+  name: 'Supremong Busog'
   type:
   - '&7&oMga Sandata'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&lIsang busog na Thornium'
-  name: '&f&lBusog na Thornium'
+  name: 'Busog na Thornium'
   type:
   - '&7&oMga Sandata'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Aluminyong Tumbaga'
-  name: '&bTarheta ng Makina: Bareta ng Aluminyong Tumbaga'
+  name: "Tarheta ng Makina (Bareta ng Aluminyong Tumbaga)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Aluminyong Bronse'
-  name: '&bTarheta ng Makina: Bareta ng Aluminyong Bronse'
+  name: "Tarheta ng Makina (Bareta ng Aluminyong Bronse)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Aluminyo'
-  name: '&bTarheta ng Makina: Alikabok ng Aluminyo'
+  name: "Tarheta ng Makina (Alikabok ng Aluminyo)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&fBaguhin sa Produksyon ng Ametista'
-  name: '&bTarheta ng Makina: Ametista'
+  name: "Tarheta ng Makina (Ametista)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&fBaguhin sa Produksyon ng Andesita'
-  name: '&bTarheta ng Makina: Andesita'
+  name: "Tarheta ng Makina (Andesita)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&fBaguhin sa Produksyon ng Mansanas'
-  name: '&bTarheta ng Makina: Mansanas'
+  name: "Tarheta ng Makina (Mansanas)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&fBaguhin sa Produksyon ng Baterya'
-  name: '&bTarheta ng Makina: Baterya'
+  name: "Tarheta ng Makina (Baterya)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Billon'
-  name: '&bTarheta ng Makina: Bareta ng Billon'
+  name: "Tarheta ng Makina (Bareta ng Billon)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&fBaguhin sa Produksyon ng Baras ng Blaze'
-  name: '&bTarheta ng Makina: Baras ng Blaze'
+  name: "Tarheta ng Makina (Baras ng Blaze)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Tumbaga'
-  name: '&bTarheta ng Makina: Bareta ng Tumbaga'
+  name: "Tarheta ng Makina (Bareta ng Tumbaga)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Bronse'
-  name: '&bTarheta ng Makina: Bareta ng Bronse'
+  name: "Tarheta ng Makina (Bareta ng Bronse)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&fBaguhin sa Produksyon ng Karbon'
-  name: '&bTarheta ng Makina: Karbon'
+  name: "Tarheta ng Makina (Karbon)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&fBaguhin sa Produksyon ng Carbonado'
-  name: '&bTarheta ng Makina: Carbonado'
+  name: "Tarheta ng Makina (Carbonado)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&fBaguhin sa Produksyon ng Siksik na Karbon'
-  name: '&bTarheta ng Makina: Siksik na Karbon'
+  name: "Tarheta ng Makina (Siksik na Karbon)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&fBaguhin sa Produksyon ng Luwad'
-  name: '&bTarheta ng Makina: Luwad'
+  name: "Tarheta ng Makina (Luwad)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&fBaguhin sa Produksyon ng Uling'
-  name: '&bTarheta ng Makina: Uling'
+  name: "Tarheta ng Makina (Uling)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&fBaguhin sa Produksyon ng Kobalto'
-  name: '&bTarheta ng Makina: Kobalto'
+  name: "Tarheta ng Makina (Kobalto)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&fBaguhin sa Produksyon ng Tanso'
-  name: '&bTarheta ng Makina: Tanso'
+  name: "Tarheta ng Makina (Tanso)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Tanso'
-  name: '&bTarheta ng Makina: Alikabok ng Tanso'
+  name: "Tarheta ng Makina (Alikabok ng Tanso)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Bronseng Corinto'
-  name: '&bTarheta ng Makina: Bareta ng Bronseng Corinto'
+  name: "Tarheta ng Makina (Bareta ng Bronseng Corinto)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&fBaguhin sa Produksyon ng Damasko'
-  name: '&bTarheta ng Makina: Damasko'
+  name: "Tarheta ng Makina (Damasko)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&fBaguhin sa Produksyon ng Diyamante'
-  name: '&bTarheta ng Makina: Diyamante'
+  name: "Tarheta ng Makina (Diyamante)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&fBaguhin sa Produksyon ng Diyorita'
-  name: '&bTarheta ng Makina: Diyorita'
+  name: "Tarheta ng Makina (Diyorita)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Duralumin'
-  name: '&bTarheta ng Makina: Bareta ng Duralumin'
+  name: "Tarheta ng Makina (Bareta ng Duralumin)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&fBaguhin sa Produksyon ng Elektrikong Motor'
-  name: '&bTarheta ng Makina: Elektrikong Motor'
+  name: "Tarheta ng Makina (Elektrikong Motor)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&fBaguhin sa Produksyon ng Elektrikong Batubalani'
-  name: '&bTarheta ng Makina: Elektrikong Batubalani'
+  name: "Tarheta ng Makina (Elektrikong Batubalani)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&fBaguhin sa Produksyon ng Esmeralda'
-  name: '&bTarheta ng Makina: Esmeralda'
+  name: "Tarheta ng Makina (Esmeralda)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&fBaguhin sa Produksyon ng Batong End'
-  name: '&bTarheta ng Makina: Batong End'
+  name: "Tarheta ng Makina (Batong End)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&fBaguhin sa Produksyon ng Ferrosilisyo'
-  name: '&bTarheta ng Makina: Ferrosilisyo'
+  name: "Tarheta ng Makina (Ferrosilisyo)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&fBaguhin sa Produksyon ng Supot ng Tintang Nagniningning'
-  name: '&bTarheta ng Makina: Supot ng Tintang Nagniningning'
+  name: "Tarheta ng Makina (Supot ng Tintang Nagniningning)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&fBaguhin sa Produksyon ng Ginto'
-  name: '&bTarheta ng Makina: Ginto'
+  name: "Tarheta ng Makina (Ginto)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&fBaguhin sa Produksyon ng Ginto 24k'
-  name: '&bTarheta ng Makina: Ginto 24k'
+  name: "Tarheta ng Makina (Ginto 24k)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Ginto'
-  name: '&bTarheta ng Makina: Alikabok ng Ginto'
+  name: "Tarheta ng Makina (Alikabok ng Ginto)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&fBaguhin sa Produksyon ng Granito'
-  name: '&bTarheta ng Makina: Granito'
+  name: "Tarheta ng Makina (Granito)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&fBaguhin sa Produksyon ng Graba'
-  name: '&bTarheta ng Makina: Graba'
+  name: "Tarheta ng Makina (Graba)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Pinatigas na Metal'
-  name: '&bTarheta ng Makina: Bareta ng Pinatigas na Metal'
+  name: "Tarheta ng Makina (Bareta ng Pinatigas na Metal)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&fBaguhin sa Produksyon ng Pampainit na Koil'
-  name: '&bTarheta ng Makina: Pampainit na Koil'
+  name: "Tarheta ng Makina (Pampainit na Koil)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&fBaguhin sa Produksyon ng Bote ng Pulot'
-  name: '&bTarheta ng Makina: Bote ng Pulot'
+  name: "Tarheta ng Makina (Bote ng Pulot)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&fBaguhin sa Produksyon ng Supot ng Tinta'
-  name: '&bTarheta ng Makina: Supot ng Tinta'
+  name: "Tarheta ng Makina (Supot ng Tinta)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&fBaguhin sa Produksyon ng Bakal'
-  name: '&bTarheta ng Makina: Bakal'
+  name: "Tarheta ng Makina (Bakal)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Bakal'
-  name: '&bTarheta ng Makina: Alikabok ng Bakal'
+  name: "Tarheta ng Makina (Alikabok ng Bakal)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&fBaguhin sa Produksyon ng Lapis'
-  name: '&bTarheta ng Makina: Lapis'
+  name: "Tarheta ng Makina (Lapis)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Tingga'
-  name: '&bTarheta ng Makina: Alikabok ng Tingga'
+  name: "Tarheta ng Makina (Alikabok ng Tingga)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Magnesyo'
-  name: '&bTarheta ng Makina: Alikabok ng Magnesyo'
+  name: "Tarheta ng Makina (Alikabok ng Magnesyo)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&fBaguhin sa Produksyon ng Batubalani'
-  name: '&bTarheta ng Makina: Batubalani'
+  name: "Tarheta ng Makina (Batubalani)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&fBaguhin sa Produksyon ng Netherite'
-  name: '&bTarheta ng Makina: Netherite'
+  name: "Tarheta ng Makina (Netherite)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&fBaguhin sa Produksyon ng Bituin ng Nether'
-  name: '&bTarheta ng Makina: Bituin ng Nether'
+  name: "Tarheta ng Makina (Bituin ng Nether)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&fBaguhin sa Produksyon ng Nikel'
-  name: '&bTarheta ng Makina: Nikel'
+  name: "Tarheta ng Makina (Nikel)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&fBaguhin sa Produksyon ng Lamina ng Plastik'
-  name: '&bTarheta ng Makina: Lamina ng Plastik'
+  name: "Tarheta ng Makina (Lamina ng Plastik)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&fBaguhin sa Produksyon ng Kuwarts'
-  name: '&bTarheta ng Makina: Kuwarts'
+  name: "Tarheta ng Makina (Kuwarts)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&fBaguhin sa Produksyon ng Bloke ng Kuwarts'
-  name: '&bTarheta ng Makina: Bloke ng Kuwarts'
+  name: "Tarheta ng Makina (Bloke ng Kuwarts)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&fBaguhin sa Produksyon ng Redstone'
-  name: '&bTarheta ng Makina: Redstone'
+  name: "Tarheta ng Makina (Redstone)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&fBaguhin sa Produksyon ng Haluang Metal na Redstone'
-  name: '&bTarheta ng Makina: Haluang Metal na Redstone'
+  name: "Tarheta ng Makina (Haluang Metal na Redstone)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Pinatibay na Haluang Metal'
-  name: '&bTarheta ng Makina: Bareta ng Pinatibay na Haluang Metal'
+  name: "Tarheta ng Makina (Bareta ng Pinatibay na Haluang Metal)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&fBaguhin sa Produksyon ng Buhangin'
-  name: '&bTarheta ng Makina: Buhangin'
+  name: "Tarheta ng Makina (Buhangin)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&fBaguhin sa Produksyon ng Silikon'
-  name: '&bTarheta ng Makina: Silikon'
+  name: "Tarheta ng Makina (Silikon)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Pilak'
-  name: '&bTarheta ng Makina: Alikabok ng Pilak'
+  name: "Tarheta ng Makina (Alikabok ng Pilak)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&fBaguhin sa Produksyon ng Bola ng Slime'
-  name: '&bTarheta ng Makina: Bola ng Slime'
+  name: "Tarheta ng Makina (Bola ng Slime)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&fBaguhin sa Produksyon ng Niyebe'
-  name: '&bTarheta ng Makina: Niyebe'
+  name: "Tarheta ng Makina (Niyebe)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&fBaguhin sa Produksyon ng Bareta ng Panghinang'
-  name: '&bTarheta ng Makina: Bareta ng Panghinang'
+  name: "Tarheta ng Makina (Bareta ng Panghinang)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&fBaguhin sa Produksyon ng Asero'
-  name: '&bTarheta ng Makina: Asero'
+  name: "Tarheta ng Makina (Asero)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&fBaguhin sa Produksyon ng Bato'
-  name: '&bTarheta ng Makina: Bato'
+  name: "Tarheta ng Makina (Bato)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&fBaguhin sa Produksyon ng Sulpato'
-  name: '&bTarheta ng Makina: Sulpato'
+  name: "Tarheta ng Makina (Sulpato)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&fBaguhin sa Produksyon ng Sintetikong Diyamante'
-  name: '&bTarheta ng Makina: Sintetikong Diyamante'
+  name: "Tarheta ng Makina (Sintetikong Diyamante)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&fBaguhin sa Produksyon ng Sintetikong Esmeralda'
-  name: '&bTarheta ng Makina: Sintetikong Esmeralda'
+  name: "Tarheta ng Makina (Sintetikong Esmeralda)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&fBaguhin sa Produksyon ng Sintetikong Sapiro'
-  name: '&bTarheta ng Makina: Sintetikong Sapiro'
+  name: "Tarheta ng Makina (Sintetikong Sapiro)"
   stats:
   - '&6Abanseng Makina'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Estanyo'
-  name: '&bTarheta ng Makina: Alikabok ng Estanyo'
+  name: "Tarheta ng Makina (Alikabok ng Estanyo)"
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&fBaguhin sa Produksyon ng Rosas ng Wither'
-  name: '&bTarheta ng Makina: Rosas ng Wither'
+  name: "Tarheta ng Makina (Rosas ng Wither)"
   stats:
   - '&eBasikong Makina'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&fBaguhin sa Produksyon ng Alikabok ng Sink'
-  name: '&bTarheta ng Makina: Alikabok ng Sink'
+  name: "Tarheta ng Makina (Alikabok ng Sink)"
   stats:
   - '&aKatamtamang Makina'
   type:
   - '&7&oBahagi'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&aMakinang Karwahe'
+  name: 'Makinang Karwahe'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&fSangkap para sa Makina upang gumawa ng mga bagay'
-  name: '&aAbanseng Sangkap para sa Tarheta'
+  name: 'Abanseng Sangkap para sa Tarheta'
   type:
   - '&7&oBahagi'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&fSangkap para sa Makina upang gumawa ng mga bagay'
-  name: '&aBasikong Sangkap para sa Tarheta'
+  name: 'Basikong Sangkap para sa Tarheta'
   type:
   - '&7&oBahagi'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&fSangkap para sa Makina upang gumawa ng mga bagay'
-  name: '&aSukdulang Sangkap para sa Tarheta'
+  name: 'Sukdulang Sangkap para sa Tarheta'
   type:
   - '&7&oBahagi'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7Isang super na setrong Aqua'
-  name: '&aCetrus Aqua'
+  name: 'Cetrus Aqua'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7Isang super na setrong Ignis'
-  name: '&aCetrus Ignis'
+  name: 'Cetrus Ignis'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7Isang super na setrong Lumium'
-  name: '&aCetrus Lumium'
+  name: 'Cetrus Lumium'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CETRUS_LUX:
   description:
   - '&7Isang super na setrong Lux'
-  name: '&aCetrus Lux'
+  name: 'Cetrus Lux'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7Isang super na setrong Ventus'
-  name: '&aCetrus Ventus'
+  name: 'Cetrus Ventus'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&fSinusuri kung ang malapit na kaban ay may bagay na pansala'
   - '&flahat ng mukha ay isinasaalang-alang (hanapin ang una)'
   - '&fkung matagpuan, magliliwanag ang blokeng ito'
-  name: '&bPagsusuri ng Imbentaryo'
+  name: "Tagasuri ng Imbentaryo"
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&lIsang epikong baluting dibdib na Thornium'
-  name: '&d&lEpikong Baluting Dibdib'
+  name: 'Epikong Baluting Dibdib'
   type:
   - '&7&oBaluti'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong baluting dibdib na Thornium'
-  name: '&6&lLehendaryong Baluting Dibdib'
+  name: 'Lehendaryong Baluting Dibdib'
   type:
   - '&7&oBaluti'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&lIsang mahikang baluting dibdib na Thornium'
-  name: '&a&lMahikang Baluting Dibdib'
+  name: 'Mahikang Baluting Dibdib'
   type:
   - '&7&oBaluti'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&lIsang bihirang baluting dibdib na Thornium'
-  name: '&b&lBihirang Baluting Dibdib'
+  name: 'Bihirang Baluting Dibdib'
   type:
   - '&7&oBaluti'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&lIsang supremong baluting dibdib na Thornium'
-  name: '&4&lSupremong Baluting Dibdib'
+  name: 'Supremong Baluting Dibdib'
   type:
   - '&7&oBaluti'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&lIsang baluting dibdib na Thornium'
-  name: '&f&lBaluting Dibdib na Thornium'
+  name: 'Baluting Dibdib na Thornium'
   type:
   - '&7&oBaluti'
 SUPREME_COAL_QUARRY:
-  name: '&eMinahan ng Uling'
+  name: 'Minahan ng Uling'
   stats:
   - '&6Abanseng Makina'
   type:
   - '&7&oMakina'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&aMakinang Panghatid'
+  name: 'Makinang Panghatid'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7Isang super na akasya'
-  name: '&aSupremong Troso ng Akasya'
+  name: 'Supremong Troso ng Akasya'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7Isang super na andesita'
-  name: '&aSupremong andesita'
+  name: 'Supremong andesita'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_APPLE:
   description:
   - '&7Isang super na mansanas'
-  name: '&aSupremong Mansanas'
+  name: 'Supremong Mansanas'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_BEEF:
   description:
   - '&7Isang super na karne ng baka'
-  name: '&aSupremong karne ng baka'
+  name: 'Supremong karne ng baka'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7Isang super na beterabes'
-  name: '&aSupremong Beterabes'
+  name: 'Supremong Beterabes'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7Isang super na birch'
-  name: '&aSupremong Troso ng Birch'
+  name: 'Supremong Troso ng Birch'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_BLACK:
   description:
   - '&7Isang super na itim'
-  name: '&aSupremong Itim'
+  name: 'Supremong Itim'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_BLUE:
   description:
   - '&7Isang super na asul'
-  name: '&aSupremong Asul'
+  name: 'Supremong Asul'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_CARROT:
   description:
   - '&7Isang Supremong Karot'
-  name: '&aSupremong Karot'
+  name: 'Supremong Karot'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7Isang super na manok'
-  name: '&aSupremong manok'
+  name: 'Supremong manok'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_CLAY:
   description:
   - '&7Isang super na luwad'
-  name: '&aSupremong luwad'
+  name: 'Supremong luwad'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_COAL:
   description:
   - '&7Isang super na uling'
-  name: '&aSupremong uling'
+  name: 'Supremong uling'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_COD:
   description:
   - '&7Isang super na bakalaw'
-  name: '&aSupremong bakalaw'
+  name: 'Supremong bakalaw'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7Isang super na karmesi'
-  name: '&aSupremong Tangkay na Karmesi'
+  name: 'Supremong Tangkay na Karmesi'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_CYAN:
   description:
   - '&7Isang super na siyan'
-  name: '&aSupremong Siyan'
+  name: 'Supremong Siyan'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7Isang super na madilim'
-  name: '&aSupremong Troso ng Madilim na Roble'
+  name: 'Supremong Troso ng Madilim na Roble'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7Isang super na diyamante'
-  name: '&aSupremong diyamante'
+  name: 'Supremong diyamante'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_DIORITE:
   description:
   - '&7Isang super na diyorita'
-  name: '&aSupremong diyorita'
+  name: 'Supremong diyorita'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_EMERALD:
   description:
   - '&7Isang super na esmeralda'
-  name: '&aSupremong esmeralda'
+  name: 'Supremong esmeralda'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7Isang super na batong End'
-  name: '&aSupremong batong End'
+  name: 'Supremong batong End'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_GOLD:
   description:
   - '&7Isang super na ginto'
-  name: '&aSupremong ginto'
+  name: 'Supremong ginto'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_GRANITE:
   description:
   - '&7Isang super na granito'
-  name: '&aSupremong granito'
+  name: 'Supremong granito'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7Isang super na graba'
-  name: '&aSupremong graba'
+  name: 'Supremong graba'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_GRAY:
   description:
   - '&7Isang super na abuhin'
-  name: '&aSupremong Abuhin'
+  name: 'Supremong Abuhin'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_GREEN:
   description:
   - '&7Isang super na berde'
-  name: '&aSupremong Berde'
+  name: 'Supremong Berde'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_IRON:
   description:
   - '&7Isang super na bakal'
-  name: '&aSupremong bakal'
+  name: 'Supremong bakal'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7Isang super na gubat'
-  name: '&aSupremong Troso ng Gubat'
+  name: 'Supremong Troso ng Gubat'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_LAPIS:
   description:
   - '&7Isang super na lapis'
-  name: '&aSupremong lapis'
+  name: 'Supremong lapis'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_MELON:
   description:
   - '&7Isang super na milon'
-  name: '&aSupremong Milon'
+  name: 'Supremong Milon'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_MUTTON:
   description:
   - '&7Isang super na karne ng tupa'
-  name: '&aSupremong karne ng tupa'
+  name: 'Supremong karne ng tupa'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7Isang super na netherite'
-  name: '&aSupremong netherite'
+  name: 'Supremong netherite'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7Isang super na roble'
-  name: '&aSupremong Troso ng Roble'
+  name: 'Supremong Troso ng Roble'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7Naglalaman ang ubod na ito ng maraming mineral'
   - '&7na nakolekta sa buong mundo.'
-  name: '&aUbod ng Haluang Metal'
+  name: 'Ubod ng Haluang Metal'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7Naglalaman ang ubod na ito ng maraming bloke'
   - '&7na nakolekta sa buong mundo.'
-  name: '&aUbod ng Bloke'
+  name: 'Ubod ng Bloke'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7Naglalaman ang ubod na ito ng maraming kulay'
   - '&7na nakolekta sa buong mundo.'
-  name: '&aUbod ng Kulay'
+  name: 'Ubod ng Kulay'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7Naglalaman ang ubod na ito ng mga kaluluwa ng '
   - '&7mga nilalang na pumanaw na.'
-  name: '&aUbod ng Kamatayan'
+  name: 'Ubod ng Kamatayan'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7Naglalaman ang ubod na ito ng mga piraso ng buhay'
   - '&7na nakolekta ng mundo.'
-  name: '&aUbod ng Buhay'
+  name: 'Ubod ng Buhay'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7Naglalaman ang ubod na ito ng maraming likas'
   - '&7na nakolekta sa buong mundo.'
-  name: '&aUbod ng Kalikasan'
+  name: 'Ubod ng Kalikasan'
   type:
   - '&7&oMga Mahikal na Bahagi'
 SUPREME_CORE_PINK:
   description:
   - '&7Isang super na kulay-rosas'
-  name: '&aSupremong kulay-rosas'
+  name: 'Supremong kulay-rosas'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7Isang super na bacon'
-  name: '&aSupremong Bacon'
+  name: "Supremong Karne ng Baboy"
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_POTATO:
   description:
   - '&7Isang super na patatas'
-  name: '&aSupremong Patatas'
+  name: 'Supremong Patatas'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7Isang super na kalabasa'
-  name: '&aSupremong Kalabasa'
+  name: 'Supremong Kalabasa'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_PURPLE:
   description:
   - '&7Isang super na lila'
-  name: '&aSupremong Lila'
+  name: 'Supremong Lila'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7Isang super na kuwarts'
-  name: '&aSupremong kuwarts'
+  name: 'Supremong kuwarts'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_RED:
   description:
   - '&7Isang super na pula'
-  name: '&aSupremong Pula'
+  name: 'Supremong Pula'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7Isang super na redstone'
-  name: '&aSupremong redstone'
+  name: 'Supremong redstone'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SALMON:
   description:
   - '&7Isang super na salmon'
-  name: '&aSupremong salmon'
+  name: 'Supremong salmon'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SAND:
   description:
   - '&7Isang super na buhangin'
-  name: '&aSupremong buhangin'
+  name: 'Supremong buhangin'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SNOW:
   description:
   - '&7Isang super na niyebe'
-  name: '&aSupremong niyebe'
+  name: 'Supremong niyebe'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7Isang super na mata'
-  name: '&aSupremong mata'
+  name: "Supremong Mata ng Gagamba"
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7Isang super na spruce'
-  name: '&aSupremong Troso ng Spruce'
+  name: 'Supremong Troso ng Spruce'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_STONE:
   description:
   - '&7Isang super na batong-lansangan'
-  name: '&aSupremong batong-lansangan'
+  name: 'Supremong batong-lansangan'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_STRING:
   description:
   - '&7Isang super na tali'
-  name: '&aSupremong tali'
+  name: "Supremong Sinulid"
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7Isang super na tubo'
-  name: '&aSupremong Tubo'
+  name: 'Supremong Tubo'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7Isang super na berry'
-  name: '&aSupremong Matamis na Berry'
+  name: 'Supremong Matamis na Berry'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_TEAR:
   description:
   - '&7Isang super na luha'
-  name: '&aSupremong luha'
+  name: "Supremong Luha ng Ghast"
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7Isang super na pilipit'
-  name: '&aSupremong Tangkay na Pilipit'
+  name: 'Supremong Tangkay na Pilipit'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_WHEAT:
   description:
   - '&7Isang super na trigo'
-  name: '&aSupremong Trigo'
+  name: 'Supremong Trigo'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7Isang super na rosas'
-  name: '&aSupremong Rosas ng Wither'
+  name: 'Supremong Rosas ng Wither'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CORE_YELLOW:
   description:
   - '&7Isang super na dilaw'
-  name: '&aSupremong Dilaw'
+  name: 'Supremong Dilaw'
   type:
   - '&7&oMga Pangunahing Bahagi'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&aMakinang Pangkristal'
+  name: 'Makinang Pangkristal'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_DIAMOND_QUARRY:
-  name: '&eMinahan ng Diyamante'
+  name: 'Minahan ng Diyamante'
   stats:
   - '&6Abanseng Makina'
   type:
   - '&7&oMakina'
 SUPREME_DUST_AMETHYST:
-  name: '&aAlikabok ng Ametista'
+  name: 'Alikabok ng Ametista'
   type:
   - '&7&oBahagi'
 SUPREME_DUST_GLOW_INK:
-  name: '&aAlikabok ng Tintang Nagniningning'
+  name: 'Alikabok ng Tintang Nagniningning'
   type:
   - '&7&oBahagi'
 SUPREME_DUST_NETHERITE:
-  name: '&aAlikabok ng Netherite'
+  name: 'Alikabok ng Netherite'
   type:
   - '&7&oBahagi'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&fLikhaing yaman ng ubod'
-  name: '&bElektrikong Makina ng Ubod'
+  name: 'Elektrikong Makina ng Ubod'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&fAbanseng likhaing yaman ng ubod'
-  name: '&bElektrikong Makina ng Ubod II'
+  name: 'Elektrikong Makina ng Ubod II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&fAbanseng likhaing yaman ng ubod'
-  name: '&bElektrikong Makina ng Ubod III'
+  name: 'Elektrikong Makina ng Ubod III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&fPaglikha ng mga Bagay'
-  name: '&bElektrikong Tagalikha'
+  name: 'Elektrikong Tagalikha'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&fAbanseng Paglikha ng mga Bagay'
-  name: '&bElektrikong Tagalikha II'
+  name: 'Elektrikong Tagalikha II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&fAbanseng Paglikha ng mga Bagay'
-  name: '&bElektrikong Tagalikha III'
+  name: 'Elektrikong Tagalikha III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&fLikhain ang baitang ng kagamitan'
-  name: '&bElektrikong Makina ng Kagamitan'
+  name: 'Elektrikong Makina ng Kagamitan'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&fAbanseng paglikha ng baitang ng kagamitan'
-  name: '&bElektrikong Makina ng Kagamitan II'
+  name: 'Elektrikong Makina ng Kagamitan II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&fAbanseng paglikha ng baitang ng kagamitan'
-  name: '&bElektrikong Makina ng Kagamitan III'
+  name: 'Elektrikong Makina ng Kagamitan III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
   type:
   - '&7&oMakina'
 SUPREME_ELECTRIC_ITEM:
-  name: Elektrikong Bagay
+  name: "Elektrikal"
   type:
   - '&7&oIba pa'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&fLikhaing yaman ng mahiwaga'
-  name: '&bElektrikong Mahiwagang Makina'
+  name: 'Elektrikong Mahiwagang Makina'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&fAbanseng likhaing yaman ng mahiwaga'
-  name: '&bElektrikong Mahiwagang Makina II'
+  name: 'Elektrikong Mahiwagang Makina II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&fAbanseng likhaing yaman ng mahiwaga'
-  name: '&bElektrikong Mahiwagang Makina III'
+  name: 'Elektrikong Mahiwagang Makina III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
   type:
   - '&7&oMakina'
 SUPREME_EMPTY_MOBTECH:
-  name: '&aMobTech na Walang Laman'
+  name: 'MobTech na Walang Laman'
   type:
   - '&7&oBahagi'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga yaman ng bareta.'
-  name: '&bPandayan ng Bareta'
+  name: 'Pandayan ng Bareta'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga yaman ng bareta.'
-  name: '&bPandayan ng Bareta II'
+  name: 'Pandayan ng Bareta II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga yaman ng bareta.'
-  name: '&bPandayan ng Bareta III'
+  name: 'Pandayan ng Bareta III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga mahiwagang yaman.'
-  name: '&bPandayan ng Mahiwaga'
+  name: 'Pandayan ng Mahiwaga'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga mahiwagang yaman.'
-  name: '&bPandayan ng Mahiwaga II'
+  name: 'Pandayan ng Mahiwaga II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fpandayin ang mga mahiwagang yaman.'
-  name: '&bPandayan ng Mahiwaga III'
+  name: 'Pandayan ng Mahiwaga III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&fMga Bagay ng Pagawaan ng Metal at Pansintesis'
-  name: '&bPagawaan ng Metal'
+  name: 'Pagawaan ng Metal'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&fAbanseng mga Bagay ng Pagawaan ng Metal at Pansintesis'
-  name: '&bPagawaan ng Metal II'
+  name: 'Pagawaan ng Metal II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&fAbanseng mga Bagay ng Pagawaan ng Metal at Pansintesis'
-  name: '&bPagawaan ng Metal III'
+  name: 'Pagawaan ng Metal III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
   type:
   - '&7&oMakina'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&bAbanseng Tagagawa ng Nilalang'
+  name: 'Abanseng Tagagawa ng Nilalang'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&bBasikong Tagagawa ng Nilalang'
+  name: 'Basikong Tagagawa ng Nilalang'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&bKatamtamang Tagagawa ng Nilalang'
+  name: 'Katamtamang Tagagawa ng Nilalang'
   stats:
   - '&eBasikong Generador'
   type:
   - '&7&oMakina'
 SUPREME_GENE_BERSERK:
-  name: '&aGene ng Kabangisan'
+  name: 'Gene ng Kabangisan'
   type:
   - '&7&oBahagi'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&fGene ng Talino'
+  name: 'Gene ng Talino'
   type:
   - '&7&oBahagi'
 SUPREME_GENE_LUCK:
-  name: '&aGene ng Suwerte'
+  name: 'Gene ng Suwerte'
   type:
   - '&7&oBahagi'
 SUPREME_GOLD_QUARRY:
-  name: '&eMinahan ng Ginto'
+  name: 'Minahan ng Ginto'
   stats:
   - '&6Abanseng Makina'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&lIsang epikong helmet na Thornium'
-  name: '&d&lEpikong Helmet'
+  name: 'Epikong Helmet'
   type:
   - '&7&oBaluti'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong helmet na Thornium'
-  name: '&6&lLehendaryong Helmet'
+  name: 'Lehendaryong Helmet'
   type:
   - '&7&oBaluti'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&lIsang mahikang helmet na Thornium'
-  name: '&a&lMahikang Helmet'
+  name: 'Mahikang Helmet'
   type:
   - '&7&oBaluti'
 SUPREME_HELMET_RARE:
   description:
   - '&f&lIsang bihirang helmet na Thornium'
-  name: '&b&lBihirang Helmet'
+  name: 'Bihirang Helmet'
   type:
   - '&7&oBaluti'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&lIsang supremong helmet na Thornium'
-  name: '&4&lSupremong Helmet'
+  name: 'Supremong Helmet'
   type:
   - '&7&oBaluti'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&lIsang helmet na Thornium'
-  name: '&f&lHelmet na Thornium'
+  name: 'Helmet na Thornium'
   type:
   - '&7&oBaluti'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9Generador na Ignis'
+  name: 'Generador na Ignis'
   stats:
   - '&6Abanseng Generador'
   type:
   - '&7&oMakina'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&aMakinang Induktibo'
+  name: 'Makinang Induktibo'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&aMakinang Induktor'
+  name: 'Makinang Induktor'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_IRIDIUM_PLATE:
-  name: '&aPlakang Iridyo'
+  name: 'Plakang Iridyo'
   type:
   - '&7&oMga Bahagi'
 SUPREME_IRON_QUARRY:
-  name: '&eMinahan ng Bakal'
+  name: 'Minahan ng Bakal'
   stats:
   - '&6Abanseng Makina'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&lIsang epikong baluting binti na Thornium'
-  name: '&d&lEpikong Baluting Binti'
+  name: 'Epikong Baluting Binti'
   type:
   - '&7&oBaluti'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong baluting binti na Thornium'
-  name: '&6&lLehendaryong Baluting Binti'
+  name: 'Lehendaryong Baluting Binti'
   type:
   - '&7&oBaluti'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&lIsang mahikang baluting binti na Thornium'
-  name: '&a&lMahikang Baluting Binti'
+  name: 'Mahikang Baluting Binti'
   type:
   - '&7&oBaluti'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&lIsang bihirang baluting binti na Thornium'
-  name: '&b&lBihirang Baluting Binti'
+  name: 'Bihirang Baluting Binti'
   type:
   - '&7&oBaluti'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&lIsang supremong baluting binti na Thornium'
-  name: '&4&lSupremong Baluting Binti'
+  name: 'Supremong Baluting Binti'
   type:
   - '&7&oBaluti'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&lIsang baluting binti na Thornium'
-  name: '&f&lBaluting Binti na Thornium'
+  name: 'Baluting Binti na Thornium'
   type:
   - '&7&oBaluti'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9Generador na Lumium'
+  name: 'Generador na Lumium'
   stats:
   - '&6Abanseng Generador'
   type:
   - '&7&oMakina'
 SUPREME_LUX_GENERATOR:
-  name: '&9Generador na Lux'
+  name: 'Generador na Lux'
   stats:
   - '&6Abanseng Generador'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&fLikhain ang Runa at mga Mahiwagang Bagay'
-  name: '&bMahikang Altar'
+  name: 'Mahikang Altar'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&fAbanseng Paglikha ng Runa at mga Mahiwagang Bagay'
-  name: '&bMahikang Altar II'
+  name: 'Mahikang Altar II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&fAbanseng Paglikha ng Runa at mga Mahiwagang Bagay'
-  name: '&bMahikang Altar III'
+  name: 'Mahikang Altar III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
   type:
   - '&7&oMakina'
 SUPREME_MAIN_ITEM:
-  name: Pangunahing bagay
+  name: "Supreme"
   type:
   - '&7&oIba pa'
 SUPREME_MANGANESE_PLATE:
-  name: '&aPlakang Mangganeso'
+  name: 'Plakang Mangganeso'
   type:
   - '&7&oMga Bahagi'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin '
   - '&fang mga bagay mula sa malapit na mga nilalang. (4 bloke)'
-  name: '&bTagakolekta ng Nilalang'
+  name: 'Tagakolekta ng Nilalang'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin'
   - '&f ang mga bagay mula sa malapit na mga nilalang. (8 bloke)'
-  name: '&bTagakolekta ng Nilalang II'
+  name: 'Tagakolekta ng Nilalang II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin'
   - '&f ang mga bagay mula sa malapit na mga nilalang. (16 bloke)'
-  name: '&bTagakolekta ng Nilalang III'
+  name: 'Tagakolekta ng Nilalang III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&oMakina'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6Tagakolekta ng MobTech I'
+  name: "Tagakolekta ng MobTech I (Kasangkapan)"
   stats:
   - '&8⇨ &e⚡ &750 J bawat paggamit'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6Tagakolekta ng MobTech II'
+  name: "Tagakolekta ng MobTech II (Kasangkapan)"
   stats:
   - '&8⇨ &e⚡ &750 J bawat paggamit'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6Tagakolekta ng MobTech III'
+  name: "Tagakolekta ng MobTech III (Kasangkapan)"
   stats:
   - '&8⇨ &e⚡ &750 J bawat paggamit'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin '
   - '&fang ulo ng MobTech mula sa malapit na mga nilalang. (6 bloke)'
-  name: '&bTagakolekta ng MobTech II'
+  name: 'Tagakolekta ng MobTech II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin '
   - '&fang ulo ng MobTech mula sa malapit na mga nilalang. (9 bloke)'
-  name: '&bTagakolekta ng MobTech III'
+  name: 'Tagakolekta ng MobTech III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&oMaaari kang maglikha ng ubod dito!'
   - '&aMultiblokeng Makina'
-  name: '&eTagayari ng Ubod'
+  name: 'Tagayari ng Ubod'
   type:
   - '&7&oMakina'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&oMaaari kang maglikha ng mga sandata, baluti at kasangkapan dito!'
   - '&aMultiblokeng Makina'
-  name: '&eTagayari ng Kagamitan'
+  name: 'Tagayari ng Kagamitan'
   type:
   - '&7&oMakina'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&oMaaari kang maglikha ng mahiwaga dito!'
   - '&aMultiblokeng Makina'
-  name: '&eMahiwagang Tagayari'
+  name: 'Mahiwagang Tagayari'
   type:
   - '&7&oMakina'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&aMakinang Pampabato'
+  name: 'Makinang Pampabato'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&lIsang epikong pikong Thornium'
-  name: '&d&lEpikong Piko'
+  name: 'Epikong Piko'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong pikong Thornium'
-  name: '&6&lLehendaryong Piko'
+  name: 'Lehendaryong Piko'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&lIsang mahikang pikong Thornium'
-  name: '&a&lMahikang Piko'
+  name: 'Mahikang Piko'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&lIsang bihirang pikong Thornium'
-  name: '&b&lBihirang Piko'
+  name: 'Bihirang Piko'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&lIsang supremong pikong Thornium'
-  name: '&4&lSupremong Piko'
+  name: 'Supremong Piko'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&lIsang pikong Thornium'
-  name: '&f&lPikong Thornium'
+  name: 'Pikong Thornium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_PLATINUM_PLATE:
-  name: '&aPlakang Platino'
+  name: 'Plakang Platino'
   type:
   - '&7&oMga Bahagi'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&aMakinang Walang Kalawang'
+  name: 'Makinang Walang Kalawang'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&lIsang epikong kalasag na Thornium'
-  name: '&d&lEpikong Kalasag'
+  name: 'Epikong Kalasag'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong kalasag na Thornium'
-  name: '&6&lLehendaryong Kalasag'
+  name: 'Lehendaryong Kalasag'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&lIsang mahikang kalasag na Thornium'
-  name: '&a&lMahikang Kalasag'
+  name: 'Mahikang Kalasag'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&lIsang bihirang kalasag na Thornium'
-  name: '&b&lBihirang Kalasag'
+  name: 'Bihirang Kalasag'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&lIsang supremong kalasag na Thornium'
-  name: '&4&lSupremong Kalasag'
+  name: 'Supremong Kalasag'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&lIsang kalasag na Thornium'
-  name: '&f&lKalasag na Thornium'
+  name: 'Kalasag na Thornium'
   type:
   - '&7&oMga Sandata'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&lIsang epikong palang Thornium'
-  name: '&d&lEpikong Pala'
+  name: 'Epikong Pala'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong palang Thornium'
-  name: '&6&lLehendaryong Pala'
+  name: 'Lehendaryong Pala'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&lIsang mahikang palang Thornium'
-  name: '&a&lMahikang Pala'
+  name: 'Mahikang Pala'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&lIsang bihirang palang Thornium'
-  name: '&b&lBihirang Pala'
+  name: 'Bihirang Pala'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&lIsang supremong palang Thornium'
-  name: '&4&lSupremong Pala'
+  name: 'Supremong Pala'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&lIsang palang Thornium'
-  name: '&f&lPalang Thornium'
+  name: 'Palang Thornium'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_STAINLESS_MACHINE:
-  name: '&aMakinang Hindi Namamantsahan'
+  name: 'Makinang Hindi Namamantsahan'
   type:
   - '&7&oMga Abanteng Bahagi'
 SUPREME_STONE_QUARRY:
-  name: '&eMinahan ng Bato'
+  name: 'Minahan ng Bato'
   stats:
   - '&aKatamtamang Makina'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7Ang Supremo'
-  name: '&aSupremo'
+  name: 'Supremo'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9Supremong Kapasitor'
+  name: 'Supremong Kapasitor'
   stats:
   - '&4Pangwakas na Kapasitor'
   - '&8⇨ &e⚡ &7Walang Hanggang J na Kapasidad'
   type:
   - '&7&oMakina'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9Supremong Generador'
+  name: 'Supremong Generador'
   stats:
   - '&4Pangwakas na Generador'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7Mula sa Minahan ng Butil ng Supremo'
-  name: '&aButil ng Supremo'
+  name: 'Butil ng Supremo'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&eMinahan ng mga Butil ng Supremo'
+  name: 'Minahan ng mga Butil ng Supremo'
   stats:
   - '&6Abanseng Makina'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&lIsang epikong espadang Thornium'
-  name: '&d&lEpikong Espada'
+  name: 'Epikong Espada'
   type:
   - '&7&oMga Sandata'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&lIsang lehendaryong espadang Thornium'
-  name: '&6&lLehendaryong Espada'
+  name: 'Lehendaryong Espada'
   type:
   - '&7&oMga Sandata'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&lIsang mahikang espadang Thornium'
-  name: '&a&lMahikang Espada'
+  name: 'Mahikang Espada'
   type:
   - '&7&oMga Sandata'
 SUPREME_SWORD_RARE:
   description:
   - '&f&lIsang bihirang espadang Thornium'
-  name: '&b&lBihirang Espada'
+  name: 'Bihirang Espada'
   type:
   - '&7&oMga Sandata'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&lIsang supremong espadang Thornium'
-  name: '&4&lSupremong Espada'
+  name: 'Supremong Espada'
   type:
   - '&7&oMga Sandata'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&lIsang espadang Thornium'
-  name: '&f&lEspadang Thornium'
+  name: 'Espadang Thornium'
   type:
   - '&7&oMga Sandata'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&aSintetikong Ametista'
+  name: 'Sintetikong Ametista'
   type:
   - '&7&oMga Bahagi'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&aSintetikong Rubi'
+  name: 'Sintetikong Rubi'
   type:
   - '&7&oMga Bahagi'
 SUPREME_TECH_GENERATOR:
   description:
   - '&fGumagamit ng lakas at mga bubuyog/golem/zombie, '
   - '&fdahan-dahang nagbubuo ng mga materyal.'
-  name: '&bTeknikal na Tagagawa'
+  name: 'Teknikal na Tagagawa'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&fGamitin ang tagagawa ng mutasyon '
   - '&fupang umusad sa mas mataas na antas'
-  name: '&bTeknikal na Mutasyon'
+  name: 'Teknikal na Mutasyon'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&fGamitin ang tagagawa ng mutasyon '
   - '&fupang umusad sa mas mataas na antas'
   - '&fAng tsansa ay pinarami ng 2x'
-  name: '&bTeknikal na Mutasyon II'
+  name: 'Teknikal na Mutasyon II'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&fGamitin ang tagagawa ng mutasyon '
   - '&fupang umusad sa mas mataas na antas'
   - '&fAng tsansa ay pinarami ng 4x'
-  name: '&bTeknikal na Mutasyon III'
+  name: 'Teknikal na Mutasyon III'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&fGamitin ang mga robot na panimulang antas '
   - '&fupang umusad sa mas mataas na antas'
   - '&fkailangan ng 64x upang pahusayin'
-  name: '&bTeknikal na Robotiko'
+  name: 'Teknikal na Robotiko'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&fGamitin ang mga robot na panimulang antas '
   - '&fupang umusad sa mas mataas na antas'
   - '&fkailangan ng 32x upang pahusayin'
-  name: '&bTeknikal na Robotiko II'
+  name: 'Teknikal na Robotiko II'
   stats:
   - '&4Pangwakas na Makina'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&fGamitin ang mga robot na panimulang antas '
   - '&fupang umusad sa mas mataas na antas'
   - '&fkailangan ng 16x upang pahusayin'
-  name: '&bTeknikal na Robotiko III'
+  name: 'Teknikal na Robotiko III'
   stats:
   - '&4Pangwakas na Makina'
   type:
   - '&7&oMakina'
 SUPREME_THORNERITE:
-  name: '&aThornerite'
+  name: 'Thornerite'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7Mula sa Minahan ng Thornium'
-  name: '&aPirasong Thornium'
+  name: 'Pirasong Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7Mula sa Pirasong Thornium'
-  name: '&aSintetikong Pirasong Thornium'
+  name: 'Sintetikong Pirasong Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9Kapasitor na Thornium'
+  name: 'Kapasitor na Thornium'
   stats:
   - '&4Pangwakas na Kapasitor'
   - '&8⇨ &e⚡ &7100,000,000.00 J na Kapasidad'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7Mula sa Bareta ng Thornium'
-  name: '&aCarbonado na Thornium'
+  name: 'Carbonado na Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7Mula sa Pirasong Thornium'
-  name: '&aAlikabok ng Thornium'
+  name: 'Alikabok ng Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7Mula sa Alikabok ng Thornium'
-  name: '&aSintetikong Alikabok ng Thornium'
+  name: 'Sintetikong Alikabok ng Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7Mula sa Bareta ng Thornium'
-  name: '&aEnerhisadong Thornium'
+  name: 'Enerhisadong Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9Generador na Thornium'
+  name: 'Generador na Thornium'
   stats:
   - '&4Pangwakas na Generador'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7Mula sa Alikabok ng Thornium'
-  name: '&aBareta ng Thornium'
+  name: 'Bareta ng Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7Mula sa Bareta ng Thornium'
-  name: '&aSintetikong Bareta ng Thornium'
+  name: 'Sintetikong Bareta ng Thornium'
   type:
   - '&7&oMga Bahagi sa Katapusan ng Laro'
 SUPREME_THORNIUM_QUARRY:
-  name: '&eMinahan ng Thornium'
+  name: 'Minahan ng Thornium'
   stats:
   - '&6Abanseng Makina'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&lIsang palakol na Titanyo'
-  name: '&f&lPalakol na Titanyo'
+  name: 'Palakol na Titanyo'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&lIsang botang Titanyo'
-  name: '&f&lBotang Titanyo'
+  name: 'Botang Titanyo'
   type:
   - '&7&oBaluti'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9Kapasitor na Titanyo'
+  name: 'Kapasitor na Titanyo'
   stats:
   - '&6Abanseng Kapasitor'
   - '&8⇨ &e⚡ &74,000,000.00 J na Kapasidad'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&lIsang baluting dibdib na Titanyo'
-  name: '&f&lBaluting Dibdib na Titanyo'
+  name: 'Baluting Dibdib na Titanyo'
   type:
   - '&7&oBaluti'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&lIsang helmet na Titanyo'
-  name: '&f&lHelmet na Titanyo'
+  name: 'Helmet na Titanyo'
   type:
   - '&7&oBaluti'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&lIsang baluting binti na Titanyo'
-  name: '&f&lBaluting Binti na Titanyo'
+  name: 'Baluting Binti na Titanyo'
   type:
   - '&7&oBaluti'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&lIsang pikong Titanyo'
-  name: '&f&lPikong Titanyo'
+  name: 'Pikong Titanyo'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_TITANIUM_PLATE:
-  name: '&aPlakang Titanyo'
+  name: 'Plakang Titanyo'
   type:
   - '&7&oMga Bahagi'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&lIsang palang Titanyo'
-  name: '&f&lPalang Titanyo'
+  name: 'Palang Titanyo'
   type:
   - '&7&oMga Kasangkapan'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&lIsang espadang Titanyo'
-  name: '&f&lEspadang Titanyo'
+  name: 'Espadang Titanyo'
   type:
   - '&7&oMga Sandata'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9Generador na Ventus'
+  name: 'Generador na Ventus'
   stats:
   - '&eBasikong Generador'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin '
   - '&f ang mga bagay na nakolekta sa dagat.'
-  name: '&bBirtuwal na Akwaryum'
+  name: 'Birtuwal na Akwaryum'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin'
   - '&f ang mga bagay na nakolekta sa dagat.'
-  name: '&bBirtuwal na Akwaryum II'
+  name: 'Birtuwal na Akwaryum II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na kolektahin'
   - '&f ang mga bagay na nakolekta sa dagat.'
-  name: '&bBirtuwal na Akwaryum III'
+  name: 'Birtuwal na Akwaryum III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fmagtanim ng ilang yaman.'
-  name: '&bBirtuwal na Hardin'
+  name: 'Birtuwal na Hardin'
   stats:
   - '&6Abanseng Makina'
   - '&8⇨ &b⚡ &7Bilis: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fmagtanim ng ilang yaman.'
-  name: '&bBirtuwal na Hardin II'
+  name: 'Birtuwal na Hardin II'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&fNagbibigay-daan sa iyo ang makinang ito na'
   - '&fmagtanim ng ilang yaman.'
-  name: '&bBirtuwal na Hardin III'
+  name: 'Birtuwal na Hardin III'
   stats:
   - '&4Pangwakas na Makina'
   - '&8⇨ &b⚡ &7Bilis: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&oMakina'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&aPlakang Zirkonyo'
+  name: 'Plakang Zirkonyo'
   type:
   - '&7&oMga Bahagi'

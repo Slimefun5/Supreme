@@ -2,23 +2,23 @@ MOB_TECH_COLLECTOR_MACHINE:
   description:
   - '&f此机器允许你收集 '
   - '&f获取附近生物的生物科技头颅。(3 方块)'
-  name: '&b生物科技收集器 I'
+  name: '生物科技收集器 I'
   type:
   - '&7&o机器'
 SUPREME_ADAMANTIUM_AXE:
   description:
   - '&f&l一把精金斧'
-  name: '&f&l精金斧'
+  name: '精金斧'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_BOOTS:
   description:
   - '&f&l一双精金靴子'
-  name: '&f&l精金靴子'
+  name: '精金靴子'
   type:
   - '&7&o护甲'
 SUPREME_ADAMANTIUM_CAPACITOR:
-  name: '&9精金电容器'
+  name: '精金电容器'
   stats:
   - '&6高级电容器'
   - '&8⇨ &e⚡ &716,000,000.00 J 容量'
@@ -27,73 +27,73 @@ SUPREME_ADAMANTIUM_CAPACITOR:
 SUPREME_ADAMANTIUM_CHESTPLATE:
   description:
   - '&f&l一件精金胸甲'
-  name: '&f&l精金胸甲'
+  name: '精金胸甲'
   type:
   - '&7&o护甲'
 SUPREME_ADAMANTIUM_HELMET:
   description:
   - '&f&l一顶精金头盔'
-  name: '&f&l精金头盔'
+  name: '精金头盔'
   type:
   - '&7&o护甲'
 SUPREME_ADAMANTIUM_LEGGINGS:
   description:
   - '&f&l一条精金护腿'
-  name: '&f&l精金护腿'
+  name: '精金护腿'
   type:
   - '&7&o护甲'
 SUPREME_ADAMANTIUM_PICKAXE:
   description:
   - '&f&l一把精金镐'
-  name: '&f&l精金镐'
+  name: '精金镐'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_PLATE:
-  name: '&a精金板'
+  name: '精金板'
   type:
   - '&7&o组件'
 SUPREME_ADAMANTIUM_SHOVEL:
   description:
   - '&f&l一把精金锹'
-  name: '&f&l精金锹'
+  name: '精金锹'
   type:
   - '&7&o工具'
 SUPREME_ADAMANTIUM_SWORD:
   description:
   - '&f&l一把精金剑'
-  name: '&f&l精金剑'
+  name: '精金剑'
   type:
   - '&7&o武器'
 SUPREME_ALLOY_ADAMANTIUM:
-  name: '&a精金合金'
+  name: '精金合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_AURUM:
-  name: '&a奥鲁姆合金'
+  name: '奥鲁姆合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_IRIDIUM:
-  name: '&a铱合金'
+  name: '铱合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_MANGANESE:
-  name: '&a锰合金'
+  name: '锰合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_PLATINUM:
-  name: '&a铂合金'
+  name: '铂合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_TITANIUM:
-  name: '&a钛合金'
+  name: '钛合金'
   type:
   - '&7&o组件'
 SUPREME_ALLOY_ZIRCONIUM:
-  name: '&a锆合金'
+  name: '锆合金'
   type:
   - '&7&o组件'
 SUPREME_AQUA_GENERATOR:
-  name: '&9阿夸发电机'
+  name: '阿夸发电机'
   stats:
   - '&6高级发电机'
   type:
@@ -101,41 +101,41 @@ SUPREME_AQUA_GENERATOR:
 SUPREME_ATTRIBUTE_BOMB:
   description:
   - '&7带有特殊效果的超级炸弹属性'
-  name: '&a属性炸弹'
+  name: '属性炸弹'
   type:
   - '&7&o魔法组件'
 SUPREME_ATTRIBUTE_FORTUNE:
   description:
   - '&7带有特殊效果的超级时运属性'
-  name: '&a属性时运'
+  name: '属性时运'
   type:
   - '&7&o魔法组件'
 SUPREME_ATTRIBUTE_IMPETUS:
   description:
   - '&7带有特殊效果的超级冲力属性'
-  name: '&a属性冲力'
+  name: '属性冲力'
   type:
   - '&7&o魔法组件'
 SUPREME_ATTRIBUTE_MAGIC:
   description:
   - '&7带有特殊效果的超级魔法属性'
-  name: '&a属性魔法'
+  name: '属性魔法'
   type:
   - '&7&o魔法组件'
 SUPREME_AURUM_AXE:
   description:
   - '&f&l一把奥鲁姆斧'
-  name: '&f&l奥鲁姆斧'
+  name: '奥鲁姆斧'
   type:
   - '&7&o工具'
 SUPREME_AURUM_BOOTS:
   description:
   - '&f&l一双奥鲁姆靴子'
-  name: '&f&l奥鲁姆靴子'
+  name: '奥鲁姆靴子'
   type:
   - '&7&o护甲'
 SUPREME_AURUM_CAPACITOR:
-  name: '&9奥鲁姆电容器'
+  name: '奥鲁姆电容器'
   stats:
   - '&6高级电容器'
   - '&8⇨ &e⚡ &71,000,000.00 J 容量'
@@ -144,189 +144,189 @@ SUPREME_AURUM_CAPACITOR:
 SUPREME_AURUM_CHESTPLATE:
   description:
   - '&f&l一件奥鲁姆胸甲'
-  name: '&f&l奥鲁姆胸甲'
+  name: '奥鲁姆胸甲'
   type:
   - '&7&o护甲'
 SUPREME_AURUM_HELMET:
   description:
   - '&f&l一顶奥鲁姆头盔'
-  name: '&f&l奥鲁姆头盔'
+  name: '奥鲁姆头盔'
   type:
   - '&7&o护甲'
 SUPREME_AURUM_LEGGINGS:
   description:
   - '&f&l一条奥鲁姆护腿'
-  name: '&f&l奥鲁姆护腿'
+  name: '奥鲁姆护腿'
   type:
   - '&7&o护甲'
 SUPREME_AURUM_PICKAXE:
   description:
   - '&f&l一把奥鲁姆镐'
-  name: '&f&l奥鲁姆镐'
+  name: '奥鲁姆镐'
   type:
   - '&7&o工具'
 SUPREME_AURUM_PLATE:
-  name: '&a奥鲁姆板'
+  name: '奥鲁姆板'
   type:
   - '&7&o组件'
 SUPREME_AURUM_SHOVEL:
   description:
   - '&f&l一把奥鲁姆锹'
-  name: '&f&l奥鲁姆锹'
+  name: '奥鲁姆锹'
   type:
   - '&7&o工具'
 SUPREME_AURUM_SWORD:
   description:
   - '&f&l一把奥鲁姆剑'
-  name: '&f&l奥鲁姆剑'
+  name: '奥鲁姆剑'
   type:
   - '&7&o武器'
 SUPREME_AXE_EPIC:
   description:
   - '&f&l一把史诗荆棘金斧'
-  name: '&d&l史诗斧'
+  name: '史诗斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_LEGENDARY:
   description:
   - '&f&l一把传说荆棘金斧'
-  name: '&6&l传说斧'
+  name: '传说斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_MAGIC:
   description:
   - '&f&l一把魔法荆棘金斧'
-  name: '&a&l魔法斧'
+  name: '魔法斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_RARE:
   description:
   - '&f&l一把稀有荆棘金斧'
-  name: '&b&l稀有斧'
+  name: '稀有斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_SUPREME:
   description:
   - '&f&l一把至尊荆棘金斧'
-  name: '&4&l至尊斧'
+  name: '至尊斧'
   type:
   - '&7&o工具'
 SUPREME_AXE_THORNIUM:
   description:
   - '&f&l一把荆棘金斧'
-  name: '&f&l荆棘金斧'
+  name: '荆棘金斧'
   type:
   - '&7&o工具'
 SUPREME_BASIC_AQUA_GENERATOR:
-  name: '&9基础阿夸发电机'
+  name: '基础阿夸发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_BASIC_IGNIS_GENERATOR:
-  name: '&9基础伊格尼斯发电机'
+  name: '基础伊格尼斯发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_BASIC_LUMIUM_GENERATOR:
-  name: '&9基础流明发电机'
+  name: '基础流明发电机'
   stats:
   - '&6高级发电机'
   type:
   - '&7&o机器'
 SUPREME_BASIC_LUX_GENERATOR:
-  name: '&9基础勒克斯发电机'
+  name: '基础勒克斯发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_BASIC_VENTUS_GENERATOR:
-  name: '&9基础文图斯发电机'
+  name: '基础文图斯发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_BLEND_MACHINE:
-  name: '&a混合机器'
+  name: '混合机器'
   type:
   - '&7&o高级组件'
 SUPREME_BOOTS_EPIC:
   description:
   - '&f&l一双史诗荆棘金靴子'
-  name: '&d&l史诗靴子'
+  name: '史诗靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOOTS_LEGENDARY:
   description:
   - '&f&l一双传说荆棘金靴子'
-  name: '&6&l传说靴子'
+  name: '传说靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOOTS_MAGIC:
   description:
   - '&f&l一双魔法荆棘金靴子'
-  name: '&a&l魔法靴子'
+  name: '魔法靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOOTS_RARE:
   description:
   - '&f&l一双稀有荆棘金靴子'
-  name: '&b&l稀有靴子'
+  name: '稀有靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOOTS_SUPREME:
   description:
   - '&f&l一双至尊荆棘金靴子'
-  name: '&4&l至尊靴子'
+  name: '至尊靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOOTS_THORNIUM:
   description:
   - '&f&l一双荆棘金靴子'
-  name: '&f&l荆棘金靴子'
+  name: '荆棘金靴子'
   type:
   - '&7&o护甲'
 SUPREME_BOW_EPIC:
   description:
   - '&f&l一把史诗荆棘金弓'
-  name: '&d&l史诗弓'
+  name: '史诗弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_LEGENDARY:
   description:
   - '&f&l一把传说荆棘金弓'
-  name: '&6&l传说弓'
+  name: '传说弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_MAGIC:
   description:
   - '&f&l一把魔法荆棘金弓'
-  name: '&a&l魔法弓'
+  name: '魔法弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_RARE:
   description:
   - '&f&l一把稀有荆棘金弓'
-  name: '&b&l稀有弓'
+  name: '稀有弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_SUPREME:
   description:
   - '&f&l一把至尊荆棘金弓'
-  name: '&4&l至尊弓'
+  name: '至尊弓'
   type:
   - '&7&o武器'
 SUPREME_BOW_THORNIUM:
   description:
   - '&f&l一把荆棘金弓'
-  name: '&f&l荆棘金弓'
+  name: '荆棘金弓'
   type:
   - '&7&o武器'
 SUPREME_CARD_ALUMINUM_BRASS:
   description:
   - '&f更改为生产铝黄铜锭'
-  name: '&b机器卡片: 铝黄铜锭'
+  name: "机器卡片 (铝黄铜锭)"
   stats:
   - '&6高级机器'
   type:
@@ -334,7 +334,7 @@ SUPREME_CARD_ALUMINUM_BRASS:
 SUPREME_CARD_ALUMINUM_BRONZE:
   description:
   - '&f更改为生产铝青铜锭'
-  name: '&b机器卡片: 铝青铜锭'
+  name: "机器卡片 (铝青铜锭)"
   stats:
   - '&6高级机器'
   type:
@@ -342,7 +342,7 @@ SUPREME_CARD_ALUMINUM_BRONZE:
 SUPREME_CARD_ALUMINUM_DUST:
   description:
   - '&f更改为生产铝粉末'
-  name: '&b机器卡片: 铝粉末'
+  name: "机器卡片 (铝粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -350,7 +350,7 @@ SUPREME_CARD_ALUMINUM_DUST:
 SUPREME_CARD_AMETHYST:
   description:
   - '&f更改为生产紫水晶'
-  name: '&b机器卡片: 紫水晶'
+  name: "机器卡片 (紫水晶)"
   stats:
   - '&6高级机器'
   type:
@@ -358,7 +358,7 @@ SUPREME_CARD_AMETHYST:
 SUPREME_CARD_ANDESITE:
   description:
   - '&f更改为生产安山岩'
-  name: '&b机器卡片: 安山岩'
+  name: "机器卡片 (安山岩)"
   stats:
   - '&e基础机器'
   type:
@@ -366,7 +366,7 @@ SUPREME_CARD_ANDESITE:
 SUPREME_CARD_APPLE:
   description:
   - '&f更改为生产苹果'
-  name: '&b机器卡片: 苹果'
+  name: "机器卡片 (苹果)"
   stats:
   - '&e基础机器'
   type:
@@ -374,7 +374,7 @@ SUPREME_CARD_APPLE:
 SUPREME_CARD_BATTERY:
   description:
   - '&f更改为生产电池'
-  name: '&b机器卡片: 电池'
+  name: "机器卡片 (电池)"
   stats:
   - '&6高级机器'
   type:
@@ -382,7 +382,7 @@ SUPREME_CARD_BATTERY:
 SUPREME_CARD_BILLON:
   description:
   - '&f更改为生产比隆锭'
-  name: '&b机器卡片: 比隆锭'
+  name: "机器卡片 (比隆锭)"
   stats:
   - '&a中型机器'
   type:
@@ -390,7 +390,7 @@ SUPREME_CARD_BILLON:
 SUPREME_CARD_BLAZE_ROD:
   description:
   - '&f更改为生产烈焰棒'
-  name: '&b机器卡片: 烈焰棒'
+  name: "机器卡片 (烈焰棒)"
   stats:
   - '&6高级机器'
   type:
@@ -398,7 +398,7 @@ SUPREME_CARD_BLAZE_ROD:
 SUPREME_CARD_BRASS:
   description:
   - '&f更改为生产黄铜锭'
-  name: '&b机器卡片: 黄铜锭'
+  name: "机器卡片 (黄铜锭)"
   stats:
   - '&a中型机器'
   type:
@@ -406,7 +406,7 @@ SUPREME_CARD_BRASS:
 SUPREME_CARD_BRONZE:
   description:
   - '&f更改为生产青铜锭'
-  name: '&b机器卡片: 青铜锭'
+  name: "机器卡片 (青铜锭)"
   stats:
   - '&a中型机器'
   type:
@@ -414,7 +414,7 @@ SUPREME_CARD_BRONZE:
 SUPREME_CARD_CARBON:
   description:
   - '&f更改为生产碳'
-  name: '&b机器卡片: 碳'
+  name: "机器卡片 (碳)"
   stats:
   - '&a中型机器'
   type:
@@ -422,7 +422,7 @@ SUPREME_CARD_CARBON:
 SUPREME_CARD_CARBONADO:
   description:
   - '&f更改为生产黑金刚石'
-  name: '&b机器卡片: 黑金刚石'
+  name: "机器卡片 (黑金刚石)"
   stats:
   - '&6高级机器'
   type:
@@ -430,7 +430,7 @@ SUPREME_CARD_CARBONADO:
 SUPREME_CARD_CARBON_PRESS:
   description:
   - '&f更改为生产压缩碳'
-  name: '&b机器卡片: 压缩碳'
+  name: "机器卡片 (压缩碳)"
   stats:
   - '&a中型机器'
   type:
@@ -438,7 +438,7 @@ SUPREME_CARD_CARBON_PRESS:
 SUPREME_CARD_CLAY:
   description:
   - '&f更改为生产黏土'
-  name: '&b机器卡片: 黏土'
+  name: "机器卡片 (黏土)"
   stats:
   - '&e基础机器'
   type:
@@ -446,7 +446,7 @@ SUPREME_CARD_CLAY:
 SUPREME_CARD_COAL:
   description:
   - '&f更改为生产煤炭'
-  name: '&b机器卡片: 煤炭'
+  name: "机器卡片 (煤炭)"
   stats:
   - '&e基础机器'
   type:
@@ -454,7 +454,7 @@ SUPREME_CARD_COAL:
 SUPREME_CARD_COBALT:
   description:
   - '&f更改为生产钴'
-  name: '&b机器卡片: 钴'
+  name: "机器卡片 (钴)"
   stats:
   - '&a中型机器'
   type:
@@ -462,7 +462,7 @@ SUPREME_CARD_COBALT:
 SUPREME_CARD_COPPER:
   description:
   - '&f更改为生产铜'
-  name: '&b机器卡片: 铜'
+  name: "机器卡片 (铜)"
   stats:
   - '&e基础机器'
   type:
@@ -470,7 +470,7 @@ SUPREME_CARD_COPPER:
 SUPREME_CARD_COPPER_DUST:
   description:
   - '&f更改为生产铜粉末'
-  name: '&b机器卡片: 铜粉末'
+  name: "机器卡片 (铜粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -478,7 +478,7 @@ SUPREME_CARD_COPPER_DUST:
 SUPREME_CARD_CORINTHIAN_BRONZE:
   description:
   - '&f更改为生产科林斯青铜锭'
-  name: '&b机器卡片: 科林斯青铜锭'
+  name: "机器卡片 (科林斯青铜锭)"
   stats:
   - '&6高级机器'
   type:
@@ -486,7 +486,7 @@ SUPREME_CARD_CORINTHIAN_BRONZE:
 SUPREME_CARD_DAMASCUS:
   description:
   - '&f更改为生产大马士革钢'
-  name: '&b机器卡片: 大马士革钢'
+  name: "机器卡片 (大马士革钢)"
   stats:
   - '&a中型机器'
   type:
@@ -494,7 +494,7 @@ SUPREME_CARD_DAMASCUS:
 SUPREME_CARD_DIAMOND:
   description:
   - '&f更改为生产钻石'
-  name: '&b机器卡片: 钻石'
+  name: "机器卡片 (钻石)"
   stats:
   - '&6高级机器'
   type:
@@ -502,7 +502,7 @@ SUPREME_CARD_DIAMOND:
 SUPREME_CARD_DIORITE:
   description:
   - '&f更改为生产闪长岩'
-  name: '&b机器卡片: 闪长岩'
+  name: "机器卡片 (闪长岩)"
   stats:
   - '&e基础机器'
   type:
@@ -510,7 +510,7 @@ SUPREME_CARD_DIORITE:
 SUPREME_CARD_DURALUMIN:
   description:
   - '&f更改为生产硬铝锭'
-  name: '&b机器卡片: 硬铝锭'
+  name: "机器卡片 (硬铝锭)"
   stats:
   - '&a中型机器'
   type:
@@ -518,7 +518,7 @@ SUPREME_CARD_DURALUMIN:
 SUPREME_CARD_ELECTRIC_MOTOR:
   description:
   - '&f更改为生产电动机'
-  name: '&b机器卡片: 电动机'
+  name: "机器卡片 (电动机)"
   stats:
   - '&6高级机器'
   type:
@@ -526,7 +526,7 @@ SUPREME_CARD_ELECTRIC_MOTOR:
 SUPREME_CARD_ELECTRO_MAGNET:
   description:
   - '&f更改为生产电磁铁'
-  name: '&b机器卡片: 电磁铁'
+  name: "机器卡片 (电磁铁)"
   stats:
   - '&6高级机器'
   type:
@@ -534,7 +534,7 @@ SUPREME_CARD_ELECTRO_MAGNET:
 SUPREME_CARD_EMERALD:
   description:
   - '&f更改为生产绿宝石'
-  name: '&b机器卡片: 绿宝石'
+  name: "机器卡片 (绿宝石)"
   stats:
   - '&6高级机器'
   type:
@@ -542,7 +542,7 @@ SUPREME_CARD_EMERALD:
 SUPREME_CARD_ENDSTONE:
   description:
   - '&f更改为生产末地石'
-  name: '&b机器卡片: 末地石'
+  name: "机器卡片 (末地石)"
   stats:
   - '&e基础机器'
   type:
@@ -550,7 +550,7 @@ SUPREME_CARD_ENDSTONE:
 SUPREME_CARD_FERROSILICON:
   description:
   - '&f更改为生产硅铁'
-  name: '&b机器卡片: 硅铁'
+  name: "机器卡片 (硅铁)"
   stats:
   - '&a中型机器'
   type:
@@ -558,7 +558,7 @@ SUPREME_CARD_FERROSILICON:
 SUPREME_CARD_GLOW_INK_SAC:
   description:
   - '&f更改为生产荧光墨囊'
-  name: '&b机器卡片: 荧光墨囊'
+  name: "机器卡片 (荧光墨囊)"
   stats:
   - '&e基础机器'
   type:
@@ -566,7 +566,7 @@ SUPREME_CARD_GLOW_INK_SAC:
 SUPREME_CARD_GOLD:
   description:
   - '&f更改为生产金'
-  name: '&b机器卡片: 金'
+  name: "机器卡片 (金)"
   stats:
   - '&e基础机器'
   type:
@@ -574,7 +574,7 @@ SUPREME_CARD_GOLD:
 SUPREME_CARD_GOLD24K:
   description:
   - '&f更改为生产 24k 金'
-  name: '&b机器卡片: 24k 金'
+  name: "机器卡片 (24k 金)"
   stats:
   - '&6高级机器'
   type:
@@ -582,7 +582,7 @@ SUPREME_CARD_GOLD24K:
 SUPREME_CARD_GOLD_DUST:
   description:
   - '&f更改为生产金粉'
-  name: '&b机器卡片: 金粉'
+  name: "机器卡片 (金粉)"
   stats:
   - '&a中型机器'
   type:
@@ -590,7 +590,7 @@ SUPREME_CARD_GOLD_DUST:
 SUPREME_CARD_GRANITE:
   description:
   - '&f更改为生产花岗岩'
-  name: '&b机器卡片: 花岗岩'
+  name: "机器卡片 (花岗岩)"
   stats:
   - '&e基础机器'
   type:
@@ -598,7 +598,7 @@ SUPREME_CARD_GRANITE:
 SUPREME_CARD_GRAVEL:
   description:
   - '&f更改为生产砂砾'
-  name: '&b机器卡片: 砂砾'
+  name: "机器卡片 (砂砾)"
   stats:
   - '&e基础机器'
   type:
@@ -606,7 +606,7 @@ SUPREME_CARD_GRAVEL:
 SUPREME_CARD_HARDENED_METAL:
   description:
   - '&f更改为生产硬化金属锭'
-  name: '&b机器卡片: 硬化金属锭'
+  name: "机器卡片 (硬化金属锭)"
   stats:
   - '&6高级机器'
   type:
@@ -614,7 +614,7 @@ SUPREME_CARD_HARDENED_METAL:
 SUPREME_CARD_HEATING_COIL:
   description:
   - '&f更改为生产加热线圈'
-  name: '&b机器卡片: 加热线圈'
+  name: "机器卡片 (加热线圈)"
   stats:
   - '&6高级机器'
   type:
@@ -622,7 +622,7 @@ SUPREME_CARD_HEATING_COIL:
 SUPREME_CARD_HONEY_BOTTLE:
   description:
   - '&f更改为生产蜂蜜瓶'
-  name: '&b机器卡片: 蜂蜜瓶'
+  name: "机器卡片 (蜂蜜瓶)"
   stats:
   - '&e基础机器'
   type:
@@ -630,7 +630,7 @@ SUPREME_CARD_HONEY_BOTTLE:
 SUPREME_CARD_INK_SAC:
   description:
   - '&f更改为生产墨囊'
-  name: '&b机器卡片: 墨囊'
+  name: "机器卡片 (墨囊)"
   stats:
   - '&e基础机器'
   type:
@@ -638,7 +638,7 @@ SUPREME_CARD_INK_SAC:
 SUPREME_CARD_IRON:
   description:
   - '&f更改为生产铁'
-  name: '&b机器卡片: 铁'
+  name: "机器卡片 (铁)"
   stats:
   - '&e基础机器'
   type:
@@ -646,7 +646,7 @@ SUPREME_CARD_IRON:
 SUPREME_CARD_IRON_DUST:
   description:
   - '&f更改为生产铁粉末'
-  name: '&b机器卡片: 铁粉末'
+  name: "机器卡片 (铁粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -654,7 +654,7 @@ SUPREME_CARD_IRON_DUST:
 SUPREME_CARD_LAPIS:
   description:
   - '&f更改为生产青金石'
-  name: '&b机器卡片: 青金石'
+  name: "机器卡片 (青金石)"
   stats:
   - '&e基础机器'
   type:
@@ -662,7 +662,7 @@ SUPREME_CARD_LAPIS:
 SUPREME_CARD_LEAD_DUST:
   description:
   - '&f更改为生产铅粉末'
-  name: '&b机器卡片: 铅粉末'
+  name: "机器卡片 (铅粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -670,7 +670,7 @@ SUPREME_CARD_LEAD_DUST:
 SUPREME_CARD_MAGNESIUM_DUST:
   description:
   - '&f更改为生产镁粉末'
-  name: '&b机器卡片: 镁粉末'
+  name: "机器卡片 (镁粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -678,7 +678,7 @@ SUPREME_CARD_MAGNESIUM_DUST:
 SUPREME_CARD_MAGNET:
   description:
   - '&f更改为生产磁铁'
-  name: '&b机器卡片: 磁铁'
+  name: "机器卡片 (磁铁)"
   stats:
   - '&6高级机器'
   type:
@@ -686,7 +686,7 @@ SUPREME_CARD_MAGNET:
 SUPREME_CARD_NETHERITE:
   description:
   - '&f更改为生产下界合金'
-  name: '&b机器卡片: 下界合金'
+  name: "机器卡片 (下界合金)"
   stats:
   - '&6高级机器'
   type:
@@ -694,7 +694,7 @@ SUPREME_CARD_NETHERITE:
 SUPREME_CARD_NETHER_STAR:
   description:
   - '&f更改为生产下界之星'
-  name: '&b机器卡片: 下界之星'
+  name: "机器卡片 (下界之星)"
   stats:
   - '&e基础机器'
   type:
@@ -702,7 +702,7 @@ SUPREME_CARD_NETHER_STAR:
 SUPREME_CARD_NICKEL:
   description:
   - '&f更改为生产镍'
-  name: '&b机器卡片: 镍'
+  name: "机器卡片 (镍)"
   stats:
   - '&a中型机器'
   type:
@@ -710,7 +710,7 @@ SUPREME_CARD_NICKEL:
 SUPREME_CARD_PLASTIC_SHEET:
   description:
   - '&f更改为生产塑料板'
-  name: '&b机器卡片: 塑料板'
+  name: "机器卡片 (塑料板)"
   stats:
   - '&6高级机器'
   type:
@@ -718,7 +718,7 @@ SUPREME_CARD_PLASTIC_SHEET:
 SUPREME_CARD_QUARTZ:
   description:
   - '&f更改为生产石英'
-  name: '&b机器卡片: 石英'
+  name: "机器卡片 (石英)"
   stats:
   - '&e基础机器'
   type:
@@ -726,7 +726,7 @@ SUPREME_CARD_QUARTZ:
 SUPREME_CARD_QUARTZ_BLOCK:
   description:
   - '&f更改为生产石英块'
-  name: '&b机器卡片: 石英块'
+  name: "机器卡片 (石英块)"
   stats:
   - '&e基础机器'
   type:
@@ -734,7 +734,7 @@ SUPREME_CARD_QUARTZ_BLOCK:
 SUPREME_CARD_REDSTONE:
   description:
   - '&f更改为生产红石'
-  name: '&b机器卡片: 红石'
+  name: "机器卡片 (红石)"
   stats:
   - '&e基础机器'
   type:
@@ -742,7 +742,7 @@ SUPREME_CARD_REDSTONE:
 SUPREME_CARD_REDSTONE_ALLOY:
   description:
   - '&f更改为生产红石合金'
-  name: '&b机器卡片: 红石合金'
+  name: "机器卡片 (红石合金)"
   stats:
   - '&6高级机器'
   type:
@@ -750,7 +750,7 @@ SUPREME_CARD_REDSTONE_ALLOY:
 SUPREME_CARD_REINFORCED_ALLOY:
   description:
   - '&f更改为生产强化合金锭'
-  name: '&b机器卡片: 强化合金锭'
+  name: "机器卡片 (强化合金锭)"
   stats:
   - '&6高级机器'
   type:
@@ -758,7 +758,7 @@ SUPREME_CARD_REINFORCED_ALLOY:
 SUPREME_CARD_SAND:
   description:
   - '&f更改为生产沙子'
-  name: '&b机器卡片: 沙子'
+  name: "机器卡片 (沙子)"
   stats:
   - '&e基础机器'
   type:
@@ -766,7 +766,7 @@ SUPREME_CARD_SAND:
 SUPREME_CARD_SILICON:
   description:
   - '&f更改为生产硅'
-  name: '&b机器卡片: 硅'
+  name: "机器卡片 (硅)"
   stats:
   - '&a中型机器'
   type:
@@ -774,7 +774,7 @@ SUPREME_CARD_SILICON:
 SUPREME_CARD_SILVER_DUST:
   description:
   - '&f更改为生产银粉末'
-  name: '&b机器卡片: 银粉末'
+  name: "机器卡片 (银粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -782,7 +782,7 @@ SUPREME_CARD_SILVER_DUST:
 SUPREME_CARD_SLIME_BALL:
   description:
   - '&f更改为生产黏液球'
-  name: '&b机器卡片: 黏液球'
+  name: "机器卡片 (黏液球)"
   stats:
   - '&e基础机器'
   type:
@@ -790,7 +790,7 @@ SUPREME_CARD_SLIME_BALL:
 SUPREME_CARD_SNOW:
   description:
   - '&f更改为生产雪'
-  name: '&b机器卡片: 雪'
+  name: "机器卡片 (雪)"
   stats:
   - '&e基础机器'
   type:
@@ -798,7 +798,7 @@ SUPREME_CARD_SNOW:
 SUPREME_CARD_SOLDER:
   description:
   - '&f更改为生产焊料锭'
-  name: '&b机器卡片: 焊料锭'
+  name: "机器卡片 (焊料锭)"
   stats:
   - '&a中型机器'
   type:
@@ -806,7 +806,7 @@ SUPREME_CARD_SOLDER:
 SUPREME_CARD_STEEL:
   description:
   - '&f更改为生产钢'
-  name: '&b机器卡片: 钢'
+  name: "机器卡片 (钢)"
   stats:
   - '&a中型机器'
   type:
@@ -814,7 +814,7 @@ SUPREME_CARD_STEEL:
 SUPREME_CARD_STONE:
   description:
   - '&f更改为生产石头'
-  name: '&b机器卡片: 石头'
+  name: "机器卡片 (石头)"
   stats:
   - '&e基础机器'
   type:
@@ -822,7 +822,7 @@ SUPREME_CARD_STONE:
 SUPREME_CARD_SULFATE:
   description:
   - '&f更改为生产硫酸盐'
-  name: '&b机器卡片: 硫酸盐'
+  name: "机器卡片 (硫酸盐)"
   stats:
   - '&a中型机器'
   type:
@@ -830,7 +830,7 @@ SUPREME_CARD_SULFATE:
 SUPREME_CARD_SYNTHETIC_DIAMOND:
   description:
   - '&f更改为生产人造钻石'
-  name: '&b机器卡片: 人造钻石'
+  name: "机器卡片 (人造钻石)"
   stats:
   - '&6高级机器'
   type:
@@ -838,7 +838,7 @@ SUPREME_CARD_SYNTHETIC_DIAMOND:
 SUPREME_CARD_SYNTHETIC_EMERALD:
   description:
   - '&f更改为生产人造绿宝石'
-  name: '&b机器卡片: 人造绿宝石'
+  name: "机器卡片 (人造绿宝石)"
   stats:
   - '&6高级机器'
   type:
@@ -846,7 +846,7 @@ SUPREME_CARD_SYNTHETIC_EMERALD:
 SUPREME_CARD_SYNTHETIC_SAPPHIRE:
   description:
   - '&f更改为生产人造蓝宝石'
-  name: '&b机器卡片: 人造蓝宝石'
+  name: "机器卡片 (人造蓝宝石)"
   stats:
   - '&6高级机器'
   type:
@@ -854,7 +854,7 @@ SUPREME_CARD_SYNTHETIC_SAPPHIRE:
 SUPREME_CARD_TIN_DUST:
   description:
   - '&f更改为生产锡粉末'
-  name: '&b机器卡片: 锡粉末'
+  name: "机器卡片 (锡粉末)"
   stats:
   - '&a中型机器'
   type:
@@ -862,7 +862,7 @@ SUPREME_CARD_TIN_DUST:
 SUPREME_CARD_WITHER_ROSE:
   description:
   - '&f更改为生产凋灵玫瑰'
-  name: '&b机器卡片: 凋灵玫瑰'
+  name: "机器卡片 (凋灵玫瑰)"
   stats:
   - '&e基础机器'
   type:
@@ -870,61 +870,61 @@ SUPREME_CARD_WITHER_ROSE:
 SUPREME_CARD_ZINC_DUST:
   description:
   - '&f更改为生产锌粉末'
-  name: '&b机器卡片: 锌粉末'
+  name: "机器卡片 (锌粉末)"
   stats:
   - '&a中型机器'
   type:
   - '&7&o组件'
 SUPREME_CARRIAGE_MACHINE:
-  name: '&a运载机器'
+  name: '运载机器'
   type:
   - '&7&o高级组件'
 SUPREME_CENTER_CARD_ADVANCED:
   description:
   - '&f用于机器生产物品的组件'
-  name: '&a高级卡片组件'
+  name: '高级卡片组件'
   type:
   - '&7&o组件'
 SUPREME_CENTER_CARD_SIMPLE:
   description:
   - '&f用于机器生产物品的组件'
-  name: '&a基础卡片组件'
+  name: '基础卡片组件'
   type:
   - '&7&o组件'
 SUPREME_CENTER_CARD_ULTIMATE:
   description:
   - '&f用于机器生产物品的组件'
-  name: '&a终极卡片组件'
+  name: '终极卡片组件'
   type:
   - '&7&o组件'
 SUPREME_CETRUS_AQUA:
   description:
   - '&7超级阿夸权杖'
-  name: '&a阿夸塞特鲁斯'
+  name: '阿夸塞特鲁斯'
   type:
   - '&7&o魔法组件'
 SUPREME_CETRUS_IGNIS:
   description:
   - '&7超级伊格尼斯权杖'
-  name: '&a伊格尼斯塞特鲁斯'
+  name: '伊格尼斯塞特鲁斯'
   type:
   - '&7&o魔法组件'
 SUPREME_CETRUS_LUMIUM:
   description:
   - '&7超级流明权杖'
-  name: '&a流明塞特鲁斯'
+  name: '流明塞特鲁斯'
   type:
   - '&7&o魔法组件'
 SUPREME_CETRUS_LUX:
   description:
   - '&7超级勒克斯权杖'
-  name: '&a勒克斯塞特鲁斯'
+  name: '勒克斯塞特鲁斯'
   type:
   - '&7&o魔法组件'
 SUPREME_CETRUS_VENTUS:
   description:
   - '&7超级文图斯权杖'
-  name: '&a文图斯塞特鲁斯'
+  name: '文图斯塞特鲁斯'
   type:
   - '&7&o魔法组件'
 SUPREME_CHECK_INVENTORY:
@@ -932,7 +932,7 @@ SUPREME_CHECK_INVENTORY:
   - '&f检查附近箱子中是否有过滤物品'
   - '&f所有朝向都会被检查(取首个匹配)'
   - '&f若找到,此方块会亮起'
-  name: '&b检查物品栏'
+  name: "物品栏检查器"
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -941,441 +941,441 @@ SUPREME_CHECK_INVENTORY:
 SUPREME_CHESTPLATE_EPIC:
   description:
   - '&f&l一件史诗荆棘金胸甲'
-  name: '&d&l史诗胸甲'
+  name: '史诗胸甲'
   type:
   - '&7&o护甲'
 SUPREME_CHESTPLATE_LEGENDARY:
   description:
   - '&f&l一件传说荆棘金胸甲'
-  name: '&6&l传说胸甲'
+  name: '传说胸甲'
   type:
   - '&7&o护甲'
 SUPREME_CHESTPLATE_MAGIC:
   description:
   - '&f&l一件魔法荆棘金胸甲'
-  name: '&a&l魔法胸甲'
+  name: '魔法胸甲'
   type:
   - '&7&o护甲'
 SUPREME_CHESTPLATE_RARE:
   description:
   - '&f&l一件稀有荆棘金胸甲'
-  name: '&b&l稀有胸甲'
+  name: '稀有胸甲'
   type:
   - '&7&o护甲'
 SUPREME_CHESTPLATE_SUPREME:
   description:
   - '&f&l一件至尊荆棘金胸甲'
-  name: '&4&l至尊胸甲'
+  name: '至尊胸甲'
   type:
   - '&7&o护甲'
 SUPREME_CHESTPLATE_THORNIUM:
   description:
   - '&f&l一件荆棘金胸甲'
-  name: '&f&l荆棘金胸甲'
+  name: '荆棘金胸甲'
   type:
   - '&7&o护甲'
 SUPREME_COAL_QUARRY:
-  name: '&e煤炭采石场'
+  name: '煤炭采石场'
   stats:
   - '&6高级机器'
   type:
   - '&7&o机器'
 SUPREME_CONVEYANCE_MACHINE:
-  name: '&a传送机器'
+  name: '传送机器'
   type:
   - '&7&o高级组件'
 SUPREME_CORE_ACACIA_LOG:
   description:
   - '&7超级金合欢'
-  name: '&a至尊金合欢原木'
+  name: '至尊金合欢原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_ANDESITE:
   description:
   - '&7超级安山岩'
-  name: '&a至尊安山岩'
+  name: '至尊安山岩'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_APPLE:
   description:
   - '&7超级苹果'
-  name: '&a至尊苹果'
+  name: '至尊苹果'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_BEEF:
   description:
   - '&7超级牛肉'
-  name: '&a至尊牛肉'
+  name: '至尊牛肉'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_BEETROOT:
   description:
   - '&7超级甜菜根'
-  name: '&a至尊甜菜根'
+  name: '至尊甜菜根'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_BIRCH_LOG:
   description:
   - '&7超级白桦'
-  name: '&a至尊白桦原木'
+  name: '至尊白桦原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_BLACK:
   description:
   - '&7超级黑色'
-  name: '&a至尊黑色'
+  name: '至尊黑色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_BLUE:
   description:
   - '&7超级蓝色'
-  name: '&a至尊蓝色'
+  name: '至尊蓝色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_CARROT:
   description:
   - '&7一根至尊胡萝卜'
-  name: '&a至尊胡萝卜'
+  name: '至尊胡萝卜'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_CHICKEN:
   description:
   - '&7超级鸡肉'
-  name: '&a至尊鸡肉'
+  name: '至尊鸡肉'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_CLAY:
   description:
   - '&7超级黏土'
-  name: '&a至尊黏土'
+  name: '至尊黏土'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_COAL:
   description:
   - '&7超级煤炭'
-  name: '&a至尊煤炭'
+  name: '至尊煤炭'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_COD:
   description:
   - '&7超级鳕鱼'
-  name: '&a至尊鳕鱼'
+  name: '至尊鳕鱼'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_CRIMSON_STEM:
   description:
   - '&7超级绯红'
-  name: '&a至尊绯红菌柄'
+  name: '至尊绯红菌柄'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_CYAN:
   description:
   - '&7超级青色'
-  name: '&a至尊青色'
+  name: '至尊青色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_DARK_OAK_LOG:
   description:
   - '&7超级深色'
-  name: '&a至尊深色橡木原木'
+  name: '至尊深色橡木原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_DIAMOND:
   description:
   - '&7超级钻石'
-  name: '&a至尊钻石'
+  name: '至尊钻石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_DIORITE:
   description:
   - '&7超级闪长岩'
-  name: '&a至尊闪长岩'
+  name: '至尊闪长岩'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_EMERALD:
   description:
   - '&7超级绿宝石'
-  name: '&a至尊绿宝石'
+  name: '至尊绿宝石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_ENDSTONE:
   description:
   - '&7超级末地石'
-  name: '&a至尊末地石'
+  name: '至尊末地石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_GOLD:
   description:
   - '&7超级金'
-  name: '&a至尊金'
+  name: '至尊金'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_GRANITE:
   description:
   - '&7超级花岗岩'
-  name: '&a至尊花岗岩'
+  name: '至尊花岗岩'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_GRAVEL:
   description:
   - '&7超级砂砾'
-  name: '&a至尊砂砾'
+  name: '至尊砂砾'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_GRAY:
   description:
   - '&7超级灰色'
-  name: '&a至尊灰色'
+  name: '至尊灰色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_GREEN:
   description:
   - '&7超级绿色'
-  name: '&a至尊绿色'
+  name: '至尊绿色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_IRON:
   description:
   - '&7超级铁'
-  name: '&a至尊铁'
+  name: '至尊铁'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_JUNGLE_LOG:
   description:
   - '&7超级丛林'
-  name: '&a至尊丛林原木'
+  name: '至尊丛林原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_LAPIS:
   description:
   - '&7超级青金石'
-  name: '&a至尊青金石'
+  name: '至尊青金石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_MELON:
   description:
   - '&7超级西瓜'
-  name: '&a至尊西瓜'
+  name: '至尊西瓜'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_MUTTON:
   description:
   - '&7超级羊肉'
-  name: '&a至尊羊肉'
+  name: '至尊羊肉'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_NETHERITE:
   description:
   - '&7超级下界合金'
-  name: '&a至尊下界合金'
+  name: '至尊下界合金'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_OAK_LOG:
   description:
   - '&7超级橡木'
-  name: '&a至尊橡木原木'
+  name: '至尊橡木原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_OF_ALLOY:
   description:
   - '&7此核心包含多种矿石'
   - '&7它们采集自世界各地。'
-  name: '&a合金核心'
+  name: '合金核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_OF_BLOCK:
   description:
   - '&7此核心包含多种方块'
   - '&7它们采集自世界各地。'
-  name: '&a方块核心'
+  name: '方块核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_OF_COLOR:
   description:
   - '&7此核心包含多种颜色'
   - '&7它们采集自世界各地。'
-  name: '&a色彩核心'
+  name: '色彩核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_OF_DEATH:
   description:
   - '&7此核心包含着 '
   - '&7各种已逝生灵的灵魂。'
-  name: '&a死亡核心'
+  name: '死亡核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_OF_LIFE:
   description:
   - '&7此核心包含生命的碎片'
   - '&7它们由世界收集而来。'
-  name: '&a生命核心'
+  name: '生命核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_OF_NATURE:
   description:
   - '&7此核心包含多种自然'
   - '&7它们采集自世界各地。'
-  name: '&a自然核心'
+  name: '自然核心'
   type:
   - '&7&o魔法组件'
 SUPREME_CORE_PINK:
   description:
   - '&7超级粉色'
-  name: '&a至尊粉色'
+  name: '至尊粉色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_PORKCHOP:
   description:
   - '&7超级培根'
-  name: '&a至尊培根'
+  name: "至尊猪排"
   type:
   - '&7&o核心组件'
 SUPREME_CORE_POTATO:
   description:
   - '&7超级马铃薯'
-  name: '&a至尊马铃薯'
+  name: '至尊马铃薯'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_PUMPKIN:
   description:
   - '&7超级南瓜'
-  name: '&a至尊南瓜'
+  name: '至尊南瓜'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_PURPLE:
   description:
   - '&7超级紫色'
-  name: '&a至尊紫色'
+  name: '至尊紫色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_QUARTZ:
   description:
   - '&7超级石英'
-  name: '&a至尊石英'
+  name: '至尊石英'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_RED:
   description:
   - '&7超级红色'
-  name: '&a至尊红色'
+  name: '至尊红色'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_REDSTONE:
   description:
   - '&7超级红石'
-  name: '&a至尊红石'
+  name: '至尊红石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SALMON:
   description:
   - '&7超级鲑鱼'
-  name: '&a至尊鲑鱼'
+  name: '至尊鲑鱼'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SAND:
   description:
   - '&7超级沙子'
-  name: '&a至尊沙子'
+  name: '至尊沙子'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SNOW:
   description:
   - '&7超级雪'
-  name: '&a至尊雪'
+  name: '至尊雪'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SPIDER_EYE:
   description:
   - '&7超级蜘蛛眼'
-  name: '&a至尊蜘蛛眼'
+  name: '至尊蜘蛛眼'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SPRUCE_LOG:
   description:
   - '&7超级云杉'
-  name: '&a至尊云杉原木'
+  name: '至尊云杉原木'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_STONE:
   description:
   - '&7超级圆石'
-  name: '&a至尊圆石'
+  name: '至尊圆石'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_STRING:
   description:
   - '&7超级拴绳'
-  name: '&a至尊拴绳'
+  name: "至尊线"
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SUGAR_CANE:
   description:
   - '&7超级甘蔗'
-  name: '&a至尊甘蔗'
+  name: '至尊甘蔗'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_SWEET_BERRIES:
   description:
   - '&7超级浆果'
-  name: '&a至尊甜浆果'
+  name: '至尊甜浆果'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_TEAR:
   description:
   - '&7超级眼泪'
-  name: '&a至尊眼泪'
+  name: "至尊恶魂之泪"
   type:
   - '&7&o核心组件'
 SUPREME_CORE_WARPED_STEM:
   description:
   - '&7超级诡异'
-  name: '&a至尊诡异菌柄'
+  name: '至尊诡异菌柄'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_WHEAT:
   description:
   - '&7超级小麦'
-  name: '&a至尊小麦'
+  name: '至尊小麦'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_WITHER_ROSE:
   description:
   - '&7超级玫瑰'
-  name: '&a至尊凋灵玫瑰'
+  name: '至尊凋灵玫瑰'
   type:
   - '&7&o核心组件'
 SUPREME_CORE_YELLOW:
   description:
   - '&7超级黄色'
-  name: '&a至尊黄色'
+  name: '至尊黄色'
   type:
   - '&7&o核心组件'
 SUPREME_CRYSTALLIZER_MACHINE:
-  name: '&a结晶机器'
+  name: '结晶机器'
   type:
   - '&7&o高级组件'
 SUPREME_DIAMOND_QUARRY:
-  name: '&e钻石采石场'
+  name: '钻石采石场'
   stats:
   - '&6高级机器'
   type:
   - '&7&o机器'
 SUPREME_DUST_AMETHYST:
-  name: '&a紫水晶粉末'
+  name: '紫水晶粉末'
   type:
   - '&7&o组件'
 SUPREME_DUST_GLOW_INK:
-  name: '&a荧光墨粉末'
+  name: '荧光墨粉末'
   type:
   - '&7&o组件'
 SUPREME_DUST_NETHERITE:
-  name: '&a下界合金粉末'
+  name: '下界合金粉末'
   type:
   - '&7&o组件'
 SUPREME_ELECTRIC_CORE_I:
   description:
   - '&f合成核心资源'
-  name: '&b电力核心机器'
+  name: '电力核心机器'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1384,7 +1384,7 @@ SUPREME_ELECTRIC_CORE_I:
 SUPREME_ELECTRIC_CORE_II:
   description:
   - '&f高级合成核心资源'
-  name: '&b电力核心机器 II'
+  name: '电力核心机器 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1393,7 +1393,7 @@ SUPREME_ELECTRIC_CORE_II:
 SUPREME_ELECTRIC_CORE_III:
   description:
   - '&f高级合成核心资源'
-  name: '&b电力核心机器 III'
+  name: '电力核心机器 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -1402,7 +1402,7 @@ SUPREME_ELECTRIC_CORE_III:
 SUPREME_ELECTRIC_CRAFTER_I:
   description:
   - '&f合成物品'
-  name: '&b电力合成机'
+  name: '电力合成机'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1411,7 +1411,7 @@ SUPREME_ELECTRIC_CRAFTER_I:
 SUPREME_ELECTRIC_CRAFTER_II:
   description:
   - '&f高级合成物品'
-  name: '&b电力合成机 II'
+  name: '电力合成机 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1420,7 +1420,7 @@ SUPREME_ELECTRIC_CRAFTER_II:
 SUPREME_ELECTRIC_CRAFTER_III:
   description:
   - '&f高级合成物品'
-  name: '&b电力合成机 III'
+  name: '电力合成机 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -1429,7 +1429,7 @@ SUPREME_ELECTRIC_CRAFTER_III:
 SUPREME_ELECTRIC_GEAR_I:
   description:
   - '&f合成装备等级'
-  name: '&b电力装备机器'
+  name: '电力装备机器'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1438,7 +1438,7 @@ SUPREME_ELECTRIC_GEAR_I:
 SUPREME_ELECTRIC_GEAR_II:
   description:
   - '&f高级合成装备等级'
-  name: '&b电力装备机器 II'
+  name: '电力装备机器 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1447,20 +1447,20 @@ SUPREME_ELECTRIC_GEAR_II:
 SUPREME_ELECTRIC_GEAR_III:
   description:
   - '&f高级合成装备等级'
-  name: '&b电力装备机器 III'
+  name: '电力装备机器 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
   type:
   - '&7&o机器'
 SUPREME_ELECTRIC_ITEM:
-  name: 电力物品
+  name: "电力"
   type:
   - '&7&o杂项'
 SUPREME_ELECTRIC_MAGICAL_I:
   description:
   - '&f合成魔法资源'
-  name: '&b电力魔法机器'
+  name: '电力魔法机器'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1469,7 +1469,7 @@ SUPREME_ELECTRIC_MAGICAL_I:
 SUPREME_ELECTRIC_MAGICAL_II:
   description:
   - '&f高级合成魔法资源'
-  name: '&b电力魔法机器 II'
+  name: '电力魔法机器 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1478,21 +1478,21 @@ SUPREME_ELECTRIC_MAGICAL_II:
 SUPREME_ELECTRIC_MAGICAL_III:
   description:
   - '&f高级合成魔法资源'
-  name: '&b电力魔法机器 III'
+  name: '电力魔法机器 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
   type:
   - '&7&o机器'
 SUPREME_EMPTY_MOBTECH:
-  name: '&a空生物科技'
+  name: '空生物科技'
   type:
   - '&7&o组件'
 SUPREME_FORGE_INGOT_I:
   description:
   - '&f此机器允许你'
   - '&f锻造锭类资源。'
-  name: '&b锻造锭'
+  name: '锻造锭'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1504,7 +1504,7 @@ SUPREME_FORGE_INGOT_II:
   description:
   - '&f此机器允许你'
   - '&f锻造锭类资源。'
-  name: '&b锻造锭 II'
+  name: '锻造锭 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1516,7 +1516,7 @@ SUPREME_FORGE_INGOT_III:
   description:
   - '&f此机器允许你'
   - '&f锻造锭类资源。'
-  name: '&b锻造锭 III'
+  name: '锻造锭 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -1528,7 +1528,7 @@ SUPREME_FORGE_MAGICAL_I:
   description:
   - '&f此机器允许你'
   - '&f锻造魔法资源。'
-  name: '&b锻造魔法'
+  name: '锻造魔法'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1540,7 +1540,7 @@ SUPREME_FORGE_MAGICAL_II:
   description:
   - '&f此机器允许你'
   - '&f锻造魔法资源。'
-  name: '&b锻造魔法 II'
+  name: '锻造魔法 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1552,7 +1552,7 @@ SUPREME_FORGE_MAGICAL_III:
   description:
   - '&f此机器允许你'
   - '&f锻造魔法资源。'
-  name: '&b锻造魔法 III'
+  name: '锻造魔法 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -1563,7 +1563,7 @@ SUPREME_FORGE_MAGICAL_III:
 SUPREME_FOUNDRY_I:
   description:
   - '&f铸造与合成器物品'
-  name: '&b铸造厂'
+  name: '铸造厂'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1572,7 +1572,7 @@ SUPREME_FOUNDRY_I:
 SUPREME_FOUNDRY_II:
   description:
   - '&f高级铸造与合成器物品'
-  name: '&b铸造厂 II'
+  name: '铸造厂 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1581,44 +1581,44 @@ SUPREME_FOUNDRY_II:
 SUPREME_FOUNDRY_III:
   description:
   - '&f高级铸造与合成器物品'
-  name: '&b铸造厂 III'
+  name: '铸造厂 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
   type:
   - '&7&o机器'
 SUPREME_GENERATOR_MOB_ADVANCED:
-  name: '&b高级生物发电机'
+  name: '高级生物发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_GENERATOR_MOB_BASIC:
-  name: '&b基础生物发电机'
+  name: '基础生物发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_GENERATOR_MOB_MEDIUM:
-  name: '&b中型生物发电机'
+  name: '中型生物发电机'
   stats:
   - '&e基础发电机'
   type:
   - '&7&o机器'
 SUPREME_GENE_BERSERK:
-  name: '&a狂暴基因'
+  name: '狂暴基因'
   type:
   - '&7&o组件'
 SUPREME_GENE_INTELLIGENCE:
-  name: '&f智慧基因'
+  name: '智慧基因'
   type:
   - '&7&o组件'
 SUPREME_GENE_LUCK:
-  name: '&a幸运基因'
+  name: '幸运基因'
   type:
   - '&7&o组件'
 SUPREME_GOLD_QUARRY:
-  name: '&e金采石场'
+  name: '金采石场'
   stats:
   - '&6高级机器'
   type:
@@ -1626,59 +1626,59 @@ SUPREME_GOLD_QUARRY:
 SUPREME_HELMET_EPIC:
   description:
   - '&f&l一顶史诗荆棘金头盔'
-  name: '&d&l史诗头盔'
+  name: '史诗头盔'
   type:
   - '&7&o护甲'
 SUPREME_HELMET_LEGENDARY:
   description:
   - '&f&l一顶传说荆棘金头盔'
-  name: '&6&l传说头盔'
+  name: '传说头盔'
   type:
   - '&7&o护甲'
 SUPREME_HELMET_MAGIC:
   description:
   - '&f&l一顶魔法荆棘金头盔'
-  name: '&a&l魔法头盔'
+  name: '魔法头盔'
   type:
   - '&7&o护甲'
 SUPREME_HELMET_RARE:
   description:
   - '&f&l一顶稀有荆棘金头盔'
-  name: '&b&l稀有头盔'
+  name: '稀有头盔'
   type:
   - '&7&o护甲'
 SUPREME_HELMET_SUPREME:
   description:
   - '&f&l一顶至尊荆棘金头盔'
-  name: '&4&l至尊头盔'
+  name: '至尊头盔'
   type:
   - '&7&o护甲'
 SUPREME_HELMET_THORNIUM:
   description:
   - '&f&l一顶荆棘金头盔'
-  name: '&f&l荆棘金头盔'
+  name: '荆棘金头盔'
   type:
   - '&7&o护甲'
 SUPREME_IGNIS_GENERATOR:
-  name: '&9伊格尼斯发电机'
+  name: '伊格尼斯发电机'
   stats:
   - '&6高级发电机'
   type:
   - '&7&o机器'
 SUPREME_INDUCTIVE_MACHINE:
-  name: '&a感应机器'
+  name: '感应机器'
   type:
   - '&7&o高级组件'
 SUPREME_INDUCTOR_MACHINE:
-  name: '&a电感机器'
+  name: '电感机器'
   type:
   - '&7&o高级组件'
 SUPREME_IRIDIUM_PLATE:
-  name: '&a铱板'
+  name: '铱板'
   type:
   - '&7&o组件'
 SUPREME_IRON_QUARRY:
-  name: '&e铁采石场'
+  name: '铁采石场'
   stats:
   - '&6高级机器'
   type:
@@ -1686,47 +1686,47 @@ SUPREME_IRON_QUARRY:
 SUPREME_LEGGINGS_EPIC:
   description:
   - '&f&l一条史诗荆棘金护腿'
-  name: '&d&l史诗护腿'
+  name: '史诗护腿'
   type:
   - '&7&o护甲'
 SUPREME_LEGGINGS_LEGENDARY:
   description:
   - '&f&l一条传说荆棘金护腿'
-  name: '&6&l传说护腿'
+  name: '传说护腿'
   type:
   - '&7&o护甲'
 SUPREME_LEGGINGS_MAGIC:
   description:
   - '&f&l一条魔法荆棘金护腿'
-  name: '&a&l魔法护腿'
+  name: '魔法护腿'
   type:
   - '&7&o护甲'
 SUPREME_LEGGINGS_RARE:
   description:
   - '&f&l一条稀有荆棘金护腿'
-  name: '&b&l稀有护腿'
+  name: '稀有护腿'
   type:
   - '&7&o护甲'
 SUPREME_LEGGINGS_SUPREME:
   description:
   - '&f&l一条至尊荆棘金护腿'
-  name: '&4&l至尊护腿'
+  name: '至尊护腿'
   type:
   - '&7&o护甲'
 SUPREME_LEGGINGS_THORNIUM:
   description:
   - '&f&l一条荆棘金护腿'
-  name: '&f&l荆棘金护腿'
+  name: '荆棘金护腿'
   type:
   - '&7&o护甲'
 SUPREME_LUMIUM_GENERATOR:
-  name: '&9流明发电机'
+  name: '流明发电机'
   stats:
   - '&6高级发电机'
   type:
   - '&7&o机器'
 SUPREME_LUX_GENERATOR:
-  name: '&9勒克斯发电机'
+  name: '勒克斯发电机'
   stats:
   - '&6高级发电机'
   type:
@@ -1734,7 +1734,7 @@ SUPREME_LUX_GENERATOR:
 SUPREME_MAGIC_ALTAR_I:
   description:
   - '&f合成符文与魔法物品'
-  name: '&b魔法祭坛'
+  name: '魔法祭坛'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1743,7 +1743,7 @@ SUPREME_MAGIC_ALTAR_I:
 SUPREME_MAGIC_ALTAR_II:
   description:
   - '&f高级合成符文与魔法物品'
-  name: '&b魔法祭坛 II'
+  name: '魔法祭坛 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1752,25 +1752,25 @@ SUPREME_MAGIC_ALTAR_II:
 SUPREME_MAGIC_ALTAR_III:
   description:
   - '&f高级合成符文与魔法物品'
-  name: '&b魔法祭坛 III'
+  name: '魔法祭坛 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
   type:
   - '&7&o机器'
 SUPREME_MAIN_ITEM:
-  name: 主物品
+  name: "Supreme"
   type:
   - '&7&o杂项'
 SUPREME_MANGANESE_PLATE:
-  name: '&a锰板'
+  name: '锰板'
   type:
   - '&7&o组件'
 SUPREME_MOB_COLLECTOR_MACHINE_I:
   description:
   - '&f此机器允许你收集 '
   - '&f附近生物的物品。(4 方块)'
-  name: '&b生物收集器'
+  name: '生物收集器'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1782,7 +1782,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_II:
   description:
   - '&f此机器允许你收集'
   - '&f 附近生物的物品。(8 方块)'
-  name: '&b生物收集器 II'
+  name: '生物收集器 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -1794,7 +1794,7 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   description:
   - '&f此机器允许你收集'
   - '&f 附近生物的物品。(16 方块)'
-  name: '&b生物收集器 III'
+  name: '生物收集器 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -1803,19 +1803,19 @@ SUPREME_MOB_COLLECTOR_MACHINE_III:
   type:
   - '&7&o机器'
 SUPREME_MOB_COLLECTOR_TOOL_I:
-  name: '&6生物科技收集器 I'
+  name: "生物科技收集器 I (工具)"
   stats:
   - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
   - '&7&o工具'
 SUPREME_MOB_COLLECTOR_TOOL_II:
-  name: '&6生物科技收集器 II'
+  name: "生物科技收集器 II (工具)"
   stats:
   - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
   - '&7&o工具'
 SUPREME_MOB_COLLECTOR_TOOL_III:
-  name: '&6生物科技收集器 III'
+  name: "生物科技收集器 III (工具)"
   stats:
   - '&8⇨ &e⚡ &7每次使用 50 J'
   type:
@@ -1824,7 +1824,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_II:
   description:
   - '&f此机器允许你收集 '
   - '&f获取附近生物的生物科技头颅。(6 方块)'
-  name: '&b生物科技收集器 II'
+  name: '生物科技收集器 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1836,7 +1836,7 @@ SUPREME_MOB_TECH_COLLECTOR_MACHINE_III:
   description:
   - '&f此机器允许你收集 '
   - '&f获取附近生物的生物科技头颅。(9 方块)'
-  name: '&b生物科技收集器 III'
+  name: '生物科技收集器 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -1848,149 +1848,149 @@ SUPREME_MULTIBLOCK_CORE:
   description:
   - '&7&o你可以在这里合成核心!'
   - '&a多方块机器'
-  name: '&e核心制造台'
+  name: '核心制造台'
   type:
   - '&7&o机器'
 SUPREME_MULTIBLOCK_GEAR:
   description:
   - '&7&o你可以在这里合成武器、盔甲和工具!'
   - '&a多方块机器'
-  name: '&e装备制造台'
+  name: '装备制造台'
   type:
   - '&7&o机器'
 SUPREME_MULTIBLOCK_MAGICAL:
   description:
   - '&7&o你可以在这里合成魔法物品!'
   - '&a多方块机器'
-  name: '&e魔法制造台'
+  name: '魔法制造台'
   type:
   - '&7&o机器'
 SUPREME_PETRIFIER_MACHINE:
-  name: '&a石化机器'
+  name: '石化机器'
   type:
   - '&7&o高级组件'
 SUPREME_PICKAXE_EPIC:
   description:
   - '&f&l一把史诗荆棘金镐'
-  name: '&d&l史诗镐'
+  name: '史诗镐'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_LEGENDARY:
   description:
   - '&f&l一把传说荆棘金镐'
-  name: '&6&l传说镐'
+  name: '传说镐'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_MAGIC:
   description:
   - '&f&l一把魔法荆棘金镐'
-  name: '&a&l魔法镐'
+  name: '魔法镐'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_RARE:
   description:
   - '&f&l一把稀有荆棘金镐'
-  name: '&b&l稀有镐'
+  name: '稀有镐'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_SUPREME:
   description:
   - '&f&l一把至尊荆棘金镐'
-  name: '&4&l至尊镐'
+  name: '至尊镐'
   type:
   - '&7&o工具'
 SUPREME_PICKAXE_THORNIUM:
   description:
   - '&f&l一把荆棘金镐'
-  name: '&f&l荆棘金镐'
+  name: '荆棘金镐'
   type:
   - '&7&o工具'
 SUPREME_PLATINUM_PLATE:
-  name: '&a铂板'
+  name: '铂板'
   type:
   - '&7&o组件'
 SUPREME_RUSTLESS_MACHINE:
-  name: '&a防锈机器'
+  name: '防锈机器'
   type:
   - '&7&o高级组件'
 SUPREME_SHIELD_EPIC:
   description:
   - '&f&l一面史诗荆棘金盾牌'
-  name: '&d&l史诗盾牌'
+  name: '史诗盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_LEGENDARY:
   description:
   - '&f&l一面传说荆棘金盾牌'
-  name: '&6&l传说盾牌'
+  name: '传说盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_MAGIC:
   description:
   - '&f&l一面魔法荆棘金盾牌'
-  name: '&a&l魔法盾牌'
+  name: '魔法盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_RARE:
   description:
   - '&f&l一面稀有荆棘金盾牌'
-  name: '&b&l稀有盾牌'
+  name: '稀有盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_SUPREME:
   description:
   - '&f&l一面至尊荆棘金盾牌'
-  name: '&4&l至尊盾牌'
+  name: '至尊盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHIELD_THORNIUM:
   description:
   - '&f&l一面荆棘金盾牌'
-  name: '&f&l荆棘金盾牌'
+  name: '荆棘金盾牌'
   type:
   - '&7&o武器'
 SUPREME_SHOVEL_EPIC:
   description:
   - '&f&l一把史诗荆棘金锹'
-  name: '&d&l史诗锹'
+  name: '史诗锹'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_LEGENDARY:
   description:
   - '&f&l一把传说荆棘金锹'
-  name: '&6&l传说锹'
+  name: '传说锹'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_MAGIC:
   description:
   - '&f&l一把魔法荆棘金锹'
-  name: '&a&l魔法锹'
+  name: '魔法锹'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_RARE:
   description:
   - '&f&l一把稀有荆棘金锹'
-  name: '&b&l稀有锹'
+  name: '稀有锹'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_SUPREME:
   description:
   - '&f&l一把至尊荆棘金锹'
-  name: '&4&l至尊锹'
+  name: '至尊锹'
   type:
   - '&7&o工具'
 SUPREME_SHOVEL_THORNIUM:
   description:
   - '&f&l一把荆棘金锹'
-  name: '&f&l荆棘金锹'
+  name: '荆棘金锹'
   type:
   - '&7&o工具'
 SUPREME_STAINLESS_MACHINE:
-  name: '&a不锈机器'
+  name: '不锈机器'
   type:
   - '&7&o高级组件'
 SUPREME_STONE_QUARRY:
-  name: '&e石头采石场'
+  name: '石头采石场'
   stats:
   - '&a中型机器'
   type:
@@ -1998,18 +1998,18 @@ SUPREME_STONE_QUARRY:
 SUPREME_SUPREME:
   description:
   - '&7至尊之物'
-  name: '&a至尊'
+  name: '至尊'
   type:
   - '&7&o终局组件'
 SUPREME_SUPREME_CAPACITOR:
-  name: '&9至尊电容器'
+  name: '至尊电容器'
   stats:
   - '&4后期电容器'
   - '&8⇨ &e⚡ &7无限 J 容量'
   type:
   - '&7&o机器'
 SUPREME_SUPREME_GENERATOR:
-  name: '&9至尊发电机'
+  name: '至尊发电机'
   stats:
   - '&4后期发电机'
   type:
@@ -2017,11 +2017,11 @@ SUPREME_SUPREME_GENERATOR:
 SUPREME_SUPREME_NUGGET:
   description:
   - '&7来自至尊粒采石场'
-  name: '&a至尊粒'
+  name: '至尊粒'
   type:
   - '&7&o终局组件'
 SUPREME_SUPREME_NUGGETS_QUARRY:
-  name: '&e至尊粒采石场'
+  name: '至尊粒采石场'
   stats:
   - '&6高级机器'
   type:
@@ -2029,52 +2029,52 @@ SUPREME_SUPREME_NUGGETS_QUARRY:
 SUPREME_SWORD_EPIC:
   description:
   - '&f&l一把史诗荆棘金剑'
-  name: '&d&l史诗剑'
+  name: '史诗剑'
   type:
   - '&7&o武器'
 SUPREME_SWORD_LEGENDARY:
   description:
   - '&f&l一把传说荆棘金剑'
-  name: '&6&l传说剑'
+  name: '传说剑'
   type:
   - '&7&o武器'
 SUPREME_SWORD_MAGIC:
   description:
   - '&f&l一把魔法荆棘金剑'
-  name: '&a&l魔法剑'
+  name: '魔法剑'
   type:
   - '&7&o武器'
 SUPREME_SWORD_RARE:
   description:
   - '&f&l一把稀有荆棘金剑'
-  name: '&b&l稀有剑'
+  name: '稀有剑'
   type:
   - '&7&o武器'
 SUPREME_SWORD_SUPREME:
   description:
   - '&f&l一把至尊荆棘金剑'
-  name: '&4&l至尊剑'
+  name: '至尊剑'
   type:
   - '&7&o武器'
 SUPREME_SWORD_THORNIUM:
   description:
   - '&f&l一把荆棘金剑'
-  name: '&f&l荆棘金剑'
+  name: '荆棘金剑'
   type:
   - '&7&o武器'
 SUPREME_SYNTHETIC_AMETHYST:
-  name: '&a人造紫水晶'
+  name: '人造紫水晶'
   type:
   - '&7&o组件'
 SUPREME_SYNTHETIC_RUBY:
-  name: '&a人造红宝石'
+  name: '人造红宝石'
   type:
   - '&7&o组件'
 SUPREME_TECH_GENERATOR:
   description:
   - '&f使用电力与蜜蜂/傀儡/僵尸, '
   - '&f缓慢产生材料。'
-  name: '&b科技发电机'
+  name: '科技发电机'
   stats:
   - '&4后期机器'
   type:
@@ -2083,7 +2083,7 @@ SUPREME_TECH_MUTATION_I:
   description:
   - '&f使用变异发电机 '
   - '&f以进阶到更高级别'
-  name: '&b科技变异'
+  name: '科技变异'
   stats:
   - '&4后期机器'
   type:
@@ -2093,7 +2093,7 @@ SUPREME_TECH_MUTATION_II:
   - '&f使用变异发电机 '
   - '&f以进阶到更高级别'
   - '&f几率系数提升 2x'
-  name: '&b科技变异 II'
+  name: '科技变异 II'
   stats:
   - '&4后期机器'
   type:
@@ -2103,7 +2103,7 @@ SUPREME_TECH_MUTATION_III:
   - '&f使用变异发电机 '
   - '&f以进阶到更高级别'
   - '&f几率系数提升 4x'
-  name: '&b科技变异 III'
+  name: '科技变异 III'
   stats:
   - '&4后期机器'
   type:
@@ -2113,7 +2113,7 @@ SUPREME_TECH_ROBOTIC:
   - '&f使用初级机器人 '
   - '&f以进阶到更高级别'
   - '&f需要 64x 才能升级'
-  name: '&b科技机器人'
+  name: '科技机器人'
   stats:
   - '&4后期机器'
   type:
@@ -2123,7 +2123,7 @@ SUPREME_TECH_ROBOTIC_II:
   - '&f使用初级机器人 '
   - '&f以进阶到更高级别'
   - '&f需要 32x 才能升级'
-  name: '&b科技机器人 II'
+  name: '科技机器人 II'
   stats:
   - '&4后期机器'
   type:
@@ -2133,29 +2133,29 @@ SUPREME_TECH_ROBOTIC_III:
   - '&f使用初级机器人 '
   - '&f以进阶到更高级别'
   - '&f需要 16x 才能升级'
-  name: '&b科技机器人 III'
+  name: '科技机器人 III'
   stats:
   - '&4后期机器'
   type:
   - '&7&o机器'
 SUPREME_THORNERITE:
-  name: '&a荆棘岩'
+  name: '荆棘岩'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_BIT:
   description:
   - '&7来自荆棘金采石场'
-  name: '&a荆棘金碎块'
+  name: '荆棘金碎块'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_BIT_SYNTHETIC:
   description:
   - '&7来自荆棘金碎块'
-  name: '&a人造荆棘金碎块'
+  name: '人造荆棘金碎块'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_CAPACITOR:
-  name: '&9荆棘金电容器'
+  name: '荆棘金电容器'
   stats:
   - '&4后期电容器'
   - '&8⇨ &e⚡ &7100,000,000.00 J 容量'
@@ -2164,29 +2164,29 @@ SUPREME_THORNIUM_CAPACITOR:
 SUPREME_THORNIUM_CARBONADO:
   description:
   - '&7来自荆棘金锭'
-  name: '&a荆棘金黑金刚石'
+  name: '荆棘金黑金刚石'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_DUST:
   description:
   - '&7来自荆棘金碎块'
-  name: '&a荆棘金粉末'
+  name: '荆棘金粉末'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_DUST_SYNTHETIC:
   description:
   - '&7来自荆棘金粉末'
-  name: '&a人造荆棘金粉末'
+  name: '人造荆棘金粉末'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_ENERGIZED:
   description:
   - '&7来自荆棘金锭'
-  name: '&a充能荆棘金'
+  name: '充能荆棘金'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_GENERATOR:
-  name: '&9荆棘金发电机'
+  name: '荆棘金发电机'
   stats:
   - '&4后期发电机'
   type:
@@ -2194,17 +2194,17 @@ SUPREME_THORNIUM_GENERATOR:
 SUPREME_THORNIUM_INGOT:
   description:
   - '&7来自荆棘金粉末'
-  name: '&a荆棘金锭'
+  name: '荆棘金锭'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_INGOT_SYNTHETIC:
   description:
   - '&7来自荆棘金锭'
-  name: '&a人造荆棘金锭'
+  name: '人造荆棘金锭'
   type:
   - '&7&o终局组件'
 SUPREME_THORNIUM_QUARRY:
-  name: '&e荆棘金采石场'
+  name: '荆棘金采石场'
   stats:
   - '&6高级机器'
   type:
@@ -2212,17 +2212,17 @@ SUPREME_THORNIUM_QUARRY:
 SUPREME_TITANIUM_AXE:
   description:
   - '&f&l一把钛斧'
-  name: '&f&l钛斧'
+  name: '钛斧'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_BOOTS:
   description:
   - '&f&l一双钛靴子'
-  name: '&f&l钛靴子'
+  name: '钛靴子'
   type:
   - '&7&o护甲'
 SUPREME_TITANIUM_CAPACITOR:
-  name: '&9钛电容器'
+  name: '钛电容器'
   stats:
   - '&6高级电容器'
   - '&8⇨ &e⚡ &74,000,000.00 J 容量'
@@ -2231,45 +2231,45 @@ SUPREME_TITANIUM_CAPACITOR:
 SUPREME_TITANIUM_CHESTPLATE:
   description:
   - '&f&l一件钛胸甲'
-  name: '&f&l钛胸甲'
+  name: '钛胸甲'
   type:
   - '&7&o护甲'
 SUPREME_TITANIUM_HELMET:
   description:
   - '&f&l一顶钛头盔'
-  name: '&f&l钛头盔'
+  name: '钛头盔'
   type:
   - '&7&o护甲'
 SUPREME_TITANIUM_LEGGINGS:
   description:
   - '&f&l一条钛护腿'
-  name: '&f&l钛护腿'
+  name: '钛护腿'
   type:
   - '&7&o护甲'
 SUPREME_TITANIUM_PICKAXE:
   description:
   - '&f&l一把钛镐'
-  name: '&f&l钛镐'
+  name: '钛镐'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_PLATE:
-  name: '&a钛板'
+  name: '钛板'
   type:
   - '&7&o组件'
 SUPREME_TITANIUM_SHOVEL:
   description:
   - '&f&l一把钛锹'
-  name: '&f&l钛锹'
+  name: '钛锹'
   type:
   - '&7&o工具'
 SUPREME_TITANIUM_SWORD:
   description:
   - '&f&l一把钛剑'
-  name: '&f&l钛剑'
+  name: '钛剑'
   type:
   - '&7&o武器'
 SUPREME_VENTUS_GENERATOR:
-  name: '&9文图斯发电机'
+  name: '文图斯发电机'
   stats:
   - '&e基础发电机'
   type:
@@ -2278,7 +2278,7 @@ SUPREME_VIRTUAL_AQUARIUM_I:
   description:
   - '&f此机器允许你收集 '
   - '&f 在海中采集到的物品。'
-  name: '&b虚拟水族箱'
+  name: '虚拟水族箱'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -2290,7 +2290,7 @@ SUPREME_VIRTUAL_AQUARIUM_II:
   description:
   - '&f此机器允许你收集'
   - '&f 在海中采集到的物品。'
-  name: '&b虚拟水族箱 II'
+  name: '虚拟水族箱 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -2302,7 +2302,7 @@ SUPREME_VIRTUAL_AQUARIUM_III:
   description:
   - '&f此机器允许你收集'
   - '&f 在海中采集到的物品。'
-  name: '&b虚拟水族箱 III'
+  name: '虚拟水族箱 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -2314,7 +2314,7 @@ SUPREME_VIRTUAL_GARDEN_I:
   description:
   - '&f此机器允许你'
   - '&f培育一些资源。'
-  name: '&b虚拟花园'
+  name: '虚拟花园'
   stats:
   - '&6高级机器'
   - '&8⇨ &b⚡ &7速度: &b1.0x'
@@ -2326,7 +2326,7 @@ SUPREME_VIRTUAL_GARDEN_II:
   description:
   - '&f此机器允许你'
   - '&f培育一些资源。'
-  name: '&b虚拟花园 II'
+  name: '虚拟花园 II'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b5.0x'
@@ -2338,7 +2338,7 @@ SUPREME_VIRTUAL_GARDEN_III:
   description:
   - '&f此机器允许你'
   - '&f培育一些资源。'
-  name: '&b虚拟花园 III'
+  name: '虚拟花园 III'
   stats:
   - '&4后期机器'
   - '&8⇨ &b⚡ &7速度: &b15.0x'
@@ -2347,6 +2347,6 @@ SUPREME_VIRTUAL_GARDEN_III:
   type:
   - '&7&o机器'
 SUPREME_ZIRCONIUM_PLATE:
-  name: '&a锆板'
+  name: '锆板'
   type:
   - '&7&o组件'
